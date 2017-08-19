@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Introduction and Purpose
 ---
 ##Introduction and Purpose
