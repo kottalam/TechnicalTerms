@@ -5,7 +5,7 @@
 
 Jeyapandian Kottalam
 
-[குறிக்கோளும் செய்முறைகளும் Purpose and Methods](Purpose-and-Methods.md)
+[குறிக்கோளும் செய்முறைகளும் Purpose and Methods](Purpose-and-Methods.html)
 
 [Agarathi](English-Tamil.md)
 
