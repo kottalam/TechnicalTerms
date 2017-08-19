@@ -1,12 +1,9 @@
-## அறிவியல் தொழில்நுட்ப இலக்கியங்களைத் தமிழாக்குவதற்கான ஒரு கையேடு
 #### A handbook for translating scientific and technical literature to Tamil
 
-ஜெயபாண்டியன் கோட்டாளம்
-
-Jeyapandian Kottalam
+by Jeyapandian Kottalam
 
 [குறிக்கோளும் செய்முறைகளும் Purpose and Methods](Purpose-and-Methods.md)
 
-[Agarathi](English-Tamil.md)
+[ஆங்கிலத்திலிருந்து தமிழ் அகராதி English to Tamil Agarathi](English-Tamil.md)
 
 
