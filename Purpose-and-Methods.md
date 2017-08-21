@@ -1,41 +1,19 @@
 ---
 ---
 [Home](README.md)
-## Introduction and Purpose
+## முன்னுரையும் குறிக்கோளும் Introduction and Purpose
+அறிவியல் தொழில்நுட்ப இலக்கியங்களைத் தமிழில் எழுதுவதிலும் மொழிபெயர்ப்பதிலும் உள்ள ஒரு பெரும் இடர்ப்பாடு என்னவென்றால், அதற்குத் தேவையான கலைச்சொற்கள் இல்லாததாகும். கலைச்சொல் இல்லாத ஒரு கருத்துருவுக்குப் பல எழுத்தாளர்களும் அவரவர் உடனடித் தேவைக்குத் தக்கவாறு பலவிதமாகக் கலைச்சொற்களை உருவாக்குகின்றனர். அவ்வாறு உருவாகும் கலைச்சொற்கள் ஒரே சீரான நடையைப் பின்பற்றி அமைவதில்லை. அவற்றுள் சில செந்தமிழ்ச் சொற்களாகவும், சில கலப்புமொழிச் சொற்களாகவும், வேறு சில ஆங்கிலச் சொற்களாவும் அமைகின்றன. எல்லா எழுத்தாளர்களும் ஒரேசீராக எழுத வேண்டுமானாலும், ஒன்றுடனொன்று இயைபுடைய அறிவியல் நூல்கள் தமிழில் தோன்ற வேண்டுமானாலும், அனைத்துக் கலைச்சொற்களும் அடங்கிய ஒரு பட்டியலை உருவாக்கி அனைவரும் அந்தப் பட்டியலையே பயன்படுத்துவதான ஒரு மரபைத் தமிழ் எழுத்தாளர்கள் ஏற்க வேண்டும். அவ்வாறான ஒரு பட்டியலை உருவாக்கி அறிஞர்களிடம் முன்வைப்பதே இம்முயற்சியின் நோக்கம்.
 
-The lack of technical terminology in Tamil is a significant impediment to writing and translating 
-scientific and technological literature. For a concept lacking a technical term, different authors
-create different terms to suit their immediate needs. The technical terms created this way do not
-follow a uniform style. Some of them happen to be ஜ ந்தமிழ் words, some of mixed origin, and
-some others English words. If all authors were to follow a uniform terminology, and if scientific
-books consistent with each other were to appear in Tamil, we should create a list containing all
-technical terms and writers should adopt a convention to use the same list. The purpose of this
-work is to create such a list and submit to scholars as a proposal.
+The lack of technical terminology in Tamil is a significant impediment to writing and translating scientific and technological literature. For a concept lacking a technical term, different authors create different terms to suit their immediate needs. The technical terms created this way do not follow a uniform style. Some of them happen to be செந்தமிழ் words, some of mixed origin, and some others English words. If all authors were to follow a uniform terminology, and if scientific books consistent with each other were to appear in Tamil, we should create a list containing all technical terms and writers should adopt a convention to use the same list. The purpose of this work is to create such a list and submit to scholars as a proposal.
 
-There may be many technical dictionaries in Tamil already. This is not another technical
-dictionary. The purpose of this work is different from that of a dictionary. The purpose of a
-dictionary is to define words and explain meanings. If there is ambiguity in a word, a dictionary
-explains all meanings of the work. In contrast, the purpose of this work is to present a Tamil
-technical word corresponding to an English technical word and create a list of words in a such
-a way that ambiguities do not arise. A dictionary lists different words in use in different
-disciplines for the same concept. This book attempts to propose a single word to represent a
-concept in many areas. A dictionary lists and explains the meanings of words already in use.
-This book proposes words that should become in common use.
+பல கலைச்சொல் அகராதிகள் தமிழில் ஏற்கெனவே இருக்கலாம். இதுவும் மற்றொரு அகராதியன்று. இந்நூலின் நோக்கம் ஓர் அகராதியின் நோக்கத்திலிருந்து மாறுபட்டது. அகராதியின் நோக்கம் சொல்லை வரையறுத்துப் பொருளை விளக்குவதாகும். சொல்லில் பொருள்மயக்கம் இருப்பின், அச்சொல்லின் எல்லாப் பொருட்களையும் விளக்குகிறது அகராதி. மாறாக, இந்நூலின் நோக்கம் ஓர் ஆங்கிலக் கலைச்சொல்லுக்கு இணையான ஒரு தமிழ்க் கலைச்சொல்லைத் தருவதும், பொருள்மயக்கம் ஏற்படாதவாறு ஒரு சொற்பட்டியலை உருவாக்குவதும் ஆகும். ஒரே கருத்துருவுக்குப் பல துறைகளிலும் வழங்கிவரும் வெவ்வேறு சொற்களையும் பட்டியலிடுகிறது அகராதி. ஒரு கருத்துருவைக் குறிக்கப் பல துறைகளிலும் பயன்படுமாறு ஒரே சொல்லை முன்வைக்க முனைகிறது இந்நூல். பழக்கத்தில் வந்த சொற்களைப் பட்டியலிட்டுப் பொருள் விளக்குகிறது அகராதி. பழக்கத்தில் வரவேண்டிய சொற்களை முன்வைக்கிறது இந்நூல்.
 
-In natural languages spoken by people it is common that a word has different meanings in
-different contexts. This is a common property of all languages including English. However,
-technical words used in science have definite definitions as much as possible. Here it is rare that
-a single word has many meanings or there are many words for a single concept. In zoology,
-botany, and chemistry, there are strict rules to assign a unique name to a species. Given this
-situation, it is not only possible but also necessary to create a definite list in Tamil as well.
+There may be many technical dictionaries in Tamil already. This is not another technical dictionary. The purpose of this work is different from that of a dictionary. The purpose of a dictionary is to define words and explain meanings. If there is ambiguity in a word, a dictionary explains all meanings of the work. In contrast, the purpose of this work is to present a Tamil technical word corresponding to an English technical word and create a list of words in a such a way that ambiguities do not arise. A dictionary lists different words in use in different disciplines for the same concept. This book attempts to propose a single word to represent a concept in many areas. A dictionary lists and explains the meanings of words already in use. This book proposes words that should become in common use.
 
-It is essential that such a list be complete. For every English technical word to be searched, the
-list should yield the corresponding Tamil technical word. But the total space of science and
-technology is very broad. Our list can be considered complete only if it reaches every nook and
-corner of that space. Moreover, all scientific disciplines are developing areas. New technical
-words are being formed in English and other languages. Our list should also get updated
-accordingly on a continuous basis. Conquering the breadth and growth of science and achieving
-completeness is a monumental task. It is doubtful whether it is feasible. But we must try.
-Monuments have been built in the past! Since scientific fields are broad, deep, and open,
-completeness is not achievable; but it can be approached. Mathematically, completeness is a
-limit that can be asymptotically approached arbitrarily closely.
+மக்கள் பேசும் இயல் மொழிகளில் ஒரே சொல் சூழமைவைப் பொறுத்துப் பலவாறு பொருள் தருவது இயல்பு. இது ஆங்கிலம் உட்பட எல்லா மொழிகளுக்கும் பொதுவான பண்பு. ஆனால், அறிவியலில் பயன்படும் கலைச்சொற்கள் இயன்றவரை திட்டவட்டமான வரையறை கொண்டவை. இங்கு ஒரே சொல் பல பொருட்களைத் தருவதும், ஒரே கருத்துருவுக்குப் பல சொற்கள் இருப்பதும் அரிது. விலங்கியல், தாவரவியல், வேதியியல் போன்ற துறைகளில் ஒவ்வோர் இனத்துக்கும் ஓர் ஒருத்துவப் பெயரை இடுவதற்கான கண்டிப்பான விதிமுறைகள் உள்ளன. இவ்வாறிருக்கும்போது, தமிழிலும் ஒரு திட்டவட்டமான பட்டியலை உருவாக்குவது சாத்தியமானது மட்டுமல்லாமல் அவசியமானதாகவும் ஆகிறது.
+
+In natural languages spoken by people it is common that a word has different meanings in different contexts. This is a common property of all languages including English. However, technical words used in science have definite definitions as much as possible. Here it is rare that a single word has many meanings or there are many words for a single concept. In zoology, botany, and chemistry, there are strict rules to assign a unique name to a species. Given this situation, it is not only possible but also necessary to create a definite list in Tamil as well.
+
+இவ்வாறான பட்டியல் முழுமையானதாக இருக்க வேண்டியதும் அவசியம். எந்தவொரு ஆங்கிலக் கலைச்சொல்லைத் தேடினாலும் அதற்கிணையான தமிழ்க் கலைச்சொல்லைத் தருவதாக இப்பட்டியல் இருக்கவேண்டும். ஆனால், அறிவியல் தொழில்நுட்பத் துறைகளின் மொத்த வெளி மிகவும் விரிவானது. அவ்வெளியின் எல்லா மூலை முடுக்குகளையும் சென்றடைந்தால்தான் நம் பட்டியலை முழுமையானதாகக் கருதலாம். மேலும், அறிவியல் துறைகள் அனைத்தும் வளர்ந்து வரும் துறைகள். புதிய கலைச் சொற்கள் ஆங்கிலத்திலும் வேறு பல மொழிகளிலும் உருவாகிக்கொண்டே இருக்கின்றன. அதற்குத் தகுந்தவாறு நம் பட்டியலும் தொடர்ச்சியாக இற்றையடைந்து வரவேண்டும். அறிவியலின் விரிவையும் வளர்ச்சியையும் வென்று முழுமையை எய்துவது ஓர் இமயப் பணி. அது இயலக்கூடியதா என்பது ஐயத்துக்கிடமானதே. ஆயினும் முயன்றால்தானே சாத்தியமாகும்? இமயத்தின் உச்சியையும் மனிதன் சென்றடைந்து விட்டானல்லவா? அறிவியல் துறைகள் அகலமாகவும், ஆழமாகவும், திறந்தனவாகவும் இருப்பதால் முழுமை என்பது அடையத்தக்கதன்று; ஆனால் அணுகத்தக்கது. கணிதமுறையில் கூறின், முழுமை என்பது தொலைதொடுவகையில் வேண்டுமளவு நெருக்கமாக அணுகத்தக்க ஓர் எல்லை.
+
+It is essential that such a list be complete. For every English technical word to be searched, the list should yield the corresponding Tamil technical word. But the total space of science and technology is very broad. Our list can be considered complete only if it reaches every nook and corner of that space. Moreover, all scientific disciplines are developing areas. New technical words are being formed in English and other languages. Our list should also get updated accordingly on a continuous basis. Conquering the breadth and growth of science and achieving completeness is a monumental task. It is doubtful whether it is feasible. But we must try. Monuments have been built in the past! Since scientific fields are broad, deep, and open, completeness is not achievable; but it can be approached. Mathematically, completeness is a limit that can be asymptotically approached arbitrarily closely.
