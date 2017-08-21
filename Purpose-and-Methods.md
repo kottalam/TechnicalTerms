@@ -1,6 +1,5 @@
 ---
 ---
-<script src="https://hypothes.is/embed.js" async></script>
 [Home](README.md)
 ## Introduction and Purpose
 
