@@ -9,3 +9,4 @@
  - [Hypothesis](https://web.hypothes.is/start/) இணையத்தில் பதிவுசெய்ய வேண்டும்.
  - உலாவியில் நீட்சியை நிறுவ வேண்டும்.
 
+<img src="Annotation-sample.png" alt="Annotation sample" class="inline"/>
