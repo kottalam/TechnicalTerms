@@ -6,4 +6,6 @@ by Jeyapandian Kottalam
 
 [ஆங்கிலத்திலிருந்து தமிழ் அகராதி English to Tamil Agarathi](English-Tamil.md)
 
+[Results and discussion](Results-and-discussion.md)
+
 [பின்னூட்டம் தர இந்தக் கருவியைப் பயன்படுத்துங்கள்](Seeking-Feedback.md)
