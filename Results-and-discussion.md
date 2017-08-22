@@ -4,9 +4,9 @@
 
 எண்	பெயர்	| Short scale | English names
 --------|----------|--------
-103	| ஆயிரம்	| thousand
-106	| இருமடியாயிரம்	| million
-109	| மும்மடியாயிரம்	| billion
+10<sup>3</sup>	| ஆயிரம்	| thousand
+10<sup>6</sup>	| இருமடியாயிரம்	| million
+10<sup>9</sup>	| மும்மடியாயிரம்	| billion
 
 
 Very large and very small numbers arise in science. For example, the distance of the sun from the earth is 149,597,870,700 meter. The (covalent) diameter of carbon atom is 140 x 10-12 meter. Our ancestors did not create Tamil words needed for speaking, writing, and reading about these numbers. Apparently the numbers they needed did not exceed thousand and did not diminish below one sixteenth. The words lakh and crore seem to have settled from other languages at a later period. Scientists use a method called the scientific notation to denote very large and very small numbers. In this method, it is customary to group digits three by three; that is, to group them in powers of thousand. There are prefixes such as kilo-, mega-, milli-, and micro- in the metric system for these powers. We are in a position of having to create words for the powers of thousand. அட்டவணை 1 shows the method I propose for this purpose. For example, ஐமடியாயிரம் is the fifth power of thousand. Since lakh and crore are not powers of thousand, let us not use them in science. In this method we can say that the distance to the sun is நூற்றுநாற்பத்தொன்பது மும்மடியாயிரத்து ஐநூற்றுத்தொண்ணூற்றேழு இருமடியாயிரத்து எண்ணூற்றெழுபது ஆயிரத்து எழுநூறு meter. Let us not use commas in the middle of numbers written in words.
