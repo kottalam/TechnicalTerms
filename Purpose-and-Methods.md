@@ -140,7 +140,7 @@ For the list contained in the current version of this book I collected technical
 4.	வேறெதிலும் வெற்றி கிடைக்காவிட்டால் இறுதி முயற்சியாக ஆங்கிலச்சொல்லைப் பேச்சொலி மூலம் தமிழாக்குகிறேன். இதற்காக முதலில் ஆங்கில அகராதியில் சரியான உச்சரிப்பைப் பார்க்கிறேன். இந்த உச்சரிப்பு தமிழுக்கு மிகவும் அயலாகத் தோன்றாவிட்டால் அதை அப்படியே வைத்துக்கொள்கிறேன். அயலாகத் தோன்றினால் அதைத் தமிழியலாக்குகிறேன். அறிவியலாளர்களின் பெயர்கள் தமிழியலாக்குவதற்கு ஒரு விதிவிலக்கு. இயற்பெயர்களின் சரியான உச்சரிப்புகளை வடமொழி எழுத்துக்களைப் பயன்படுத்தியாவது தமிழில் மீளுருவாக்க முயல்கிறேன்.
 5.	ஒரு புதிய சொல்லை எழுதும்போது அதனுடன் தொடர்புடையவையும் பட்டியலில் ஏற்கெனவே இருப்பவையுமான மற்றச் சொற்களை இயைபுடைமைக்காக மாற்றுவது சில நேரங்களில் அவசியமாகிறது. ஆகவே இது ஒரு மறுசுருள் வழிமுறை ஆகிறது.
 
- 
+![செய்முறையைக் காட்டும் திரைநிலைப்படம்](https://github.com/kottalam/TechnicalTerms/blob/master/Screenshot.jpg)
 படம் 2 செய்முறையைக் காட்டும் திரைநிலைப்படம்
 
 I read the science and technology textbooks for tenth through twelfth standards and noted the technical words. I read the English and Tamil versions of the same book side by side. When I came across a technical word in the English version I spotted the corresponding word used in the Tamil verison. Since the English words are well established I noted them as such. For a corresponding Tamil word I followed a procedure with the following steps:
