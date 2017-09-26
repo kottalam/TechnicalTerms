@@ -117,7 +117,7 @@ The points to note while making up Tamil words are definiteness, uniqueness, pre
 
 Translation and linguistic naturalization of technical words are followed in languages other than Tamil. படம் 1 shows the periodic table containing the Chinese names of chemical elements.  The square chinese characters are names of elements not symbols. The symbols are written with Roman letters. Apparently elements 113 through 118 had not yet been named when this table was prepared.  Here are two examples where the Japanese language has adapted words from other languages. Christmas becomes クリスマス (கிரிசுமசு). The word for sodium ナトリウム  (நடோரியூமு) comes from its Latin name Natrium.
  
-![The Periodic Table of Elements in Chinese] (https://github.com/kottalam/TechnicalTerms/blob/master/ChinesePeriodicTable.png)
+![Image of The Periodic Table of Elements in Chinese] (https://github.com/kottalam/TechnicalTerms/blob/master/ChinesePeriodicTable.png)
 
 படம் 1 சீன மொழியில் வேதித் தனிமங்களின் ஆவர்த்தன அட்டவணை
 
