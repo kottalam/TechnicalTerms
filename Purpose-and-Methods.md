@@ -1,7 +1,8 @@
 ---
 ---
 [Home](README.md)
-## முன்னுரையும் குறிக்கோளும் Introduction and Purpose
+## முன்னுரையும் குறிக்கோளும் 
+## Introduction and Purpose
 அறிவியல் தொழில்நுட்ப இலக்கியங்களைத் தமிழில் எழுதுவதிலும் மொழிபெயர்ப்பதிலும் உள்ள ஒரு பெரும் இடர்ப்பாடு என்னவென்றால், அதற்குத் தேவையான கலைச்சொற்கள் இல்லாததாகும். கலைச்சொல் இல்லாத ஒரு கருத்துருவுக்குப் பல எழுத்தாளர்களும் அவரவர் உடனடித் தேவைக்குத் தக்கவாறு பலவிதமாகக் கலைச்சொற்களை உருவாக்குகின்றனர். அவ்வாறு உருவாகும் கலைச்சொற்கள் ஒரே சீரான நடையைப் பின்பற்றி அமைவதில்லை. அவற்றுள் சில செந்தமிழ்ச் சொற்களாகவும், சில கலப்புமொழிச் சொற்களாகவும், வேறு சில ஆங்கிலச் சொற்களாவும் அமைகின்றன. எல்லா எழுத்தாளர்களும் ஒரேசீராக எழுத வேண்டுமானாலும், ஒன்றுடனொன்று இயைபுடைய அறிவியல் நூல்கள் தமிழில் தோன்ற வேண்டுமானாலும், அனைத்துக் கலைச்சொற்களும் அடங்கிய ஒரு பட்டியலை உருவாக்கி அனைவரும் அந்தப் பட்டியலையே பயன்படுத்துவதான ஒரு மரபைத் தமிழ் எழுத்தாளர்கள் ஏற்க வேண்டும். அவ்வாறான ஒரு பட்டியலை உருவாக்கி அறிஞர்களிடம் முன்வைப்பதே இம்முயற்சியின் நோக்கம்.
 
 The lack of technical terminology in Tamil is a significant impediment to writing and translating scientific and technological literature. For a concept lacking a technical term, different authors create different terms to suit their immediate needs. The technical terms created this way do not follow a uniform style. Some of them happen to be செந்தமிழ் words, some of mixed origin, and some others English words. If all authors were to follow a uniform terminology, and if scientific books consistent with each other were to appear in Tamil, we should create a list containing all technical terms and writers should adopt a convention to use the same list. The purpose of this work is to create such a list and submit to scholars as a proposal.
@@ -116,6 +117,8 @@ The points to note while making up Tamil words are definiteness, uniqueness, pre
 
 Translation and linguistic naturalization of technical words are followed in languages other than Tamil. படம் 1 shows the periodic table containing the Chinese names of chemical elements.  The square chinese characters are names of elements not symbols. The symbols are written with Roman letters. Apparently elements 113 through 118 had not yet been named when this table was prepared.  Here are two examples where the Japanese language has adapted words from other languages. Christmas becomes クリスマス (கிரிசுமசு). The word for sodium ナトリウム  (நடோரியூமு) comes from its Latin name Natrium.
  
+![The Periodic Table of Elements in Chinese](https://github.com/kottalam/TechnicalTerms/blob/master/ChinesePeriodicTable.png)
+
 படம் 1 சீன மொழியில் வேதித் தனிமங்களின் ஆவர்த்தன அட்டவணை
 
 வேதியியலில் வேதி இனங்களின் பெயர்களை அமைமுறையாக எழுதுவதற்கு விதிகள் உள்ளன. இந்த விதிகள் பன்னாட்டு தூய மற்றும் பயன்பாட்டு வேதியியலார் (பதூபவே) ஒன்றியத்தால் உருவாக்கப்பட்டவை. அதைப்போலவே, தாவர இனங்களைப் பெயரிடுவதற்காக தாவரவியல் பெயரிடுமுறையின் பன்னாட்டு விதிமுறை (தாபவி) என்பதும், விலங்கு இனங்களைப் பெயரிடுவதற்காக விலங்கியல் பெயரிடுமுறையின் பன்னாட்டு விதிமுறை (விபவி) என்பதும் உள்ளன. இந்த விதிகள் வேதிப்பொருள்கள், தாவரங்கள், விலங்குகள் ஆகியவற்றின் பெயர்கள் ஆங்கிலத்திலேயே இருக்கவேண்டும் என்பதை உள்ளுரைக்கின்றனவா என்ற கேள்வி எழுகிறது. இந்த விதிகளை ஊன்றிப் படிக்கும்போது அப்படியான ஓர் உள்ளுரை இல்லை என்பது விளங்குகிறது. உண்மையில் இந்த விதிகள் பல மொழிகளில் மொழிபெயர்க்கப்பட்டு விதிகளுக்கிணங்கிய பெயர்கள் அந்தந்த மொழிகளில் உருவாக்கப் பட்டுள்ளன.
