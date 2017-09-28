@@ -310,11 +310,11 @@ By following this method, we get a one-to-one correspondence between the Tamil a
 
 வரிசை எண்|கட்டமைப்பு|English name|தமிழ்ப் பெயர்
 --------|----------|--------|-------
-1| |octane|எட்டவேன்
-2| |ethyne|ஈத்தைன்
-3| |(2E)-6-(bromomethyl)-5-ethyloct-2-ene|(2ம¬)-5-ஈத்தைல்-6-(புரோமோமீத்தைல்)எட்ட-2-ஈன்
-4| |(3R)-3-methylhepta-1,5-diyne|(3வ)-3-மீத்தைல்ஏழ-1,5-ஈரைன்
-5| |cyclopentene|சுழலைந்தவீன்
+1|!(octane)[https://github.com/kottalam/TechnicalTerms/blob/master/octane.png]|octane|எட்டவேன்
+2|!(ethyne)[https://github.com/kottalam/TechnicalTerms/blob/master/ethyne.png]|ethyne|ஈத்தைன்
+3|!(ethyloctene)[https://github.com/kottalam/TechnicalTerms/blob/master/ethyloctene.png]|(2E)-6-(bromomethyl)-5-ethyloct-2-ene|(2ம¬)-5-ஈத்தைல்-6-(புரோமோமீத்தைல்)எட்ட-2-ஈன்
+4|!(heptadyine)[https://github.com/kottalam/TechnicalTerms/blob/master/heptadiene.png]|(3R)-3-methylhepta-1,5-diyne|(3வ)-3-மீத்தைல்ஏழ-1,5-ஈரைன்
+5|!(cyclopentene)[https://github.com/kottalam/TechnicalTerms/blob/master/cyclopentene.png]|cyclopentene|சுழலைந்தவீன்
 
 அட்டவணை 6 பதூபவே விதிகளின் படி கரிமச் சேர்மங்களின் பெயர்கள்
 
