@@ -48,6 +48,7 @@ After the names of large numbers, let us see the metric prefixes for the powers 
 The units of measurements used in physics and their symbols have been standardized by an organization called System International de Units (SI). We too should use their definite equivalents. அட்டவணை 3 shows the unit names. The table contains the base units and derived units specified in the SI standard. Some units not in the SI standard are also shown towards the end of the table.
 
 எண்|தமிழ் முன்னொட்டு|English prefix|அடையாளம்
+--------|----------|--------|--------
 10|தெக்கா|deca|da
 100|எட்டா|hecta|h
 1000|கிலோ|kilo|k
@@ -77,6 +78,7 @@ The units of measurements used in physics and their symbols have been standardiz
 We have the freedom of writing the number prefixes and unit names in Tamil. Howerver, their symbols are determined by the System International de Units. We must write them in the given Roman or Greek notation. Just like we write small letters in Tamil not as ௧, ௨, ௩, ௪,  ௫. ௬. ௭. ௮, ௯  but using Roman symbols as 1, 2, 3, 4, … and read them as ஒன்று, இரண்டு, மூன்று, நான்கு, …, we should write measurements not as 10 கிமீ, 4 நொ, 7 கி but as 10 km, 4 s, 7 g and read them as பத்து கிலோமீட்டர், நான்கு நொடிகள், ஏழு கிராம். Here m is a Roman symbol denoting meter; it is incorrect to think of it as the English letter em.
 
 Measurement|அளவு|Unit|அலகு|அடையாளம்
+--------|----------|--------|--------|------
 length|நீளம்|meter|மீட்டர்|m
 mass|நிறை|kilogram|கிலோகிராம்|kg
 time|நேரம்|second|நொடி|s
@@ -120,6 +122,7 @@ digital information|எண்ணியல் தகவல்|byte|எணு|B
 Just as we write the names of the powers of thousands and units of measurements in Tamil and their symbols in Roman or Greek notation, we should write the names of chemical elements in Tamil and their symbols in Roman notation. படம் 1 shows how this method is used in the Chinese language. I have retained established Tamil names such as தங்கம், வெள்ளி, இரும்பு, தாமிரம், துத்தநாகம், and கந்தகம். I translated names such as hodrogen, helium, oxygen, and nitrogen whose etymology is clear. Since hydrogen arises from water it became நீரியம். Since helium arises from the sun, it became கதிரவம். Since biology is உயிரியல், using உயிரியம் for oxygen would cause the prefixes bio- and oxy- to be mapped to உயிரிய-. Hence I named the element மூச்சியம். Then oxidation becomes மூச்சியமேற்றம் and reduction becomes மூச்சியமிறக்கம். I Tamilized the names of other elements. The full list of element names is given in அட்டவணை 4.
 
 அணு எண்|Name|பெயர்|அடையாளம்
+--------|----------|--------|-------
 1|Hydrogen|நீரியம்|H
 2|Helium|கதிரவம்|He
 3|Lithium|இலித்தியம்|Li
@@ -251,6 +254,7 @@ International Union of Pure and Applied Chemistry (IUPAC) has standardized the r
 All numbers in Tamil end in a குற்றியலுகரம். I propose that removing this உகரம் and adding an அகரம் is the general rule to get the prefix showing the number of carbon atoms and that adding an –ஐல் to that prefix is the general tule to get the names of alkyl groups. According to this, the prefix for a chain with ten carbon atoms becomes பத்த-, such saturated chain becomes பத்தவேன், and such alkyl group becomes பத்தவைல். Similarly we get இருபத்துமூன்ற-, இருபத்துமூன்றவேன், and இருபத்துமூன்றவைல் respectively for the structural elements with 23 carbon atoms.
 
 கட்டமைப்புக் கூறு|English affix|தமிழ் ஒட்டுகள்
+--------|----------|--------
 கரிம அணு எண்ணிக்கை|Meth-|மீத்து-
 |Eth-|ஈத்து-
 |Prop-|புரோப்பு-
@@ -305,6 +309,7 @@ All numbers in Tamil end in a குற்றியலுகரம். I propose
 By following this method, we get a one-to-one correspondence between the Tamil and English names and between names and structures. அட்டவணை 6 shows some names written in this method. In the third example of the table, please note that the substituents are ordered in the English alphabetical order for the English name and in the Tamil alphabetical order for the Tamil name. While reading the Tamil name we can say either as இரண்டு ம ஐந்து ஈத்தைல் ஆறு புரோமோமீத்தைல் எட்ட இரண்டு ஈன் or with coupling some parts such as இரண்டு ம ஐந்தீத்தைல் ஆறுபுரோமோமீத்தைல் எட்டவிரண்டீன். However, it is an IUPAC rule that the complete name should be written as a single word without intervening space.
 
 வரிசை எண்|கட்டமைப்பு|English name|தமிழ்ப் பெயர்
+--------|----------|--------|-------
 1| |octane|எட்டவேன்
 2| |ethyne|ஈத்தைன்
 3| |(2E)-6-(bromomethyl)-5-ethyloct-2-ene|(2ம¬)-5-ஈத்தைல்-6-(புரோமோமீத்தைல்)எட்ட-2-ஈன்
@@ -319,6 +324,7 @@ By following this method, we get a one-to-one correspondence between the Tamil a
 In biology, there is a hierarchical method of classifying life starting from separating it into kingdoms such as plantae and animalia down to specifying variety and form of each species. There is also a systematic way of naming the taxon at each rank of this hierarchy and each species. We must follow a systematics in Tamil such that the same hierarchy is preserved and there is a one-to-one rlation between the English name and Tamil name. In order to make such a relation அட்டவணை 7 shows the Tamil parts corresponding to some words and affixes used in taxonomy. We follow the rule that the name of a group should be diminutive plural at every rank.
 
 English|தமிழ்|English|தமிழ்
+--------|----------|--------|------
 taxon|பாகுபடுத்தி|-mycota|-பூஞ்சன
 domain|களம்|-phytina|-தாவரின
 subkingdom|உட்பேரரசு|-phycotina|-ஆல்கின
@@ -374,6 +380,7 @@ That was my intention. But being human I must have made mistakes. Please write t
 The following abbreviations are used in the word lists.
 
 Abbreviation|Meaning
+--------|----------
 n|noun
 v|verb
 vt|transitive verb
