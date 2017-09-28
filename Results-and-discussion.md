@@ -3,11 +3,33 @@
 ## விளைவுகளும் உடனுரையும் Results and discussion
 அறிவியலில் மிகப்பெரும் எண்களும் மிகச்சிறு எண்களும் எழுகின்றன. எடுத்துக்காட்டாக புவியிலிருந்து கதிரவனின் தொலைவு 149,597,870,700 மீட்டர். கரிம அணுவின் (சகதிறன்) விட்டம் 140 x 10<sup>-12</sup> மீட்டர். இதுபோன்ற எண்களைப் பற்றிப் பேசுவதற்கும் வாசிப்பதற்கும் எழுதுவதற்கும் தேவையான தமிழ்ச் சொற்களை நம் முன்னோர் ஆக்கி வைத்திருக்கவில்லை. அவர்களுக்குத் தேவையான எண்கள் ஆயிரத்துக்கு மிகாமலும் மாகாணிக்குக் குறையாமலும் இருந்தன போலும். பிற்காலத்தில் இலச்சம், கோடி என்ற சொற்கள் வேறு மொழிகளிலிருந்து வந்து தங்கிவிட்டதாகக் காண்கிறது. மிகப் பெரிய எண்களையும் மிகச் சிறிய எண்களையும் குறிப்பதற்கு அறிவியலாளர் அறிவியல் குறியீடு என்ற முறையைப் பயன்படுத்துகின்றனர். இம்முறையில் இலக்கங்களை மூன்று மூன்றாகத் தொகுத்து எழுதுவது வழக்கம்; அதாவது ஆயிரத்தின் அடுக்குகளாகத் தொகுப்பது வழக்கம். இந்த அடுக்குகளுக்கு மெட்டிரிக முறையில் கிலோ-, மெகா-, மில்லி-, மைக்குரோ- போன்ற முன்னொட்டுகள் உள்ளன. ஆயிரத்தின் அடுக்குகளைப் பெயரிடுவதற்கான சொற்களை ஆக்க வேண்டிய நிலையில் நாம் இருக்கிறோம். இதற்காக நான் முன்மொழியும் முறையை அட்டவணை 1 காட்டுகிறது. எடுத்துக்காட்டாக, ஐமடியாயிரம் என்பது ஆயிரத்தின் ஐந்தாவது அடுக்கு. இலச்சம், கோடி என்பவை ஆயிரத்தின் அடுக்குகள் அல்லாததால் அவற்றை அறிவியலில் பயன்படுத்த வேண்டாம். இம்முறையில் கதிரவனின் தொலைவைச் சொற்களால் வாசிக்க நூற்றுநாற்பத்தொன்பது மும்மடியாயிரத்து ஐநூற்றுத்தொண்ணூற்றேழு இருமடியாயிரத்து எண்ணூற்றெழுபது ஆயிரத்து எழுநூறு மீட்டர் எனலாம். எண்களைச் சொற்களால் எழுதும்போது இடையே காற்புள்ளி வைக்கவேண்டாம்.
 
-எண்	பெயர்	| Short scale | English names
---------|----------|--------
-10<sup>3</sup>	| ஆயிரம்	| thousand
-10<sup>6</sup>	| இருமடியாயிரம்	| million
-10<sup>9</sup>	| மும்மடியாயிரம்	| billion
+
+எண் | பெயர் | Short scale English names
+--|----------|--------
+10<sup>3</sup> | ஆயிரம்|thousand
+10<sup>6</sup> | இருமடியாயிரம் | million
+10<sup>9</sup> | மும்மடியாயிரம் | billion
+10<sup>12</sup> | நான்மடியாயிரம் | trillion
+10<sup>15</sup> | ஐமடியாயிரம் | quarillion
+10<sup>18</sup> | அறுமடியாயிரம் | quintillion
+10<sup>21</sup> | எழுமடியாயிரம் | sextillion
+10<sup>24</sup> | எண்மடியாயிரம் | septillion
+10<sup>27</sup> | ஒன்பதுமடியாயிரம் | octillion
+10<sup>30</sup> | பதின்மடியாயிரம் | nonillion
+10<sup>33</sup> | பதினொருமடியாயிரம் | decillion
+10<sup>36</sup> | பன்னிருமடியாயிரம் | undecillion
+10<sup>39</sup> | பதின்மும்மடியாயிரம் | duodecillion
+10<sup>42</sup> | பதிநான்மடியாயிரம் | tredecillion
+10<sup>45</sup> | பதினைமடியாயிரம் | quattuordecillion
+10<sup>48</sup> | பதினறுமடியாயிரம் | quindecillion
+10<sup>51</sup> | பதினெழுமடியாயிரம் | sexdecillion
+10<sup>54</sup> | பதினெண்மடியாயிரம் | septendecillion
+10<sup>57</sup> | பத்தொன்பதுமடியாயிரம் | octodecillion
+10<sup>60</sup> | இருபதின்மடியாயிரம் | novemdecillion
+10<sup>63</sup> | இருபத்தொருமடியாயிரம் | vigintillion
+10<sup>300</sup> | நூறுமடியாயிரம் | 
+10<sup>303</sup> | நூற்றொருமடியாயிரம் | centillion
+
 
 
 Very large and very small numbers arise in science. For example, the distance of the sun from the earth is 149,597,870,700 meter. The (covalent) diameter of carbon atom is 140 x 10<sup>-12</sup> meter. Our ancestors did not create Tamil words needed for speaking, writing, and reading about these numbers. Apparently the numbers they needed did not exceed thousand and did not diminish below one sixteenth. The words lakh and crore seem to have settled from other languages at a later period. Scientists use a method called the scientific notation to denote very large and very small numbers. In this method, it is customary to group digits three by three; that is, to group them in powers of thousand. There are prefixes such as kilo-, mega-, milli-, and micro- in the metric system for these powers. We are in a position of having to create words for the powers of thousand. அட்டவணை 1 shows the method I propose for this purpose. For example, ஐமடியாயிரம் is the fifth power of thousand. Since lakh and crore are not powers of thousand, let us not use them in science. In this method we can say that the distance to the sun is நூற்றுநாற்பத்தொன்பது மும்மடியாயிரத்து ஐநூற்றுத்தொண்ணூற்றேழு இருமடியாயிரத்து எண்ணூற்றெழுபது ஆயிரத்து எழுநூறு meter. Let us not use commas in the middle of numbers written in words.
