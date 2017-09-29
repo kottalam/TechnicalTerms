@@ -62,7 +62,7 @@ The units of measurements used in physics and their symbols have been standardiz
 0.1|தெசி|deci|d
 0.01|சென்றி|centi|c
 0.001|மில்லி|milli|m
-10-6|மைக்குரோ|micro|
+10-6|மைக்குரோ|micro|&mu;
 10-9|நானோ|nano|n
 10-12|பீக்கோ|pico|p
 10-15|பெமுடோ|femto|f
@@ -96,7 +96,7 @@ power|திறன்|watt|வாட்டு|W
 electric charge|மின்னூட்டம்|coulomb|கூலும்|C
 electric field potential|மின்புல ஆற்றநிலை|volt|வோல்டு|V
 electric capacitance|மின்தேக்கம்|farad|பாரடு|F
-electric resistance|மின் தடையம்|ohm|ஓம்|
+electric resistance|மின் தடையம்|ohm|ஓம்|&Omega;
 electric conductance|மின் கடத்தம்|siemens|சீமன்சு|s
 magnetic flux|காந்தப் பாயம்|weber|வெபர்|Wb
 magnetic flux density|காந்தப் பாய அடர்வு|tesla|தெசுலா|T
