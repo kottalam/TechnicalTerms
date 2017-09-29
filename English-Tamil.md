@@ -1,7 +1,7 @@
 [Home](README.md)
 ## அறிவியல் தொழில்நுட்பக் கலைச்சொல் அகராதி
 
-English word | Tamil word | Notes
+English | Tamil | Notes
 ---------|----------|-------
 1,2-ethanediol | 1,2-ஈத்தேனீரால் | 
 2's complement | இரண்டின் நிரப்பி | 

@@ -62,7 +62,7 @@ The units of measurements used in physics and their symbols have been standardiz
 0.1|தெசி|deci|d
 0.01|சென்றி|centi|c
 0.001|மில்லி|milli|m
-10-6|மைக்குரோ|micro|
+10-6|மைக்குரோ|micro|&mu;
 10-9|நானோ|nano|n
 10-12|பீக்கோ|pico|p
 10-15|பெமுடோ|femto|f
