@@ -1,7 +1,7 @@
 [Home](README.md)
 ## அறிவியல் தொழில்நுட்பக் கலைச்சொல் அகராதி
 
-English | Tamil | Notes
+Tamil | English | Notes
 ---------|----------|-------
 (…) எனில்|if (…)|
 (…) என்றபோது|while (…)|
