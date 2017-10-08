@@ -3,14349 +3,14350 @@
 
 English | Tamil | Notes
 ---------|----------|-------
-(…) எனில்|if (…)|
-(…) என்றபோது|while (…)|
-…எனிலும் எனில் மட்டுமேயும்|if and only if …|
-7,12-இருமூச்சியநீக்கப்பித்த அமிலம்|lithocholic acid|
-A இல்லை (கணிதம்)|not A|
-A துணையூக்கி|coenzyme A|
-A வைட்டமின்|vitamin A|
-&alpha;-திருகம்|&alpha;-helix|
-B துணையூக்கி|coenzyme B|
-B-1 வைட்டமின்|thiamine|aka vitamin B-1
-B-1 வைட்டமின்|vitamin B-1|aka thiamine
-B12 துணையூக்கி|coenzyme B12|
-&beta;-தகடு|&beta;-sheet|
-&beta;-திருப்பம்|&beta;-turn|
-&beta;-நீர்மூச்சியநான்கவாயிக அமிலம்|&beta;-hydroxybutyric acid|
-C வைட்டமின்|ascorbic acid|aka vitamin C
-C வைட்டமின்|vitamin C|aka ascorbic acid
-D வைட்டமின்|vitamin D|
-D-2 வைட்டமின்|ergo calciferol|
-D-3 வைட்டமின்|cholecalciferol|
-d-கட்டத் தனிமங்கள்|d-block elements|
-d-கட்டம்|d-block|
-E வைட்டமின்|vitamine E|
-f-கட்டத் தனிமங்கள்|f-block elements|
-f-கட்டம்|f-block|
-K வைட்டமின்|vitamin K|
-N-அசிற்றைல் குளுக்கோசமீன்|N-acetyl glucosamine|
-n-ஆவது மூலம்|nth root|
-p-கட்டத் தனிமங்கள்|p-block elements|
-p-கட்டம்|p-block|
-Q துணையூக்கி|coenzyme Q|
-Q10 துணையூக்கி|coenzyme Q10|
-&rho; புரதம்|&rho; protein|
-&sigma; காரணி|&sigma; factor|
-s-கட்டத் தனிமங்கள்|s-block elements|
-s-கட்டம்|s-block|
-x-ஒருங்களவு|x-coordinate|
-ஃபிங்கல்ஸ்டீன்|Finkelstein|
-ஃபிஷர்|Fisher|
-ஃபெர்மி|Fermi|
-ஃப்ரெனெல்|Fresnel|
-ஃப்ரௌன்ஹோஃபர்|Fraunhofer|
-அக எலும்புக்கூடு|endoskeleton|
-அகக்குழைம வலை|endoplasmic reticulum|
-அகக்குழைம வழுவுவலை|smooth endoplasmic reticulum
-அகக்குழைமச் சொரவலை|rough endoplasmic reticulum
-அகக்குழைமம்|endoplasm |
-அகச்சவ்வு|endothelium|
-அகச்சவ்வு தேர்விணைவி|E-selectin|
-அகச்சிவப்பு|infrared|
-அகச்சேர்க்கை|homogamy|
-அகடு|trough|
-அகத்தோல்|entoderm|
-அகத்தோன்றிகள்|endogenous|
-அகநச்சுவம்|endotoxin|
-அகப்புரதையூக்கி|endopeptidase|
-அகப்பையன|eutheria|
-அகமனை|indoor|
-அகரவரிசை|alphabetical|dictionary - அகராதி
-அகராதி|dictionary|alphabetical - அகரவரிசை
-அகரோசுக் களி|agorose gel|
-அகர்|agar|
-அகர்த்தட்டு செய்நுட்பம்|agar plate technique|
-அகலநெகிழ்வு|latitude|
-அகலப்பரப்பு வலையம் (அபவ)|wide area network (WAN)
-அகலப்பிணைப்பு|header bond|
-அகலவரிசை|header course|
-அகலிட அழிவுறாக்காத்தல்|ex situ conservation|
-அகல்நிலை|offline|
-அகவணுப் பக்கம்|cytosolic face|
-அகவர்|intern|
-அகவர்மை|internship|
-அகவளர்க் காலம்|incubation period|
-அகவளர்ச்சி|incubation|
-அகவனவூக்கி|endonuclease|
-அகவார்ந்த|intrinsic|
-அகவாற்றல்|internal energy|
-அகவி (அனுப்பீட்டுக் கட்டுப்பாடு விதிமுறை)|TCP (transmission control protocol)
-அகவி/வவி|TCP/IP|
-அகவிணையம்|intranet|
-அகவிதையன்கள்|angiosperms|
-அகவித்தகம்|endosporium|
-அகவித்துப்படலம்|endothecium|
-அகவுள்ளகம்|inner core|
-அகவூக்கிப்புரதம்|endoenzyme|
-அகவூட்ட வேர்ப்பூஞ்சை|endotrophic mycorrhiza
-அகவெப்பம்|enthalpy|
-அகவெரிப் பொறி|internal combustion engine
-அகவொலி|infrasonic|infrared - அகச்சிவப்பு
-அகற்பயன் உயிரியெதிர்ப்பி|broad spectrum antibiotic
-அகற்பரப்பல்|broadcast|
-அகற்றல்|deletion|
-அகற்று|del|
-அகற்று|delete|erase - துடை; remove - நீக்கு
-அகற்று விசை|del key|
-அகன்ற தசை|lattismus|
-அகன்ற முதுகுத்தசை|latissimus dorsi|
-அகாலி தளம்|Akali Dal|
-அகாவொ (அணுக்கரு காந்த ஒத்ததிர்வு)|NMR (nunclear magnetic resonance)
-அகானிடிக அமிலம்|aconitic acid|
-அகானிடூக்கி|aconitase|
-அகானிடேட்டு|aconitate|
-அகில இந்திய அண்ணா திராவிட முன்னேற்றக் கழகம்|All India Anna Dravida Munnetra Kazhagam
-அகை|component|composite - தொகை
-அகைபிரி|resolve (into components)
-அகைபிரித்தல்|resolution (into components)
-அக்கி|herpes|
-அக்கிரிடின்|acridine|
-அக்கிரிடின் ஆரஞ்சு|acridine orange|
-அக்கிரோலீன்|acrolein|
-அங்கல்சைட்டு|anglesite|
-அங்கவடியெலும்பு|stapes|
--அங்கள்|-eae|
-அங்கே|ibid (ibidem)|
-அங்கே|ibidem (ibid)|
-அங்கையிணையான|palmately parallel|
-அங்கைவலை|palmately reticulate|
-அசாதாரண|extraordinary|
-அசிடியன்|ascidian|
-அசிடோதைமிடின்|azidothymidine|
-அசிதாதீன்|astatine|
-அசிற்றலீன்|acetylene|
-அசிற்றலைடு|acetylide|
-அசிற்றாக்க|acetogenic|
-அசிற்றால்டிகைடு|acetaldehyde|
-அசிற்றிக அமிலம்|acetic acid|
-அசிற்றேட்டு|acetate|
-அசிற்றைலேற்றம்|acelylation|
-அசிற்றைல்|acetyl|
-அசிற்றைல் துணையூக்கி|acetyl CoA|
-அசிற்றைல் துணையூக்கி|acetyl coenzyme A|
-அசிற்றோபாட்டர்|acetobacter|
-அசிற்றோபாட்டனையன|acetobacteraceae|
-அசிற்றோவசிற்றிக அமிலம்|acetoacitic acid|
-அசிற்றோன்|acetone|
-அசினங்கள்|acini|
-அசினம்|acinus|
-அசீலிக அமிலம்|azelaic acid|
-அசீல்|Aseel|
-அசுப்பரசின்|asparagine|
-அசுப்பரிக அமிலம்|aspartic acid|
-அசுப்பரேட்டு அமினமாற்றலூக்கி|aspartate aminotransferase (AST)
-அசுலார் கற்கட்டு|ashlar masonry|
-அசுலார் சரியோரக் கற்கட்டு|ashlar chamfered masonry
-அசுலார் சொரக் கற்கட்டு|ashlar rough tooled masonry
-அசுலார் நுண்கற்கட்டு|ashlar fine masonry|
-அசுலார் பாறைக் கற்கட்டு|ashlar rock masonry|
-அசுலார் பெருங் கற்கட்டு|ashlar block in course masonry
-அசைபட நிபுணர் தொகுதி (அநிதொ)|Moving Pictures Experts Group (MPEG)
-அசைபோடு|ruminate|
-அசைபோடுவன|bos (zoology)|
-அசையும்|mobile|
-அசையும் இரும்புக் கருவி|moving iron instrument
-அசையும் சுருளிக் கருவி|moving coil instrument
-அசைவாக்கல்|mobilization|animation -  அசைவூட்டல்
-அசைவாக்கு|mobilize|
-அசைவியல்|kinematics|
-அசைவுநீக்கல்|immobilization|
-அசைவுநீக்கு|immobilize|
-அசைவுமை|mobility|
-அசைவூட்டல்|animation|mobilization - அசைவாக்கல்
-அசைவூட்டு|animate|
-அசோ சேர்மம்|azo compoud|
-அசோச்சுருளியம்|azospirillum|
-அசோலா|azolla|
-அசோல்|azole|
-அசோற்றோபாட்டர்|azotobacter|
-அசோற்றோபாட்டனையன|azotobacteraceae|
-அச்சமூலி|dinosaur|dino - terrifying, அச்சமூ(ட்டும்); saur - lizard, (பல்)லி
-அச்சம்|phobia|
-அச்சிடுவி|printer|
-அச்சிட்ட மின்சுற்றுப் பலகை (அமிப)|printed circuit board (PCB)
-அச்சிய|axial|
-அச்சிய எலும்புக்கூடு|axial skeleton|
-அச்சியச் சிற்றிழை|axial filament|
-அச்சிழை|axoneme|
-அச்சு|axis|
-அச்சுச் சூலொட்டுமுறை|axile placentation|
-அச்சுப்பந்து|type ball|
-அச்சுமுகம்|typeface|
-அச்சுவகை|typeface|
-அச்சுறுத்தல்|threat|
-அச்செலும்பு|atlas (vertebra)|
-அச்சொட்டிய பிரிவு|anticlinal division|
-அஞ்சல்வழிச் செயன்மை|mail order business|
-அஞ்சற் பட்டியல்|mailing list|
-அடகுவை|pawn|
-அடபினியம்|dubnium|
-அடமானக் கடனோலை|secured debenture|
-அடமானம்|mortgage|
-அடர்வு|density|
-அடர்வுப் பண்பு|denseness property|
-அடி (குவார்க்கு)|bottom (quark)|
-அடிகோள்|axiom|postulate - உரைகோள்
-அடிக்கட்டகம்|chassis|
-அடிக்காயம்|injury|
-அடிக்கீறு|underscore|
-அடிக்குறிப்பு|footnote|
-அடிக்கோடு|underline|
-அடிச் சூலொட்டுமுறை|basal placentation|
-அடிச்சரிவு|subgrade|
-அடித்தட்டு|foot plate|
-அடித்தள அடுக்கம்|stratum basale|
-அடித்தளச் சவ்வு|basement membrane|
-அடித்தற்கோடு|strikethrough|
-அடித்தூண்|pile (construction)|
-அடித்தோல்|hypodermis|
-அடித்தோற்றிசு|collenchyma|
-அடிநாத்தசை|tonsil|
-அடிநாத்தசையழற்சி|tonsillitis|
-அடிநோக்கிய|basipetal|acropetal - உச்சிநோக்கிய
-அடிப்படை|foundation|
-அடிப்படை செயற்பாடமைப்பு|BOS (Basic Operating System)
-அடிப்படை தொலைத்தகவற்றொடர்பு அணுகல் முறை (அதொவமு)|Basic Telecommunication Access Method (BTAM)
-அடிப்படைக் கொள்கைகள்|first principles|
-அடிப்படைத் துகள்|fundamental particle|
-அடிப்படையிசம்|fundamentalism|
-அடிப்பிக அமிலம்|adipic acid|
-அடிப்பிணைப்பு மகரந்தம்|basifixed anther|
-அடிமண்|subsoil|
-அடிமானச் சவ்வு|basilar membrane|
-அடிமானம்|base|
-அடியணு|basal cell|
-அடியப் புள்ளி|radix point|
-அடியம்|footer|
-அடியம்|radix|
-அடியிணை|stringer (stair)|
-அடியுள்|fundus|
-அடியெழுதல்|underwriting|
-அடியெழுது|underwrite|
-அடிவயிறு|abdomen|
-அடிவயிற்றுக் குழி|abdominal cavity|
-அடிவயிற்றுத் தசை|iliacus|
-அடிவயிற்றுத் தமனி|iliac artery|
-அடிவயிற்றுள்நோக்கல்|laparoscopy|
-அடிவயிற்றுள்நோக்கி|laparoscope|
-அடினசில்|adenosyl|
-அடினசீன்|adenosine|
-அடினசீன் இருபாசுவேட்டு (அருபா)|adenosine diphosphate (ADP)
-அடினசீன் ஒற்றைப்பாசுவேட்டு (அறைபா)|adenosine monophosphate (AMP)
-அடினசீன் முப்பாசுவேட்டு (அமுபா)|adenosine triphosphate (ATP)
-அடினசீன் முப்பாசுவேட்டு (அமுபா)|ATP (adenosine triphosphate)
-அடினீன்|adenine|
-அடுக்க|exponential|
-அடுக்க வளர்ச்சி|exponential growth|
-அடுக்கச் சார்பு|exponential function|
-அடுக்கமாக்கல்|exponentiation|
-அடுக்கம்|stratum|
-அடுக்கல்|stack|
-அடுக்கு|exponent|
-அடுக்கு|power (mathematics)|
-அடுக்கு அடித்தோற்றிசு|lamellar collenchyma|
-அடுக்கு விதி|power law|
-அடுக்கு விதிகள்|laws of indices|
-அடுக்குக் கணம்|power set|
-அடுக்குச் சார்பு|power function|
-அடுக்குச் சாளரம்|cascade window|
-அடுக்குச்சரிவு|cascade|
-அடுக்குத் தொடர்|exponential series|
-அடுக்குத்தட்டு|shelf|
-அடுக்குத்திரள்தல்|accretion|
-அடுக்குப்படிதல்|apposition|
-அடுக்குமடி வடிதாள்|fluted filter paper|
-அடுக்கெண்|degree (exponent)|
-அடுக்கெண் (பல்லுறுப்புக் கோவையின்)|degree (of polynomial)
-அடுக்கெண் (வகையீட்டுச் சமன்பாடு)|degree (differential equation)
-அடுத்தடுத்த|consecutive|
-அடுத்தடுத்த வேதிவினைகள்|consecutive reactions|
-அடுநத்தை|slug|
-அடுபாசுவரிக அமிலம்|orthophosphoric acid|
-அடுபூஞ்சை|mycoplasma|
-அடுப்பு|stove|oven - கணப்பு
-அடுமத் தளவணி|adjoint matrix|
-அடுமம்|adjoint|
-அடுமூச்சைடு|epoxide|
-அடுமூச்சைடேற்றல்|epoxidation|
-அடுவிலங்குகள்|parazoa|
-அடைகாத்தல்|brooding (eggs)|
-அடைப்ப உள்ளிடத் தசை|obturator internus muscle
-அடைப்பு|closure|
-அடைப்பு அடிகோள்|closure axiom|
-அடைப்புக்குறி|bracket|
-அடைப்புக்குறி|parenthesis|
-அடைப்புண்ட திறப்பி|bracketed key|
-அடைப்புப் பண்பு|closure property|
-அடைமொழி|epithet|
-அடையணி|matrix (cell nucleus)|
-அடையாள வளையம்|token ring|
-அடையாள வில்லை|token|
-அடையாளம்|symbol|
-அட்டபிரின்|Atabrin|
-அட்டமம்|octave|
-அட்டவணை|table|
-அட்டவணை தொங்கி|table tag|
-அட்டவணை நோக்கல்|table lookup|
-அட்டவணையாக்கி|tabulator|
-அட்டவணையிடு|tabulate|
-அட்டி|objection|
-அட்டிலாண்டிக|Atlantic|
-அட்டினவன்ன|actinide|
-அட்டினியம்|actinium|
-அட்டினோயுரேனியம்|actino-uranium|
-அட்டை|card|
-அட்டை |leech|
-அட்டை முறைமையாக்கல்|card sorting|
-அட்டைக் கட்டு|card deck|
-அட்டைத் துளையிடல்|card punching|
-அட்டைப் படிப்பி|card reader|
-அட்டையங்கள்|Hirudinea|
-அட்டோ-|atto-|
-அணி|array|
-அணிக்கட்டு|lattice|
-அணிக்கட்டு ஆற்றல்|lattice energy|
-அணியிடை வெளி|matrix space (cell nucleus)
-அணிவகுப்பு|formation (arrangement)
-அணிவரிசை|fleet|
-அணு|atom|
-அணு ஆரம்|atomic radius|
-அணு ஆற்றல் துறை|Department of Atomic Energy
-அணு உயிரியல்|cell biology|
-அணு எடை|atomic weight|
-அணு எண்|atomic number|
-அணு ஒப்புரு|atom model|
-அணு நிறை அலகு (அநிய)|atomic mass unit (amu)
-அணு மின்னிலையம்|atomic power plant|
-அணுகக் கூடியது|accessible|
-அணுகு|access|
-அணுகு தடுப்புத்தடை|approach herkogamy|
-அணுகு நேரம்|access time|
-அணுகுமை|accessibility|
-அணுக் கட்டமைப்பு|atomic structure|
-அணுக்கரு|nucleus|
-அணுக்கரு அமிலம்|nucleic acid|
-அணுக்கரு உலை|nuclear reactor|
-அணுக்கரு ஒன்றிழைதல்|nuclear fusion|
-அணுக்கரு காந்த ஒத்ததிர்வு (அகாவொ)|nuclear magnetic resonance
-அணுக்கரு பிளவுறுதல்|nuclear fission|
-அணுக்கரு மென்தாள்|nuclear lamina|
-அணுக்கரு விசை|nuclear force|
-அணுக்கரு வேதியியல்|nuclear chemistry|
-அணுக்கருக்குழைமம்|nucleoplasm|
-அணுக்கருசூழ் வெளி|perinuclear space|
-அணுக்கருசைடு|nucleoside|
-அணுக்கருசைடூக்கி|nucleosidase|
-அணுக்கருச் சவ்வு|karyotheca|aka nuclear membrane
-அணுக்கருச் சவ்வு|nuclear envelope|aka nuclear membrane
-அணுக்கருச் சவ்வு|nuclear membrane|aka nuclear envelope
-அணுக்கருச் சவ்வு|nucleolemma|aka nuclear membrane
-அணுக்கருச் சவ்வு|perinuclear envelope|aka nuclear membrane
-அணுக்கருச் சேர்க்கை|karyogamy|
-அணுக்கருத் துகள்|nucleon|
-அணுக்கருத்துளை|nucleopore|
-அணுக்கருப்புரதம்|nucleoprotein|
-அணுக்கருவனையம்|nucleoid|
-அணுக்கருவன்|eukaryote|
-அணுக்கருவன்கள்|eykarya|
-அணுக்கருவியல்|nucleonics|
-அணுக்கருவிருப்பச் சேர்க்கை|nucleophilic addition|
-அணுக்கருவிருப்பத் தாக்கம்|nucleophilic attack|
-அணுக்கருவிருப்பப் பதிலீடு|nucleophilic substitution
-அணுக்கருவிரும்பி|nucleophile|
-அணுக்கருவிலி|prokaryote|
-அணுக்கருவைடு|nucleotide|
-அணுக்கருவைடூக்கி|nucleotidase|
-அணுக்கரை|cytosol|sol - கரைசல்
-அணுக்குழைப் பிரிவு|cytokinesis|
-அணுக்குழைம அடையணி|cytoplasmic matrix|
-அணுக்குழைமம்|cytoplasm |protoplasm - அணுநீர்மம்
-அணுச்சட்டகம்|cytoskeleton|
-அணுச்சுவரற்றபூஞ்சன|eumycota|
-அணுச்சுவர்|cell wall|உயிரணுச்சுவர் என்று சொல்லத் தேவையில்லை; வேறெந்த அணுவுக்கும் சுவர் கிடையாது.
-அணுச்சுவர்ப்பூஞ்சன|myxomycota|
-அணுத்தட்டு|cell plate|
-அணுநச்சுவ|cytotoxic|
-அணுநச்சுவ தைம நிணவணு|cytotoxic T cell|
-அணுநச்சுவம்|cytotoxin|
-அணுநீர்மம்|protoplasm|cytoplasm - அணுக்குழைமம்
-அணுவடக்கம்|protoplast|protoplasm - அணுநீர்மம்
-அணுவருந்தல்|pinocytosis|
-அணுவிணையிழை|plasmodesmata|அணு + இணைப்பு + இழை
-அணுவிறப்பு|apoptosis|
-அணுவுட்கரு|nucleolus|
-அணுவுட்கவர்கல்|endocytosis|
-அணுவும|atomic|
-அணுவுமை|atomicity|
-அணுவுள் துகள்|subatomic particle|
-அணுவெளியேற்றல்|exocytosis|
-அணுவேறுபாட்டுப் பகுதி|zone of cell differentiation
-அணைக்கட்டு|dam|
-அண்டப் பிறப்பியல்|cosmology|
-அண்டம்|universe|ovum - முட்டை
-அண்டார்ட்டிக|antarctic|
-அண்டைக் கோணங்கள்|adjacent angles|
-அண்ணம்|palate|
-அண்ணவடிநாத்தசை|palatine tonsil|
-அண்ணவெலும்பு|palatine bone|
-அண்ணா திராவிட முன்னேற்றக் கழகம்|Anna Dravida Munnetra Kazhagam
-அண்ணீரக கொத்துக் கச்சை|zona fasciculata|
-அண்ணீரக முடிச்சுக் கச்சை|zona glomerulosa|
-அண்ணீரக வலைக் கச்சை|zona recicularis|
-அண்ணீரகச் சுரப்பி|adrenal gland|
-அண்ணீரப்புரணிய இயக்குநீர்|adrenocorticotropic hormone
-அண்ணீரலின்|adrenaline|aka epinephrine
-அண்ணீரலின்|epinephrine|aka adrenaline
-அண்மை|proximity|
-அண்மை நினைவகம்|cache memory|
-அண்மைக் காரணி|proximate cause|
-அண்மைப்பக்க|proximal|
-அண்மைப்பக்கக் குழலம்|proximal tubule|
-அண்மைப்பக்கச் சிக்கற்குழலம்|proximal convoluted tubule
-அண்மையம்|neighborhood|
-அதிகப்படி|excess|
-அதிகனநீரியம்|tritium|
-அதிகார எல்லை|jurisdiction|
-அதிகாரமூட்டிய|authorized|
-அதிகாரமூட்டு|authorize|
-அதிகாரம்|authority|
-அதிகொள்ளளவு குளிரூட்டிய சுழல்வீழ்த்தி|large capacity refrigerated centrifuge
-அதிதாகம்|polydipsia|
-அதிதெவிட்டிய கரைசல்|supersaturated solution
-அதிநுண்குழல்|microcapillary|
-அதிபரவளைவு|hyperbola|
-அதிபர்|president|
-அதிமாங்கனிக அமிலம்|permanganic acid|
-அதிமாங்கனேட்டு|permanganate|
-அதிமிகு நன்னம்பிக்கை|utmost good faith|
-அதிமூச்சியால்|peroxol|
-அதிமூச்சியைடு|peroxide|
-அதிமூச்சியைடுடலம்|peroxisome|
-அதிமூச்சியைடூக்கி|catalase|
-அதிமூச்சியைடூக்கி|peroxidase|
-அதிமேம்பட்ட|sophisticated|
-அதிரலை|shock wave|
-அதிரலைச் சிகிச்சை|lithotripsy|aka shock wave therapy
-அதிரலைச் சிகிச்சை|shock wave therapy|aka lithotripsy
-அதிரியம்|vibrio|
-அதிரியனையன|vibrionaceae|
-அதிர்|vibrate|
-அதிர்ச்சி தாங்கி|shock absorber|
-அதிர்வி|vibrator|
-அதிர்வெண் நகர்வு|doppler effect|
-அதிவளரர்|giant|
-அதிவளர்ச்சி|gigantism|மிகைவளர்ச்சி - hypertrophy; மெகலவளர்ச்சி - acromegaly
-அதிவேகக் குளிரூட்டிய சுழல்வீழ்த்தி|high speed refrigerated centrifuge
-அதிற்றாசவலிப்பு|athetosis|
-அதொவமு (அடிப்படை தொலைத்தகவற்றொடர்பு அணுகல் முறை)|BTAM (Basic Telecommunication Access Method)
-அத்தாட்சி|evidence|
-அத்தியாயம்|chapter|part (or volume) - பாகம்; section - பகுதி; அதிகாரம் - authority
-அத்திவகை மஞ்சரி|hypanthodium|
-அத்திவகைக் கனி|syconus fruit|
-அநாசெப (அமெரிக்க நாட்டுச் செந்தரப் பயிலகம்)|ANSI (American National Standards Institute)
-அநிதொ (அசைபட நிபுணர் தொகுதி)|MPEG (Moving Pictures Experts Group)
-அநிபநி (அழிக்கக்கூடிய நிரலாக்கப் படிக்கவே இயலும் நினைவகம்)|EPROM (erasable programmable read only memory)
-அநிய (அணு நிறை அலகு)|amu (atomic mass unit)
-அந்திரசீன்|anthracene|
-அந்திரனிலிக அமிலம்|anthranilic acid|
-அந்திராசு|anthrax|
-அந்திராசுக் குச்சியம்|anthrax bacillus|
-அந்திரோன் சோதனை|anthrone test|
-அபவ (அகலப்பரப்பு வலையம்)|WAN (wide area network)
-அபின்|opium|
-அமர்வு|session|
-அமர்வு நடுவர்|Sessions Judge|
-அமவாதேன்|amantadine|
-அமாடியா அவகாடிரோ|Amadeo Avogadro|
-அமிடின்|amidine|
-அமிடோ-|amido-|
-அமிப (அச்சிட்ட மின்சுற்றுப் பலகை)|PCB (printed circuit board)
-அமிர்தமகால்|Amritmahal|
-அமில அளவம்|pH scale|
-அமில நீராற்பகுப்பு|acid hydrolysis|
-அமில நீரிலி|acid anhydride|
-அமில பெசிமர் வழிமுறை|acid Bessemer process|
-அமிலங்களும் காரங்களும்|acids and bases|
-அமிலச் சமநிலைச் சுட்டெண்|pKa|
-அமிலச் சுட்டெண்|pH|
-அமிலச் சுட்டெண் காட்டி|pH indicator|
-அமிலத்தடைய|acid resisting|
-அமிலத்துவம்|acidity |
-அமிலமிகைப்பு|acidosis|
-அமிலமினமணியம்|acidaminococcus|
-அமிலவெதிர்ப்பி|antacid|
-அமிழ்வி|sink n|
-அமினநீக்கம்|deamination|
-அமினமாற்றம்|transamination|
-அமினமாற்றலூக்கி|aminotransferase|
-அமினமாற்றலூக்கி|transaminase|
-அமினமீனியம்|hydrazinium|
-அமினமீன்|hydrazine|
-அமினமோன்|hydrazone|
-அமினோ|amino|
-அமினோ-|amino-|
-அமினோ அமிலச் செயலாக்கல்|amino acid activation|
-அமினோ அமிலத் தலம்|amino acid site|
-அமினோ அமிலம் பெறும் கிளை|amino acid acceptor arm (RNA)
-அமினோ நுனி|amino terminus|
-அமினோகுறையமில மாற்றலனரி கூட்டுமம்|aminoacyl tRNA complex
-அமீபநோய்|amebiasis|
-அமீபா|ameba|
-அமீன்|amine|
--அமீன்|-amine|
-அமுக்கநீக்கம்|decompression|
-அமுக்கம்|compression|
-அமுங்காமை|incompressibility|
-அமுங்குமை|compressibility|
-அமெரிக்க ஒன்றிய மாநிலங்கள் (அவொமா)|United States of America (USA)
-அமெரிக்க நாட்டுச் செந்தரப் பயிலகம் (அநாசெப)|American National Standards Institute (ANSI)
-அமெரீசியம்|americium|
-அமைச்சவை|cabinet|
-அமைடு|amide|
--அமைடு|-amide|
-அமைடூக்கி|acylase|
-அமைடூக்கி|amidase|
-அமைதியாக்கி|tranquilizer|
-அமைப்பக மென்பொருள்|system software|
-அமைப்பகக் கருவிகள்|system tools|
-அமைப்பகத் தட்டு|system tray|
-அமைப்பத் தமனி|systemic artery|
-அமைப்பிகள்|settings|
-அமைப்பு|system|structure - கட்டமைப்பு
-அமைப்பு நிர்வாகி|system administrator|
-அமைப்பு வலையக் கட்டிடவியல் (அவக)|Systems Network Architecture (SNA)
-அமைப்பு விளி|system call|
-அமைப்புக் கோப்புகள்|system files|
-அமைமுறைகள்|systematics|
-அமைமுறைப் பிழை|systematic error|
-அமைமுறையான|systematic|
-அமைமுறையில்|systematically|
-அமைவடிவம்|configuration|
-அமைவிடம்|location|
-அம்புக்குறி|arrow (computer)|
-அம்புத்தலை|arrow head|
-அம்மீன்|ammine|
-அம்மை|pox|
-அம்மைகுத்தல்|variolation|
-அம்மோனாற்பகுப்பு|ammonolysis|
-அம்மோனியமேற்ற தாமிரகக் கந்தகேட்டு|ammoniacal cupric sulfate
-அம்மோனியம்|ammonium|
-அம்மோனியவாக்கம்|ammonification|
-அம்மோனியா|ammonia|
-அயலுயிரி|xenobiotic|
-அயல்|foreign|
-அயல் அனடி|foreign DNA|
-அயல் மகரந்தச் சேர்க்கை|cross pollination|
-அயல்நாட்டு வியாபாரம்|foreign trade|
-அயற் பணமாற்று|foreign exchange|
-அயற்சேர்க்கை|xenogamy|
-அயற்பண மாற்று வங்கி|exchange bank|
-அயற்பழுதறிதல்|xenodiagnosis|
-அயனி|ion|
-அயனி ஆரம்|ionic radius|
-அயனி இடைமாற்றம்|ion exchange|
-அயனிக்கோளம்|ionosphere|
-அயனித்தொகை|ionic product|
-அயனிப் பிணைப்பு|ionic bond|
-அயனியாதல் மாற்றியம்|ionization isomerism|
-அயனியிடைமாற்ற நிறப்பிரிகை|ion-exchange chromatography
-அயனியுறு ஆற்றநிலை|ionization potential|
-அயனியுறு ஆற்றல்|ionization energy|
-அயனியுறுதல்|ionization|
-அயனியேந்தி|ionophore|
-அயனியேற்றி|ion pump|
-அயோடிக அமிலம்|hydroiodic acid|
-அயோடினேற்றம்|iodination|
-அயோடின்|iodine|
-அயோடோ-|iodo-|
-அயோற்றா|iota|
-அரக்கலி|tyrannosaurus|
-அரக்கிடானிக அமிலம்|arachidonic acid|
-அரக்கிடிக அமிலம்|arachidic|
-அரக்கு|lac|
-அரக்குப் பூச்சி|lac insect|
-அரங்க முன்னிலை|stage presence|
-அரங்கம்|auditorium|stage - மேடை
-அரங்கிடு|stage v|
-அரங்கு|forum|auditorium - அரங்கம்
-அரங்கேற்றம்|debut|
-அரச நீர்மம்|aqua regia|
-அரசப் பாம்பு|king cobra|ராஜ நாகம் என்பதன் செந்தமிழாக்கம்
-அரசன் மூடுகல்|king closer|
-அரசி மூடுகல்|queen closer|
-அரசியலமைப்பு|constitution (political science)
-அரசியல் திறன்|political power|
-அரசு வழக்குரைஞர்|attorney general|
-அரட்டை|chat|converse - உரையாடு
-அரபினோசு|arabinose|
-அரம்|file (tool)|
-அரனிக்கோலா|Arenicola|
-அரால்க்கைல்|aralkyl|
-அரிசிப் பூச்சி|rice bug|
-அரித்தெழுதல்|etching|
-அரித்தெழுது|etch|
-அரிமானம்|erosion|corrosion - துருவரித்தல்
-அரியானா|Hariana|
-அரிஸ்டாட்டில்|Aristotle|
-அரீனியசின் அளவுரு|Arrhenius parameter|
-அரீனியசின் சமன்பாடு|Arrhenius equation|
-அரீனியம்|arenium|
-அரீனியஸ்|Arrhenius|
-அருக|vicinal|
-அருக ஈருப்பாக்கைடு|vicinal dihalide|
-அருகிற்சேர்க்கை|geitonogamy|
-அருங்காட்சியகம்|museum|
-அருந்தல்|imbibition|
-அருந்தி|imbibant|
-அருந்துவிசை|imbibitional force|
-அருபா (அடினசீன் இருபாசுவேட்டு)|ADP (adenosine diphosphate)
-அருமைப் பணம்|dear money|
-அரை மின்கலம்|half cell |
-அரைகவிழ்ச் சூல்|hemitropous ovule|
-அரைக்கரிமசைடு|semicarbazide|
-அரைக்கரிமசோன்|semicarbazone|
-அரைக்கல்|half bat|
-அரைக்கழிப்பி|half subtractor|
-அரைக்குலம்|semi-group|
-அரைக்கூட்டி|half adder|
-அரைச்சீவல்|chamfering|
-அரைச்சுருள் கண்டு|half coil winding|
-அரைச்செல்லுலோசு|hemicellulose|
-அரைநீருடையி|hemihydrate|
-அரைப்பி|grinder|
-அரைப்பை|gizzard|
-அரையலை நேராக்கி|half wave rectifier|
-அரையாப்பு|venereum|
-அரையாயுட் காலம்|half life period|
-அரையாயுள்|half life|
-அரையிருவழி நிலமம்|half duplex mode|
-அரைவட்டக் கால்வாய்|semicircular canals|
-அரோமாட்டிய|aromatic |
-அரோமாட்டிய வளையம்|aromatic ring|
-அரோமாட்டியமாகு|aromatize vi|
-அரோமாட்டியமாக்கு|aromatize vt|
-அரோமாட்டியம்|aromaticity|
-அலகாக்கல்|normalization (math)|
-அலகு (அளவை)|unit|
-அலகு (பறவையியல்)|beak|
-அலகுக் கூடு|unit cell|
-அலகுச் சவ்வு ஒப்புரு|unit membrane model|
-அலகுச் சவ்வு கருதுகோள்|unit membrane hypothesis
-அலகுத் தளவணி|unit matrix|
-அலகுத் திசையன்|unit vector|
-அலகுப்பூ|cere|
-அலகுறை|rhamphotheca|அலகு + உறை
-அலங்கார|ornamental|
-அலங்காரகம்|saloon|
-அலசல்|process (analyze)|
-அலசளவு|throughput|
-அலசி|processor|
-அலந்தாயிசு|allantois|
-அலமாரி|cubboard|
-அலமாரிப் பூட்டு|cupboard lock|
-அலர்ச் சவ்வு|alar membrane|
-அலவரை|strobilus|
-அலனின்|alanine|
-அலனின் அமினமாற்றமூக்கி|alanine aminotrasferase (ALT)|aka alanine transaminase
-அலனின் அமினமாற்றமூக்கி|alanine transaminase|aka glutamate pyruvate transaminase
-அலனின் அமினமாற்றலூக்கி|glutamate pyruvate transaminase|aka alanine transaminase
-அலிபாட்டிக|aliphatic|
-அலுமினா|alumina|
-அலுமினியம்|aluminum|
-அலுவல்|task|
-அலுவற்பட்டை|taskbar|
-அலெக்ஸாண்டர் ஃப்ளெம்மிங்|Alexander Flemming|
-அலை இயக்கம்|wave motion|
-அலை வடிவூட்டம்|WAVE format|aka WAV format
-அலைக் கண்டு|wave winding|
-அலைநகர்வு|drift|
-அலைநீளம்|wavelength|
-அலைமடி |pleated  |
-அலைமடித் தகடு|pleated sheet|
-அலைமண்டல மடல்|orbital lobe|
-அலைமண்டலக் கணு|orbital node|
-அலைமண்டலம்|orbital|
-அலைமுகப்பு|wave front|
-அலையெண்|wave number|
-அலைவசை|agitate|அலைவு + அசை
-அலைவடிவ|corrugated|
-அலைவி|oscillator|
-அலைவு|oscillation|
-அலைவுணரி|antenna|
-அலைவுநோக்கி|oscilloscope|
-அலைவுப் பருமன்|oscillation volume|
-அலைவுறு இயக்கம்|oscillatory motion|
-அலைவெண்|frequency|
-அலைவெண் இணக்கேற்றம்|frequency modulation|
-அலோகம்|nonmetal|
--அல்|-al|
--அல் (ஆல்டிகைடு)|-al (aldehyde)|
-அல்கடத்தி|nonconductor|
-அல்சைமரின் நோய்|Alzheimer's disease|
-அல்பிக்க உடலம்|corpus albicans|
-அல்பிக்கத் தெளியம்|candida albicans|
-அல்புனைவு|nonfiction|
-அல்லது (கணிதம்)|or (mathematics)|
-அல்லது வாயில்|OR gate|
-அல்லி|lily|petal - இதழ்
-அல்லிடிமான|nondestructive|
-அல்லிலைடு|allylide|
-அல்லிவட்டம்|corolla|
-அல்லீன்|allene|
-அல்லைல்|allyl|
-அவக (அமைப்பு வலையக் கட்டிடவியல்)|SNA (Systems Network Architecture)
-அவகாடிரோ|Avogadro|
-அவசிய ஒட்டுண்ணி|obligate parasite|
-அவசிய ஓம்புனர்|definitive host|
-அவசியத்தேவை|necessity|
-அவசியமற்ற அமினோ அமிலங்கள்|nonessential amino acids
-அவசியமான அமினோ அமிலங்கள்|essential amino acids|
-அவமதித்தல்|dishonouring|
-அவரையனையன|fabaceae|
-அவலரக்கு|shellac|அவல் + அரக்கு
-அவிடின்|avidin|
-அவொமா (அமெரிக்க ஒன்றிய மாநிலங்கள்)|USA (United States of America)
-அவ்வப்போதான பதிகை|casual entry|
-அழகு (குவார்க்கு)|charm (quark)|
-அழகுறுத்தல்|dressing|
-அழற்சி|inflammation|
-அழற்சித் தட்டி|inflammatory barrier|
-அழற்சிப் பதில்வினை|inflammatory response
-அழிக்கக்கூடிய நிரலாக்கப் படிக்கவே இயலும் நினைவகம் (அநிபநி)|erasable programmable read only memory (EPROM)
-அழிப்புத் தட்டச்சு|type over|
-அழியும் பொருட்கள்|perishable goods|
-அழியுறா|nonerasable|
-அழியுறு|erasable|
-அழிவாக்கி|properdin|
-அழிவின்மை|conservation (physics)|
-அழிவுச்சோகை|pernicious anemia|
-அழிவுறாக்கா|conserve|
-அழிவுறாக்காத்தல்|conservation|
-அழிவுறாக்காப்பகம்|conservatory|
-அழுக்குநீக்கி|detergent|
-அழுத்த ஆற்றநிலை|pressure potential|
-அழுத்த உயரம்|pressure head|
-அழுத்த எலும்புமுறிவு|stress fracture|
-அழுத்தக்கணப்பு|autoclave|
-அழுத்தச் சாய்வு|pressure gradient|
-அழுத்தமின்|piezoelectric|
-அழுத்தம் (திண்மம்)|stress|
-அழுத்தம் (வளிமம்)|pressure|
-அழை|invoke|
-அழைத்துவா|fetch (someone)|fetch (something) - எடுத்துவா
-அழையிணைப்பு|dial-up connection|
-அளக்கக்கூடிய|measurable|
-அளசுரமாக்கல்|calibration|
-அளவம்|scale (physics)|
-அளவிகிதம்|scale (math)|
-அளவிடு பண்புகள்|metrical characters|
-அளவியல்|analog|
-அளவியல் கணினி|analog computer|
-அளவீட்டுக் குழாய்|graduated tube|
-அளவு|size|
-அளவுகோல்|ruler (measurement)|
-அளவுசாராப் பண்பு|intensive property|
-அளவுசார்|quantitative|
-அளவுசார் பகுப்பாய்வு|quantitative analysis|
-அளவுசார் பண்பு|extensive property|
-அளவுமாற்று|resize|
-அளவுரு|parameter|
-அளவைகள்|measurements|
-அளி|grant v|
-அளி விருப்புமை|put option |
-அளிப்பு|supply  |
-அளிப்புக்குறைவு|shortage|
-அளிப்புச் சார்பு|supply function|
-அளிப்பும் வேண்டலும்|supply and demand|
-அறங்காவலர்|trustee|
-அறமுறை|moral|
-அறம்|charity|
-அறிகுறி|symptom|
-அறிக்கை|report n|
-அறிக்கையளி|report v|
-அறிக்கையளித்தல்|reporting|
-அறிநுட்பம்|know-how|
-அறிமுகம்|introduction |
-அறியுரை|declare|
-அறியுரைத்தல்|declaration|
-அறியுறக்க|hypnotic|
-அறியுறக்கமூட்டி|hypnone|
-அறியுறக்கம்|hypnosis|அறிவதற்காக உறக்கம்
-அறிவக|academic|
-அறிவகம்|academy|
-அறிவாற்றல்|intelligence|
-அறிவி|announce|communicate - தெரிவி
-அறிவிப்பு|announcement|
-அறிவிப்புப் பலகை|bulletin board|
-அறிவியல் குறியீடு|scientific notation|
-அறிவு|knowledge|
-அறிவு நிற்பம்|knowledge representation
-அறிவுசார் சொத்து|intellectual property|
-அறிவுசார் சொத்துக் காப்பு|intellectual property protection
-அறிவுசார் சொத்துரிமை|intellectual property right
-அறிவுத் தளம்|knowledge base|
-அறிவுரை|advice|
-அறிவுறுத்தல்|instruction|
-அறுக்காத மரம்|rougth timber|
-அறுத்த மரம்|converted timber|
-அறுத்தல்|sawing|
-அறுபதவேன்|hexacontane|
-அறுப்பி|saw (tool)|
-அறுமடியாயிரம்|quintillion (short scale)
-அறுமுகி|hexagonal|
-அறுவடை|harvesting |
-அறுவைச்சிகிச்சை|surgery|
-அறைகலன்|furniture|
-அறைபா (அடினசீன் ஒற்றைப்பாசுவேட்டு)|AMP (adenosine monophosphate)
-அறைப்பிரி|loculicidal|
-அற்செயல்|no-op|
-அற்ப|trivial|
-அற்பத் தீர்வு|trivial solution|
-அனடி|deoxyribonucleic acid|aka DNA
-அனடி|DNA|திருப்புச்சொல்லாகிய AND-இலிருந்து அனடி என்ற புதுத் தமிழ்ச்சொல் உருவாகிறது
-அனடி இரட்டித்தல்|DNA replication|
-அனடி துண்டாக்கல்|DNA segmenting|
-அனடி பன்மமூக்கி|DNA polymerase|
-அனடியூக்கி|deoxyribonuclease|
-அனடேற்றல்|transduction|tramsfection - மாற்றேற்றல்
-அனரி|ribonucleic acid|aka  RNA
-அனரி|RNA|திருப்புச்சொல்லாகிய ANR-இலிருந்து அனரி என்ற புதுத் தமிழ்ச்சொல் உருவாகிறது; DNA - அனடி.
-அனரி முதன்மியூக்கி|RNA primer|
-அனரிப்புரதம்|ribonucleoprotein|
-அனரியூக்கி|ribonuclease|
-அனல் மின்னிலையம்|thermal power plant|
-அனவூக்கி|nuclease|
-அனாபிலசு|anopheles|
-அனிசோல்|anisole|
-அனிலீன்|aniline|
-அனுப்பி|transmitter|
-அனுப்பீடு|transmission |
-அனுப்பீட்டு அலைவுணரி|transmitting antenna|
-அனுப்பீட்டு ஊடகங்கள்|transmission media|
-அனுப்பீட்டு எலட்டிரான் நுண்ணோக்கி|transmission electron microscope
-அனுப்பீட்டுக் கட்டுப்பாடு விதிமுறை (அகவி)|transmission control protocol (TCP)
-அனுப்புமை|transmittance|conductivity - கடத்துமை
-அனுமானம்|conjecture|guess - ஊகம்; assumption - எடுகோள்
-அனைதை|orphan|
-அனைத்தளாவிய|exhaustive|
-அனைத்து ஆபத்துக்கூறு காப்பிதழ்|all risks policy|
-அனைத்துண்ணி|omnivore|
-அனைத்துவ|universal|
-அனைத்துவ வழங்குனர்|universal donors|
-அனைத்துவக் கணம்|universal set|
-அனைத்துவப் பெருனர்|universal recipients|
-அனைத்துவம்|universality|
-அனைத்துறுப்புக் கோட்பாடு|pangenesis|
--அனையன|-aceae|
--அனையின|-oideae|
-அனைவருக்கும் தெரிவுறுத்து|notify all|
-அன்றேல்|else|
-அன்றேல் (…) எனில்|else if (…)|
-ஆகூழ்|fortunate|
-ஆக்கச் சார்பு|generating function|
-ஆக்கத்திசு|meristem |aka meristematic tissue
-ஆக்கத்திசு|meristematic tissue|aka meristem
-ஆக்கத்திசுப் பகுதி|meristematic zone|
-ஆக்கவிலை|cost|
-ஆக்கவிலை பெறுபயன் பகுப்பாய்வு|cost benefit analysis|
-ஆக்கவிலைச் சார்பு|cost function|
-ஆக்கவிலைப் பயனுறுமை|cost effectiveness|
-ஆக்கவிலையும் பெறுபயனும்|cost and benefit|
-ஆக்கவிலைவீதம்|marginal cost|
--ஆக்கி|-gen|
-ஆக்கும எண்ணப்பாடு|creative thinking|
-ஆக்குமை|creativity|
-ஆங்கிதமின் கதிரவவெப்பளவி|Angstrom pyrheliometer
-ஆங்கிதம்|angstrom|
-ஆங்கிலேய|English|
-ஆங்கிலேய ஒன்றியம்|United Kingdom|
-ஆங்கிலேயப் பிணைப்பு|English bond|
-ஆசித்தெளிப்பி|aspergillum|
-ஆசிரியக்குழு|faculty (education)|
-ஆசுமியம்|osmium|
-ஆசுவால்டின் கோட்பாடு|Ostwald theory|
-ஆசுவால்டின் வழிமுறை|Ostwald process|
-ஆசுவால்டு வாக்கரின் முறை|Ostwald-Walker method
-ஆச்சலிக அமிலம்|oxalic acid|
-ஆச்சலேட்டு|oxalate|
-ஆச்சால்டிகைடு|glyoxal|
-ஆச்சான்|axon|
-ஆச்சைம்|oxime|
-ஆடம் ஸ்மித்|Adam Smith|
-ஆடம்பரம்|extravagance|
-ஆடி|mirror|
-ஆடி நிழலுறு|mirror image|
-ஆடியளித்தல்|mirroring|
-ஆட்களப் பெயர்|domain name|
-ஆட்களம் (சார்பின்)|domain (of a function)|
-ஆட்டோ குறையிரைச்சற்கட்டி|octo LNB|
-ஆட்பெறல்|habeas corpus|
-ஆணில்வாய்|fellatio|
-ஆணுறை|condom|
-ஆணேந்தி|androphore|
-ஆணையம்|commission|
-ஆணொட்டு மரபணு|holandric gene|
-ஆண் நீரோட்டம்|El Nino current|
-ஆண்குறி|penis|
-ஆண்குறி சிறுநீர்ப்புறவழி|penile urethra|
-ஆண்குறி மொட்டு|glans|
-ஆண்குறிய|penial|
-ஆண்குறிய உடல்முள்|penial setae|
-ஆண்குறியுடல்|corpus (penis)|
-ஆண்டர்சன்|Anderson|
-ஆண்பெண்ணேந்தி|androgynophore|aka gynandrophore
-ஆண்பெண்ணேந்தி|gynandrophore|aka androgynophore
-ஆண்மலடு|male sterility|
-ஆண்மலர்|staminate|
-ஆண்மை இயக்குநீர்|testosterone|
-ஆண்மைத்திரால் இயக்குநீர்|androsterone|
-ஆண்மைநீக்கம்|emasculation|
-ஆண்மைநீக்கு|emasculate|
-ஆண்மையாக்கி|androgen|
-ஆண்வெறுப்பு|misandry|
-ஆதரவு|support|
-ஆதி|origin|
-ஆதி|reference (origin)|
-ஆதிச் சான்றிதழ்|certificate of origin|
-ஆதிச்சட்டம்|frame of reference|
-ஆத்திரலார்ப்பு|Australorp|
-ஆநீ எழுவிழு|RS (reset-set) flip flop|
-ஆநோய்|mad cow disease|
-ஆந்திமனி|antimony|
-ஆந்திரப்பிரதேசம்|Andhra Pradesh|
-ஆந்தோசோவா|anthozoa|
-ஆபத்தின்மை|safety|
-ஆபத்து|danger|
-ஆபத்துக்கூறு|risk|
-ஆபத்துக்கூறு தடங்கல்|hindrance of risk|
-ஆபத்துக்கூறு பகுதி|risk zone|
-ஆபினியம்|hafnium|
-ஆப்பல் (ஆர்யன் பயணிகள் பயன்சுமை பரிசோதனை)|APPLE (Ariane Passenger Payload Experiment)
-ஆப்பிரிக்க உறக்கநோய்|African sleeping sickness|aka African trypanosomiasis
-ஆப்பிரிக்க உறக்கநோய்|African trypanosomiasis|aka African sleeping sicknesss
-ஆப்பிரிக்க வனவுயிரி தளவகம்|African Wildlife Foundation
-ஆப்பு|wedge|
-ஆப்புருவெலும்பு|sphenoid bone|
-ஆமணக்கனையன|euphorbiaceae|
-ஆமை|tortoise|
-ஆமை|turtle|
-ஆமைப்பூட்டு|pad lock|
-ஆம்பர்கரின் குளோரைடு இருகரியமிலேட்டு இடமாற்றம்|Hamberger's Chloride Bicarbonate shift
-ஆம்பிசிலின்|ampicillin|
-ஆம்பியரின் மின்சுற்று விதி|Ampere's circuital law|
-ஆம்பியர்|Ampere|
-ஆயத்தநில்|standby|
-ஆயத்தமாயிருத்தல்|preparedness|
--ஆயிக அமிலம்|-oic acid|
--ஆயிக அமிலம்|-oic acid|
-ஆயிடியா|oidia|
-ஆயிரக் கணக்கில்|of the order of thousand
-ஆயிரங்காலி|millipede|
-ஆயிரத்தில் ஒரு பங்கு (ஆவொப)|part per thousand (ppt)
-ஆயிரம்|thousand|
--ஆயில்|-oyl|
--ஆயில்|-oyl|
-ஆயுட் காப்பீடு|life insurance|
-ஆயுள்வேதம்|ayurveda|
-ஆய்லர்|Euler|யூலர் தவறு
-ஆய்வகம்|laboratory|
-ஆய்வறிதல்|study (scientific)|
-ஆய்வாளர்|researcher|
-ஆய்விதழ்|journal (research)|
-ஆய்வு|research|
-ஆய்வும் வளராக்கமும்|research and development
-ஆய்வுரை|article (science)|
-ஆய்வுலா|exploration|
-ஆய்வுலாவர்|explorer|
-ஆய்வேடு|dissertation|
-ஆர|radial|
-ஆர விரிசல்|radial shake|
-ஆரக் கச்சை|zona radiata|
-ஆரக் கரோனா|corona radiata|
-ஆரக்கிள்|Oracle|
-ஆரஞ்சம்|citrus|
-ஆரஞ்சிக அமிலச் சுழற்சி|citric acid cycle|
-ஆரஞ்சிக அமிலம்|citric acid|
-ஆரஞ்சிகேட்டு|citrate|
-ஆரஞ்சினமினோ அமிலம்|citrulline|
-ஆரம்|radius|
-ஆரவெலும்பு|radius bone|
-ஆரவெலும்புச் சிரை|radial vein|
-ஆரவெலும்புத் தமனி|radial artery|
-ஆரியபட்டா|Aryabhatta|
-ஆரியன் பயணிகள் பயன்சுமை பரிசோதனை (ஆப்பல்)|Ariane Passenger Payload Experiment (APPLE)
-ஆரியான்|Orion|
-ஆரியோமைசின்|aureomycin|
-ஆரீலியா|aurelia|
-ஆருமசுடியம்|darmstadtium|
-ஆரையன்|radian|
-ஆர்கன்|organ (musical instrument)
-ஆர்கான்|argon|
-ஆர்க்கரசு|archaea|
-ஆர்க்கிடுவகை|orchidaceous|
-ஆர்சனிக்கு|arsenic|
-ஆர்சினால்|orcinol|
-ஆர்சினினோசக்கினூக்கி|argininosuccinase|
-ஆர்சினினோசக்கினேட்டு|argininosuccinate|
-ஆர்சினினோசக்கினேட்டு தொகுத்தாக்கவூக்கி|argininosuccinate synthetase
-ஆர்சினின்|arginine|
-ஆர்சினூக்கி|arginase|
-ஆர்சென்றைட்டு|argentite|
-ஆர்டுவிசியக் காலம்|Ordovician period|
-ஆர்ட்டிக|Arctic|
-ஆர்த்தரினால்|arterenol|
-ஆர்ப்பிண்டன்|Orpington|
-ஆர்வமம்|avidity|
-ஆர்வம்|interest|
--ஆல்|-ol|
--ஆல் (ஆல்ககால்)|-ol (alcohol)|
-ஆல்ககால்|alcohol|
-ஆல்ககாற்பகுப்பு|alcoholysis|
-ஆல்கப்பூஞ்சை|lichen|
-ஆல்கவியல்|algology|aka phycology
-ஆல்கவியல்|phycology|aka algology
-ஆல்கவியைகள்|nostocales|
--ஆல்கவை|-phyceae|
--ஆல்கன|-phycota|
-ஆல்காக்கள்|algae|பாசி - moss
--ஆல்கிவை|-phycidae|
--ஆல்கின|-phycotina|
-ஆல்க்கமூச்சிய-|alkoxy-|
-ஆல்க்கவீரீன்|alkadiene|
-ஆல்க்கீன்|alkene|
-ஆல்க்கேன்|alkane|
-ஆல்க்கைலேற்றம்|alkylation|
-ஆல்க்கைல்|alkyl|
-ஆல்க்கைல் ஈருப்பாக்கைடு|alkyl dihalide|
-ஆல்க்கைல் உப்பாக்கைடு|alkyl halide|
-ஆல்க்கைன்|alkyne|
-ஆல்டாச்சலிக|glyoxylic|
-ஆல்டாச்சலேட்டு|glyoxylate|
-ஆல்டாலூக்கி|aldolase|
-ஆல்டால்|aldol |
-ஆல்டால் ஒருக்கமாதல்|aldol condensation|
-ஆல்டிகைடு|aldehyde|
-ஆல்டிமீன்|aldimine|
-ஆல்டிரத் தாழ்|aldrop bolt|
-ஆல்டோ-|aldo-|
-ஆல்டோசு|aldose|
-ஆல்டோமூன்றோசு|aldotriose|
-ஆல்டோவாறோசு|aldohexose|
-ஆல்டோவியக்குநீர்|aldosterone|
-ஆல்பர்ட் ஐன்ஸ்டைன்|Albert Einstein|
-ஆல்பா|alpha|
-ஆல்பா கணையவணு|alpha cell|
-ஆல்பா சென்றாரசுகள்|Alpha Centauri|
-ஆல்பா திருகம்|alpha helix|
-ஆல்பா துகள்|alpha particle|
-ஆல்வாச்சின் பரிசோதனை|Hallwachs' experiment|
-ஆவணங்கோர்|certiorari|
-ஆவணத் தாக்கல்|filing of documents|
-ஆவணம்|document|
-ஆவர்த்தன|periodic|
-ஆவர்த்தன இயக்கம்|periodic motion|
-ஆவர்த்தன காலம்|period (of revolution)|
-ஆவர்த்தனம்|periodicity|
-ஆவி அடர்வு|vapour density|
-ஆவி அழுத்தக் குறைவு|lowering of vapor pressure
-ஆவி அழுத்தம் |vapor pressure|
-ஆவிப்பனி|fog|
-ஆவிப்போக்கின் இழுப்புக் கோட்பாடு|traspiration pull theory
-ஆவிப்போக்கு|transpiration|
-ஆவியாகு|evaporate|
-ஆவொப (ஆயிரத்தில் ஒரு பங்கு|ppt (parts per thousand)
-ஆழமற்ற|shallow|superficial - மேலோட்டமான
-ஆழமான|deep|
-ஆழமைத் தசை|profundus|
-ஆழியன்|trochophore|
-ஆழுறக்கம்|deep sleep|coma - ஆழ்மயக்கம்
-ஆழுறை|deep seated|
-ஆழ்கிணறு|deep well|
-ஆழ்கிணறு உள்ளேற்றல்|deep well injection|
-ஆழ்மயக்கம்|coma|
-ஆளில்லா|unmanned|
-ஆளில்லா நுண்ணாய்வி|unmanned probe|
-ஆளுள்ள|manned|
-ஆளுனர்|governor|
-ஆள்சார்|personal  (related to people)
-ஆள்சார் தடங்கல்|personal hindrance|
-ஆள்தூக்கி|elevator|
-ஆற-|hexa-|
-ஆற-|hexa-|
-ஆறவேன்|hexane|
-ஆறுமம்|sextet|
-ஆறோசமினவூக்கி|hexosaminidase|
-ஆறோசமீன்|hexosamine|
-ஆறோசியக்கவூக்கி|hexokinase|ஆறோசு + இயக்க + ஊக்கி
-ஆறோசு|hexose|
-ஆறோசு ஒற்றைப்பாசுவேட்டு|hexose monophosphate (HMP)
-ஆறோசு ஒற்றைப்பாசுவேட்டு வழித்தடம்|HMP pathway|
-ஆறோசு ஒற்றைப்பாசுவேட்டுத் தடமாற்றம்|HMP shunt|
-ஆற்றநிலை|potential (physics)|
-ஆற்றநிலை ஆற்றல்|potential energy|
-ஆற்றநிலையளவி|potentiometer|
-ஆற்றலாக்கி|mitochondrion|
-ஆற்றலாக்கிச் சூழ்வெளி|peri-mitochondrial space
-ஆற்றலாக்கியணி|microchondrial matrix|
-ஆற்றலுமிழ்|exergonic|
-ஆற்றல்|energy|
-ஆற்றல் அழிவின்மை|conservation of energy
-ஆற்றல் அழிவின்மை விதி|law of conservation of energy
-ஆற்றல் கேடுறாக்காத்தல்|preservation of energy|
-ஆற்றல் கொள்விதி|energy policy|
-ஆற்றல் பாய்வு|energy flow|
-ஆற்றல் மட்டங்கள்|energy levels|
-ஆற்றல் வளங்கள்|energy resources|
-ஆற்றல்கொள்|endergonic|
-ஆற்றின் கழிமுகம்|river delta|
-ஆனந்த் சக்ரபர்த்தி|Anand Chakrabarthy|
-ஆன்றன் வான் லேவன்ஹுக்|Anton von Leeuwenhoek
-இ- (இடத்திருப்பு)|L- (levorotatory)|
-இ- (வெளியிட மாற்றியம்)|S- (stereoisomerism)|
-இ. கோலை|e. coli|
-இ-அமினோ அமிலம்|L-amino acid|
-இகவெயி (இசைக் கருவி எண்ணியல் இடைமுகம்)|MIDI (Musical Instrument Digital Interface)
-இகீசோ (இழையாகிப்பேலிடம் கீம்பசையொட்டல் சோதனை)|TPHA (Treponema Pallidum Haemagglutination Test)
-இக்கட்டு|crisis|
-இக்கால|modern|
-இக்காலமயமாக்கல்|modernization|
--இங்கள்|-inae|
-இங்கிலாந்து|England|
--இசம்|-ism|
-இசரிக்கியா|escherichia|
-இசரிக்கியா கோலை|escherichia coli|
-இசுக்கியம்|ischium|
-இசேயர் (இணையச் சேவையளிப்போர்)|ISP (Internet Service Provider)
-இசைக் கருவி எண்ணியல் இடைமுகம் (இகவெயி)|Musical Instrument Digital Interface (MIDI)
-இசைவளை|spline|
-இசைவளைப் பொருத்தல்|spline fitting|
-இசைவு|harmony|consistency - இயைபுமை
-இட மாற்றியம்|position isomerism|
-இடக்கலப்பு|sparse|
-இடக்கலப்பு அணி|sparse array|
-இடக்கலப்புத் தளவணி|sparse matrix|
-இடக்கிளை (அனரி)|C arm (RNA)|
-இடக்குறிப்புத் தண்டு|ranging rod|
-இடக்கை அமைப்பு|left-handed system|
-இடங்குறித்தல்|ranging (surveying)|
-இடச்சு|Dutch|
-இடச்சுப் பிணைப்பு|Dutch bond|
-இடஞ்சுழி|anticlockwise|
-இடது நேர்த்தியாக்கு|left justify|
-இடத்திருப்பு|levororatory|
-இடநிலை|position|
-இடப்பக்க எல்லை|left hand limit|
-இடப்பெயர்ச்சி (எந்திரவியல்)|displacement|
-இடப்பெயர்ச்சி (மரபியல்)|translocation|
-இடப்பெயர்ச்சி (விலங்கியல்)|locomotion|
-இடப்பெயர்ச்சி வினை|displacement reaction|
-இடமாறிய|ectopic|
-இடமாற்றியம்|tautomerism|
-இடமாற்றூக்கி|mutase|
-இடர்|hazard|
-இடர்குறைத்தல்|mitigation|
-இடர்தரு கழிவு|hazardous waste|
-இடர்ப்பாடு|difficulty|
-இடவியமாற்றியமூக்கி|topoisomerase|
-இடவியல்|topology|
-இடிமான |destructive|
-இடிமானம்|destruction|
-இடுகை|post (internet)|
-இடுக்கி|tongs|
-இடுதுளை|stoma (medicine)|
-இடுதொகுதி|batch|
-இடுப்பக இடைத்திரை|pelvic diaphragm|
-இடுப்பக வளையம்|pelvic girdle|
-இடுப்பகம்|pelvis|
-இடுப்பு|hip|
-இடுப்புச் சிரை|sciatic vein|
-இடுப்புத் தமனி|sciatic artery|
-இடுப்பெலும்பு|coxa|
-இடுரானிக அமிலம்|iduronic acid|
-இடுனர்|layer (brick or tile)|
-இடேனியலின் மின்கலம்|Daniel cell|
--இடை|inter-|
-இடை அடித்தோற்றிசு|lacunate collenchyma|
-இடை ஆக்கத்திசு|intercalary meristem|
-இடைக்கட்டம்|interphase|
-இடைக்கூழ்த்திசு|mesenchyma|
-இடைக்கோடு|hyphen|
-இடைக்கோளம்|mesosphere|
-இடைச்சவ்வற்ற|aseptate|
-இடைச்சவ்வு|septum|
-இடைச்சவ்வுள்ள|septate|
-இடைச்சிறுகுடல்|jejunum|
-இடைச்சிறுநீர|mesonephric|
-இடைச்சிறுநீரம்|mesonephros|
-இடைச்சுவர் சூலொட்டுமுறை|superficial placentation|retaining wall - தடுப்புச் சுவர்
-இடைத்திரை|diaphragm|
-இடைத்திரை பெ.அ|phrenic|
-இடைத்தோல்|mesoderm|
-இடைநிரப்பல்|interpolation|
-இடைநிலை|intermediate|
-இடைநிலை ஓம்புனர்|intermediate host|
-இடைநிலை மரபுபெறல்|intermediate inheritance
-இடைநிலைக் கல்வி|intermediate education
-இடைநில்|pause|
-இடைநிறுத்து|suspend|
-இடைநேரம்|interval|
-இடைநோக்கு (நிலமளப்பு)|intermediate sight (surveying)
-இடைப்படலம்|mesentery|
-இடைப்படு|interstitial|
-இடைப்பட்டை|interband|
-இடைப்பாலினம்|intersex|
-இடைப்பிரி|septicidal|
-இடைப்பின்னிய|interlaced|
-இடைப்பின்னு|interlace|
-இடைப்பூட்டு|interlock|
-இடைப்பொருள் (வேதி வினையில்)|intermediate (in a chemical reaction)
-இடைமஞ்சரி|intercalary inflorescence
-இடைமதிப்புத் தேற்றம்|mean value theorem|
-இடைமறை|eclipsed|
-இடைமறைப்பு|eclipse|
-இடைமனிதர்|middleman|
-இடைமாறு|interchange|
-இடைமாற்றக் குழல்|exchange vessel|
-இடைமாற்றச்சீட்டு|bill of exchange|
-இடைமாற்று|exchange|
-இடைமாற்று|swap|
-இடைமுகக் கோணம்|interfacial angle|
-இடைமுகம்|interface|
-இடைமுகவணு|interstitial cell|aka Leydig cell
-இடைமுகவணு|Leydig cell|aka interstitial cell
-இடைமுகவணு தூண்டுநீர்|interstitial cells stimulating hormone
-இடைமுளையம்|mesoblast|
-இடைமூடுறை|tunica media|
-இடைமூளை|diencephalon|
-இடைய-|meso-|
-இடைய- (வேதியியல்)|meta- (chemistry)|
-இடைய வழிநடத்தி|meta directing (chemistry)
-இடையத் தசை|pars intermedia|
-இடையன்|shepherd|
-இடையாச்சாலிக அமிலம்|mesoxalic acid|
-இடையிடம்|mediastinum|
-இடையிட்ட கோடு|dashed line|
-இடையிணைப்பு|interconnection|
-இடையொட்டு|infix|
-இடைவளரி|diaphysis|
-இடைவாழ்தாவரம்|mesophyte|
-இடைவிட்ட|intermittent|
-இடைவினை|interaction|
-இடைவினை பல்லூடகம்|interactive multimedia|
-இடைவெளி|blank|
-இடைவெளி (தட்டச்சு)|space (typing)|
-இடைவெளியன்|spacer|இடையன் - shepherd
-இணக்கமான|conformable|
-இணக்கி|modem|
-இணக்கிறக்கி|demodulator|
-இணக்கேற்றக் காரணி|modulation factor|
-இணக்கேற்றச் சுட்டெண்|modulation index|
-இணக்கேற்றம்|modulation|
-இணக்கேற்றி|modulator|
-இணங்க-|ortho- |
-இணங்க எதிர வழிநடத்தி|ortho para directing|
-இணங்க நீரியம்|ortho-hydrogen|
-இணங்குவித்தல்|suasion|
-இணு|bit (computer)|
-இணுப்படம்|bitmap|
-இணை|pair|
-இணை-|syn-|
-இணையான அலசல்|concurrent processing|aka parallel processing
-இணை மின்சுற்று|parallel circuit|
-இணைகட்ட|in phase|
-இணைகரம்|parallelogram|
-இணைக்கட்டல்|coupling  |சந்தி - junction
-இணைக்கட்டல் மாறிலி|coupling constant|
-இணைக்கட்டி|coupler|
-இணைக்கட்டு|couple v|
-இணைக்கட்டுநீக்கி|uncoupler|
-இணைக்குழி|complementary pit|
-இணைக்குழிப்பை உயிரணு|parafollicular cell|
-இணைத்தைபனையம்|paratyphoid|
-இணைத்தைராயிடு|parathyroid|
-இணைத்தைராயிடு இயக்குநீர்|parathormone|aka parathyroid hormone
-இணைத்தைராயிடு இயக்குநீர்|parathyroid hormone|aka parathormone
-இணைபடமாக்கல்|mapping (mathematics)
-இணைபடம்|map (mathematics)|graph - வரைபடம்
-இணைப் பொருளாதாரம்|parallel economy|
-இணைப்ப|connective|
-இணைப்பக்குழலம்|desmotubule|
-இணைப்பத் திசு|connective tissue|
-இணைப்பி|connector|
-இணைப்பு|connection|
-இணைப்பூஞ்சின|zygomycotina|
-இணைப்பெருக்கணு|zygote|
-இணைம|pairwise|
-இணைம இறகன|paripinnate|
-இணைம நேரமைத்தல்|pairwise alignment|
-இணைமமுறா எலட்டிரான்|unpaired electron|
-இணைமமுற்ற எலட்டிரான்|paired electron|
-இணைமம்|parity|internet - இணையம்; conjugation - இணைவம்
-இணைமம் சரிகாணல்|parity check|
-இணைமலா இறகன|imparipinnate|
-இணைமவிணு|parity bit|
-இணைமவித்து|zygospore|
-இணைமவிழை நிலை|zygotene stage|
-இணைய ஆய்வுலாவர்|Internet Explorer|
-இணைய வங்கியம்|internet banking|
-இணைய விதிமுறை (இவி)|internet protocol (IP)|
-இணைய விளம்பரம்|internet advertising|
-இணையச் சேவையர்|web server|
-இணையச் சேவையளிப்போர் (இசேயர்)|Internet Service Provider (ISP)
-இணையத் தளம்|internet site|aka web site
-இணையத் தளம்|web site|aka internet site
-இணையம்|internet|parity - இணைமம்; conjugation - இணைவம்
-இணையான அலசல்|parallel processing|aka concurrent processing
-இணையவழி|online|
-இணையவழி மனித மெண்டலிய மரபுபெறல் (இம்மெம்)|online Mendelian Inheritance in Man (OMIN)
-இணையவழி வியாபாரம்|online trading|
-இணையவழிக் கல்வி|online education|
-இணையவழிச் சேவைகள்|online services|
-இணையான|parallel|இணை - pair
-இணையான கோடுகள்|parallel lines|
-இணையான தசை|parallel muscle|
-இணையான நரம்பமைப்பு|parallel venation|
-இணையான வேதிவினைகள்|parallel reactions|
-இணைவ|conjugate|
-இணைவ அச்சு|conjugate axis|
-இணைவ அமிலம்|conjugate acid|
-இணைவக்குழல்|conjugation tube|
-இணைவடிவச்சீரான|zygomorphic|
-இணைவடிவச்சீர்|zygomorphy|
-இணைவம்|conjugation|parity - இணைமம்; internet - இணையம்
-இணைவு|conjugation (in bacterial and fungal reproduction)
-இண்டியம்|indium|
-இண்டோல்|indole|
-இதய மாற்றுநடவு|heart transplant|
-இதய முணுமுணுப்பு|heart murmur|
-இதய முனைவு சிகிச்சைப் பிரிவு|intensive coronary care unit
-இதய மேலறை|atrium (heart)|aka auricle
-இதய மேலறை|auricle (heart)|aka atrium
-இதய விரிசல்|heart shake|
-இதயக் கீழறை|ventricle (heart)|
-இதயக் குருதிகட்டித்தல்|coronary thrombosis|
-இதயக் குருதிக்குழல்|coronary blood vessel|
-இதயக்கீழறை முன்குறுங்கல்|premature ventricular contraction
-இதயச் சுழற்சி|cardiac cycle|
-இதயஞ்சூழ் நார்ச் சவ்வு|fibrous pericardium|
-இதயஞ்சூழ் நீர்ச்சவ்வு|serous pericardium|
-இதயஞ்சூழ் பாய்மம்|pericardial fluid|
-இதயஞ்சூழ்ச் சவ்வு|pericardium|
-இதயத் தசை|cardiac muscle|
-இதயத் தசையிறப்பு|myocardial infarction|
-இதயத் தடுப்பு|heart block|
-இதயத் தமனி|coronary artery|
-இதயத் திசு|cardiac tissue|
-இதயத்தசைச்சுவரழற்சி|myocarditis|
-இதயத்தசைச்சுவர்|myocardium|
-இதயநுரையீரல் மீட்டெழுப்பல்|cardiopulmonary resuscitation
-இதயப் புறவழி அறுவைசிகிச்சை|coronary bypass surgery
-இதயப்பக்க இரைப்பை|cardiac stomach|
-இதயம்|heart|
-இதயம் நின்றுவிடல்|cardiac arrest|
-இதயவரைவு|cardiography|
-இதயவுள்ளுறை|endocardium|
-இதயவுள்ளுறையழற்சி|endocarditis|
-இதயவெளியுறை|epicardium|
-இதழடுக்கம்|aestivation|phyllotaxy - இலையடுக்கம்
-இதழனைய மலருறை|petaloid perianth|
-இதழிணைந்த|gamopetalous|
-இதழிணைந்தன|gamopetalae|
-இதழிணையா|ploysepalous|
-இதழொட்டிய|epipetalous|epiphyllous - இலையொட்டிய
-இதழ்|petal|lily - அல்லி
-இதுவே நிரூபிக்க வேண்டியது (இநிவே)|quod erat demonstrandum (QED)
-இத்திரியம்|yttrium|
-இத்தேபியம்|ytterbium|
-இநாது (இந்திய நாட்டுத் துணைக்கோள் அமைப்பு)|INSAT (Indian National Satellite System)
-இநிகு (இந்திய நிதியமைப்புக் குறி)|IFSC (Indian Financial System Code)
-இநிடியீ|NADH|NAD+ - ஏநிடியீ
-இநிவே (இதுவே நிரூபிக்க வேண்டியது)|QED (quod erat demonstrandum)
-இநீபி (இருநீர்மூச்சியபினைலலனின்)|DOPA (dihydroxyphenylalanine)
-இந்திய|Indian|
-இந்திய அரசாங்கம்|Government of India|
-இந்திய ஆண் ஆதி (உணவூட்டம்)|Indian Reference Man|
-இந்திய ஆயுட் காப்பீட்டுக் கூட்டகம்|Life Insurance Corporation of India
-இந்திய இருப்புவைப்பு வங்கி (இவிவ)|Reserve Bank of India (RBI)
-இந்திய ஈட்டாவண மாற்றகங்கள் வாரியம் (ஈமா)|Securities and Exchange Board of India (SEBI)
-இந்திய உணவுக் கூட்டகம்|Food Corporation of India
-இந்திய நாட்டுத் துணைக்கோள் அமைப்பு (இநாது)|Indian National Satellite System (INSAT)
-இந்திய நிதியமைப்புக் குறி (இநிகு)|Indian Financial System Code (IFSC)
-இந்திய மக்கள் கட்சி (இமக)|Bharatiya Janata Party (BJP)
-இந்திய மருத்துவ ஆய்வு மன்றம்|Indian Council of Medical Research
-இந்திய வணிக மற்றும் தொழிலகக் கழகங்களின் கூட்டமைப்பு|Federation of Indian Chamber of Commerce and Industry
-இந்திய வெளியாய்வு ஒருங்கமைப்பு (இவெவொ)|Inidan Space Research Organization (ISRO)
-இந்திய வேளாண்மை ஆய்வு மன்றம்|Indian Council of Agricultural Research
-இந்தியச் சாளரவழிப் பங்கு மாற்றகம் (சாமா)|Over the Counter Exchange of India (OTCEI)
-இந்தியச் செந்தரப் பயிலகம்|Indian Standards Institute
-இந்தியத் தாவரவியல் கணிப்பு|Botanical Survey of India
-இந்தியத் தேசியப் பேராயம்|Indian national congress
-இந்தியத் தேனீ|Apis indica|
-இந்தியத் தொலையுணரிக்கோள்|Indian Remote Sensing Satellite
-இந்தியத் தொழிலக வளராக்க வங்கி|Industrial Development Bank of India
-இந்தியத் தொழிலகக் கடன் மற்றும் முதலீட்டுக் கூட்டகம்|Industrial Credit and Investment Corporation of India
-இந்தியப் பெண் ஆதி (உணவூட்டம்)|Indian Reference Woman
-இந்தியாவின் எஃகு அதிகாரம்|Steel Authority of India, The (SAIL)
-இந்தூர்|Indore|
-இமக (இந்திய மக்கள் கட்சி)|BJP (Bharatiya Janata Party)
-இமிடசோலிய|imidazolyl|
-இமிடசோல்|imidazole|
-இமீன்|imine|
-இமைக்குழைமம்|blepharoplast|
-இமைடு|imide|
-இமைப்புண்|trachoma|
-இம்மெம் (இணையவழி மனித மெண்டலிய மரபுபெறல்)|OMIN (online Mendelian Inheritance in Man)
-இம்மொலி|humming|
-இயக்க|dynamic|
-இயக்க அகையெண்கள்|degrees of freedom|
-இயக்க ஆற்றல்|kinetic energy|
-இயக்க ஒதுக்கீடு|dynamic allocation|
-இயக்கக்குழைமம்|kinetoplast|
-இயக்கச் சமனமாக்கல்|dynamic balancing|
-இயக்கச் சமன்பாடு|equation of motion|
-இயக்கடக்கு|shutdown|
-இயக்கமூட்டு (கணினியி்யல்)|startup (computer)|
-இயக்கம்|movement|
-இயக்கவித்து|zoospore|
-இயக்கவியல்|dynamics|
-இயக்கவூக்கி|kinase|
-இயக்கன்|kinetin|
-இயக்குநீர்|hormone|
-இயக்குநீர் புரதம்|hormonal protein|
-இயக்குநீர்ச் சிகிச்சை|hormonal treatment|
-இயக்குவரை|directrix|locus - இயங்குவரை
-இயக்குனரவை|board of directors|
-இயக்குனர்|director|
-இயங்காவித்து|akinete|
-இயங்குமின்|electrodynamic|
-இயங்குமுறை|mechanism|
-இயங்குமை|motility|
-இயங்குவரை|locus (math)|directrix - இயக்குவரை
--இயம்|-ium|
-இயலண்ணீரலின்|noradrenalin|aka norepinephrine
-இயலண்ணீரலின்|norepinephrine|aka noradrenalin
-இயலாட்சியம்|physiocracy|
-இயலாமை|inability|
-இயலாமை|incapacity|
-இயலுலர் வாழிடம்|physically dry habitat|
-இயலுறு|feasible|
-இயலுறு மறுவழிகள்|feasible alternatives|
-இயலுறுமை|feasibility|
-இயலுறுமை ஆய்வறிதல்|feasibility study|
-இயலுறை|integument|
-இயலுறை அமைப்பு|integumentary system|
-இயலெண்கள்|natural numbers|
-இயல்-|nor-|
-இயல் நிழலுரு|real image|
-இயல் வளிமம்|real gas|
-இயல்பற்ற|abnormal|
-இயல்பாக்கல்|normalization|
-இயல்பாக்கிய தாவரச்செழுமை வேறுபாட்டுச் சுட்டெண்|normalized difference vegetation index
-இயல்பான|normal|
-இயல்பி|vulgaris|
-இயல்பிட|in situ|
-இயல்பின்மை|abnormality|
-இயல்புநீக்கம்|denaturation|
-இயல்புநீக்கு|denature|
-இயல்புப் பரவல்|normal distribution|
-இயல்புமீறிய|surrealistic|
-இயல்புரை|plain text|
-இயல்வேதி|physicochemical|
-இயற் கேட்பொலி|realAudio|
-இயற் பண்புகள்|physical properties|
-இயற்கட|transcend|
-இயற்கணிதம்|algebra|
-இயற்கூட்டுத்தொகை|algebraic sum|
-இயற்கை அழிவுறாக்காத்தல்|The Nature Conservancy
-இயற்கை அறிவியல்கள்|natural sciences|physical sciences - இயற்பிய அறிவியல்கள்
-இயற்கை வளக் காப்பு மன்றம்|Natural Resources Defense Council
-இயற்கை வளங்கள்|natural resources|
-இயற்கைக்கான உலகளாவிய நிதியம்|Worldwide Fund for Nature
-இயற்கைத் தேர்வு|natural selection|
-இயற்கொல்லி உயிரணுக்கள்|natural killer cells|
-இயற்சூழலில்|in vivo |
-இயற்பிய அறிவியல்கள்|physical sciences|natural sciences - இயற்கை அறிவி்யல்கள்
-இயற்பிய வேதியியல்|physical chemistry|
-இயற்பியர்|physicist|
-இயற்பியல்|physics|
-இயன்மை|ability|
-இயைபற்ற|inconsistent|
-இயைபாக|consistently|
-இயைபான|consistent|
-இயைபின்மை|inconsistency|
-இயைபுமை|consistency|harmony - இசைவு
-இயோசின்|eosin|
-இயோசின்விரும்பி|eosinophil|
-இரட்டித்தல்|replication|
-இரட்டித்தல் குமிழி|replication bubble|
-இரட்டித்தல் பிளவு|replication fork|
-இரட்டிப்பி|replicon|
-இரட்டிப்பு நேரம்|doubling time|
-இரட்டை (இயற்பியல்)|couple n|
-இரட்டை (உயிரியல், வேதியியல்)|dyad|
-இரட்டை (நிறமாலையியல்)|doublet|
-இரட்டை அடர்வு|double density|
-இரட்டை இணைமம்|even parity|
-இரட்டை ஒடுங்கு மேல்நிற்றல்|duplicate recessive epistatis
-இரட்டை ஓங்கு மேல்நிற்றல்|duplicate dominant epistasis
-இரட்டை நீள்துளைக் கண்டு|two slot winding|
-இரட்டை மூலக்கூறு நீக்க வினை|bimolecular elimination reaction
-இரட்டை மேற்கோள்|double quotes|
-இரட்டை வரியிடை|double spacing|
-இரட்டைக் கரிமமிலம்|dicarboxylic acid|
-இரட்டைக் கருவுறுதல்|double fertilization|
-இரட்டைக் காட்சி|dual view|
-இரட்டைக் கிடையிழை|double strand|
-இரட்டைக் குடிமகர்மை|dual citizenship|
-இரட்டைக்கருவின|binucleate|
-இரட்டைக்கலப்பினம்|dihybrid|
-இரட்டைக்கலப்பு விகிதம்|dihybrid ratio|
-இரட்டைச் சிதைவுறுதல்|double decomposition|
-இரட்டைச் சொடுக்கு|double click|
-இரட்டைத் திருகம்|double helix|
-இரட்டைத் துல்லியம்|double precision|
-இரட்டைப் படலக் கண்டு|double layer winding|
-இரட்டைப் பிணைப்பு|double bond|
-இரட்டைப்பதிகை|double entry|
-இரட்டைப்பிணைப்பூக்கி|lyase|
-இரட்டைமடலுடைய|bilobed|
-இரட்டைமணியம்|diplococcus|
-இரட்டைமரபெண் பெ|diploidy|
-இரட்டைமரபெண் பெ. உ|diploid|
-இரட்டைமூலக்கூறு அணுக்கருவிருப்பப் பதிலீட்டு வினை|bimolecular nucleophilic substitution reaction
-இரட்டையயனி|zwitterion|
-இரட்டையிறக|bipinnate|
-இரட்டையிறகன|diptera|
-இரண்டாமை|secondary|
-இரண்டாமை உப்பாக்கைடு|secondary halide|
-இரண்டாமை ஐந்தவேன்  |secondary pentane|
-இரண்டாமை நினைவகம்|secondary memory|
-இரண்டாமை நுகர்வோர்|secondary consumer|
-இரண்டாமை மின்கலம்|secondary electric cell|
-இரண்டாமை வேர்|secondary root|
-இரண்டாமைக் கட்டமைப்பு|secondary structure|
-இரண்டாமைக் கரிமம்|secondary carbon|
-இரண்டாமைக் கல்வி|secondary education|intermediate education - இடைநிலைக் கல்வி
-இரண்டாமைக் குழிப்பை|secondary follicle|
-இரண்டாமைச் சிறுகுழல்|secondary bronchus|
-இரண்டாமைச் செயற்பாடு|secondary function|
-இரண்டாமைச் சேமகம்|secondary storage|
-இரண்டாமைப் பாலினப் பண்பு|secondary sexual character
-இரண்டாம் இகோவ|EcoRII|
-இரண்டாம் இடைக் கட்டம்|metaphase II|
-இரண்டாம் இடைவெளிக் கட்டம்|gap-2 phase|
-இரண்டாம் இறுதிக் கட்டம்|telophase II|
-இரண்டாம் கூட்டுமம் (கூ2)|complex II |
-இரண்டாம் தொடக்கக் கட்டம்|prophase II|
-இரண்டாம் தொடுவிகித நிலை (இ தொவி நிலை)|tan B position|
-இரண்டாம் நகர்வுக் கட்டம்|anaphase II|
-இரண்டாம் புறவூதா|UVB |
-இரண்டாம் முறைமை|second order|
-இரண்டாம் முறைமை வினை|second order reaction|
-இரண்டாம் வகை நீரிழிவு|non-insulin dependent diabetes mellitus (NIDDM)|aka type II diabetes
-இரண்டாம் வகை நீரிழிவு|type II diabetes|aka non-insulin dependent diabetes
-இரண்டாம்வகைக் கல்லீரலழற்சி|Hepatitis B|
-இரண்டாம்வகைக் கல்லீரலழற்சி வைரசு (இகவை)|Hepatitis B Virus|
-இரண்டின் நிரப்பி|two's complement|
-இரதர்பர்டியம்|rutherfordium|
-இரத்தப் கொள்ளைநோய்|septicemic plague|
-இராக்குருடு|nyctalopia|
-இராணிக்கட்டு|ranikhet|
-இராத்திகேயின் பை|Rathke's pouch|
-இராத்தியம்|rothia|
-இராமனின் விளைவு|Raman effect|
-இராம்சியிராலியின் முறை|Ramsay - Raleigh method
-இரான்சம் கல்|ransom stone|
-இரிசாச்சின்|resochin|
-இரிசின்|ricin|
-இரிடியம்|iridium|
-இரிபா (இரிபுலோசு-1,5-இருபாசுவேட்டு)|RuBP (Ribulose-1,5-bisphosphate)
-இரிபுலோசு|ribulose|
-இரிபுலோசு-1,5-இருபாசுவேட்டு (இரிபா)|Ribulose-1,5-bisphosphate (RuBP)
-இரீசு வகை|rhesus type|
-இரீமர்தீமனின் வினை|Reimer-Tiemann reaction
-இரீனியம்|rhenium|
-இரு-|di-|
-இரு விதையிலை|dicot |
-இருகண் பார்வை|binocular vision|
-இருகண்ணோக்கி|binocular|இரு கண் + நோக்கி
-இருகந்தகால்|dithioperoxol|
-இருகந்தகைடு|disulfide|
-இருகரிமமில-|dicarboxyl-|
-இருகரியமிலேட்டு|bicarbonate|
-இருகற்றை மகரந்தத்தாள்கள்|didelphous stamens|
-இருகாது|binaural|
-இருகாவரிசை|deque|
-இருகிளிசரைடு|diglyceride|
-இருகீற்றோபினைலலனின்|dopaquinone|
-இருகுமிழ் தடுக்கிதழ்|bicuspid valve|aka mitral valve
-இருகுமிழ் தடுக்கிதழ்|mitral valve|aka bicuspid valve
-இருகுரோமேட்டு|dichromate|
-இருகுழிந்த|biconcave|
-இருகுளோரோநீர்மூச்சியன்|dichlorohydrin|
-இருகுளோரோவிருபினைல்முக்குளோரோயீத்தேன் (இவிமு)|Dichlorodiphenyltrichloroethane (DDT)
-இருகூரன்|amphioxus|
-இருகோளம்|dumbell|
-இருக்கும் கோப்பைத் திற|open existing file|
-இருசமபக்க முக்கோணம்|isoceles triangle|
-இருசமப் பிரிவு|amitosis|
-இருசமவெட்டி|bisector|
-இருசமவெட்டு|bisect|
--இருசயனலி|-dinitrile|
-இருசீருமையுணவு முட்டை|telolecithal egg|
-இருசுழலி|bicyclic|
-இருசுழல் சேர்மம்|bicyclic compound|
-இருசுழல்வெரீன்|dicyclomine|aka dicycloverine
-இருசுழல்வெரீன்|dicycloverine|aka dicyclomine
-இருசூலிலை|bicarpellary|
-இருசூலிலையன|bicarpellatae|
-இருசொற்றுகள்|bigram|
-இருட்கள நுண்ணோக்கி|dark field microscope|
-இருட்பட்டை|dark band|
-இருதலை அம்புக்குறி|double headed arrow|
-இருதலைத் தசை|biceps|
-இருதிறன்|didynamous|
-இருநாற்கூம்ப|bipyramidal|
-இருநாற்கூம்பு|bipyramid|
-இருநிபந்தனை|bi-conditional|
-இருநிலைப்பு|bistable|
-இருநிறம|dichroic|
-இருநிறமை|dichroism|
-இருநீர்மூச்சிய|dihydric|
-இருநீர்மூச்சிய அசிற்றோன்|dihydroxyacetone|
-இருநீர்மூச்சியபினைலலனின் (இநீபி)|dihydroxyphenylalanine (DOPA)
-இருநீர்மூச்சியமேற்றல்|dihydroxylation|
-இருநெடுக்கை|double column|
-இருநேர்வுமாறி|bivariate|
-இருபக்க|bilateral|
-இருபக்கச் சூல்|amphitropous ovule|
-இருபடலம்|bilayer|
-இருபடி|quadratic|
-இருபடிப் பல்லுறுப்புக்கோவை|quadratic polynomial|
-இருபதவேன்|icosane|
-இருபதுமடியாயிரம்|novemdecillion (short scale)
-இருபதைந்தவீனாயிக அமிலம்|eicosapentaenoic acid|
-இருபத்திரண்டவேன்|docosane|
-இருபத்திரண்டாறவீனாயிக அமிலம்|docosahexaenoic acid|
-இருபத்துநான்கவேன்|tetracosane|
-இருபத்துமூன்றவேன்|tricosane|
-இருபத்தொருமடியாயிரம்|vigintillion (short scale)
-இருபத்தொன்றவேன்|henicosane|
-இருபயன்|dualpurpose|
-இருபரிமாண|two dimensional|
-இருபரிமாண அணி|tow dimensional array|
-இருபனையிக முட்டைக்கொழு|dipalmitoyl lecithin|
-இருபாலின|bisexual|heterosexual - வேற்றுப்பாலின
-இருபாலுயிரி|hermaphrodite|
-இருபாலுயிரிசம்|hermaphrodism|aka hermaphroditism
-இருபாலுயிரிசம்|hermaphroditism|aka hermaphrodism
-இருபிரி|bifurcate|
-இருபிரி படிக்கட்டு|bifurcated stair|
-இருபிரிவன்|dichasium|
-இருபிரிவாக்கும்|dichotomous|
-இருபிரிவுப்பாட்டீரியம்|bifidobacterium|
-இருபினைல்|diphenyl|
-இருபினைல் கரிமனால்|benzhydrol|
-இருபுறச் சார்பு|bijective function|
-இருப்பகக் காப்பாளர்|warehouse keeper|
-இருப்பகம்|warehouse|
-இருப்பளவு|inventory level|
-இருப்பாய்வு|trial balance|
-இருப்பித்தல்|fixation|imbedding - பதித்தல்
-இருப்பு|stock (inventory)|
-இருப்பு மீட்சுழல் விகிதம்|stock turnover ratio|
-இருப்புக் கட்டுப்பாடு|inventory control|
-இருப்புத் தாள்|balance sheet|
-இருப்புமை|existence|
-இருப்புவைப்பு|reserve n|stock - இருப்பு
-இருப்புவைப்பு மூலதனம்|reserve capital|
-இருப்பெடுப்பு|inventory|
-இரும-|bi-|
-இரும-|bis-|
-இரும இலக்கம்|binary digit|
-இரும உடன்கால தகவற்றொடர்பு (இவுத)|BSC (Binary synchronous Communication)
-இருமக் கணக்கீடுகள்|binary arithmetic|
-இருமக் கரைசல்|binary solution|
-இருமக் கூட்டல்|binary addition|
-இருமச் செயலம்|binary operation|
-இருமச் செயலி|binary operator |
-இருமடங்காதல்|duplication|
-இருமடல் மகரந்தத்தாள்|dithecous stamen|
-இருமடியாயிரத்தில் ஒரு பங்கு (இவொப)|part per million (ppm)|
-இருமடியாயிரம்|million|
-இருமத் தேடல்|binary search|
-இருமப் பிளவுறுதல்|binary fission|
-இருமம் (கணிதம்)|binary|
-இருமம் (பன்மமறிவியல்)|dimer|
-இருமிய நீரியக்கரிமம்|deutero hydrocarbon|
-இருமியம்|deuterium|
-இருமிர|amphoteric|
-இருமின்வாய்|diode|anode - எதிர்மவாய்; cathod - நேர்மவாய்
-இருமுளையப்பல்|diphyodont|
-இருமுறை எண்ணுதல்|double counting|
-இருமுனை|dipole|
-இருமுனைக் கசையிழை|amphitrichous|
-இருமுனைத் திருப்புதிறன்|dipole moment|
-இருமை|duality|
-இரும்பக்காந்தம்|ferromagnetism|
-இரும்பசயனைடு|ferrocyanide|
-இரும்பனையகாந்தம்|ferrimangetism|
-இரும்பிக|ferric|
-இரும்பிக இரும்பசயனைடு|ferric ferrocyanide|
-இரும்பிச|ferrous|
-இரும்பு|iron|
-இரும்பு மூச்சியைடு|iron oxide|
-இரும்பு(II)|iron(II)|
-இரும்புக்கடத்தி|siderophilin|
-இரும்புக்குரோம்|ferrochrome|
-இரும்புமாற்றி|transferrin|
-இரும்புமூச்சிய இறக்க வினையாகி|ferredoxin reducing substrate
-இரும்புமூச்சியப்புரதம்|ferredoxin|
-இருவடிவ|dimorphic|
-இருவடிவுமை|dimorphism|
-இருவழி கிளைத்தல்|two way branching|
-இருவழி நிலமம்|duplex mode|
-இருவழிக் குறுக்கு இனவளர்ப்பு|reciprocal cross breeding
-இருவழிச்சொல்|palindrome|
-இருவழிமாற்றம்|amphibolism|
-இருவிதையிலையின|dicotyledonae|
-இருவெட்டிகள்|diatoms|
-இருவெட்டியால்கவை|Bacillariophyceae|
-இருவோடன்|bivalve|
-இருவோடன்கள்|bivalvia|aka pelecypoda
-இருவோடன்கள்|lamellibranchia|aka bivalvia
-இருவோடன்கள்|pelecypoda|aka lamellibranchia
-இருள்வினை|dark reaction|
-இரெனால்டின் எண்|Reynold's number|
-இரேடான்|radon|
-இரேடியம்|radium|
-இரைக்கடு மெய்சலின் எண்|Reichert-Meissl number
-இரைபிடால்|ribitol|
-இரைபோசு|ribose|
-இரைப்பை|stomach|
-இரைப்பை நீர்|gastric juice|
-இரைப்பைக்குடலழற்சி|gastroenteritis|
-இரைப்பைக்குடலியல்|gastroenterology|
-இரைப்பைக்குடற்சுவடு|gastrointestinal tract|
-இரைப்பைச் சுரப்பி|gastric gland|
-இரைப்பைநீரியக்கி|gastrin|
-இரைப்பைநோக்கல்|gastroscopy|
-இரைப்பைப்புண்|gastric ulcer|
-இரைப்பைமணியம்|ruminococcus|
-இரைப்பையழற்சி|gastritis|
-இரையூக்கி|pepsin|
-இரையூக்கியாக்கி|pepsinogen|
-இரைவானம்|eaves|மழைநீரைக் கீழே இரைப்பது
-இரோலின் தேற்றம்|Rolle's theorem|
-இரௌல்ட்டின் விதி|Roult's law|
-இலகிராஞ்சியின் வாய்ப்பாடு|Lagrange's formula|
-இலக்கலாஞ்சியின் மின்கலம்|Leclanche cell|
-இலக்கு|target|
-இலக்கு நிரல்|object program|
-இலக்குழல்|digitron|
-இலசுமனிய வடிவம்|leishmanial form|
-இலசுமனியநோய்|leishmaniasis|
-இலசுமனியம்|leishmania|
-இலடரர் மனாசியின் வினை|Lederer-Manasse reaction
-இலதாக்கு|switch off|aka unset
-இலதாக்கு|unset|aka  switch off
-இலது (மாற்றி)|off (switch) |
-இலந்தனம்|lanthanum|
-இலந்தனவன்ன|lanthanide|
-இலமார்க்கிசம்|lamarckism|
-இலவச மென்பொருள்|freeware|
-இலவாவின் சோதனை|Laue experiment|
-இலாப்பிற்றலின் விதி|l'hopital rule|
-இலாமியின் தேற்றம்|Lami's theorem|
-இலாரன்சியம்|lawrencium|
-இலாரன்சின் விசை|Lorentz force|
-இலாரிக அமிலம்|lauric acid|
-இலாலிகோ|loligo|
-இலிட்டர்|liter|
-இலித்தராயிடு தாள்|Leatheroid paper|
-இலித்தரியங்கள்|listeria|
-இலித்தியம்|lithium|
-இலினசு செயற்பாடமைப்பு|Linux operating system
-இலீமர்|lemur|
-இலெகார்ன்|Leghorn|
-இலெனின்கிராடு|Leningrad|
-இலென்சின் விதி|Lenz's law|
-இலை|leaf|
-இலைக்காம்பு|petiole|phyllode - காம்பிலை
-இலைக்குயினோன்|phylloquinone|
-இலைக்குறுக்க நோய்|little leaf disease|leaflet - சிற்றிலை
-இலைக்கொக்கிகள்|leaf hooks|
-இலைக்கோசு|cabbage|cauliflower - பூக்கோசு
-இலைச்சுருள் நோய்|leaf-roll disease|
-இலைத்தளம்|phylloplane|aka phillosphere
-இலைத்தளம்|phyllosphere|aka philloplacne
-இலைத்துளை|stoma (botany)|
-இலைப்பற்றிழை|leaf tendrils|epiphyllous - இலையொட்டிய
-இலைமநோய்|lyme disease|
-இலைமனின் தொடர்|Lyman series|
-இலைமுட்கள்|leaf spines|
-இலைய|foliose|
-இலையங்கள்|folia|
-இலையடி|leaf base|
-இலையடிச்செதிலற்றவை|estipulate|aka exstipulate
-இலையடிச்செதிலற்றவை|exstipulate|aka estipulate
-இலையடிச்செதிலுள்ளவை|stipulate (botany)|
-இலையடிச்செதில்|stipule|
-இலையடுக்க|foliated|
-இலையடுக்கம்|phyllotaxy|aestivation - இதழடுக்கம்
-இலையம்|folium|
-இலையிடைத்திசு|mesophyll|
-இலையுதிரி|deciduous|
-இலையுதிர் வனம்|deciduous forest|
-இலையொட்டிய|epiphyllous|leaf tendril - இலைப் பற்றிழை
-இல்லல்லது|NOR (computer)|A இல்லல்லது B - A அல்லது B இல்லாதது
-இல்லாமை|nonexistence|
-இல்லும்மை|NAND|A இல்லும்மை B - Aயும் B இல்லாததும்
-இல்லை (computer)|NOT (computer)|
-இல்லை வாயில்|NOT gate|
-இவசை|pan (movement)|
-இவசைதல்|panning|
-இவி (இணைய விதிமுறை)|IP (internet protocol)|
-இவிமு (இருகுளோரோவிருபினைல்முக்குளோரோயீத்தேன்)|DDT (dichlorodiphenyltrichloroethane)
-இவிவ (இந்திய இருப்புவைப்பு வங்கி)|RBI (Reserve Bank of India)
-இவுத (இரும உடன்கால தகவற்றொடர்பு)|Binary synchronous Communication (BSC)
-இவெவொ (இந்திய வெளியாய்வு ஒருங்கமைப்பு|ISRO (Indian Space Research Organization)
-இவொப (இருமடியாயிரத்தில் ஒரு பங்கு)|ppm (part per million)|
-இழந்துபெறல்|trade-off|
-இழப்பிலா|lossless|
-இழப்பிலா அமுக்கம்|lossless compression|
-இழப்பு|loss|profit - பெறுமம்
-இழப்பு அஞ்சல்|dead letter|
-இழப்புடை|lossy|
-இழப்புடை அமுக்கம்|lossy compression|
-இழுகதவு|shutter|
-இழுகயிறு|drawstring|
-இழுதம்|elastin|
-இழுதுகள்|scyphozoa|
-இழுதுமீன்|jellyfish|
-இழுத்து விடு|drag and drop|
-இழுப்பிடம்|kinetochore|
-இழும|elastic adj|
-இழுமடி|frenum|
-இழுமத் தமனி|elastic artery|
-இழுமப் பண்பு|elastic property|
-இழுமமீட்சி எல்லை|elastic limit|
-இழுமமீட்சி வலிமை|elastic strength|
-இழுமமீட்சி வீச்சு|elastic range|
-இழுமம்|elastic n|
-இழுமனூக்கி|elastase|
-இழுமை|elasticity|plasticity - நெகிழ்மை
-இழுமையற்ற|inelastic|
-இழுவை|tractor|
-இழுவைமாடு|draught breed|
-இழைநுண்ணுயிரி|hyphomicrobium|
-இழைந்த மகரந்தத்தாள்கள்|syngenesious stamens|
-இழைய ஒளியிய|fiber optic|
-இழைய ஒளியியல்|fiber optics|
-இழையக் கண்ணாடி|fiber glass|
-இழையப்பலகை|fiber board|
-இழையப்புரதமாக்கி|fibrinogen|
-இழையப்புரதம்|fibrin|
-இழையப்பூஞ்சை|rhizopus|
-இழையமிகைப்பு|fibrosis|
-இழையமைவு|texture|
-இழையம்|fiber|
-இழையா மகரந்தத்தாள்கள்|polyandrous|
-இழையாகி|treponema|
-இழையாகிப் பேலிடம்|treponema pallidum|
-இழையாகிப்பேலிடம் கீம்பசையொட்டல் சோதனை (இகீசோ)|Treponema Pallidum Haemagglutination Test (TPHA
-இழையாக்கல்|threading|
-இழையிறகு|filoplume|
-இழையுருப்பிரிவு|mitosis|
-இழையுருள நோய்|filariasis|
-இழையுருளப் புழு|filarial worm|
-இழையுருளம்|filaria|
-இழைவழிச்சேர்க்கை|chalazogamy|
-இளக்கி|flux (metallurgy)|
-இளநிலை|junior|
-இளந்தளிர்|turion|
-இளந்தாங்கல்|gestation|
-இளந்தாங்கு|gestate|
-இளந்தாங்கு முன்னியக்குநீர்|progesterone|
-இளமுமிழ்|oxytocic|
-இளமுமிழ்தம்|oxytocin|
-இளமுமிழ்தல்|oxytocia|
-இளம்பச்சைநெளியம்|chloroflexus|
-இளம்பச்சைநெளியனையன|chloroflexuaceae|
-இளம்பச்சைப் புரதச் சோதனை|xanthoproeic test|
-இளம்பச்சைப் புரதம்|xanthoprotein|
-இளம்பச்சையம்|chlorobium|
-இளம்பச்சையலகியம்|xanthomonas|
-இளம்பச்சையனையன|chlorobiaceae|
-இளம்பச்சையால்கவை|Xanthophyceae|
-இளம்பெறல்|parturition|குட்டி போடுதலுக்கும் குழந்தை பெறுதலுக்கும் பொதுவானது
-இளவர்|minor (person)|
-இளித்தல்|grinning|
-இறக|pennate|
-இறகற்ற சுவடுகள்|apteria|
-இறகற்றவை|aptera|
-இறகிணையான|pinnately parallel|
-இறகு|feather|
-இறகு (தாவரவியல், விலங்கியல், உடலமைப்பியல்)|pinna|wing - சிறகு
-இறகு (பறவையியல்)|penna|
-இறகுக் கூட்டிலைகள்|pinnately compound leaves
-இறகுச்சுவடு|pteryla|
-இறகுத்தசைய|bipennate|
-இறகுத்தண்டுவாலி|archeopteryx|
-இறகுமெலனின்|eumelanin|
-இறகுவலை|pinnately reticulate|
-இறக்கிடை|indent  (trade)|
-இறக்குமதி|import|
-இறக்குமதி இடையகம்|indent house|
-இறக்குமதியாளர்|importer|
-இறக்கை (விசிறி)|blade (fan)|
-இறங்கற்சீட்டு|bill of landing|
-இறங்கிடம்|landing|
-இறங்கு சார்பு|decreasing function|
-இறங்கு முறைமையாக்கு|sort descending|
-இறங்குதழுவு இதழடுக்கம்|descendingly imbricate aestivation
-இறங்குதாள் நிறப்பிரிகை|descending paper chromatography
-இறங்குபெருங்குடல்|descending colon|
-இறப்படை|necrose|
-இறப்பு வீதம்|death rate|
-இறப்பு வெப்பநிலை|thermal death point|
-இறப்புப் பிழை|fatal error|
-இறால்|prawn|
-இறுக்கமான|rigorous|
-இறுதி நிலை|final state|
-இறுதிக் கணக்கு|final account|
-இறுதித் திசைவேகம்|terminal velocity|
-இறுதித்தட்டு|end plate|
-இறுதிப் பிழைப்பர் காப்பிதழ்|last survivorship policy
-இறுதிப்புரதையூக்கி|exopeptidase|
-இற்றைக் கலைநிலை|state-of-the-art|
-இற்றைப் படுத்து|up-to-date v|
-இனங்களின் ஆதி|origin of species|
-இனங்காட்டிகள்|identifiers|
-இனங்காட்டு|identify (to someone else)
-இனங்காணற் திறப்பிகள்|identification keys|
-இனங்காண்|identify (for oneself)|
-இனச்சேரம்|clitellum|
-இனச்சேர்க்கை யுறுப்பு|copulatory organ|
-இனத்துள்|intraspecific|
-இனத்துள் போட்டி|intraspecific competition
-இனத்தொகை|population|மக்கட்டொகை - human population
-இனத்தொகை மரபியல்|population genetics|
-இனத்தொகை வெடிப்பு|population explosion|
-இனப்பசையன்|isoagglutinin|
-இனப்பெருக்க அமைப்பு|reproductory system|
-இனப்பெருக்கச் சிறுநீர் பெ.உ|genitourinary|
-இனப்பெருக்கத் தனிமையாதல்|reproductive isolation|
-இனப்பெருக்கம்|reproduction (biology)
-இனமாதல்|speciation|
-இனமிடை|interspecific|
-இனமிடைப் போட்டி|interspecific competition
-இனம் (உயிரியல்)|species|
-இனவகங்கள்|gametangia|
-இனவகம்|gametangium|
-இனவகை|breed n|
-இனவணு மாறுபாடுகள்|germinal variations|
-இனவணுக்களின் தூய்மை|purity of gametes|
-இனவணுக்கள்|gametes|
-இனவணுத்தாவரம்|gametophyte|
-இனவணுப்பெருக்கம்|gametogony|
-இனவணுவத் தனிமையாதல்|gametic isolation|
-இனவணுவாக்கம்|gametogenesis|
-இனவணுவாக்கி|gametocyte|
-இனவணுவாக்கி|progamete|
-இனவளர்|breed v|
-இனவளர்ப்பாளர்|breeder|
-இனவளர்ப்பு|breeding|reproduction - இனப்பெருக்கம்
-இனவுறுப்பு இயக்குநீர்|gonadotropic hormone
-இனவுறுப்புகள்|gonads|
-இனவுறுப்புத் தமனி|gonadial artery|
-இனவுறுப்புநோய்|gonorrhea|
-இனவுறுப்புப்பொருள்|gonadotropin|
-இனவுறுப்புமணியம்|gonococcus|
-இனாசிற்றால்|inositol|
-இனிப்பலோசு|sucralose|
-இனிப்பூட்டி|sweetener|
-இனிப்பூட்டி|sweetening agent|
-இனிப்போசு|sucrose|
-இனிப்போசூக்கி|sucrase|
-இனுசுலின்|insulin|
-இன்ம|nullary|
-இன்மை சுட்டி|null pointer|
-ஈடித் திருத்தி|ed editor|
-ஈடு|offset  |
-ஈடு செய்|compensate |
-ஈடு நிதி முறை|sinking fund method|
-ஈடுசெய் பிழை|compensating error|
-ஈடுசெய்நிலை|compensation point|
-ஈடுபடு|involve|
-ஈடுறுத்து|indemnify|
-ஈட்டல்|earning|
-ஈட்டாவணங்கள்|securities|
-ஈட்டாவணச் சந்தை|securities market|
-ஈட்டிவடிவ|lanceolate|
-ஈட்டுக்காப்பு|collateral (banking)|
-ஈட்டுறுதி|indemnity|guarantee - செயலுறுதி; warranty - பொறுப்புறுதி
-ஈட்டுறுதி பிணையம்|indemnity bond|
-ஈதல் எண்|coordination number|
-ஈதல் சேர்மம்|coordination compound
-ஈதல் பிணைப்பு|coordination bond|
-ஈதல் மாற்றியம்|coordination isomerism
-ஈதல் வேதியியல்|coordination chemistry
-ஈத்தசை|zygomaticus major|ஈ என்று சொல்ல உதவும் தசை
-ஈத்தமூச்சிய|ethoxy|
-ஈத்தராக்கல்|etherification|
-ஈத்தர்|ether|
-ஈத்தர்வலை|ethernet|
-ஈத்தனால்|ethanol|எத்தனால் வேண்டாம், ethane-ஐ ஈத்தேன் என்பதால்
-ஈத்தீன்|ethene|
-ஈத்து- (ஈத்தேன்)|eth- (ethane)|
-ஈத்தேன்|ethane|
-ஈத்தைன்|ethyne|
-ஈமா (இந்திய ஈட்டாவண மாற்றகங்கள் வாரியம்)|SEBI (Securiteis and Exchange Board of India)
-ஈமா சட்டம்|SEBI act|
-ஈயக்காவி|lead ochre|
-ஈயமேன்|plumbane|
-ஈயம்|lead (chemistry)|
-ஈர ஆவி கோட்பாடு|moist vapor theory|
-ஈர வெப்பம்|wet heat|
-ஈரங்க மலர்|dimerous flower|
-ஈரங்கை|bifoliate|
-ஈரசோ|diazo|
-ஈரசோமீத்தேன்|diazomethane|
-ஈரசோனியமாக்கல்|diazotization|
-ஈரசோனியம்|diazonium|
-ஈரடுக்காதல்|gastrulation|
-ஈரடுக்கு விலங்கு|diploblastic animal|
-ஈரடுக்குக்கரு|gastrula|
-ஈரணு|diatomic|
-ஈரணுக்கருவைடு|dinucleotide|
-ஈரநிலம்|wetland|
-ஈரப்பதம்|moisture|humidity - நீர்ப்பதம்
-ஈரவையம்|bicameralism|இரு + அவையம்
-ஈரறைப் பிளவுக் கனி|cremocrop|
-ஈரற்புழு|fasciola|
-ஈராசன்|dioxan|
--ஈராயிக அமிலம்|-dioic acid|
-ஈராலிக ஆல்டிகைடு|glycolic aldehyde|
--ஈரால்|-diol|
-ஈரால்க்கைல்|dialkyl|
-ஈரிடப்பெயர்|tautonym|
-ஈரிணைக்கிளை|bicollateral|
-ஈரிரக்க|amphipathic|
-ஈரிழை நிலை|diplotene stage|
-ஈரிழையம்|diarch|
-ஈரீன்|diene|
--ஈரீன்|-diene|
-ஈருதடுள்ள|bilabiate|
-ஈருப்பாக்கைடு|dihalide|
-ஈருரை|dialog|
-ஈருரைற் பெட்டி|dialogue box|
-ஈருலோகப் பட்டை|bimetallic strip|
-ஈருறுப்பு|binomial|
-ஈருறுப்புக்கோவை|binomial (expression)|
-ஈருறுப்புத் தேற்றம்|binomial theorem|
-ஈருறுப்புப் பெயரிடுமுறை|binomial nomenclature
-ஈருறைய|dichlamydeous|
-ஈரைங்கூம்பு|pentagonal bipyramid|இரு + ஐ + கூம்பு
--ஈரைன்|-diyne|
-ஈர்ப்பலை|tide|
-ஈர்ப்பியல்|gravitation|
-ஈர்ப்பியல் விசை|gravitational force|
-ஈர்ப்பு|gravity|
-ஈர்ப்புமையம்|center of gravity|
-ஈவு|quotient|
-ஈறழற்சி|gingivitis|
-ஈறு|gingiva|
-ஈற்றயல்|penultimate|
-ஈற்றா|eta|
-ஈனாலூக்கி|enolase|
--ஈனைல்|-enyl|
--ஈன் (ஆல்க்கீன்)|-ene (alkene)|
-உகந்தது|suitable|
-உகந்தமை|suitablity|
-உகம|optimal|
-உகம அமிலச்சுட்டெண்|optimal pH|
-உகமமாக்கல்|optimization|
-உகமம்|optimum |
-உகொபு (உயரடர்வு கொழுமியப்புரதம்)|HDL (high density lipoprotein)
-உக்கலின் கோட்பாடு|Hückel theory|
-உசி|C|
-உசி நிரல்மொழி|C programming language
-உசி மொழி|C language|
-உசிதமான|discretionary|
-உசிமிகை|C++|
-உச்ச நீதிமன்றம்|supreme court|
-உச்சக் காரணி|peak factor|
-உச்சவுயர்மை|supremacy|
-உச்சி|apex|
-உச்சி (குவார்க்கு)|top (quark)|
-உச்சி (பற்கோணம்)|vertex|
-உச்சி ஆக்கத்திசு|apical meristem|
-உச்சித்துளை|apical foramen|
-உச்சிநோக்கிய|acropetal|
-உச்சிப்பக்க|apical|
-உச்சிமண்டை எலும்பு|parietal bone|
-உச்சிமண்டை மடல்|parietal lobe|
-உச்சிமொட்டு|apical bud|
-உடல|somatic|
-உடல இனப்பெருக்கம்|vegetative propagation|aka vegetative reproduction
-உடல இனப்பெருக்கம்|vegetative reproduction|aka vegetative propagation
-உடல உயிரணு|somatic cell|
-உடல உயிரணு மரபணு சிகிச்சை|somatic cell gene therapy
-உடல முளைக்கருவாக்கம்|somatic embryogenesis
-உடல மூல உயிரணு|somatic stem cell|
-உடலகங்கள்|vescera|
-உடலக்குழைமம்|somatoplasm|
-உடலணு மாறுபாடுகள்|somatic variations|
-உடலப் பண்பு|somatic character|
-உடலமைப்பியலார்|anatomist|
-உடலமைப்பியல்|anatomy (study of)|
-உடலமைப்பு|anatomy|
-உடலமைப்புத் தட்டி|anatomical barrier|
-உடலியச்சிகிச்சை|physiotherapy|
-உடலியச்சிகிச்சையாளர்|physiotherapist|
-உடலெடைச் சுட்டெண்|Body Mass Index|
-உடல் (முள்ளெலும்பு)|centrum (vertebra)|
-உடல்நல மரபுகளை மீளுயிரூட்டும் தளவகம்|Foundation for the Revitalisation of Local Health Traditions
-உடல்நலம்|health|
-உடல்நலம், சுற்றுச்சூழல், நீதி ஆகியவற்றுக்கான மையம்|Center for Health, Environment, and Justice
-உடல்முட்களுடைய|setigerous|
-உடல்முட்கள்|setae|
-உடல்முள்|seta|
-உடல்மெய்யம்|autosome|
-உடல்மெலிதல்|emaciation|
-உடல்வளரியக்கி|somatotropin|
-உடல்வளர்நிலைப்பி|somatostatin|
-உடற்கண்டம்|segment (zoology)|
-உடற்கழிவாக்கம்|excretion|
-உடற்கழிவு|excreta|
-உடற்குழி|coelom|
-உடற்குழி குடற்றாங்கி தமனி|coeliaco mesenteric artery
-உடற்குழி தமனி|coeliac artery|
-உடற்குழியத் துளை|coelomic cavity|
-உடற்குழியற்ற|acoelomate|
-உடற்குழியற்றவை|acoelomata|
-உடற்குழியுள்ள|coelomate|
-உடற்குழியுள்ளவை|coelomata|
-உடற்சுற்றோட்டம்|body circulation|
-உடற்செயலிய |physiological|
-உடற்செயலிய உலர்வாழிடம்|physiologically dry habitat
-உடற்செயலியத் தட்டி|physiological barrier|
-உடற்செயலியப் பங்கு|physiological role|
-உடற்செயலியப் பண்பு|physiological character
-உடற்செயலியல்|physiology|
-உடற்பருமன்|obesity|
-உடற்பாய்ம நோயெதிர்ப்பு|antibody mediated immunity|aka humoral immunity
-உடற்பாய்ம நோயெதிர்ப்பு|humoral immunity|aka antibody mediated immunity
-உடற்பாய்மம்|humor (medicine)|
-உடனடி|immediate|
-உடனடி காலப்படி|immediate annuity|
-உடனடி வருகோள்|immediate order|
-உடனடித் திசைவேகம்|instantaneous velocity|
-உடனிகழ்|simultaneous|
-உடனுண்ணல்|commensalism|
-உடனுண்ணாமை|amensalism|
-உடனுண்ணி|commensal |
-உடனுதிரி|fugacious|
-உடனுரவு|correlation|
-உடனுரை|discussion |
-உடனோங்கல்|codominance|
-உடன் கொண்டளிப்பு|ready delivery|
-உடன்கால|synchronous|
-உடன்காலமாதல்|synchronization|
-உடன்குவியல்|coacervation|
-உடன்குவியல் கோட்பாடு|coacervation theory|
-உடன்கூழ்த்திசு|parenchyma|
-உடன்தொடுவிகிதம் (உதொவி)|cotangent|
-உடன்நடப்பு|concurrent|
-உடன்படி|comply|
-உடன்படிதல்|compliance|
-உடன்படிய|compliant|
-உடன்பாடு|agreement|
-உடன்பெருகல்|lysogeny|
-உடன்பெருகல் சுழற்சி|lysogenic cycle|
-உடன்பெருக்க மாற்றம்|lysogenic convertion|
-உடன்பெருக்கப் பாட்டீரியம்|lysogenic bacterium|
-உடன்பெருக்கி|prophage|
-உடன்வளைவிகிதம் (உவவி)|cosine|
-உடன்வெட்டுவிகிதம் (உவெவி)|cosecant|
-உடுக்குறி|asterisk|
-உடுமீன்|star fish|
-உடைப்போன்|hacker|
-உடைமை|possession|
-உடையடுக்கு|wardrobe|
-உடையடுக்குப்பிடி|wardrobe handle|
-உட்கட்டமைப்பு|infrastructure|
-உட்கட்டு|built-in|
-உட்கட்டுச் சரிகாணல்|built-in check|
-உட்கணம்|subset|
-உட்கரு|nucleus|
-உட்கவர்தல்|absorption|adsorption - மேற்கவர்தல்
-உட்கவர்திறன்|absorptive power|
-உட்கவர்பொருள்|absorbate|
-உட்கவர்வி|absorbent|
-உட்கிளையம்|subtribe|
-உட்குடும்பம்|subfamily|
-உட்குழிதற் பகுதி|zone of invagination|
-உட்கொடு|administer (medicine)|
-உட்கொள்ளல்|ingestion|
-உட்சவ்வு|inner membrane|
-உட்சவ்வூடல்|endosmosis|
-உட்சுரப்பி|endocrine|
-உட்சுரப்பி அமைப்பு|endocrine system|
-உட்சுரப்பியல்|endocrynology|
-உட்சுருண்ட|circinate|
-உட்சூழல்|milieu interior|
-உட்செலுத்து|impregnate (engineering)
-உட்செல்|enter|
-உட்செல்லிடம்|entry point|
-உட்செவி|inner ear|
-உட்டளவணி|submatrix|உள் + தளவணி (தொல்காப்பியம் 150)
-உட்டளவரைவு|tomography|உள் + தளவரைவு (தொல்காப்பியம் 150)
-உட்டிணிப்பு|intussusception|உள் + திணிப்பு (தொல்காப்பியம் 150)
-உட்டுறை (பாகுபாட்டியல்)|subgenus|உள் + துறை (தொல்காப்பியம் 150)
-உட்டொண்டைச் சிரை|internal jugular vein|உள் + தொண்டைச் சிரை (தொல்காப்பியம் 150)
-உட்டோலடுக்கு|endodermal lining|உள் + தோலடுக்கு (தொல்காப்பியம் 150)
-உட்பங்கிடு|divide internally|
-உட்படலமிடல்|lining v|
-உட்படலம்|lining n|
-உட்படுமை|susceptiblity|
-உட்பதி|embed|
-உட்பதித்த|embedded|
-உட்பரவல்|metastasis|
-உட்பாய்வு|inflow|
-உட்பிதுக்கம்|invagination|
-உட்பிரிவு|subdivision|
-உட்புகுதல்|intrusion|invasion -வன்புகல்
-உட்புகுதற் பகுதி|zone of involution|
-உட்புகுத்தல்|inoculation|
-உட்புகுத்து|inoculate|
-உட்புண்|ulcer|
-உட்புரணி|phelloderm|
-உட்பெருக்கல்|inner product|
-உட்பேசி|intercom|
-உட்பேரரசு|subkingdom|
-உணரி|sensor|
-உணர்ச்சிவய|sentimental|
-உணர்திரிதல்|narcosis|
-உணர்திரிப்பி|narcotic|
-உணர்நரம்புச் செவிக் குறைபாடு|sensorineural hearing loss
-உணர்மறை|anesthetize|
-உணர்மறைத்தல்|anesthesia|
-உணர்மறைப்பி|anesthetic|
-உணர்விய செவிக் குறைபாடு|sensory hearing loss|
-உணர்விய நினைவகம்|sensory memory|
-உணர்விய விழித்திரை|sensory retina|
-உணர்வியப் பகுதிகள்  (மூளையின்)|sensory areas (of brain)
-உணர்வுறுப்பு|sense organ|
-உணவகம்|restaurant|
-உணவற்ற முட்டை|alecithal egg|
-உணவியல்|dietetics|
-உணவு வலை|food web|
-உணவுக் கோர்வை|food chain|
-உணவுக்குழலின் இரைப்பைத் திறப்பு|cardiac opening|aka gastroesophageal opening
-உணவுக்குழலின் இரைப்பைத் திறப்பு|gastroesophageal opening|aka cardiac opening
-உணவுக்குழல்|esophagus|aka oesophagus
-உணவுக்குழல்|oesophagus|aka esophagus
-உணவுத் தானியம்|foodgrain |
-உணவுப்பாதை|alimentary canal|
-உணவூட்ட நிபுணர் செயற்குழு|Nutrition Expert Committee
-உணவூட்டம்|nutrition|
-உண்டாக்கி|progenitor|
-உண்ணடவு|implant|
-உண்ணாக்கு|uvula|
-உண்ணாட்டு வியாபாரம்|domestic trade|
-உண்ணாமை|fasting|
-உண்ணிணநீர்|endolymph|
-உண்ணோக்கல்|endoscopy|
-உண்ணோக்கி|endoscope|
-உண்ணோக்கிய|endarch|
-உண்ணோக்கிய மகரந்தத்தாள்|inserted stamens|
-உண்முறிமெய்யம்|phagolysosome|
-உண்முறைமை|suborder (taxonomy)|
-உண்மெய்யம்|phagosome|
-உண்மையம்|fidelity|
-உண்மையான அளவுரு|actual parameter|
-உதடுயர்த்திச் சிறுதசை|levator anguli oris|
-உதடுயர்த்திப் பெருந்தசை|levator labii superioris
-உதவி|assistance |
-உதவிச் செயலர்|assistant secretary|
-உதவிப் பிரிவு அலுவலர்|assistant section officer
-உதவியர்|assistant|
-உதவுநிணவணு|T helper cell|
-உதிரி|discrete|
-உதிரி நேர்வு மாறி|discrete random variable
-உதிரி மாறி|discrete variable|
-உதிரிக் கணிதம்|discrete mathematics|
-உதிர்தல்|abscission|
-உதிர்ம அமிலம்|abscisic acid|
-உத்தரம்|beam (construction)|
-உத்திம மேலாண்மை|strategic management|
-உத்திமப் பங்குடைமை|strategic partnership|
-உத்திமம்|strategy|
-உநமை (உலக உடல்நல ஒருங்கமைப்பு)|WHO (World Health Organization)
-உந்தம்|momentum|
-உந்தம் அழிவின்மை|conservation of momentum
-உந்துதண்டு|piston|
-உந்துவண்டிக் காப்பீடு|motor vehicle insurance
-உந்துவத் திறமை|motor skills|
-உந்துவி|motor|எந்திரம் - machine; முடுக்கி - accelerator
-உந்துவிப் பகுதிகள்|motor areas|
-உப்பாக்கபாம்|haloform|
-உப்பாக்கிகள்|halogens|
-உப்பாக்கிய அமிலம்|hydrohalic acid|
-உப்பாக்கிய நேர்மயனி|halonium ion|
-உப்பாக்கியநீரியக்கரிமம்|halohydrocarbon|
-உப்பாக்கியிடை|interhalogen|
-உப்பாக்கியேற்றம்|halogenation|
-உப்பிக|nitric|
-உப்பிச|nitrous|
-உப்பிசவாக்கம்|nitrosofication|
-உப்பிசவேற்றம்|nitrosation|
-உப்பிசைல்|nitrosyl|
-உப்பிசோ|nitroso|
-உப்பிசோமடலம்|nitrosolobus|
-உப்பிசோமணியம்|nitrosococcus|
-உப்பிசோவதிரியம்|nitrosovibrio|
-உப்பிசோவலகியம்|nitrosomonas|
-உப்பிய நுனி|N-terminus|
-உப்பியச்சுருளியம்|nitrospira|
-உப்பியப்பாட்டர்|nitrobacter|
-உப்பியப்புருசைடு|nitroprusside|
-உப்பியமணியம்|nitrococcus|
-உப்பியமாக்க ஆல்ககால்|halohydrin|
-உப்பியமுடைய|nitrogenous|
-உப்பியம்|nitrogen|
-உப்பியம் நிலைப்பி மரபணு|nitrogen fixing gene|
-உப்பியவலகியம்|nitrosomonas|
-உப்பியவேற்றம்|nitrogenation|
-உப்பியேட்டு|nitrate|
-உப்பியேட்டு மூச்சியமேற்ற பாட்டீரியம்|nitrate oxidizing bacteria
-உப்பியைடு|nitride|
-உப்பியைட்டாக்கம்|nitrification|
-உப்பியைட்டு|nitrite|
-உப்பியோ|nitro|
-உப்பியோ சேர்மம்|nitro compound|
-உப்பியோவேற்றக் கலவை|nitrating mixture|
-உப்பியோவேற்றம்|nitration|
-உப்புநீக்கல்|desalination|
-உப்புப் பாலம்|salt bridge|
-உப்புப்பாட்டீரியம்|halobacterium|
-உப்புப்பாட்டீரியனையன|halobacteriaceae|
-உப்புப்பாட்டீரியைகள்|halobacteriales|
-உப்புமணியம்|halococcus|
-உப்புமை|salinity|
-உப்புவிரும்பி|halophile|
-உமி|lemma (botany) |
-உமிச்செதில்|glume|
-உமிழ வானூர்தி|jet plane|
-உமிழம்|jet|தாரை - stream
-உமிழுந்தல்|jet propulsion|
-உமிழுந்தி|propellant|
-உமிழ்தல்|emission|
-உமிழ்தல் நிறமாலை|emission spectrum|
-உமிழ்திறன்|emissive power|
-உமூகு (உலோக மூச்சியைடு குறைகட்டத்தி)|MOS (metal oxide semiconductor)
-உம் குறி|ampersand|
-உம்பளச்சேரி|Umblachery|
-உம்முத்தசை|zygomaticus minor|
-உம்மை (கணிதம்)|AND (boolean)|
-உம்மை வாயில்|AND gate|
-உயரக்குறிப்புத் தண்டு|offset rod|
-உயரடர்வு கொழுமியப்புரதம் (உகொபு)|high density lipoprotein (HDL)
-உயரமட்டம்|altitude|
-உயரமைய|acrocentric|
-உயரவச்சம்|acrophobia|
-உயரிய உலோகம்|noble metal|
-உயரிய வளிமம்|noble gas|
-உயருயிரி|primate|
-உயர் ஈர்ப்பலை|high tide|
-உயர் நீதிமன்றம்|high court|
-உயர் பகுதிறன்|high resolution|
-உயர்குடிமை|elitism|
-உயர்குடியினர்|elite|
-உயர்குடியின்மைக் கோட்பாடு|nonelitist theory|
-உயர்தர நீர்த்த சுண்ணாம்பு|high quality hydraulic lime
-உயர்த்தி|riser|
-உயர்த்தி விசை|shift key|
-உயர்நிலை|advanced|
-உயர்நிலைக் கல்வி|higher education|
-உயர்நிறுத்தி விசை|caps lock key|
-உயர்பண்|Hi Fi|
-உயர்மட்ட மொழி|high level language|
-உயர்வரை|high definition|
-உயர்வெளி|hyperspace|
-உயவாக்கு|lubricate|
-உயவி|lubricant|
-உயிரணு|cell (biology)|
-உயிரணு உடற்செயலியல்|cell physiology|
-உயிரணு நோய்க்குறியியல்|cytopathology|
-உயிரணு பாகுபாட்டியல்|cytotaxonomy|
-உயிரணு பிரிதல்|cell division|
-உயிரணு மரபியல்|cytogenetics|
-உயிரணு மூலம் நோயெதிர்ப்பு|cell mediated immunity
-உயிரணு வாழிடவியல்|cytoecology|
-உயிரணு வேதியியல்|cytochemistry|
-உயிரணு வேறுபடல்|cell differentiation|
-உயிரணுக் கோட்பாடு|cell theory|
-உயிரணுக்கருவியல்|karyology|nucleonics - அணுக்கருவியல்
-உயிரணுச் சவ்வு|cell membrane|
-உயிரணுச் சவ்வு|plasma membrane|
-உயிரணுநிறமி|cytochrome|
-உயிரணுவழற்சி|cellulitis|
-உயிரணுவாதல்|cellulation|
-உயிரணுவியக்கி|cytokinin|
-உயிரணுவியல்|cytology|
-உயிரணுவுள்|intracellular|
-உயிரற்ற|non-living|
-உயிரற்ற காரணிகள்|abiotic factors|
-உயிரற்ற முகவர்கள்|abiotic agents|
-உயிரி|organism|
-உயிரிய|biological |
-உயிரிய அமைப்புமுறை|biosystematics|
-உயிரிய அளவீடுகள்|biometrics|
-உயிரிய அளவீட்டார்|biometrician|
-உயிரிய ஆயுதம்|biological weapon|
-உயிரிய இயற்பியல்|biophysics|
-உயிரிய இனக் கருத்துரு|biological species concept
-உயிரிய உரம்|biofertilizer|
-உயிரிய எரிபொருள்|biofuel|
-உயிரிய தீங்குயிரிக்கொல்லி|biopesticide|
-உயிரிய புனைவுரிமம்|biopatent|
-உயிரிய போர்க்கருவிகள்|biological warfare|
-உயிரிய மருந்து|biomedicine|
-உயிரிய வகைப்பாடு|biological classification
-உயிரிய வழித்தடம்|biological pathway|
-உயிரிய வளம்|bioresource|
-உயிரியக் கட்டுப்பாடு|biocontrol|
-உயிரியக் கொள்ளை|biopiracy|
-உயிரியச் சவ்வுகள்|biological membranes|
-உயிரியச்சில்லு|biochip|
-உயிரியத் தொழில்நுட்பத் துறை|Department of Biotechnology
-உயிரியத் தொழில்நுட்பம்|biotechnology|
-உயிரியத்தகவலியல்|bioinformatics|
-உயிரியத்திணை|biome|
-உயிரியத்திரள்|biomass|
-உயிரியத்தொகுத்தாக்கம்|biosysthesis|
-உயிரியப்புவியியல்|biogeography|
-உயிரியமல்லாத|non-biological|
-உயிரியமாற்றியமைத்தல்|bioconversion|
-உயிரியமீள்சீராக்கம்|bioremediation|
-உயிரியமூலக்கூறு|biomolecule|
-உயிரியர்|biologist|
-உயிரியல்|biology|
-உயிரியவளிமம்|biogas|
-உயிரியவினையூக்கம்|biocatalysis|
-உயிரியவுணரி|biosensor|
-உயிரியவேதியியல்|biochemistry|
-உயிரியெதிர்ப்பி|antibiotic|
-உயிரியெதிர்ப்பித் தடையம்|antibiotic resistance|
-உயிரியெதிர்ப்பு|antibiosis|
-உயிரின் ஆதி|origin of life|
-உயிரின்மைக் கோட்பாடு|abiogenesis|
-உயிருடைமைக் கோட்பாடு|biogenesis|
-உயிருள்ள|living|
-உயிருள்ள முகவர்கள்|biotic agents|
-உயிர்க்கோளம்|biosphere|
-உயிர்தோன்றா ஊழி|azoic era|
-உயிர்ப்பொறியியல்|bioengineering|
-உயிர்ம இயக்கம்|vital movement|
-உயிர்ம விசை|vital force|
-உயிர்மக் கறையிடல்|vital staining|
-உயிர்மக் கோட்பாடு|vital theory|
-உயிர்மப் பன்மய ஆதரவு திட்டம்|Biodiversity Support Program (BSP)
-உயிர்மப் பன்மயம்|biodiversity|
-உயிர்முன் பேரூழி|Proterozoic eon|
-உயிர்மூச்சு|lifeblood|
-உய்த்துணர்|infer|
-உய்த்துணர்வு|inference|
-உய்ய அழுத்தம்|critical pressure|
-உய்ய அளவு|critical size|
-உய்ய வட்டாரம்|critical region|
-உய்ய வெப்பநிலை|critical temperature|
-உய்யக் காலம்|critical period|
-உய்யத் திசைவேகம்|critical velocity|
-உய்யத் தோற்றப்பாடு|critical phenomenon|
-உய்யப் பருமன்|critical volume|
-உய்யப் புள்ளி|critical point|
-உய்யவசரம்|emergency|
-உரமிடுதல்|fertilization (agriculture)
-உராய்வு|friction|
-உரிமமளிப்பு|licensing|
-உரிமமளிப்புத் தளர்த்தல்|delicensing|
-உரிமம்|license|
-உரிமைத்துவ|proprietary|
-உரிமைத்துவம்|proprietorship|
-உரிமையாவணம்|deed (document)|
-உரிமையாளர்|proprietor|
-உருகுநிலை|melting point|
-உருக்கிப்பிரித்தல்|smelting|
-உருக்கியொட்டு|weld|
-உருக்குலைவு|deformation|
-உருசியா|Russia|
-உருட்சீரன|radiata|
-உருத்தினியம்|ruthenium|
-உருபிடியம்|rubidium|
-உருப்படி|item|
-உருப்பெருக்கம்|magnification|
-உருமாற்றம்|transformation|
-உருமாற்றி|transformer|converter - மாற்றியமைப்பி; switch - மாற்றி
-உருவளித்தல்|rendering|
-உருவாதல்|formation (creation)|
-உருவாதல் வெப்பம்|heat of formation|
-உருவி|zip|
-உருவியல்|morphology|வடிவியல் - geometry
-உருவியல் பண்பு|morphological character
-உருவிலா|abstract|concrete - திண்ணுருவ
-உருவிறகு|contour feather|
-உருளை|cylinder|
-உருளைக்கிழங்கனையன|solanaceae|
-உருளைச் சீரொருமை|cylindrical symmetry|
-உருளைப்புழு|nematode|
-உருளைப்புழு|roundworm|
-உருளையணு|cylinder (retina)|
-உருளையணு|rod (retina)|
-உருளையும் கூம்பும்|rod and cone|
-உருளைவிழிதப் பார்வை|scotopic vision|
-உருளைவிழிதம்|scotopsin|
-உருள் கதவு|rolling door|
-உருள் திட்டம்|rolling plan|
-உருள்வளையம்|torus (topology)|
-உருனி|runella|
-உரை|text|
-உரை திருத்தி|text editor|
-உரைகோள்|postulate|axiom - அடிகோள்
-உரைசேர்|annotate|
-உரைத் தரவு|text data|
-உரைநிரல்|script (computer)|
-உரைப் பகுதி|text area|
-உரைப் பெட்டி|text box|
-உரையலசல்|word processing|
-உரையலசி|word processor|
-உரையாடல்|conversation|
-உரையாடு|converse|chat - அரட்டை
-உரோகனியம்|roentgenium|
-உரோகிணி|Aldebaran|
-உரோகிணி|Rohini|
-உரோகிதம்|Rohu|
-உரோசச்சுருளியம்|rhodospirillum|
-உரோசச்சுருளியனையன|rhodospirillaceae|
-உரோசச்சுருளியைகள்|rhodospirillales|
-உரோசநுண்பாட்டீரியம்|rhodomicrobium|
-உரோசவகை|rosaceous|
-உரோசனைகள்|rosales|
-உரோசன்மண்டின் மூச்சியமிறக்கம்|Rosenmund reduction|
-உரோசா|roja|
-உரோடியம்|rhodium|
-உரோடு ஐலண்டு|Rhode Island|
-உலக உடல்நல ஒருங்கமைப்பு (உநமை)|World Health Organization (WHO)
-உலக வங்கி|world bank|
-உலக வளங்கள் பயிலகம்|Worl Resources Institute
-உலக வனவுயிரி நிதியம் (உவநி)|World Wildlife Fund|
-உலக வியாபார ஒருங்கமைப்பு|world trade organization
-உலகநோக்கு|world view|
-உலகப்பொதுமை|cosmopolitan|
-உலகம்|world|
-உலர் காய்ச்சிவடித்தல்|dry distillation|
-உலர் சீரற்ற கற்கட்டு|dry rubble masonry|
-உலர் தனிக்கனி|simple dry fruit|
-உலர் வெடிகனி|dry dehiscent fruit|
-உலர் வெடியாக் கடி|fty infrhidvrnt fruit|
-உலர் வெப்பம்|dry heat|
-உலர்கனி|dry fruit|
-உலர்தாவர வழிமுறை|xerosere|
-உலர்வாழ்|xerophytic|
-உலர்வாழ்தாவரம்|xerophyte|
-உலாவூண்|picnic|மகிழுலா - tour
-உலிவமோரியம்|livermorium|
-உலோக மூச்சியைடு குறைகட்டத்தி (உமூகு)|metal oxide semiconductor (MOS)
-உலோக மூச்சியைடு குறைகட்டத்தி கள விளைவு மாற்றடையன் (கவிமா)|metal oxide semiconductor field effect transistor (MOSFET) 
-உலோகக் கலவை|alloy|
-உலோகத் தகடு|metal sheet|
-உலோகப்புரதம்|metalloprotein|
-உலோகம்|metal|
-உலோகவனையங்கள்|metalloids|
-உலோகவியல்|metallurgy|
-உவமை|analogy|
-உவவி (உடன்வளைவிகிதம்)|cosine|
-உழுநாவிணைப்பு|feather joint|
-உழுநாவிணைப்பு|ploughed-and-tongued joint
-உழைதிடம்|durability|
-உழைப்பாளர்|laborer|
-உழைப்பாளர் ஒன்றியக் குழு காப்பிதழ்|labor union group policy
-உழைப்பாளர் ஒன்றியம்|labor union|
-உழைப்பின் உற்பத்திவீதம்|marginal productivity of labor
-உழைப்பு|labor|
-உழைப்புப் பகிர்வு|division of labor|
-உளதாக மாற்று|switch on|
-உளதாக்கு (மாற்றி)|set (switch)|aka on
-உளதிலது மாற்றி|on off switch|
-உளது (மாற்றி)|on (switch)|aka set
-உளமாயமாக்கி|hallucinogen|
-உளமாயம்|hallucination|
-உளவியல்|espionage |psychology - மனவியல்; home science - மனையியல்
-உளவு|spy|
-உளவுத் துணைக்கோள்|spy satellite|
-உளி|chisel|
-உளியால் அழகுறுத்தல்|chisel dressing|
--உள்|intra-|
-உள் நிலைமாற்றத் தனிமம்|inner transition element
-உள் மடக்கு|inner loop|
-உள் மூளையுரை|piamater|
-உள்நாட்டு வியாபாரம்|internal trade|
-உள்முடிநீக்கம்|epilation|
-உள்மூச்செடு|inhale|
-உள்மூச்செடுத்தல்|inhalation|
-உள்மூடுறை|tunica intima|
-உள்வகை|subvariety|
-உள்வடிவம்|subform|
-உள்விதை|endosperm|
-உள்விதைய|endospermic|
-உள்விதையற்ற|non-endospermic|
-உள்வித்து|endospore (bacteriology)
-உள்வித்துறை|intine|
-உள்வெளியீட்டுச் சாதனங்கள்|i/o devices|
-உள்ளக ஊக்கிப்புரதம்|core enzyme|
-உள்ளகம்|core|
-உள்ளங்காலெலும்பு|metatarsal|
-உள்ளங்கையெலும்பு|metacarpel|
-உள்ளடக்கம்|contents|
-உள்ளடிவயிற்றுச் சிரை|internal iliac vein|
-உள்ளமீபா|entameba|
-உள்ளமை சார்பு|implicit function|
-உள்ளமைவு|constitution|
-உள்ளமைவு மாற்றியன்|constitutional isomer|
-உள்ளன்|exon|தூதனரியில் உள்ளதால்
-உள்ளாக்கல் (மூலக்கூறு உயிரியல்)|splicing (molecular biology)|வெளியன்களை வெளியேற்றி உள்ளன்களைத் தொகுத்தல்
-உள்ளார்ந்த|internal|
-உள்ளார்ந்த சிறுநீர் இடுக்கி|internal urinary sphincter
-உள்ளார்ந்த தசை|intrinsic muscle|
-உள்ளார்ந்த நினைவகம்|internal memory|
-உள்ளார்ந்த புரதம்|integral protein|
-உள்ளார்ந்த புரதம்|intrinsic protein|
-உள்ளார்ந்த விலாவிடைத் தசை|internal intercostal muscle
-உள்ளாழி|bushing|
-உள்ளிடு|input v|
-உள்ளியல்பு|innate|
-உள்ளினவளர்ப்பு|inbreeding|
-உள்ளீடற்ற|hollow|
-உள்ளீடு|input n|
-உள்ளுடலக்கூட்டுயிரி|endosymbionts|
-உள்ளுணர்வு|intuition|
-உள்ளுரை|imply|
-உள்ளுறுப்புக்கல்|calculus (health)|
-உள்ளுறை|resident|
-உள்ளுறை கண்காணிப்பான்|resident monitor|
-உள்ளுறை காலம்|residence time|
-உள்ளூர்|indigenous|
-உள்ளூர் வங்கியர்|indigenous bankers|
-உள்ளெடு (நிரலாக்கம்)|include (programming)
-உள்ளேற்றக் கிணறு|injection well|
-உள்ளேற்றல்|injection|
-உள்ளொட்டு|inner join|
-உள்ளொட்டுச் சதைக்கனி|drupe|
-உள்ளொட்டுண்ணி|endoparasite|
-உறக்க|dormant|
-உறக்கக் குளிகை|sleeping pill|
-உறக்கநிலை|dormancy|
-உறக்கநோயி|trypanosome|
-உறக்கநோயிய வடிவம்|trypanosomal form|
-உறக்கநோய்|trypanosomiasis|
-உறக்கமூட்டி|sedative|
-உறவு|relation|
-உறவுத்தொடர்|progression|
-உறவுமை தரவுத்தளம்|relational database|
-உறவுமைக் கோவை|relational expression|
-உறவுமைச் செயலி|relational operator|
-உறாமரபெண்|aneuploidy|
-உறிஞ்சழுத்தம்|suction pressure|
-உறிஞ்சன்கள்|haustoria|sucker - உறிஞ்சி
-உறிஞ்சி|sucker|haustoria - உறிஞ்சன்கள்
-உறிஞ்சுகுழல்|aspirator|
-உறிஞ்சுகுழி|soak pit|
-உறிஞ்சுறுப்பு|haustorium|
-உறுகல்லடுக்கு|lacing course|
-உறுதித்தன்மை|toughness|
-உறுதியளி|warrant v|
-உறுதியாக்கும்  |confirmatory  |
-உறுதியாக்கும் இறக்கிடை|confirmatory indent|
-உறுதியாக்கும் சோதனை|confirmatory test|
-உறுத்தடுக்கம்|stratum spinosum|
-உறுப்பாக்க வரைபடம்|fate map|
-உறுப்பாக்கம்|organogenesis|
-உறுப்பினர்|member|
-உறுப்பு (உயிரியல்)|organ|feature - அங்கம்
-உறுப்பு (எந்திரம்)|part (machine)|
-உறுப்பு (வேதியியல்)|radical|
-உறுப்புநீக்கம்|amputation|
-உறுமரபெண்|euploidy|
-உறுமி|growler|
-உறுமொலிப்பி|woofer|
-உறைதமாக்கி|prothrombin|
-உறைதமாக்கியூக்கி|prothrombinase|
-உறைதம்|thrombin|
-உறைதல் எதிர்ப்பி|antifreeze|
-உறைநிலை|freezing point|
-உறைநிலைத் தாழ்வு|depression of freezing point
-உறைநிலைத் தாழ்வு|freezing point depression
-உறைபனி|ice|
-உறைய நோய்|chlamydial disease|
-உறையலகியம்|chlamydomonas|
-உறையளவி மாறிலி|cryoscopic constant|
-உறையளவியல்|cryoscopy|
-உறையற்ற|achlamydeous|
-உறையனையன|chlamydiaceae|
-உறையுடையன|chlamydia|
-உறையுண்ணியங்கள்|cytophaga|
-உறையுலர்|freeze dry|
-உறையைகள்|chlamydiales|
-உறைவழிச்சேர்க்கை|mesogamy|
-உறைவித்து|chlamydospore|
-உறைவியணு|thrombocyte|
-உறைவியலாளர்|cryogenist|
-உறைவியல்|cryogenics|
-உறைவியாக்கி|thrombogen|
-உறைவியியக்கவூக்கி|thrombokinase|aka thromboplastin
-உறைவியியக்கவூக்கி|thromboplastin|aka thrombokinase
-உறைவு|styptic|
-உற்பத்தி |manufacture |
-உற்பத்திக் கருவுறுதல்|generative fertilization|
-உற்பத்திச்சாலை|factory|
-உற்பத்தித் தொழிலகம்|manufacture industry|
-உற்பத்திப் பொருள்|product (manufacturing)
-உற்பத்தியணு|generative cell|
-உற்பத்தியாளர்|producer|
-உற்பத்திவீதம்|marginal productivity|
-ஊகம்|guess|
-ஊக்கங்குறை|discourage|
-ஊக்கப்படி|incentive|
-ஊக்கிப்புரத மறிப்பிக் கூட்டுமம்|enzyme inhibitor complex
-ஊக்கிப்புரத வினையாகிக் கூட்டுமம்|enzyme substrate complex
-ஊக்கிப்புரதந்தொடுத்த|enzyme-linked|
-ஊக்கிப்புரதந்தொடுத்த நோயெதிர்ப்பு மேற்கவர்வி மதிப்பாய்வு சோதனை|ELISA (enzyme-linked immunosorbent assay) test|aka எலிசாச் சோதனை
-ஊக்கிப்புரதந்தொடுத்த நோயெதிர்ப்பு மேற்கவர்வி மதிப்பாய்வு சோதனை|enzyme-linked immunosorbent assay (ELISA) test|aka எலிசாச் சோதனை
-ஊக்கிப்புரதமாக்கி|proenzyme|aka zymogen
-ஊக்கிப்புரதமாக்கி|zymogen|aka proenzyme
-ஊக்கிப்புரதம்|enzyme|நொதி - ferment
-ஊக்கிப்புரதவியல்|enzymology|
-ஊக்குவி|encourage|
-ஊக்குவித்தல்|encouragement|
-ஊசல்|pendulum|swing - ஊஞ்சல்
-ஊசிக்காளான்|pin mold|
-ஊசிக்கீல்|pin hinge|
-ஊசித்தண்டு|cladode|
-ஊசியிலை வனம்|coniferous forest|
-ஊசியிலையன|coniferae|
-ஊசியிலையன்|conifer|
-ஊசிவெளியீடு|pin-out|
-ஊஞ்சல்|swing |pendulum - ஊசல்
-ஊடகம்|medium|
-ஊடுகதிர்|x-ray|
-ஊடுகதிர்ப் படிகவியல்|x-ray crystallography|
-ஊடுகல்|through stone|
-ஊடுபகுப்பி|dialyser|
-ஊடுபகுப்பு|dialysis|
-ஊடுமாறி|transposon|
-ஊடுமாற்றம்|transposition|
-ஊடுமாற்று|transpose|
-ஊடுமாற்றுத் தளவணி|transpose matrix|
-ஊடுருவு|penetrate|
-ஊடுருவுதல்|penetration|
-ஊடுலா|walkthrough|
-ஊட்டத்தீங்கு|dystrophy|
-ஊட்டப்பற்றாக்குறை|malnutrition|
-ஊட்டவுறை|tapetum|
-ஊண்சுவைஞர்|gourmand|
-ஊதா|violet|
-ஊதியம்|salary|
-ஊதுபை|balloon|
-ஊதுபை செருகுகுழல்|balloon catheter|
-ஊதுமீன்|puffer fish|
-ஊதுலை|blast furnace|
-ஊதுலைக் கசடு|blast furnace slag|
-ஊருந்தண்டு|stolon|
-ஊர்குழாயன்|herpetosiphon|
-ஊர்திமேல்|onboard|
-ஊர்வன|reptilia|
-ஊலாமீன்|barracuda|
-ஊழி|era|
-ஊனதிமூச்சியைடூக்கி|myeloperoxidase|
-ஊனீரியல்|serology|
-ஊனீரியவகை|serotype|
-ஊனீர்|serum|
-ஊனுண்டாக்கி|myeloid progenitor|
-ஊன்|medulla|
-ஊன்கழலை|myeloma|
-ஊன்பசை|gelatin|
-ஊன்பசையூக்கி|gelatinase|
-எஃகு|steel|
-எங்குமிருத்தல்|ubiquity|
-எங்குமுள்ள|ubiquitous|
-எசுத்தராக்கல்|esterification|
-எசுத்தராக்கு|esterify|
-எசுத்தரூக்கி|esterase|
-எசுத்தர்|ester|
-எசுப்பகனாலியத் தாழ்|espagnolette bolt|
-எச்ச மதிப்பு|residual value|
-எச்சக் காந்தம்|residual magnetism|
-எச்சம்|residue|
-எச்சரிக்கை|caution|
-எச்சரிக்கைத் தூதுரை|warning message|
-எச்சா-|exa-|
-எச்சிலான்|epsilon|
-எடிமா|edema|
-எடு|get|
-எடுகோள்|assumption|அனுமானம் - conjecture
-எடுத்துக் காட்டாக|for example|
-எடுத்துரை பெ|illustration|
-எடுத்துரை வி|illustrate|
-எடுத்துவந்து கூட்டல்|fetch-and-add|
-எடுத்துவா|fetch (something)|
-எடுத்தெழுதுதல்|posting|
-எடுப்பளவு|dosage|
-எடை|weight|
-எடையறி|gravimetric|
-எடையிட்ட|weighted|
-எடையிட்ட சராசரி|weighted average|
-எடையின்மை|weightlessness|
-எட்ட-|octa-|
-எட்டப்பார்வை|hypermetropia|
-எட்டவேன்|octane|
-எட்டவேன் எண்|octane number|
-எட்டா-|hecta-|
-எட்டுக்காலி|octopus|
-எட்வர்டு ஜென்னர்|Edward Jenner|
-எணு|byte|
-எணுத்தாரைக் கோப்பு|byte stream file|
-எண் அமைப்புகள்|number systems|
-எண் தரவு|numeric data|
-எண்கள் விசையடுக்கு|numeric keypad|
-எண்சாரா|nonnumeric|
-எண்சார்|numerical|
-எண்சார் கோவை|numerical expression|
-எண்சார் பகுப்பாய்வு|numerical analysis|
-எண்சார் பாகுபாட்டியல்|numerical taxonomy|
-எண்டர்சனின் சமன்பாடு|Henderson equation|
-எண்டர்சன் ஆசல்பாக்கின் சமன்பாடு|Henderson-Hasselbalch equation
-எண்ணக்குழு|school of thought|
-எண்ணல் மறுசுருள்|definite iteration|
-எண்ணளவு|magnitude|
-எண்ணியல்|digital|
-எண்ணியல் கடிகாரம்|digital clock|
-எண்ணியல் கணினி|digital computer|
-எண்ணியல் மாதிரிக்கூறெடுப்பு|digital sampling|
-எண்ணியல் மின்சுற்று|digital circuit|
-எண்ணியல் வடிவூட்டம்|digital format|
-எண்ணுரு|numeric character|
-எண்ணுழலி|number cruncher|
-எண்ணுழல்வு|number crunching|
-எண்ணுறா|uncountable|
-எண்ணெயமிழ் நுண்ணோக்கவியல்|oil immersion microscopy
-எண்ணெய்|oil|
-எண்ணெய்ச் சுரப்பி (பறவையியல்)|preen gland|aka uropygial gland
-எண்ணெய்ச் சுரப்பி (பறவையியல்)|uropygial gland|aka preen gland
-எண்ணெய்நீக்கு|degrease|
-எண்ணெய்வேதியியல்|oleochemistry|
-எண்ணோட்டம்|thinking process|
-எண்பூட்டு|numlock|
-எண்ம|octal|
-எண்ம விதி|octet rule|
-எண்மடியாயிரம்|septillion (short scale)|
-எண்மம்|octet|
-எண்மாறுமெய்ய|polysomic|
-எண்முக|octahedral|
-எண்முகி|octahedron|
-எண்வரிசையிடு|enumerate|
-எதிர-|anti-|
-எதிர-|para-|
-எதிர நீரியம்|para-hydrogen|
-எதிரப்புரணி|paracortex|
-எதிரமை|antipodal|
-எதிரமை இலையடுக்கம்|opposite phyllotaxy|
-எதிராளி|opponent|enemy - எதிரி; competitor - போட்டியாளர்
-எதிரி|enemy|opponent - எதிராளி; competitor - போட்டியாளர்
-எதிரிடம்|paratope|
-எதிரிணையான|antiparallel|
-எதிரிய அணு|antiatom|
-எதிரிய உலோக முச்சியைடு குறைகடத்தி (எவுமூகு)|n-type metal oxide semiconductor (NMOS)
-எதிரிய எலட்டிரான்|antielectron|
-எதிரியக்குறிப்பி|anticodon|
-எதிரியக்குறிப்பிக் கழல்|anticodon loop|
-எதிரியக்குறிப்பிக் கிளை|anticodon arm|
-எதிரியக்குறிப்பித் தண்டு|anticodon shaft|
-எதிரியச் சுமப்பி|antiporter|
-எதிரியத்திசை|antisense|
-எதிரியத்திசைக் கிடையிழை|antisense strand|
-எதிரியத்தோக்கசின் கோடு|anti-Stokes line|Stoke's is wrong; the scientist's name is Stokes, not Stoke.
-எதிரியப் புரோட்டான்|antiproton|
-எதிரியப் பொருள்|antimatter|
-எதிரியமடக்கை|antilogarithm|negative logarithm - எதிர்ம மடக்கை
-எதிரிரும்பக்காந்தம்|antiferromagnetism|
-எதிரொலி இதயவரைவு|echo cardiography|
-எதிரொளி|reflect|
-எதிரொளி சீரொருமை|reflection symmetry|
-எதிரொளிப்பி|reflector|
-எதிரொளிப்பு|reflection|
-எதிர் எடுத்துக்காட்டு|counterexample|
-எதிர்க்கும் வேதிவினைகள்|opposing reactions|
-எதிர்நேரெதிர் மாற்றடையன்|npn transistor|
-எதிர்பார்ப்பு|expectation|
-எதிர்ப்பக்க|trans|
-எதிர்ப்பதிகை|contra entry|
-எதிர்ப்புத்தெரிவித்தல்|protesting|
-எதிர்ம|negative|
-எதிர்ம இரீசு|rhesus negative|
-எதிர்ம எண்கள்|negative numbers|
-எதிர்ம ஒளிநாட்டம்|negative phototropism|
-எதிர்ம மடக்கை|negative logarithm|antilogarithm - எதிரியமடக்கை
-எதிர்ம முழுவெண்கள்|negative integers|
-எதிர்ம வகைக் குறைக்கடத்தி|n-type semiconductor|
-எதிர்ம வளைவம்|negative curvature|
-எதிர்ம வினையூக்கி|negative catalyst|
-எதிர்மச் சாயமிடல்|negative staining|
-எதிர்மடியும் பெருவிரல்|opposable thumb|
-எதிர்மத் தளவணி|negative matrix|
-எதிர்மப் பின்னூட்டம்|negative feedback|
-எதிர்மவயனி|anion|
-எதிர்மவாய்|anode|
-எதிர்மவாய்க்கவர்ச்சி|anaphoresis|
-எதிர்மவாய்த் தடுப்பறை|anode compartment|
-எதிர்வினை|reaction (to an action)|
-எதிர்வெப்ப உலை|reverberatory furnace|
-எதி்ரியமருந்து|antidote|
-எத்திலீன்|ethylene|
-எத்திலீன் இருபுரோமைடு|ethylene dibromide|
-எத்திலீன் ஈரால்|ethylene glycol|
-எந்திரப் பொறியியல்|mechanical engineering
-எந்திரப்பணியாளர்|mechanic|machinist - எந்திரவோட்டுநர்
-எந்திரம்|machine|
-எந்திரவியத் தனிமையாதல்|mechanical isolation|
-எந்திரவியல்|mechanics|
-எந்திரவியல் ஆற்றல்|mechanical energy|
-எந்திரவியல் வலிமை|mechanical strength|
-எந்திரவியல் வேலை|mechanical work|
-எந்திரவோட்டுனர்|machinist|mechanic - எந்திரப் பணியாளர்
-எந்திரனியல்|robotics|
-எந்திரன்|robot|
-எபதிரின்|ephedrine|
-எபனைட்டு|ebonite|
-எப்பிச உப்பு|epsom salt|
-எப்பிதைன் பாரின் வைரசு|Epstein-Barr virus|
-எப்பிமனாக்கம்|epimerization|
-எப்பிமனூக்கி|epimerase|
-எப்பிமன்|epimer |
-எப்பிமாற்றியம்|epimerism|
-எம்டன்|Embden|
-எம்டன் மெயர்காபு பரினசின் (எம்பர்) வழித்தடம்|Embden-Meyerhof-Parnas (EMP) Pathway
-எம்பர் (எம்டன் மெயர்காபு பரினசின்) வழித்தடம்|EMP (Embden-Meyerhof-Parnas) Pathway
-எய்தல்|shooting|
-எய்பொருள்|projectile|
-எய்வி|gun |
-எய்வியுலோகம்|gun metal|
-எரிகரி|charcoal|
-எரிகலப்பி|carburetor|
-எரிகாலிகால்|pyrogallol|
-எரிக் ஹுக்கல்|Erich Hückel|
-எரிங்கு புரூவரின் தன்நிகழ்வு|Herring-Breuer reflex|
-எரிசலட்டை|petrocard|
-எரிசல்|petrol|diesel - தீசல்
-எரிதல்|combustion|
-எரித்திருலோசு|erythrulose|
-எரித்திரோசு|erythrose|
-எரிபாசுவரிக அமிலம்|pyrophosphoric acid|
-எரிபாசுவேட்டு|pyrophosphate|
-எரிப்பி|burner|
-எரிமலை|volcano|
-எரிமின்கலம்|fuel cell|
-எரியத்தகு|combustible|
-எரிவிண்கல்|meteor|
-எருதனையம்|bos buffalo|
-எருதுமூக்கு|bull nose|
-எர்கோத்திரால்|ergosterol|
-எர்சின் பரிசோதனை|Hertz experiment|
-எர்சு|hertz|
-எர்பியம்|erbium|
-எர்லிச்|Ehrlich|
-எர்லிச்சின் சோதனை|Ehrlich's test|
-எர்வினியம்|erwinia|
-எர்ன்ஸ்ட் மெயர்|Ernst Mayr|
-எலட்டிரவிருப்பச் சேர்த்தல் வினை|electrophilic addition reaction
-எலட்டிரவிருப்பப் பதிலீட்டு வினை|electrophilic substitution reaction
-எலட்டிரவிரும்பி|electrophile|
-எலட்டிரானிழு|electronegative|
-எலட்டிரான்|electron|
-எலட்டிரான் அமைவடிவம்|electron configuration|
-எலட்டிரான் இழுக்கும்|electron withdrawing|
-எலட்டிரான் இழுதிறன்|electronegativity|
-எலட்டிரான் எய்வி|electron gun|
-எலட்டிரான் ஒத்தமைந்த|isoelectronic|
-எலட்டிரான் கடத்துக் கோர்வை|electron transport chain
-எலட்டிரான் கூடு|electron shell|
-எலட்டிரான் நாட்டம்|electron affinity|
-எலட்டிரான் நிலைமாற்றம்|electronic transition|
-எலட்டிரான் நுண்ணோக்கி|electron microscope|
-எலட்டிரான் நுண்வரை|electron micrograph|
-எலட்டிரான் பெறும உள்வெப்பம்|electron gain enthalpy|
-எலட்டிரான் பெறும்|electron accepting|
-எலட்டிரான் விடுதிறன்|electropositive character
-எலட்டிரான் விடும்|electron releasing|
-எலி தெள்ளை|rat flea|
-எலிசாச் சோதனை|ELISA (enzyme-linked immunosorbent assay) test|aka ஊக்கிப்புரதந்தொடுத்த நோயெதிர்ப்பு மேற்கவர்வி மதிப்பாய்வு சோதனை
-எலுங்கரி|bone black|
-எலும்பழிப்பு உயிரணு|osteoclast cell|
-எலும்பாக்கம்|osteogenesis|
-எலும்பாக்கி அணு|osteoblast cell|
-எலும்பு ஊன்|bone marrow|
-எலும்பு சிகிச்சையியல்|orthopedics|
-எலும்பு நிணவணு|B cell|aka beta cell, B lymphocyte
-எலும்பு நிணவணு|B lymphocyte|aka B cell, beta cell
-எலும்பு நிணவணு|beta cell|aka B cell, B lymphocyte
-எலும்பு நினைவணு|B memory cell|
-எலும்புக் கடினத்திசு|osteosclereid|
-எலும்புக்கூடமைப்பு|skeletal system|
-எலும்புக்கூடு|skeleton|
-எலும்புக்கோழை|osseomucoid|
-எலும்புட்படலம்|endosteum|
-எலும்புத் தசை|skeletal muscle|
-எலும்புத்தசை மூட்டழற்சி|rheumatic arthritis|
-எலும்புத்தசைக் காய்ச்சல்|rheumatic fever|
-எலும்புத்தசைவலி|rheumatism|
-எலும்புத்தசைவலி இதயநோய்|rheumatic heart disease
-எலும்புநசிவு|osteomalacia|
-எலும்புநார்|ligament|
-எலும்புப் பின்னல்|bony labyrinth|
-எலும்புப்புற்று|sarcoma|
-எலும்புமுறிவு|fracture|
-எலும்புமுனை|epiphysis|
-எலும்புமுனைத் தட்டு|epiphyseal plate|
-எலும்புருக்கி|tuberculosis|
-எலும்புருக்கியம்|tuberculin|
-எலும்புறுக்கிப் பூஞ்சைப்பாட்டீரியம்|mycobacterium tuberculosis
-எலும்புறை|periosteum|
-எலும்பூனழற்சி|osteomyelitis|
-எல் வோலார்டு செலின்சுகியின் (எவச) வினை|Hell-Volhard-Zelinsky (HVZ) reaction
-எல்லா நிரல்களும்|All Programs|
-எல்லாம் புறக்கணி|ignore all|இரண்டாம் வேற்றுமைத்தொகை
-எல்லாம் மாற்று|change all|
-எல்லை தெக்கிரின்|limit dextrin|
-எல்லைப்புற அணுக்குழைமம்|peripheral cytoplasm|
-எல்லைப்புற நரம்பமைப்பு|peripheral nervous system
-எல்லைப்புற நீர்மக்குழல் நோய்|peripheral vascular disease
-எல்லைப்புறச் சாதனங்கள்|peripheral devices|
-எல்லைப்புறப் புரதம்|peripheral protein|
-எல்லைப்புறம்|periphery|
-எவச (எல் வோலார்டு செலின்சுகியின்) வினை|HVZ (Hell-Volhard-Zelinsky) reaction
-எவப (எனவும் அழைக்கப் படும்)|aka (also known as)|
-எவுமூகு (எதிரிய உலோக முச்சியைடு குறைகடத்தி)|NMOS (n-type metal oxide semiconductor
-எழு விழு|flip flop|
-எழுச்சி|rise|
-எழுச்சிக்கோடு|springing line|
-எழுச்சிப்புள்ளிகள் (கட்டுமானம்)|springing points|
-எழுதியவர்|author|
-எழுதும் படிக்கும் தலை|read write head|
-எழுதுவோர் அமைப்பு|authoring system|
-எழுதுறு நினைவகம்|writable memory|
-எழுதுறுனர் (காசோலை)|drawee (of a check)|
-எழுதுனர் (காசோலை)|drawer (of a check)|
-எழுத்தர்|clerk|
-எழுத்தர் பிழை|clerical error|
-எழுத்தாக்கம்|authorship|
-எழுத்தாணி|stylus|
-எழுத்துக்கூட்டல் சரிகாணி|spell checker|
-எழுத்துணரி|character recognition|
-எழுத்துயர் புறக்கணி|ignorecase|
-எழுத்துயர்நிலை|case (character)|
-எழுத்துயர்நிலை உணர்வுடைய|case sensitive|
-எழுத்துயர்நிலையுணர்வு|case sensitivity|
-எழுத்துரு|font|
-எழுத்தெண்|alphanumeric|
-எழுமடியாயிரம்|sextillion (short scale)|
-எழுமரம்|trunk|
-எழுவொன்றிய கீல்|rising butt hinge|
-எளிதாக்கிய விரவல்|facilitated diffusion|
-எளிநிலை|primitive|
-எளிநிலைக் கூடு|primitive cell|
-எளிமையாக்கல்|simplification|
-எளிய ஒத்திசை|simple harmonic|
-எளிய காயிட்டர்|endemic goiter|aka simple goiter
-எளிய காயிட்டர்|simple goiter|aka endemic goiter
-எளிய குழி|simple pit|
-எளிய திசு|simple tissue|
-எளிய நேர்ந்தவாறு மாதிரிக்கூறெடுப்பு|simple random sampling
-எளிய பட்டைப் படவரைவு|simple bar diagram|
-எளிய வேதிவினை|simple reaction|
-எளிய வேற்றுநிலை|simple case|
-எளியன்|simpleton|
-எளியுரு|simplex (mathematics)|
-எறும்பால்டிகைடு|formaldehyde|
-எறும்பிக அமிலம்|formic acid|
-எறும்புச்சேர்க்கை|myremecophily|
-எறும்புண்ணி|anteater|
-எறும்பைலநீக்கவூக்கி|deformylase|
-எறும்பைல்|formyl|
-எனச் சேமி|save as|
-எனவும் அழைக்கப்படும் (எவப)|also known as (aka)|
-எனாமலிட்ட|enamelled|
-எனாமல்|enamel|
-எனிற் கூற்று|if statement|
-எனும்வரை செய்|do until|
-என்ரி|henry|
-என்ரிகோ ஃபெர்மி|Enrico Fermi|
-என்றபோது கூற்று|while statement|
-என்றபோது செய்|do while|
-என்றபோது செய்க் கூற்று|do-while statement|
-என்றுனர் தூடராப்பின் வழித்தடம்|Entner-Doudoroff pathway
-ஏடியன் பேரூழி|Hadean eon|
--ஏட்டு (எசுத்தர்)|-ate (ester)|
-ஏணியுருவான|scalariform|
-ஏநிடியீ|NAD+|NADH - இநிடியீ
-ஏந்தி|carriage|
-ஏந்திக் கட்டுப்பாடு|carriage control|
-ஏந்தித்திருப்பம்|carriage return|
-ஏரண|logical|
-ஏரண எண்ணப்பாடு|logical thinking|
-ஏரண மாற்றியமைப்பி|logic converter|
-ஏரண மின்சுற்று|logic circuit|
-ஏரண வாயில்|logic gate|
-ஏரணக் குறியீடு|logic symbol|
-ஏரணச் செயலம்|logical operation|
-ஏரணச் செயலி|logical operator|
-ஏரணம்|logic|
-ஏரி|lake|pond - குளம்
-ஏர்க்காலெலும்பு|vomer|
-ஏலகர்|auctioneer|
-ஏலறிவி|acknowledge|
-ஏலறிவிப்பு|acknowledgement|
-ஏலாமையறிவித்தல்|negative acknowledgement
-ஏல்|accept|
-ஏவரி மக்ளௌடு|Avery Macleod|
-ஏவு|launch|
-ஏவுகணை|missile|
-ஏவுதளம்|launch pad|
-ஏவுநிலையம்|launching station|
-ஏவூர்தி|rocket|
-ஏவூர்தி ஏவல்|rocket launch|
-ஏவூர்தி ஏவுநிலையம்|rocket launch station|
-ஏழ-|hepta-|
-ஏழ-|hepta-|
-ஏழவேன்|heptane|
-ஏழுமம்|heptet|
-ஏழுலோசுப் போலி|pseudo heptulose|sedoheptulose - சிடோவேழுலோசு
-ஏழோசு|heptose|
-ஏறு சார்பு|increasing function|
-ஏறு முறைமையாக்கு|sort ascending|
-ஏறுதல்|mounting (onto something)
-ஏறுதழுவு இதழடுக்கம்|ascendingly imbricate aestivation
-ஏறுதாள் நிறப்பிரிகை|ascending paper chromatography
-ஏறுபெருங்குடல்|ascending colon|
-ஏற்பமை ஒட்டுண்ணி|facultative parasite|
-ஏற்பமை மேலெழுதல்|facultative endorsement
-ஏற்பமைக் காற்றின்றிவாழ்வன|facultative anaerobe|
-ஏற்பமைவு|accommodation (anatomy)
-ஏற்பி|acceptor|
-ஏற்பி மின்சுற்று|acceptor circuit|
-ஏற்பிக் கிளை|acceptor arm|
-ஏற்பிசை|endorse |
-ஏற்பிசைவு|endorsement|
-ஏற்பிசைவுறுனர்|endorsee|
-ஏற்பிசைவுனர்|endorser|
-ஏற்பின்மை|rejection (transplant)|
-ஏற்புடை  |valid|
-ஏற்புடைமை|validity|
-ஏற்புடைய|acceptable|
-ஏற்புடையாக்கல்|validation|
-ஏற்புடையாக்கு|validate|
-ஏற்றமட்டம்|elevation (surveying)|
-ஏற்றரங்கு|staging area|
-ஏற்றல்|acceptance|
-ஏற்றி|pump|
-ஏற்றி வரிசைக் கோட்பாடு|relay pump theory|
-ஏற்றிறக்குமதி வங்கி|EXIM bank|
-ஏற்றுதல்|mounting (something)|
-ஏற்றுமதி|export|
-ஏற்றுமதியாளர்|exporter|
-ஏனைய பயனர்கள்|other users|
--ஏன் (ஆல்க்கேன்)|-ane (alkane)|
--ஐகள்|-ales|
--ஐகிள்|-ineae|
-ஐக்கான் (பெயர் மற்றும் எண் ஒப்படைப்புக்கான இணையக் கூட்டகம்)|ICANN (Internet Corporation for Assigned Names and Numbers)
-ஐங்குவிய இதழடுக்கம்|quincuncial|
-ஐங்குவியம்|quincunx|
-ஐங்குளோரைடு|pentachloride|
-ஐசன்பெர்கு|Heisenberg|
-ஐதரசோவா|hydrozoa|
-ஐதரா|hydra|
-ஐந்த-|penta-|
-ஐந்தங்க மலர்|pentamerous flower|
-ஐந்தவாயிக அமிலம்|pentoic acid|
-ஐந்தவேன்|pentane|
-ஐந்தவைல்|pentyl|
-ஐந்தவோசு|pentose|
-ஐந்தனல்|pentanal|
-ஐந்தன்-2-ஓன்|pentan-2-one|
-ஐந்தாண்டுத் திட்டம்|Five Year Plan|
-ஐந்தாம் இகோவ|EcoRV|
-ஐபியெம்|IBM |
--ஐப் பொறுத்து|with respect to|
-ஐமடியாயிரம்|quadrillion (short scale)
-ஐம்பதவேன்|pentacontane|
-ஐம்மம்|quintet|
-ஐயோடோ-|iodo-|
-ஐரிபா (இரிபுலோசு-5-பாசுவேட்டு)|Ru5P|
-ஐரோப்பிய அமைச்சர் மன்றம்|EU Council of Ministers
-ஐரோப்பிய ஆணையம்|European Commission|
-ஐரோப்பிய ஒன்றியம்|Europian Union|
-ஐரோப்பிய நிதி ஒன்றியம்|European Monetary Union
-ஐரோப்பிய மூலக்கூறு உயிரியல் சோதனைச்சாலை (ஐமூவுசோ)|EMBL (European Molecular Biology Laboratory)
-ஐரோப்பியப் பொருளாதாரச் சமுதாயம்|European Economic Community (EEC)
-ஐரோப்பியம்|europium|
--ஐல் (ஆல்க்கைல்)|-yl (alkyl)|
-ஐவிரல|pentadactyl|
-ஐனசீன்|inosine|
-ஐனத்தியம்|einstenium|
-ஐனுத்தீன் சமன்பாடு|Einstein equation|
--ஐனைல்|-ynyl|
--ஐன் (ஆல்க்கைன்)|-yne (alkyne)|
-ஐன்வீவர்-பருக்கின் சமன்பாடு|Lineweaver - Burk equation
-ஐன்ஸ்டைன்|Einstein|
-ஒ- (ஆல்க்கீன்)|Z- (alkene)|
-ஒகசாகியின் துண்டு|Okazaki fragment|
-ஒகைவு|ogive|
-ஒடுக்கம்|constriction|
-ஒடுக்குத் தசை|constrictor muscle|
-ஒடுங்கம்|recession|
-ஒடுங்கல்|recessiveness|
-ஒடுங்கிய|recessive|dominant - ஓங்கிய
-ஒடுங்கு மரபணு|recessive gene|
-ஒடுங்கு மேல்நிற்றல்|recessive epistasis|
-ஒட்டிடுதல்|patching|
-ஒட்டிணை|adhesive|
-ஒட்டிணை விசைகள்|adhesive forces|
-ஒட்டிணைவு|adhesion|
-ஒட்டிய வீடு|attached house|
-ஒட்டு (தரவுத்தளம்)|join (database)|
-ஒட்டு (திருத்தி)|paste v|
-ஒட்டுக்கட்டு|cement v|
-ஒட்டுக்கேட்டல்|eavesdropping|
-ஒட்டுண்ணல்|parasitism|
-ஒட்டுண்ணி|parasite|
-ஒட்டுப்பசை|glue|ஒட்டுவான் - gluon; பசை - grease
-ஒட்டுப்பலகை|plywood|
-ஒட்டுப்பலகைக் கதவு|flush door|
-ஒட்டுப்புழு|fluke|
-ஒதுக்கம்|refuse (sanitation)|
-ஒதுக்கீடு|allocation|
-ஒதுக்கீடுநீக்கம்|deallocation|
-ஒதுங்குதண்டு|offset (stem)|
-ஒத்த கோணங்கள்|similar angles|
-ஒத்தலைவு|resonance|
-ஒத்தலைவு ஆற்றல்|resonance energy|
-ஒத்தலைவு விளைவு|resonance effect|
-ஒத்திகை|rehearsal|
-ஒத்திசை|harmonic|
-ஒத்திசை அலைவி|harmonic oscillator|
-ஒத்திசை இயக்கம்|harmonic motion|
-ஒத்திசைச் சராசரி|harmonic mean|
-ஒத்திசைத் தொடர்|harmonic progression|
-ஒத்திசைத் தொடர்|harmonic series|
-ஒத்திசைவிலா அலைவி|anharmonic oscillator|
-ஒத்திணைவு|coherence|
-ஒத்திய|deferred|
-ஒத்திய பதிகை|deferred entry|
-ஒத்திய முகவரி|deferred address|
-ஒத்திய வெளியேற்றம்|deferred exit|
-ஒத்துயிரல்|mutualism|
-ஒத்துழை|cooperate|
-ஒத்துழைப்பு|cooperation|
-ஒநாகறிக (ஒன்றிய நாடுகளின் கல்வி, அறிவியல், கலாச்சார ஒருங்கமைப்பு)|UNESCO (United Nations Educational, Scientific, and Cultural Organization)
-ஒநிதொ (ஒளிப்பட நிபுணர் இணைவுத் தொகுதி)|JPEG (Joint Photographic Experts Group)
-ஒந்திணைந்த|coherent|
-ஒபதவி (ஒளிப்பரவு தரவிடைமுகம்)|FDDI (fiber distributed data interface)
-ஒபீலியா|obelia|
-ஒப்படர்வு|specific gravity|
-ஒப்படை|assign|
-ஒப்படைத்தல்|assignment|
-ஒப்படைத்தல் செயலி|assignment operator|
-ஒப்பணு மூலக்கூறு|homo atomic molecule|
-ஒப்பந்த உறுப்புகள்|terms of a contract|
-ஒப்பந்தப்புள்ளி|tender n|
-ஒப்பந்தம்|contract|agreement - உடன்பாடு
-ஒப்பந்தவிசம்|contractualism|
-ஒப்பந்தவிசர்|contractualist|
-ஒப்பமிடு|sign on|
-ஒப்பம்விடு|sign off |
-ஒப்பரினின் கோட்பாடு|Oparin's theory|
-ஒப்பளவில்|relatively|
-ஒப்பாத மூலதனம்|unsubscribed capital|
-ஒப்பாய்வு|comparative study|
-ஒப்பாவண நிறுமம்|chartered company|
-ஒப்பாவணம்|charter|
-ஒப்பிடு செயலி|comparison operator|
-ஒப்பிட்டு இடைமாற்றல்|compare-and-swap|
-ஒப்பிய மூலதனம்|subscribed capital|
-ஒப்பிலா|absolute|
-ஒப்பிலா மதிப்பு|absolute value (opp relative value)
-ஒப்பிலா வறுமை|absolute poverty|
-ஒப்பிலா வெப்பநிலை|absolute temperature|
-ஒப்பிலாச் சுழி|absolute zero|
-ஒப்பிலாப் பாதை|absolute path|relative path - ஒப்புமைப் பாதை
-ஒப்பிலாப் பிழை|absolute error|
-ஒப்பினங்கள்|comparium|
-ஒப்பினவணுவ|homogametic|
-ஒப்பினவணுவப் பாலியம்|homogametic sex|
-ஒப்பு ஈரணு மூலக்கூறு|homonuclear diatomic molecule
-ஒப்பு ஒளிப்பாயம்|illuminance|
-ஒப்பு வெப்ப ஏற்புமை|specific heat capacity|
-ஒப்பு வெப்பம்|specific heat|
-ஒப்புச்சுழலி|homocyclic  n|
-ஒப்புச்சுழல் சேர்மம்|homocyclic compound|
-ஒப்புச்சேர்க்கை|anisogamy|oogamy - மாற்றுச்சேர்க்கை
-ஒப்புத் தடையம்|specific resistance|
-ஒப்புத் திருப்பம்|specific rotation|
-ஒப்புப் பலசர்க்கரைடு|homopolysaccharide|
-ஒப்புப் பலவணு|homonuclear polyatomic
-ஒப்புப்பகு பிளவுறுதல்|homolytic fission|
-ஒப்புப்பதியம்|allograft|aka homograft
-ஒப்புப்பதியம்|homograft|aka allograft
-ஒப்புப்பாலின|homosexual|unisexual - ஒருபாலின
-ஒப்புப்பாலினவியம்|homosexuality|இனம் - species; பாலினவியம் - sexuality
-ஒப்புப்பாலினவியர்|homosexuals|
-ஒப்புப்பேசல்|negotiation|
-ஒப்புப்பேசு|negotiate|
-ஒப்புமரபணுவுள்ள|homozygous|
-ஒப்புமை|relativity|சார்பு - dependence
-ஒப்புமை ஆவி அழுத்தக் குறைவு|relative lowering of vapor pressure
-ஒப்புமை இயக்கம்|relative motion|
-ஒப்புமை மதிப்பு|relative value (as opposed to absolute value)
-ஒப்புமை வறுமை|relative poverty|
-ஒப்புமைக் கருவளரியல்|comparative embryology
-ஒப்புமைக் கோட்பாடு|theory of relativity|
-ஒப்புமைசார்|relativistic|
-ஒப்புமைத் திட்ட விலக்கம்|relative standard deviation
-ஒப்புமைப் பாதை (இலினசு)|relative path|
-ஒப்புமைப் பிழை|relative error|
-ஒப்புரு|model|sample - மாதிரிக்கூறு
-ஒப்புருவாக்கம்|modeling |
-ஒப்புவகைச் சிரமஞ்சரி|homogamous capitulum
-ஒப்புவகைய|homotypic|
-ஒப்புவளைய|homocyclic  adj|
-ஒப்புவித்தி|homospory|
-ஒப்பேற்றல்|kludge|
-ஒமிரான்|omicron|
-ஒமிவா (ஒளியுமிழ் இருமின்வாய்)|LED (light emitting diode)
-ஒமேகா|omega|
-ஒமேகா கொழுப்பமிலம்|omega fatty acid|
-ஒரிபா (இருபுலோசு-1-பாசுவேட்டு)|Ru1P|
-ஒருகற்றை மகரந்தத்தாள்கள்|monadelphous stamens
-ஒருக்கமாதல்|condensation|
-ஒருக்கமாதல் வினை|condensation reaction|
-ஒருக்கி|condenser|
-ஒருக்கு|condense |
-ஒருக்கு ஒளிவில்லை|condenser lens|
-ஒருங்கமை|organize|regulate - ஒழுங்கமை; coordinate - ஒருங்கிணை
-ஒருங்கமைப்பு|organization |company - நிறுமம்
-ஒருங்கமைப்பு வரிவரைவு|organization chart|
-ஒருங்கமைப்புக் கட்டுப்பாடு|organizational control|
-ஒருங்களவு|coordinate (geometry)|
-ஒருங்களவு அச்சு|coordinate axis|
-ஒருங்களவு அமைப்பு|coordinate system|
-ஒருங்களவு வடிவியல்|coordinate geometry|
-ஒருங்களவுச் சட்டம்|coordinate frame|
-ஒருங்கிணை|coordinate v|conjoint - ஒன்றிணைந்த
-ஒருங்கிணைப்பாளர்|coordinator|
-ஒருங்கிணைவு|coordination|
-ஒருங்குமைய வடம்|coaxial cable|
-ஒருசொற்றுகள்|unigram|
-ஒருதிசைச் சுமப்பி|symporter|
-ஒருத்துவ|unique|
-ஒருத்துவத் தீர்வு|unique solution|
-ஒருத்துவம்|uniqueness|specialty - தனித்துவம்
-ஒருபாலின|unisexual|homosexual - ஒப்புப்பாலின
-ஒருபொருட்பன்மொழி|synonym|
-ஒருமச் செயலி|uniary operator|
-ஒருமடல் மகரந்தத்தாள்|monothecous stamen|
-ஒருமம்|monomer|
-ஒருமுறை புறக்கணி|ignore once|
-ஒருமைச்சீராக்கல்|homogenization|
-ஒருமைச்சீரான|homogeneous|
-ஒருமைச்சீர்மை |homogeneity|
-ஒருமைச்சீர்மையுணவு முட்டை|homolecithal egg|
-ஒருவழி (தகவற்றொடர்பு)|simplex (communication)
-ஒருவழி நிலமம்|simplex mode|
-ஒருவி|monad|
-ஒருவிதையிலையன|monocotyledonae|
-ஒரே-|cis-|
-ஒரேபக்கனைய|cisoid|
-ஒரேவெப்ப|homoiothermic|isothermal - சமவெப்ப
-ஒலி வடிவூட்டம்|SND format|
-ஒலிநாண்கள்|vocal cords|aka vocal folds
-ஒலிநாண்கள்|vocal folds|aka vocal cords
-ஒலிப்பி|speaker|
-ஒலியடக்கு|mute (audio)|
-ஒலியலையுணரி|sonar|
-ஒலியளவு|loudness|
-ஒலியளவு|volume (of sound)|
-ஒலியன்|phonon|
-ஒலியாக்கம்|transliteration|
-ஒலியிக அமிலம்|oleic acid|
-ஒலியியல்|acoustics|phonetics - பேச்சொலியியல்
-ஒலியுறிஞ்சு ஓடு|acoustic tiles|
-ஒலியுறிஞ்சு சாந்து|acoustic plaster|
-ஒவ்வாமை|incompatibility|
-ஒவ்வாமை (மருத்துவம்)|allergy|
-ஒவ்வாமை நோயெதிர்ப்பி|reagin|
-ஒவ்வாமைக் கண்படலவழற்சி|allergic conjunctivitis|
-ஒவ்வாமையாக்கி|allergen|
-ஒவ்வுமை|compatibility|
-ஒவ்வுமையற்ற|incompatible|
-ஒவ்வுமையான|compatible|
-ஒழுக்கக்கேடு|misconduct|
-ஒழுங்கமை|regulate|organize - ஒருங்கமை; coordinate - ஒருங்கிணை
-ஒழுங்கமை|regulatory|
-ஒழுங்கமை பொருட்கள்|regulatory substances|
-ஒழுங்கமைதல்|regulation (by itself)|
-ஒழுங்கமைத்தல்|regulation (by something)
-ஒழுங்கமைப்பி|regulator|
-ஒழுங்கமைவு தளர்த்தல்|deregulation|
-ஒழுங்கின்மை|chaos|entropy - சீர்குலைவு; disorder - முறைமையின்மை
-ஒழுங்குப் பலகோணம்|regular polygon|
-ஒளி (பெயரெச்சம்)|optic (physics)|
-ஒளி ஆண்டு|light year|
-ஒளி எலட்டிரான் நிறமாலையியல்|photoelectron spectroscopy
-ஒளிக்கதிர்|ray of light|
-ஒளிக்கற்றை|beam of light|
-ஒளிக்கோளம்|photosphere|
-ஒளிச்சட்டம்|optical square|
-ஒளிச்சிதறல்|light scattering|
-ஒளிச்செறிவு|light intensity|
-ஒளித் தானூட்டி|photo autotroph|
-ஒளித்திருப்ப மாற்றியம்|optical isomerism|
-ஒளித்திருப்பச்சமமூக்கி|racemase|
-ஒளித்திருப்பம்|optical activity|
-ஒளித்தூண்டல்|phototactic|
-ஒளித்தொகுத்தாக்க வேர்கள்|photosynthetic roots|
-ஒளித்தொகுத்தாக்கம்|photosynthesis|
-ஒளிநாடு|phototropic|
-ஒளிநாட்டம்|phototropism|
-ஒளிபுகா|opaque|
-ஒளிபுகாமை|opacity|
-ஒளிபுகு|transparent|
-ஒளிபுகுவன்|transparency (photography)
-ஒளிப்பட நிபுணர் இணைவுத் தொகுதி (ஒநிதொ)|Joint Photographic Experts Group (JPEG)
-ஒளிப்படம்|photograph|
-ஒளிப்படவியல்|photography|
-ஒளிப்பரவு தரவிடைமுகம் (ஒபதவி)|fiber distributed data interface (FDDI)
-ஒளிப்பாசுவேட்டேற்றம்|photophosphorylation|
-ஒளிப்பெறுவி|photoreceptors|
-ஒளிப்பேனா|light pen|
-ஒளிமின்|photoelectric|
-ஒளிமின் வெப்பளவி|photoelectric calorimeter 
-ஒளிய|optical|
-ஒளிய இழை|optical fiber|
-ஒளியச்சம்|photophobia|
-ஒளியளவியல்|photometry|
-ஒளியளவியல் பகுப்பாய்வு|photometric analysis|
-ஒளியன்|photon|
-ஒளியாடியர்|optician|
-ஒளியால் எழுத்துணர்தல்|OCR (optical character recognition)
-ஒளியால் எழுத்துணர்தல்|optical character recognition (OCR)
-ஒளியால் குறியுணர்தல்|optical mark reading and recognition
-ஒளியாவர்த்தனம்|photoperiodism|
-ஒளியாற்பகுப்பு|photolysis|
-ஒளியியக்குநீர்|photohormone|
-ஒளியியல்|optics|
-ஒளியுண்ணி|phototroph|
-ஒளியுமிழ் இருமின்வாய் (ஒமிவா)|light emitting diode (LED)
-ஒளிர்க்கள நுண்ணோக்கி|bright field microscope
-ஒளிர்மை|brightness|
-ஒளிவட்டு|optical disk|
-ஒளிவளைவு|photonasty|
-ஒளிவிலகல்|refraction|
-ஒளிவிலகல் எண்|refractive index|
-ஒளிவில்லை|lens|
-ஒளிவில்லை சமன்பாடு|lens equation|
-ஒளிவில்லையாளரின் சமன்பாடு|lensmaker's equation|
-ஒளிவில்லையிழை|lens fiber|
-ஒளிவில்லையின் திறன்|power of lens|
-ஒளிவிழிதப் பார்வை|photopic vision|
-ஒளிவிழிதம்|photopsin|
-ஒளிவேதிய|photochemical|
-ஒளிவேதியப் பிளவுறுதல்|photochemical fission|
-ஒளிவேதியியல்|photochemistry|
-ஒறுப்பிழ|forfeit|
-ஒறுப்பிழப்பு|forfeiture|
-ஒற்றுத்தாள்|blotting paper|
-ஒற்றை-|mono-|
-ஒற்றை அடர்வு|single density|
-ஒற்றை அணுக்கருவைடு பலவடிவுமை|single nuclotide polymorphism
-ஒற்றை அமிலத்துவ காரம்|monoacidic base|
-ஒற்றை ஆயுட் காப்பிதழ்|single life policy|
-ஒற்றை இணைமம்|odd parity|
-ஒற்றை ஐரோப்பியச் சட்டம்|Single European Act|
-ஒற்றை நிலைப்பான|monostable|
-ஒற்றை நீர்மூச்சிய|monohydric|
-ஒற்றை நெடுக்கை கைப்பண ஏடு|single column cash book
-ஒற்றை மின்வாய் ஆற்றநிலை|single electrode potential
-ஒற்றை மூலக்கூறு நீக்க வினை|unimolecular elimination reaction
-ஒற்றை மூலக்கூறு வினை|unimolecular reaction|
-ஒற்றை மேற்கோள்|single quotes|
-ஒற்றை வரியிடை|single spacing|
-ஒற்றை விதையிலை|monocot|
-ஒற்றைக் கசையிழை|monotrichous|
-ஒற்றைக் கட்டக் கண்டு|single phase winding|
-ஒற்றைக் கரிமமிலம்|monocarboxylic acid|
-ஒற்றைக் காரத்துவ அமிலம்|mobasic acid|
-ஒற்றைக் கிடையிழை|single strand|
-ஒற்றைக் கிடையிழைப் பிணைப்புப் புரதம்|single strand binding protein
-ஒற்றைக்கடவு|single pass|
-ஒற்றைக்கடவு சவ்வூடு புரதம்|single pass transmembrane protein
-ஒற்றைக்கட்டு|monolithic|
-ஒற்றைக்கருவின|mononucleate|
-ஒற்றைக்கலப்பினம்|monohybrid|
-ஒற்றைக்கழியன|monotremata|aka prototheria
-ஒற்றைக்கழியன|prototheria|aka monotremata
-ஒற்றைக்கிளிசரைடு|monoglyceride|
-ஒற்றைக்குளோன்|monoclonal|
-ஒற்றைக்குளோன் உயிரியெதிர்ப்பி|monoclonal antibiotic|
-ஒற்றைக்குளோன் நோயெதிர்ப்பி|monoclonal antibody|
-ஒற்றைச் சுமப்பி|uniporter|
-ஒற்றைச் செலுத்தக் காப்பிதழ்|single premium policy|
-ஒற்றைச்சரிவு|monoclinic|
-ஒற்றைச்சர்க்கரைடு|monosaccharide|
-ஒற்றைச்சுர|monotonic|
-ஒற்றைச்சுரம்|monotone|
-ஒற்றைச்சூலிலை|monocarpellary|
-ஒற்றைத் துல்லியம்|single precision|
-ஒற்றைநிற|monochrome|
-ஒற்றைநீர்மூச்சிய ஆல்ககால்|monohydroxy alcohol|
-ஒற்றைப் படலக் கண்டு|single layer winding|
-ஒற்றைப் படலம்|monolayer|
-ஒற்றைப் பதிலீட்டு|monosubstituted|
-ஒற்றைப் பயனர்|single user|
-ஒற்றைப்படை|odd|
-ஒற்றைப்பயன்|disposable|
-ஒற்றைப்பாட்டை|unibus|
-ஒற்றைப்பிரிவன்|monochasium|
-ஒற்றைமரபெண்|monoploidy|
-ஒற்றைமாற்றியக் கரிமம்|anomeric carbon|
-ஒற்றைமாற்றியன்|anomer|
-ஒற்றைமுனைய|unipolar|
-ஒற்றைமூலக்கூறு அணுக்கருவிருப்பப் பதிலீட்டு வினை|unimolecular nucloephilic substitution reaction
-ஒற்றைமெய்ய|haploid|
-ஒற்றைமெய்யக் கட்டம்|haplophase|
-ஒற்றைய|monadic|
-ஒற்றைய|unitary|
-ஒற்றையணு|monocyte|
-ஒற்றையணு (வேதியியல்)|monoatomic|
-ஒற்றையணுவிகள்|protozoa|
-ஒற்றையணுவியெதிர்ப்பி|antiprotozoal|
-ஒற்றையன்|singleton|
-ஒற்றையன் கணம்|singleton set|
-ஒற்றையிரட்டைமெய்ய|haplodiploidy|
-ஒற்றையிறகத் தசை|unipennate muscle|
-ஒற்றையிறகன|unipinnate|
-ஒன்பத-|nona-|
-ஒன்பதவேன்|nonane|
-ஒன்பதுமடியாயிரம்|octillion (short scale)|
-ஒன்றாசூலிலை|apocarpous|
-ஒன்றிணைந்த|conjoint|coordinate - ஒருங்கிணை
-ஒன்றிணைய (தாவரவியல், விலங்கியல், உடலமைப்பியல்)|commissural|
-ஒன்றிணைவு (தாவரவியல், விலங்கியல், உடலமைப்பியல்)|commissure|
-ஒன்றிய நாடுகளின் கல்வி, அறிவியல், கலாச்சார ஒருங்கமைப்பு (ஒநாகறிக)|United Nations Educational, Scientific, and Cultural Organization (UNESCO)
-ஒன்றிய நாடுகளின் சுற்றுச்சூழல் பணித்திட்டம்|United Nations Environment Programme
-ஒன்றிய நாடுகள்|United Nations|United States - ஒன்றிய மாநிலங்கள்
-ஒன்றிய மாநிலங்கள்|United States|united nations - ஒன்றிய நாடுகள்
-ஒன்றியசூலிலை|syncarpous|
-ஒன்றியசேர்க்கை|syngamy|
-ஒன்றியம்|union|
-ஒன்றிழைதல்|fusion|
-ஒன்றுக்கு ஒன்றான|one to one|
-ஒன்றுசேர்|merge|
-ஒன்றுணர்வு|rapport|
-ஒன்றுவிட்ட|alternate adj|
-ஒன்றுவிட்ட இரண்டைப் பிணைப்புகள்|conjugated double bonds
-ஒன்றுவிட்ட இலையடுக்கம்|alternate phyllotaxy|
-ஒன்றுவிட்ட பாத்தி முறை|alternate bay method|
-ஒன்றையொற்று தவிர்க்கும்|mutually exclusive|
-ஒன்றையொன்று தூண்டல்|mutual induction|
-ஒன்றொன்றுமூன்றியம்|ununtrium|
-ஒன்றொன்றெட்டியம்|ununoctium|
-ஒன்றொன்றேழியம்|ununseptium|
-ஒன்றொன்றைந்தியம்|ununpentium|
-ஓங்கல்|dominance|
-ஓங்கல் ஒடுங்கல் விதி|law of dominance and recessiveness
-ஓங்கிய|dominant|recessive - ஒடுங்கிய
-ஓங்கிய பங்கு|dominant role|
-ஓங்கு ஒடுங்கு மேல்நிற்றல்|dominant recessive epistasis
-ஓங்கு மேல்நிற்றல்|dominant epistasis|
-ஓங்கோல்|Ongole|
-ஓசசோன்|osazone|
--ஓசு|-ose|
-ஓசை|noise|
-ஓசை மாசுறுதல்|noise pollution|
-ஓசோனாற்பகுப்பு|ozonolysis|
-ஓசோன்|ozone|
-ஓசோன் துளை|ozone hole|
-ஓசோன் வெறிப்பு|ozone depletion|
-ஓசோன் வெறிப்புப் பொருள்|ozone depleting substance
-ஓடி (கணினியி்யல்)|drive (computer)|
-ஓடிழை|dendrite|aka dendron
-ஓடிழை|dendron|aka dendrite
-ஓடு பெ|tile n|
-ஓடு பெ (மேலுறை)|shell|
-ஓடுடைத்தோலி|ostracoderm|
-ஓடுடையிறகி|pteraspis|
-ஓடுதண்டு|runner|
-ஓடுதல்|running|
-ஓடுநீர்|lotic|marine - கடல்நீர்; lentic - கிடைநீர்
-ஓடை|stream|
-ஓடைக்கோடு|streamline|
-ஓடைக்கோட்டுப் பாய்வு|streamline flow|
-ஓட்ட நேரம்|run time|
-ஓட்டடுக்கு|tile v|
-ஓட்டம்|run n|
-ஓட்டி (கணினியி்யல்)|driver (computer)|
-ஓட்டுச்சிப்பி|barnacle|
-ஓமளவி|ohm meter|
-ஓமின் விதி|Ohm's law|
-ஓம்|Ohm|
-ஓம்சின் சைகை|Holmes' signal|
-ஓம்புயிரி|host organism|
-ஓம்புனர்|host|
--ஓயேட்டு|-oate|
--ஓயேட்டு (கரிமமிலேட்டு)|-oate (carboxylate)|
-ஓய்வு நிலையிலுள்ள பொருள்|object at rest|
-ஓய்வு நிறை|rest mass|inertial mass - நிலைம நிறை
-ஓய்வுவித்து|hypnospore|
-ஓய்வுறு|retire|
-ஓய்வுறுதல்|retirement|
-ஓரங்கை|unifoliate|
-ஓரச் சூலொட்டுமுறை|marginal placentation|
-ஓரச்சாய்வு செங்கல்|squint brick|
-ஓரணு (உயிரியல்)|unicellular|
-ஓரணுக்கருவைடு|mononucleotide|
-ஓரத்தடுப்பு|berm|
-ஓரமிடு|marginate|
-ஓரம்|margin|
-ஓரவடிகால்|gutter|
-ஓரவையம்|unicameralism|ஒரு + அவையம்
-ஓரிடத்து|monoecious|
-ஓரினவித்து|azygospore|
-ஓருறுப்புக்கோவை|monomial (expression)
-ஓருறைய|monochlamydeous|
-ஓருறையங்கள்|monochlamydeae|
-ஓலுமியம்|holmium|
-ஓலை|frond|
-ஓலைச்செருகு|interleave|
-ஓவேல் கூ.|P. ovale|
-ஓவேல் மலேரியா|ovale malaria|
--ஓன்|-one|
--ஓன் (கீற்றோன்)|-one (ketone)|
-க, ச, த, ப அலைகள்|P, Q, R, S waves|
-கக்க நிணக்கணு|axillary node|
-கக்க மஞ்சரி|axillary inflorescence|
-கக்க மொட்டு|axillary bud|
-கக்கத் தனி முற்றுநுனியன்|axillary solitary cyme|
-கக்கம்|axilla|
-கக்கம் (தாவரவியல்)|axil|aka axilla
-கக்குவான் இருமல்|diphtheria|
-கக்குவான் இருமல் நச்சுவம்|diphtheria toxin|
-கங்காரு|kangaroo|
-கசக சிக்கல்|ABA problem|
-கசடு|slag|
-கசலின் தனித்துகள்|Hassall's corpuscle|
-கசிந்தொழுகல்|percolation|
-கசிந்தொழுகு|percolate|
-கசிவிறங்கு|seep|
-கசிவு மின்னேற்றம்|trickle charging|
-கசிவு வடிகட்டி|trickling filter|
-கசூபெசெ (கணினி சூழல்களுக்கான பெயரத்தகு செயற்பாடமைப்பு)|POSIX (Portable Operating System Interface for Computer Environments)
-கசைக்குச்சிகள்|cilia|flagella - கசையிழைகள்
-கசைக்குச்சித்தசைகள்|ciliary muscles|
-கசைக்குச்சியச் சுரப்பி|ciliary gland|
-கசைக்குச்சியன|ciliata|
-கசைக்குச்சியுடலம்|ciliary body|
-கசையிழைகள்|flagella|cilia - கசைக்குச்சிகள்
-கசையிழையம்|promastigote|
-கசையிழையற்ற|atrichous|
-கசையிழையன|flagellata|
-கசையிழையன்|flagellate|
-கசையிழையுருவாதல்|exflagellation|
-கச்சா எண்ணெய்|crude oil|
-கச்சிதமான|perfect|
-கட(ந்து செல்)|pass (through a passage)
-கடக்குநாத்து|Kadaknath|
-கடத்தம்|conductance (measure)
-கடத்தல்|transport (physical phenomenon)
-கடத்தல் செவி குறைபாடு|conductive hearing loss
-கடத்தற்காப்பி|insulator|conductor - கடத்தி
-கடத்தற்காப்பிடு|insulate|
-கடத்தற்காப்பு|insulation|
-கடத்தற்காப்புத் தடையம்|insulation resistance|
-கடத்தற்காப்புத் தாள்|insulation paper|
-கடத்தற்காப்புத் துணி|insulation cloth|
-கடத்தற்காப்புப் பொருள்|insulation material|
-கடத்தி|conductor (electrical, heat, etc.)
-கடத்திப் புரதம்|transport protein|
-கடத்துக் குழல்|conducting vessel|
-கடத்துமை|conductivity|transmittance - அனுப்பிடுமை
-கடப்பாடு|liability|பொறுப்பு - responsibility
-கடப்பாட்டுக் காப்பீடு|liability insurance|
-கடப்புத் தாமதம்|transit delay|
-கடமியம்|cadmium|
-கடமைப்பாடு|obligation|
-கடலகடு|ocean trough|
-கடலாழம்|ocean deep|
-கடலேரி|lagoon|
-கடல்|sea|
-கடல் அரிச்சின்|sea urchin|
-கடல் அனிமோன்|sea anemone|
-கடல் ஆல்கத்தரசம்|laminarian starch|
-கடல் ஆல்கா|laminaria|
-கடல் காப்பீடு|marine insurance|
-கடல்நீர்|marine|lentic - கிடைநீர்; lotic - ஓடுநீர்
-கடல்வளர்ப்பு|mariculture|
-கடவுச்சிட்டை|passport|
-கடவுச்சொல்|password|
-கடவும|transitive|
-கடவுமப் பண்பு|transitive property|
-கடவுள் மூலக் கோட்பாடு|divine origin theory|
-கடற் பாம்பு|sea snake|
-கடற்கரை|seashore|
-கடற்களை|seaweed|கடல் ஆல்கா - laminaria; பாசி - moss
-கடற்சுருளியம்|oceanospirillum|
-கடற்பஞ்சு|sponge|
-கடற்பயணம்|sea travel|
-கடற்றரை|ocean floor|
-கடனீடு|debenture|
-கடனீந்தவர்  |creditor  |
-கடனீந்தவர் கடன்பட்டவர் குழு|creditor - debtor group
-கடனீவோர்|lender|
-கடனோலை|debenture|
-கடன் அட்டை|credit card|
-கடன் கடிதம்|letter of credit|
-கடன்தகு நிதி|loanable funds|
-கடன்பட்டவர்|debtor|
-கடன்பெறுவோர்|borrower|
-கடிகாரம்|clock|
-கடிகை|timer|
-கடிதேவு|quick launch|
-கடிப்பி (சாயமிடல்)|mordant|
-கடிப்பி (வேதியியல்)|chelate|
-கடின நீர்|hard water|heavy water - கன நீர்
-கடினக் கடத்தற்காப்பி|hard insulator|
-கடினக்கூழ்த்திசு|sclerenchyma|
-கடினத் திசு|sclereids|
-கடினத்தசைத் தகடு|sclerotic plate|
-கடினத்தசையுறை|sclerotic coat|
-கடினவுறை|cartridge|
-கடினவுறை காப்புருகி|cartridge fuse|
-கடுங்கரி|graphite|
-கடுங்காணிப்பு|surveillance|
-கடுந்தசைவலுவின்மை|myasthenia gravis|
-கடுமை|hardness|
-கடும்|severe|
-கடும் இரட்டை நோயெதிர்ப்புப் பற்றாக்குறை (கயிநோப)|severe combined immune deficiency (SCID)
-கடுலா|catla|
-கடை|shop n|
-கடை|store n|
-கடைக்குறுத்தெலும்பு வளையம்|carina|
-கடைச்சிறுநீர |metanephric|
-கடைச்சிறுநீரம்|metanephros|
-கடைதல் (தச்சு)|molding|
-கடைத்தெரு|bazaar|
-கடைபுகு முதல்விடு|last-in-first-out|
-கடைமைய|metacentric|
-கடைவாய்ப் பல்|molar (anatomy)|
-கடோலினியம்|gadolinium|
-கட்ட இணக்கேற்றம்|phase modulation|
-கட்ட முன்னடத்தி|block leader|
-கட்ட வேறுபாடு|phase difference|
-கட்டகம்|grillage|
-கட்டக் கோணம்|phase angle|
-கட்டணம்|fee|
-கட்டணவீதம்|tariff |
-கட்டணை|raphe|
-கட்டப் படவரைவு|block diagram|
-கட்டமானக் கட்டி|building block|
-கட்டமை நிரலாக்கல்|structured programming
-கட்டமை வடிவமைப்பு|structured design|
-கட்டமைப்பு|structure|
-கட்டமைப்பு மாற்றியம்|structural isomerism|
-கட்டமைப்புப் புரதம்|structural protein|
-கட்டம்|phase (of a process)|நிலை - state
-கட்டளை|command|
-கட்டளை வரி இடைமுகம்|command line interface
-கட்டளைத் தூண்டி|command prompt|
-கட்டாயமான|mandatory|
-கட்டி|block (solid)|
-கட்டிடப்படவரைவாளர்|draftsman|
-கட்டிடம்|building|
-கட்டிடர்|architect|
-கட்டிடவியல்|architecture|
-கட்டிணை ஆற்றல்|binding energy|பிணைப்பு ஆற்றல் - bond energy
-கட்டித் தொகை|lump sum |
-கட்டிலா வரியுரு|wild card character|
-கட்டிழை|chalaza|
-கட்டு|bundle|bunch - கொத்து
-கட்டுத்திட்டங்கள்|schemata|
-கட்டுத்திட்டம்|schema|
-கட்டுப்படுத்தி|controller|
-கட்டுப்படுத்து|control v|
-கட்டுப்பாடு|control n|
-கட்டுப்பாடு மறுசுருள்|indefinite iteration|
-கட்டுப்பாட்டலகு|control unit|
-கட்டுப்பாட்டு நிமிண்டல்|control signal|
-கட்டுப்பாட்டு வரிவரைவு|control chart|
-கட்டுப்பாட்டுக் கூற்றுகள்|control statements|
-கட்டுப்பாட்டுத் தண்டு|control rod|
-கட்டுப்பாட்டுத் திரை|console|
-கட்டுப்பாட்டுப் பலகம்|control panel|
-கட்டுமரம்|catamaran|
-கட்டுமான|constructive|
-கட்டுமான நிரூபணம்|proof by construction|
-கட்டுமானத் தொழிலகம்|construction industry|
-கட்டுமானம்|construction |
-கட்டுமுறைக் கொள்கை|aufbau principle|
-கட்டுவிரியன்|banded krait|
-கட்டுவோர்|builder|
-கட்டைசூழ்|amphivasal|
-கட்டைத்திசு|xylem|
-கட்டையம்|lignin|
-கட்டையாகு|lignify|
-கட்டையான|lignified|
-கட்டைவிரல்|big toe|
-கண எண்|cardinality|
-கணக்கர்|bookkeeper|accountant - கணக்கியர்; mathematician - கணிதர்
-கணக்கிடல்|calculation|
-கணக்கிட்ட உட்டளவரைவு (கத)|computed tomography (CT)
-கணக்கியர்|accountant|bookkeeper - கணக்கர்
-கணக்கியல்|accounting |
-கணக்கின் இருப்பு|account balance|
-கணக்கீடு|arithmetic|
-கணக்கீடு செய்தல்|reckoning|
-கணக்கீட்டலகு|arithmetic and logic unit
-கணக்கீட்டுச் செயலம்|arithmetic operation|
-கணக்கீட்டுப் பாய்ம இயக்கவியல் (கபாவி)|computational fluid dynamics (CFD)
-கணக்குடையார்|account holder|
-கணக்குப் பட்டியல்|account statement|
-கணக்குப் பதிவியல்|accountancy|
-கணக்குவைத்தல்|bookkeeping|
-கணக்கைச் சமனமாக்கல்|balancing an account|
-கணத்தாக்கத்தால்|impulsively|
-கணத்தாக்கம்|impulse n|
-கணத்தாக்கு|impulse v|
-கணத்தின் உறுப்பு|element of a set|
-கணநிலை|solstice|
-கணநிலைப்பு|transient|
-கணப்பு|oven|stove - அடுப்பு
-கணம்|set (math)|
-கணிகம்|plastid|
-கணிக்கை|audit |censor - தணிக்கை
-கணிக்கைச் சுவடு|audit trail|
-கணிக்கையர்|auditor|
-கணிச்சுழல்|cycle (computer)|
-கணிதத் தூண்டல்|mathematical induction
-கணிதர்|mathematician|
-கணிப்பான்|calculator|computer - கணினி
-கணிப்பு|survey (statistical)|
-கணினி|computer|calculator - கணிப்பான்
-கணினி உதவிய அறிவுறுத்தல் (கவுறி)|computer-aided instruction (CAI)
-கணினி உதவிய உற்பத்தி (கவுவு)|computer-aided manufacturing (CAM)
-கணினி உதவிய பொறியியல் (கவுபொ)|computer-aided engineering (CAE)
-கணினி உதவிய வடிவமைப்பு (கவுவ)|computer-aided design (CAD)
-கணினி ஓம்புனர்|host computer|
-கணினி சூழல்களுக்கான பெயரத்தகு செயற்பாடமைப்பு (கசுபெசெ)|Portable Operating System Interface for Computer Environments (POSIX)
-கணினி செயலாக்கர்|computer operator|
-கணினி தழுவிய பயிற்சி (கதப)|computer based training (CBT)
-கணினி மென்பொருள்|computer software|
-கணினிப் பொறியியல்|computer engineering|
-கணினிமய|computerized|
-கணினிமய அச்சிய உட்டளவரைவு (கவவு)|computerized axial tomography (CAT)
-கணினியியல்|computer science|
-கணு|node|
-கணுக்காலி|arthropod|
-கணுக்காலிகள்|Arthropoda|
-கணுக்கால்|ankle|
-கணுப்பாட்டீரியம்|arthrobacter|
-கணுவிடை|internode|
-கணுவுடை வேர்கள்|nodulose roots|
-கணைய|pancreatic|
-கணைய இயக்குநீர்|pancreatic hormone|
-கணைய நாளம்|pancreatic duct|
-கணையத் திட்டுகள்|islets of Langerhans|aka pancreatic islets
-கணையத் திட்டுகள்|pancreatic islets|aka islets of Langerhans
-கணையநீர்|pancreatic juice|
-கணையம்|pancreas|
-கணையவழற்சி|pancreatitis|
-கணையவியக்கி|cholecystokinin (CCK)|aka pancreozymin
-கணையவியக்கி|pancreozymin|aka cholecystokinin
-கண்|eye|
-கண் ஒளிவில்லை|eye lens|
-கண்காணி|monitor|
-கண்குழி|eye orbit|
-கண்சுருக்கி|myotics|
-கண்சூழ்த் தசை|orbicularis oculi|
-கண்டச் சரிவு|continental slope|
-கண்டநீள்வு|continental shelf|
-கண்டம்|continent|
-கண்டறி |observe|
-கண்டறிதல்|observation|
-கண்டறிந்த|observed|
-கண்டிங்கனின் நோய்|Huntington's chorea|
-கண்டு (மின்னியல்)|winding (electric)|
-கண்டு வளராக்கம்|winding development|
-கண்டுக் காரணி|winding factor|
-கண்டுபிடி|find|
-கண்டுபிடிப்பு|discovery|
-கண்டுபிரிதல்|unwinding|
-கண்ணருகு வில்லை|eyepiece|
-கண்ணழற்சி|keratitis|
-கண்ணழுத்தநோய்|glaucoma|
-கண்ணாடி|glass |
-கண்ணாடியக் கதவு|glazed door|
-கண்ணாடியம்|vitriol|
-கண்ணாடியில்|in vitro|
-கண்ணாடியில் கருவுறுதல்|in vitro fertilization|
-கண்ணி இணைப்பு|mesh connection|
-கண்ணி வலையம் |mesh network|
-கண்ணிமை|eyelid|
-கண்ணீரெலும்பு|lacrymal bone|
-கண்ணீர்ச் சிறுகால்வாய்|lacrymal canaliculus|
-கண்ணீர்ச் சுரப்பி|lacrymal gland|aka tear gland
-கண்ணீர்ச் சுரப்பி|tear gland|aka lacrymal gland
-கண்ணீர்ச் செங்கருவி|lacrymal apparatus|
-கண்ணுள்|intraocular|
-கண்ணுள் அழுத்தம்|intraocular pressure|
-கண்ணுறை|sclera|
-கண்ணோட்டம்|point of view|
-கண்தோல்வெளிர்மை|oculocutaneous albinism
-கண்தோன்று|visible|
-கண்நசிவு|keratomalacia|
-கண்நடுப்படலம்|iris|
-கண்படலம்|conjunctiva|
-கண்படலவழற்சி|conjunctivitis|
-கண்பாவை|pupil|
-கண்பிதுக்க காயிட்டர்|exophthalmic goiter|
-கண்பிதுக்கம்|exophthalmos|
-கண்புண்|stye|
-கண்புரை|cataract (ophthalmology)
-கண்புள்ளி|Bitot's spot|
-கண்மருத்துவர்|ophthalmologist|
-கண்வட்டு|optic disc|
-கண்வரட்சி|xerophthalmia|
-கண்விரிப்பி|mydriates|
-கண்வெளிப்படலம்|cornea|
-கண்வெளிர்மை|ocular albinism|
-கதப (கணினி தழுவிய பயிற்சி)|CBT (computer based training)
-கதலிசப்புரதை|cathelicidin|
-கதவுச் சட்டம்|door frame|
-கதிரவ அமைப்பு|solar system|
-கதிரவ ஆற்றல்|solar energy|
-கதிரவ ஒளிப்புயல்|solar flares|
-கதிரவ மாறிலி|solar constant|
-கதிரவ மின்கலம்|solar cell|
-கதிரவ மின்னிலையம்|solar power plant|
-கதிரவச்சேய்மை|aphelion|
-கதிரவப்பொட்டுகள்|sun spots|
-கதிரவம்|helium|
-கதிரவனுடன்கால|Sun-synchronous|
-கதிரவன்|sun|
-கதிரவன்சூழ்|perihelion|
-கதிராணி|spindle|ray - கதிர்
-கதிராணி உந்துவி|spindle motor|
-கதிராணியம்|clostridium|
-கதிராணிவடிவம்|fusiform|
-கதிரியக்கம்|radioactivity|
-கதிரிழையம்|actinosynnema|
-கதிரிறகு|quill feather|
-கதிர் ஒளியியல்|ray optics |
-கதிர்க்கரிமக் காலங்காணல்|radiocarbon dating|
-கதிர்க்கரிமம்|radiocarbon|
-கதிர்க்குச்சியம்|actinobacillus|
-கதிர்ச்சிகிச்சை|radiotherapy|
-கதிர்ப்பாட்டீரியம்|fusobacterium|
-கதிர்ப்பூஞ்சை|actinomycete|கிரேக்கம்; aktis - கதிர், mykes - பூஞ்சை
-கதிர்ப்பூஞ்சைகள்|actinomyces|
-கதிர்மதுரம்|actinomadura|
-கதிர்வீச்சு|irradiation|
-கதிர்வெளியம்|actinoplanes|
-கதைவிளக்கம்|anecdote|
-கத்தரி|clip v|
-கத்தரிக்காய்த் துளைப்பான்|brinjal shoot and fruit borer
-கத்தியவார்|Kathiawar|
-கந்தக அமிலம்|sulfuric acid|
-கந்தகக்குச்சியம்|thiobacillus|
-கந்தகச்சுருளியம்|sulfospirillum|aka thiospira
-கந்தகச்சுருளியம்|thiospira|aka sulfospirillum
-கந்தகநீக்கமணியம்|desulfococcus|desulfurococcus - கந்தகரநீக்கமணியம்
-கந்தகநீக்கவதிரியம்|desulfovibrio|
-கந்தகநீக்கவலகியம்|desulfuromonas|
-கந்தகநுண்சுருளியம்|thiomicrospira|
-கந்தகப்பாட்டீரியம்|thiobacterium|
-கந்தகப்பையம்|thiocystis|
-கந்தகப்பொதியங்கள்|thiosarcina|
-கந்தகமடலியம்|sulfolobus|
-கந்தகமடலியனையன|sulfolobaceae|
-கந்தகமடலியைகள்|sulfolobales|
-கந்தகமின அமிலம்|sulfamic acid|
-கந்தகமுடியம்|thiothrix|
-கந்தகமூச்சியால்|thioperoxol|
-கந்தகம்|sulfur|
-கந்தகரநீக்கமணியம்|desulfurococcus|desulfococcus - கந்தகநீக்கமணியம்
-கந்தகரநீக்கமணியனையன|desulfurococcaceae|
-கந்தகவமைடு|sulfonamide|
-கந்தகவெளியம்|thiopedia|
-கந்தகாதி|chalcogen|
-கந்தகால்|mercaptan|aka thiol
-கந்தகால்|thiol|aka mercaptan
-கந்தகால்டிகைடு|thioaldehyde|
-கந்தகானிக அமிலம்|sulfonic acid|
-கந்தகானிகேற்றம்|sulfonation|
-கந்தகினிக அமிலம்|sulfinic acid|
-கந்தகீத்தர்|thioether|
-கந்தகீன்|thiophene|
-கந்தகேட்டு|sulfate|
-கந்தகேட்டுப் படிதல்|sulfation|
-கந்தகேட்டூக்கி|sulfatase|
-கந்தகைடு|sulfide|
-கந்தகைட்டு|sulfite|
-கந்தகைல்|sulfinyl|aka thionyl
-கந்தகைல்|thionyl|aka sulfinyl
-கந்தகோன்|thione|
-கந்தம்|corm|
-கந்து|baluster|
-கபா|cntl|
-கபா விசை|ctl key|control - கட்டுப்பாடு
-கபாவி (கணக்கீட்டுப் பாய்ம இயக்கவியல்)|CFD (computational fluid dynamics)
-கபாவேறழி|ctl-alt-del|
-கபிளின் தொலைநோக்கி|Hubble Telescope|
-கப்பலேற்றல்|shipping|
-கப்பலேற்று ஆவணங்கள்|shipping documents|
-கப்பல்|ship|
-கப்பல் ஒப்பந்தம்|charter party|
-கப்பா|kappa|
-கப்பி|pulley|
-கப்பிமீன்|guppy|
-கப்பிமீன்வகை|Lebistes|
-கப்பிராயிக அமிலம்|caproic acid|
-கப்பிரிலிக அமிலம்|caprylic acid|
-கப்போசியின் எலும்புப்புற்று|kaposis sarcoma|
-கமீல்லா கால்ஜீ|Camillo Golgi|
-கமுக்க வளருயிரி|cryptomerozoite|
-கமுக்கப் பிளவி|cryptoschizont|
-கமுக்கப் பெருக்கி|cryptozoite|
-கமுக்கமணியம்|cryptococcus|
-கமுக்கமிடல்|encryption|
-கமுக்கம்|secrecy|
-கமுக்கவரைவு|cryptography|
-கமுக்கவியல்|cryptology|
-கம்பம்|stele|
-கம்பி|wire|
-கம்பி அளவி|wire guage|
-கம்பிச்சுருள்|coil|
-கம்பித் தொலைக்காட்சி|cable television|
-கம்பியில்லா|wireless|
-கம்பூசியா|Gambusia|
-கயமின் கரைசல்|Hayem's solution|
-கயிநோப (கடும் இரட்டை நோயெதிர்ப்புப் பற்றாக்குறை)|SCID (severe combined immune deficiency)
-கயிற்றாணி|line and pin|
-கய்கன்சின் கொள்கை|Huygens' principle|Huygen's principle is wrong; the name of the scientist is Huygens, not Huygen.
-கரடணு|keratinocyte|
-கரடாதல்|keratinization|
-கரடி|bear|bull - காளை
-கரடு|keratin|
-கரட்டு அடுக்கம்|stratum corneum|
-கரணை|trowel|
-கரன்சுவி|Karan swiss|
-கரிம|organic|
-கரிம இருமூச்சியைடு|carbon dioxide|
-கரிம எதிர்மயனி|carbanion|
-கரிம ஒற்றைமூச்சியைடு|carbon monoxide|
-கரிம நுனி|C-terminus|
-கரிமக்கந்தக அமிலம்|carbothionic acid|
-கரிமசைடு|carbazide|
-கரிமச்செலினாயிக அமிலம்|carboselenoic acid|
-கரிமத் தனியமிழ்த்தல்|carbon sequestration|
-கரிமமாயில்-|carbamoyl-|
-கரிமமில|carboxyl|carbonic - கரியமில; carbonyl - கரிமமூச்சிய
-கரிமமில நுனி|carboxyl terminus|
-கரிமமிலநீக்கம்|decarboxylation|
-கரிமமிலநீக்கவூக்கி|decarboxylase|
-கரிமமிலப் புரதையூக்கி|carboxypepsidase|
-கரிமமிலம்|carboxylic acid|
-கரிமமிலேட்டு|carboxylate|
-கரிமமூச்சிய|carbonyl|
-கரிமமூச்சியமின|carbamoyl|
-கரிமமூச்சியமின பாசுவேட்டு தொகுத்தாக்கவூக்கி|carbamoyl phosphate synthetase
-கரிமமூச்சியமினிக அமிலம்|carbamic acid|
-கரிமம்|carbon|
-கரிமயக் காலங்கள்|Carboniferous periods|
-கரிமவமீன்|carbylamine|aka isocyanide
-கரிமவமீன்|isocyanide|aka carbylamine
-கரிமவுண்ணி|organotroph|
-கரிமனால்|carbinol|
--கரிமால்டிகைடு|-carbaldehyde|
-கரிமைடு|carbide|
-கரிமோனியம்|carbonium|
-கரியமில|carbonic|carboxyl - கரிமமில
-கரியமில நீர்நீக்கவூக்கி|carbonic anhydrase|
-கரியமிலேட்டு|carbonate|
-கருக்குழியம்|blastocoel|
-கருக்கொழுமவுணவு|fatty yolk|
-கருக்கோளத்துளை|blastopore|
-கருக்கோளமுன்பி|morula|
-கருக்கோளம்|blastula|
-கருக்கோளவுறை|blastoderm|
-கருங்கல்|granite|
-கருதாமை|indifference|
-கருதுகோளான|hypothetical|
-கருதுகோள் |hypothesis|
-கருத்தடை|contraception|
-கருத்தடையி|contraceptive|
-கருத்துக்கிளை|paradigm|
-கருத்துரு|concept|கருத்து + உரு
-கருநீர்க் காய்ச்சல்|black water fever|
-கருநோய்|kala azar|
-கருபிரித்தல்|enucleation|
-கருப்பு மோலி|black molly|
-கருப்புக்கரி|carbon black|
-கருப்புத் தினியா|tinea nigra|
-கருப்புப் பணம்|black money|
-கருப்பை|embryo sac|
-கருப்பையுட் சாதனம்|intrauterine device|
-கருப்பையுள் அமைப்பு|intrauterine system|
-கரும்புநுனித் துளைப்பி|sugar cane top shoot borer
-கரும்புப்பாகு|molasses|
-கரும்பொருள்|black body|
-கருவக உள்ளுறை|endometrium|
-கருவகக் குழல்|fallopian tube|aka uterine tube
-கருவகக் குழல்|uterine tube|aka fallopian tube
-கருவகக்குழலறுவை|tubectomy|
-கருவகச் சுற்றுறை|perimetrium|
-கருவகத் தசையுறை|myometrium|
-கருவகத்தில்|in utero|
-கருவகம்|uterus|
-கருவகவுட்செலுத்தல்|gamete intrafallopian transfer
-கருவளரியல்|embryology|
-கருவாடு|kipper|
-கருவாதல்|nucleation|fertilization - கருவுறுதல்
-கருவாலி|oak|
-கருவி|instrument (tool)|
-கருவி|tool|
-கருவித்தொகுதி|toolkit|
-கருவிப்பட்டை|toolbar|
-கருவிப்பிழை|instrumental error|
-கருவிப்பெட்டி|toolbox|
-கருவின்றிக்கனி|parthenocarpic fruit|
-கருவின்றிக்கனியாதல்|parthenocarpy|
-கருவுணவடைப்பான்|yolk plug|
-கருவுணவு|yolk|
-கருவுணவுத் தட்டுவம்|yolk platelet|
-கருவுருவாக்கம்|epigenesis|
-கருவுறச்செய்|impregnate (biology)|
-கருவுறா ஆண்பிறப்பு|arrhenotokous parthenogenesis
-கருவுறாப் பிறப்பு|parthenogenesis|
-கருவுறாவித்து|parthenospore|
-கருவுறுதல்|fertilization (reproduction)|nucleation - கருவாதல்
-கருவுறுதற் சவ்வு|fertilization membrane|
-கருவுறுநிலை|pregnancy|
-கருவுற்ற|pregnant|
-கருவூணற்ற|exalbuminous|
-கருவூணுடைய|albuminous|
-கருவூண்|albumen|
-கருவூண்புரதம்|albumin|
-கரை|border|
-கரைசல்|solution (chem)|
-கரைதிரன்|solubility|
-கரைபொருள்|solute|
-கரைபொருள் ஆற்றநிலை|solute potential|
-கரைப்பானேற்ற மாற்றியம்|solvate isomerism|
-கரைப்பானேற்றம்|solvation|
-கரைப்பான்|solvent|
-கரைப்பான்விருப்ப|lyophilic|
-கரைப்பான்விருப்பமாக்கல்|lyophilization|
-கரைப்பான்வெறுப்ப|lyophobic|
-கரைமீறு|transborder|
-கரையான்|termite|
-கரையுடைகுழி|bordered pit|
-கரையோரப் பவளப்பாறைகள்|fringing reef|
-கரோனா|corona|கொரோனா தவறு; aureole - வட்டொளி
-கரோனா வைரசு|corona virus|
-கலக்கக்கூடிய|miscible|
-கலக்கி|stirrer|
-கலக்குயிரிகள்|turbellaria|
-கலங்கமாக்கல்|emulsification|
-கலங்கம்|emulsion|
-கலங்கல்|turbidity|
-கலசல்|elution|
-கலசன்|eluent|
-கலசு|elute|
-கலத்தலைவன்|captain|
-கலத்துறை|dock|
-கலந்தாலோசனை|consultation|
-கலந்தாலோசியர்|consultant|
-கலந்துரை|conference|
-கலப்படம்|adulteration|
-கலப்பி|mixer|
-கலப்பின|hybrid adj|
-கலப்பின மலடு|hybrid sterility|
-கலப்பினக் கணினி|hybrid computer|
-கலப்பினச் சிதைவு|hybrid breakdown|
-கலப்பினநன்மை|heterosis|
-கலப்பினமாதல்|hybridization|
-கலப்பினம்|hybrid n|
-கலப்பினம் பிழையாமை|hybrid inviability|
-கலப்பு ஈத்தர்|mixed ether|
-கலப்பு மஞ்சரி|mixed inflorescence|
-கலப்பு மடற்கூர்முனை|mixed spadix|
-கலப்புச் செவிக் குறைபாடு|mixed hearing loss|
-கலப்புரம்|compost|
-கலப்பூட்டி|myxotroph|
-கலப்பெண்|complex number|
-கலவி|coitus|aka intercourse
-கலவி|copulation|aka intercourse
-கலவி|intercourse|aka coitus
-கலவிப்பின் தனிமையாதல்|postmating isolation|
-கலவிமுன் தனிமையாதல்|premating isolation|
-கலவு|copulate|
-கலவை கோட்பாடு|blending theory|
-கலவை மரபுபெறல்|blending inheritance|
-கலாச்சாரம்|culture|
-கலிக்கார்|Hallikar|
-கலிபோர்னியம்|californium|
-கலினா|galena|
-கலை (கோணம்)|minute (angle)|
-கலை வரைவு|art drawing|
-கலைச் சொற்கள்|technical terms|
-கலைப்பு|dissolution|
-கலைமான்|stag|
-கல் இறால்|rock lobster|
-கல்நார்|asbestos|
-கல்லீரலழற்சி|hepatitis|
-கல்லீரல்|liver|
-கல்லீரல் நுழைவ அமைப்பு|hepatic portal system|
-கல்லீரல் நுழைவச் சிரை|hepatic portal vein|
-கல்லீரல் புழு|liver fluke|
-கல்லீரல் வீக்கம்|hepatomegaly|
-கல்லீரற் சிரை|hepatic vein|
-கல்லீரற்கணையக் குடுவை|hepatopancreatic ampulla
-கல்லீரற்பாசி|hepaticae|
-கல்லூரி|college|
-கல்வமும் குழைவியும்|mortar and pestle|
-கல்வம்|mortar|
-கல்விப்புழு|geek|
-கவசம்|mantle|
-கவட்டை|groin|
-கவட்டை நிணக்கணு|inguinal node|
-கவட்டைக் கால்வாய்|inguinal canal|
-கவட்டைக் குடற்பிதுக்கம்|inguinial hernia|
-கவராயம்|compass (drawing)|
-கவருடனி|atractyloside|
-கவர்ச்சி|attraction|
-கவவு (கணினிமய அச்சிய உட்டளவரைவு)|CAT (computerized axial tomography)
-கவவு வரிநோக்கல்|CAT scan|
-கவளியம்|bolus|
-கவனம்|attention|
-கவிமா (உலோக மூச்சியைடு குறைகட்டத்தி கள விளைவு மாற்றடையன்)|MOSFET (metal oxide semiconductor field effect transistor) 
-கவிமா (கள விளைவு மாற்றடையன்)|FET (field effect transistor)
-கவிழ்ந்த சூல்|anatropous ovule|
-கவுபொ (கணினி உதவிய பொறியியல்)|CAE (computer-aided engineering)
-கவுவ (கணினி உதவிய வடிவமைப்பு)|CAD (computer-aided design)
-கவுவு (கணினி உதவிய உற்பத்தி)|CAM (computer-aided manufacturing)
-கவுறி (கணினி உதவிய அறிவுறுத்தல்)|CAI (computer-aided instruction)
-கவ்வலை|P wave|P wave - கவ்வலை; Q wave - சவ்வலை; R wave - தவ்வலை
-கழலை|tumor|
-கழலை குறிப்பி|tumor marker|
-கழலைத் திசுவிறப்புக் காரணி (கதிகா)|tumor necrosis factor (TNF)
-கழல்|loop|
-கழற்றுமை|diastasis|
-கழற்றூக்கி|diastase|
-கழித்தல் மிகைப்பி|difference amplifier|
-கழிப்பறை|toilet|
-கழிப்பி|subtractor|
-கழிப்பிருக்கை|toilet seat|
-கழிமான நிதி முறை|depreciation fund method
-கழிமானம்|depreciation|
-கழிமுகநீர்|brackish water|
-கழிவகற்றல்|sewerage|
-கழிவறை|rest room|
-கழிவாதல்|wastage|
-கழிவாய்|nephrostome|
-கழிவியத் திருகுமணியம்|streptococcus faecalis|
-கழிவியம்|faecalis|
-கழிவிழை|lint|
-கழிவிழைத் திரை|lint screen|
-கழிவு|waste|
-கழிவு நீரிழிவு|diabetes insipidus|
-கழிவுக்குழல்|nephridium|
-கழிவுக்குழாய்|sewer|
-கழிவுண்ணல்|phagocytosis|
-கழிவுண்ணி|phagocyte|
-கழிவுண்ணித் தட்டி|phagocytic barrier|
-கழிவுத்திறப்பு|cloaca|
-கழிவுத்துளை|nephridiopore|
-கழிவோட்டம்|sewage|
-கழுத்து|cervix|
-கழுத்து|neck|
-கழுத்து நரம்புப்பின்னல்|cervical plexus|
-கழுத்து நிணக்கணு|cervical node|
-கழுத்து பெ.உ|cervical |
-கழுத்துச் சங்கு|Adam's apple|
-கழுத்துப் பகுதி|cervical region|
-கழுத்துப் புடைப்பு|cervical enlargement|
-கழுத்துப்பட்டை|collar|
-கழுவுநீர்|sullage|
-கள விளைவு மாற்றடையன் (கவிமா)|field effect transistor (FET)
-களக் கிடங்கு|field godown|
-களச் சேமகம்|yard storage|
-களத்தடிமன்|depth of field|
-களமுழுமை|coverage|
-களம்|field (agriculture)|
-களம் (பாகுபாட்டியல்)|domain (taxonomy)|
-களி|gel|
-களி புகவிடும் நிறப்பிரிகை|gel permeation chromatography
-களிமண் ஓடு|ceramic|
-களிமண் பெ.உ|argillaceous|
-களிமண்ணாய காலம்|Cretaceous period|
-களியாக்கி|jelling agent|
-களியாதல்|gelation|
-களை|weed|
-களைவ விதி|cancellation law|
-களைவம்|cancellation|
-களைவி|cancel|
-கறல்|katal|
-கறவைமாடு|dairy breed|
-கறையிடல்|staining|
-கற்கட்டி|brick bat|
-கற்கட்டு|masonry|
-கற்கரி|coke|
-கற்கீற்று|frog (on a brick)|
-கற்சில்லு|spall|
-கற்சுண்ணாம்பு|fat lime|
-கற்சுத்தியல்|club hammer|
-கற்சுரங்கம்|stone quarry|
-கற்பழிப்பு|rape|
-கற்பனை எண்|imaginary number|
-கற்பனைச் சொத்து|fictitious asset|
-கற்றறிஞர்|scholar|
-கற்றை|flocculus|
-கற்றைக் கசையிழை|lophotrichous|
-கன நீர்|heavy water|hard water - கடின நீர்
-கனச்சதுரம்|cube|
-கனச்சதுரனய|cuboidal|
-கனச்சாய்சதுரம்|rhombohedral|
-கனச்செவ்வகம்|orthorhombic|
-கனத் தொழிலகம்|heavy industry|
-கனமூலம்|cube root|
-கனவியம்|morphine|
-கனவியன்|Morpheus|கிரேக்கப் புராணத்தில் கனவுக் கடவுள்
-கனி|fruit|பழம் - ripe fruite, பழுத்த கனி; காய் - unripe fruit, பழுக்காத கனி
-கனித்தோல்|pericarp|
-கனிநடுத்தோல்|mesocapr|
-கனிம|inorganic|
-கனிம எண்ணெய்|mineral oil|
-கனிமநீக்கம்|demineralization|
-கனிமப்புரணித்திரலனையம்|mineralocorticoid|
-கனிமம்|mineral|ore - தாது
-கனிமவுண்ணி|lithotroph|
-கனிமூடிய|accresent|
-கனிமேற்றோல்|epicarp|
-கனியகத்தோல்|endocarp|
-கனியியல்|pomology|
-கனியேந்தி|carpophore|
-கனேரிய நீரோட்டம்|Canaries current|
-கனோங்கின் மூச்சுநோக்கி|Ganong's respiroscope
-கனோங்கு|Ganong|
-தாயின்வளர்|viviparous|
-கன்றுப்பை|marsupium|
-கன்றுப்பையன|marsupialia|
-கன்னத்தசை|buccinator muscle|
-கன்னத்தசை|cheek muscle|
-கன்னவெலும்பு|cheek bone|
-கன்னவெலும்பு|zygomatic bone|
-கன்னிசாரோவின் வினை|Cannizzaro reaction|
-கா|protect|
-கா திருத்தி|vi editor|
-காகம்|crow|
-காக்கின்சு சைமனின் நிபந்தனைகள்|Hawkins Simon conditions
-காக்கைவலிப்பு|epilepsy|
-காங்கிரெச்சு|Kankrej|
-காங்கேயம்|Kangayam|
-காங்கோ சிவப்புச் சாயம்|Congo red dye|
-காசியம்|hassium|
-காசின் விதி|Gauss's law|
-காசு சுண்டுதல்|coin toss|சுண்டல் is a snack
-காசோலை|check (Brit. cheque)|draft - வரைவோலை
-காச்சிடியநோய்|coccidiosis|
-காச்சிடியம்|coccidium|
-காட்சி|view n|
-காட்சிச் சாளரம்|view port|
-காட்சியகம்|show room|display - காட்சியம்
-காட்சியம்|display|show room - காட்சியகம்
-காட்சிவடிவம்|WYSIWYG (what you see is what you get)
-காட்டரலின் முறை|Cottrell's method|
-காட்டர்மனின் வினை|Gattermann reaction|
-காட்டி|indicator|
-காட்டிப் படவரைவு|indicator diagram |
-காட்டிரலின் வீழ்படிவிப்பி|Cottrell precipitator|
-காட்டுமுயிரி|indicator organism|
-காணொளி|video|
-காணொளியியல்|videography|
-காண்|view v |
-காண்டலா|candela|
-காண்டாமிருக வண்டு|rhinoceros beetle|
-காண்திரை|monitor (computer)|
-காண்தொலைவு|sight distance|
-காண்பயன் நேரவேறுபாடு|TOCTTOU (time of check to time of use)
-காதருகழற்சி|parotitis|
-காதருகு சுரப்பி|parotid gland|
-காதருகு நாளம்|parotid duct|
-காதழற்சி|otitis|
-காதுமெழுகு|cerumen|
-காதுமெழுகுச் சுரப்பி|ceruminous gland|
-காதொலியன்|earphone|
-காத்தல்|defense|offense - தாக்கல்
-காத்திரு|stand by|
-காந்த ஒதுக்கம்|magnetic declination|
-காந்த ஒத்ததிர்வு|magnetic resonance|
-காந்த ஒத்ததிர்வுப் படமாக்கல் (காதப)|magnetic resonance imaging (MRI)
-காந்த நாடா|magnetic tape|
-காந்த நாடா படிப்பி|magnetic tape reader|
-காந்த முனை|magnetic pole|
-காந்த மை வரியுரு உணர்தல் (காமைவவு)|magnetic ink character recognition (MICR)
-காந்தச் சரிவு|mangetic inclination|
-காந்தத் திருப்புதிறன்|magnetic moment |
-காந்தத் தூண்டல்|magnetic induction|
-காந்தத்தன்மை|magnetism|
-காந்தநீக்கம்|demagnetization|
-காந்தநீக்கம்|demagnetization|
-காந்தநீக்கி|degausser|
-காந்தப் படிப்பி|magnetic reader|
-காந்தப்புல சமதிசையாமை|magnetic anisotropy|
-காந்தப்புலம்|magnetic field|
-காந்தம்|magnet|
-காந்தவியக்க விசை|magnetomotive force|
-காந்தவியல்|magnetism (study of)|
-காந்தளவி|magnetometer|
-காந்திசம்|Gandhism|
-காந்தியம்|scandium|
-காப்பணு|guard cell|
-காப்பரண்|firewall|
-காப்பா குறுங்கோர்வை|kappa light chain|
-காப்பாளர்|custodian|
-காப்பி|coffee|
-காப்பிடுவர்|insurer|
-காப்பிதழ்|policy (insurance)|
-காப்பியாக்கி|coffeemaker|
-காப்பிரா வண்டு|khapra beetle|
-காப்பினின் சோதனை|Hopkin's test|
-காப்பீடு|insurance|
-காப்பீடு நிறுமம்|insurance company|
-காப்பீட்டிதழ்|insurance policy|
-காப்பீட்டிதழ் முறை|insurance policy method
-காப்பு|protection|
-காப்பு வைப்புப் பேழை|safe deposit box|
-காப்புத்துறை|defense (department)|
-காப்புநகல்|backup (computer)|
-காப்புப்படி|premium (insurance)|
-காப்புப்புரதம்|defensin|
-காப்புமீட்பு|recovery (computer)|
-காப்புருகி|fuse|
-காப்புறு தகைமை|insurable interest|
-காப்புறு பொருள்|insured thing|
-காப்புறுபவர்|insured person|
-காமவுணர்வுப் பகுதி|erogenous zone|
-காமவூடகம்|pornography|
-காமவெழுச்சி|erection|
-காமீகிநொவா (காரண மீட்டர், கிலோகிராம், நொடி, ஆம்பியர்)|RmksA (rationalized meter, kilogram, second, ampere)
-காமைவவு (காந்த மை வரியுரு உணர்தல்)|MICR (magnetic ink character recognition )
-காம்பர்கு பாக்குமனின் வினை|Gomberg Bachmann reaction
-காம்பற்ற|sessile|
-காம்பனைய|mamillary|
-காம்பிலை|phyllode|petiole - இலைக்காம்பு
-காம்புள்ள|pedicellate|
-காம்மா|gamma|
-காம்மா கணையவணு|gamma cell|
-காம்மாகோளப்புரதமின்மை|agammaglobulinemia|
-காம்மாக் கதிர்|gamma ray|
-காயப்புண்|wound|
-காயிட்டர்|goiter|
-காய்|unripe fruit|
-காய்ச்சலாக்கி|pyrogen|
-காய்ச்சலெதிர்ப்பி|antipyretic|
-காய்ச்சல்|fever|
-காய்ச்சிவடித்தல்|distillation|
-காய்ப்பு|callus|
-கார இணை|base pair|
-கார உலோகங்கள்|alkali metals|
-கார நீராற்பகுப்பு|base hydrolysis|
-கார பெசிமர் வழிமுறை|basic Bessemer process
-கார மண் உலோகங்கள்|alkaline earth metals|
-காரச் சுட்டெண்|pOH|
-காரச்சாயவிருப்ப|basophilic|
-காரச்சாயவிரும்பி|basophil|
-காரணமில்லாத|arbitrary|
-காரணமில்லாமல்|arbitrarily|
-காரணமும் விளைவும்|cause and effect|
-காரணவழி|rational (reasonable)|
-காரணி உள்ளமைவு|factor constitution|
-காரணிகள்|factors|
-காரணியாக்கல்|factorization|
-காரணீயம்|factorial|
-காரத்துவம்|basicity|
-காரப் பாசுவேட்டூக்கி|alkaline phosphatase|
-காரமனையம்|alkaloid|
-காரமூச்சிய|alkoxy|
-காரமூச்சியைடு|alkoxide|
-காரியசின் முறை|Carius method|
-காரின்சு|Corinsh|
-காரை|tartar|
-காரையெலும்பு|clavicle|
-கார்டி வெயின்பர்கின் சமநிலை|Hardy-Weinberg equilibrium
-கார்டி வெயின்பர்கின் விதி|Hardy-Weinberg law|
-கார்டினரெல்லம்|gardnerella|
-கார்ட்டியின் உறுப்பு|organ of Corti|
-கார்ட்டீசிய|Cartesian|
-கார்னாட்டின் பொறி|Carnot engine|
-கார்னிடின்|carnitine|
-கால வைப்பு|time deposit|
-காலகட்டம்|time frame|
-காலக் காப்பிதழ்|time policy|
-காலங்கடந்த|stale|
-காலங்காணல்|dating|
-காலசன்|collagen|
-காலநிலை|climate|
-காலந்தீர்|expire|
-காலந்தீர்வு|expiration|
-காலப்பகுதி காப்பிதழ்|term policy|
-காலப்படி|annuity|
-காலப்படி முறை|annuity method|
-காலப்பிழை|anachronism|
-காலப்பின்பிழை|parachronism|
-காலமுறை|schedule|
-காலமுறையாக்கல்|scheduling|
-காலமுன்பிழை|prochronism|
-காலம்|period (time range)|
-காலரா|cholera|
-காலரா அதிரியம்|vibrio cholerae|
-காலவியல்|chronology|
-காலிக அமிலம்|gallic acid|
-காலிக்கர்|Kolliker|
-காலியம்|gallium|
-காலிருதலைத் தசை|biceps femoris|
-காலெர்ப்பா|caulerpa|
-கால் (கட்டுமானம்)|post (construction)|
-கால் கட்டைவிரல்|first toe|
-கால் கட்டைவிரல்|hallux|
-கால்சி செங்கருவி|golgi apparatus|
-கால்சிகம்|colchicum|
-கால்சிகாரமனையம்|colchicine|
-கால்சிடோனின்|calcitonin|
-கால்சியக்குறை|hypocalcemea|
-கால்சியம்|calcium|
-கால்சியம் கீழ்க்குளோரைட்டு|calcium hypoclorite|
-கால்டேனின் கருதுகோள்|Haldane's hypothesis|
-கால்நடை|livestock|
-கால்நடை பராமரிப்பு|animal husbandry|
-கால்நீட்டுத் தசை|quadriceps femoris|
-கால்பிட்டுவின் அலைவி|Colpitts oscillator|
-கால்மடக்குத் தசை|sartorius|
-கால்மணியம்|pediococcus|
-கால்மான விலக்கம்|quartile deviation|
-கால்லியனெல்லம்|gallionella|
-கால்வலூம்|Galvalume|
-கால்வனளவி|galvanometer|ammeter - மின்னோட்டளவி
-கால்வனிக மின்கலம்|galvanic cell|
-கால்வாய்|canal|
-கால்வாய்|channel|
-காவத்தின் வீழ்ப்பு|Haworth projection|
-காவல் துறை|police department|
-காளாங்கழலை|mycetoma|
-காளான்|mushroom|
-காளான்நச்சு|mycetism|
-காளை|bull|bear - கரடி
-காளை விண்மீன்குழு|Taurus|
-காற்பகுதி|quadrant |
-காற்றலகியம்|aeromonas|
-காற்றாலை மின்னிலையம்|windmill power plant|
-காற்றில்லா|anaerobic|
-காற்றில்லாவதிரியம்|anaerovibrio|
-காற்றின்றிவாழ்வன|anaerobe|
-காற்று|air|gas - வளிமம்
-காற்று (வீசும்)|wind|
-காற்று வெடிப்பு|wind crack|
-காற்றுக்கரை|aerosol|
-காற்றுக்கரை உமிழுந்தம்|aerosol propellant|
-காற்றுக்கோளம்|atmosphere|
-காற்றுச்சேர்க்கை|anemophily|
-காற்றுத்திறப்பு|vent|
-காற்றுநோக்கி|pneumatophore|
-காற்றுப்பை|air sac|
-காற்றும|aerobic|
-காற்றும உடற்பயிற்சி|aerobic exercise|
-காற்றுவாழ்வன|aerobe|
-காற்றோட்டம்|ventilation|
-காற்றோட்டி|ventilator|
-காற்றோட்டு|ventilate|
-கானகம்|woodland|
-கானாங்கெளுத்தி|mackerel|
-கான் இங்கோல்டு பிரிலாகின் மரபேற்பு|Cahn-Ingold-Prelog convention
-காஸ்|Gauss|
-காஸ்பர்ட் பாஹின்|Gaspard Bauhin|
-கி. பி. 2000-த்துக்குள் உலகளாவிய அனைவர் உடல்நல உத்திமம்|Global Strategy for Health for All by 2000 AD
-கிகா-|giga-|
-கிகாவெணு|gigabyte|
-கிசுக்கட்டு|bundle of His|
-கிசை|xi|
-கிடக்கை (அட்டவணை, தளவணி)|row (table, matrix)|
-கிடக்கை (ஆவர்த்தன அட்டவணை)|period (in the periodic table)
-கிடங்கு|godown|
-கிடப்பலை|standing wave|
-கிடப்பலை|stationary wave|
-கிடப்பு நிலை|stationary state|
-கிடப்பு மதிப்பு|stationary value|
-கிடுகு|thatch|
-கிடுகுக் கூரை|thatched roof|
-கிடைக்கோணக்கோடு|line of longitude|
-கிடைக்கோணம்|longitude|
-கிடைச்சட்டம்|batten|
-கிடைநீர்|lentic|marine - கடல்நீர்; lotic - ஓடுநீர்
-கிடைப்பட்டை|rail (construction)|
-கிடைப்பிரிகை|transom|
-கிடைப்பெருங்குடல்|transverse colon|
-கிடைமட்டப் பிளவுறல்|horizontal cleavage|
-கிடைமட்டம்|horizontal|
-கிடையச்சு|abscissa|
-கிடைவிரி|layout|
-கிட்டப்பார்வை|myopia|
-கிண்ண மஞ்சரி|cyathium|
-கிண்ண வடிவம்|sausage shaped|
-கிண்ணக்குழி|crater|
-கிதாரி|clitoris|
-கிதார்|guitar|
-கிப்பசின் தனியாற்றல்|Gibbs free energy|
-கிப்பிங்|Kipping|
-கியூரி|Curie|
-கியூரியம்|curium|
-கியெல்டாலின் முறை|Kjeldahl method|
-கிரகரி|Gregory|
-கிரசால்|cresol|
-கிரந்திப்புண்|chancroid|
-கிராப்பின் குழிப்பை|Graafian follicle|
-கிராம|rural|
-கிராம வளராக்கத் தொகு திட்டம்|Integrated Rural Development Programme (IRDP)
-கிராமேற்காத|Gram negative|
-கிராமேற்கும்|Gram positive|
-கிராம்|gram|
-கிரானங்கள்|grana |
-கிரிசசனம்|chrysogenum|
-கிரிசியோபல்வின்|griseofulvin|
-கிரிட்டான்|krypton|
-கிரிட்டிச்சுருளியம்|cristispira|
-கிரின்யா சேர்த்தல்|Grignard addition|
-கிரின்யா தொகுத்தாக்கம்|Grignard synthesis|
-கிரின்யா வினையாக்கி|Grignard reagent|
-கிருமிகொல் |sterilize (hygiene)|
-கிருமிகொல்லல்|sterilization (hygiene)|
-கிருமிகொல்லி|germicide|
-கிருமிகொற் சூழல்|sterile environment|
-கிருமித்தொற்றல்|infection|
-கிருமித்தொற்று|infect |
-கிருமிநீக்கம்|disinfection|
-கிருமிநீக்கி|disinfectant|
-கிருமியெதிர்ப்பி|antiseptic|
-கிருமியேற்ற இழை|infection thread|
-கிருமியேற்ற நோய்|infectious disease|
-கிருமியேற்ற மூட்டழற்சி|infective arthritis|
-கிருமியேற்றக் கண்படலவழற்சி|infective conjunctivitis|
-கிருமியேற்றம்|sepsis|
-கிரெப்புச் சுழற்சி|Kreb's cycle|
-கிரே|gray|
-கிரேக்கம்|Greek (language)|
-கிரேமரின் விதி|Cramer's rule|
-கிரேவின் நோய்|Grave's disease|
-கிர்|Gir|
-கிர்ச்சாப்பின் விதி|Kirchoff's law|
-கிலுப்பைப் பாம்பு|rattle snake|
-கிலோ-|kilo-|
-கிலோவெணு|kilobyte|
-கிழங்கக் குச்சியம்|tubercle bacillus|
-கிழங்கம்|tubercle|
-கிழங்கியம்|rhizobium|
-கிழங்கியனையன|rhizobiaceae|
-கிழங்கு|tuber|
-கிளம்மன்சனின் மூச்சியமிறக்கம்|Clemmensen reduction
-கிளர்ச்சியடைந்த நிலை|excited state|
-கிளர்ச்சியூட்டல்|excitation|
-கிளாசியசின் கூற்று|Clausius statement|
-கிளாடு வழிமுறை|Claude's process|
-கிளி|parrot|
-கிளிக்காய்ச்சல்|psittacosis|
-கிளிசரால்|glycerol|
-கிளிசரால்டிகைடு|glyceraldehyde|
-கிளிசரிய|glyceryl|
-கிளிசரின்|glycerin|
-கிளிசரைடு|glyceride|
-கிளிசரோசு|glycerose|
-கிளிசரோபாசுவரக்கொழுமியம்|glycerophosphatide|
-கிளிஞ்சல்|clam|
-கிளினிடியம்|clidinium|
-கிளெய்சனின் வினை|Claisen reaction|
-கிளெய்சன் எசுத்தர் ஒருக்கமாதல்|Claisen ester condensation
-கிளெய்சன் சுமிட்டின் வினை|Claisen Schmidt reaction
-கிளைசின்|glycine|
-கிளைத்தல்|branching|
-கிளைத்தேற்றம்|corollary|
-கிளைப்பட்டி|submenu|
-கிளைப்பவளங்கள்|oculina|
-கிளைமொழி|dialect|
-கிளையம்|tribe|
-கிளையுள்ள கோர்வை|branched chain|
-கிளையொட்டிய|fruticose|
-கிளைன்பெல்டரின் குறித்தொகுப்பு|Klinefelter's syndrome|
-கிள்ளிடுக்கி|forceps|
-கிறுக்குத் தாட்கொத்து|scratch pad|
-கிறுக்குத் தாள்|scratch paper|
-கினிக்கோழி|guinea fowl|
-கினிப்பன்றி|guinea pig|
-கீச்சன்|buzzer|
-கீச்சொலிப்பி|tweeter|
-கீமசாயின்|hemozoin|
-கீமச்செறிவு|hemoconcentration|
-கீமோகுளோபின் (கீகு)|hemoglobin (Hb)|
-கீமோகுளோபின் தாங்கமமைப்பு|hemoglobin buffer system
-கீம்|heme|
-கீர்|gear|
-கீர்ப்பெட்டி|gear box|
-கீல்|hinge|
-கீழானிக்கியம்|hyponychium|
-கீழி|denominator|
-கீழிருந்து மேல்|bottom up|
-கீழ்விரிப் பட்டியல் பெட்டி|drop down list box|
-கீழிழு பட்டியல்|pulldown menu|
-கீழிறக்கல்|demotion|
-கீழிறக்கு|demote|
-கீழினம்|infraspecies|
-கீழுள்ளாடை|underwear|
-கீழெழுத்து|lowercase|
-கீழொட்டு|subscript|
-கீழ் (குவார்க்கு)|down (quark)|
-கீழ் முன்பக்க மேடு|inferior frontal gyrus|
-கீழ் முன்பக்கப் பள்ளம்|inferior frontal sulcus|
-கீழ்கவி முக்கோணம்|inverted triangle|
-கீழ்க் குடற்றாங்கித் தமனி|posterior mesenteric artery
-கீழ்க்கால்|shank|
-கீழ்க்கிடைப்பட்டை|bottom rail|
-கீழ்க்குடும்பம்|infrafamily|
-கீழ்க்குளோரிச அமிலம்|hypoclorous acid|
-கீழ்க்குளோரைட்டு|hypochlorite|
-கீழ்க்கைச் சிரை|ulnar vein|
-கீழ்க்கைத் தமனி|ulnar artery|
-கீழ்க்கையெலும்பு|ulna|
-கீழ்ச் செயலர்|under secretary|
-கீழ்ச்சூலகவின|inferae|
-கீழ்நாவடி|hyosternal|
-கீழ்நாவடி|infrahyoid|
-கீழ்நிலைம|hypostatic|
-கீழ்நோக்கி ஒவ்வுமையான|downward compatible|
-கீழ்ப்பகுதி (தாவரவியல்)|anterior (botany)|
-கீழ்ப்படி|obey|
-கீழ்ப்பா|soffit|
-கீழ்ப்பாசுவரச அமிலம்|hypophorous acid|
-கீழ்ப்பாசுவரிக அமிலம்|hypophosphoric acid|
-கீழ்ப்புற முதலணு|hypobasal cell|
-கீழ்ப்புறவளைவு|hyponasty|
-கீழ்ப்பெருஞ்சிரை|inferior vena cava|
-கீழ்ப்பெருஞ்சிரை|postcava|
-கீழ்முதுகு|lumbar|
-கீழ்முதுகு நரம்புப்பின்னல்|lumbar plexus|
-கீழ்முதுகுப் பகுதி|lumbar region|
-கீழ்முதுகுப் புடைப்பு|lumbar enlargement|
-கீழ்முறைமை|infraorder|
-கீழ்மூக்கெலும்பு|inferior nasal koncha|
-கீழ்வரம்பு|lower bound|
-கீழ்வரம்பு திரட்டு அலைவெண் அட்டவணை|more than cumulative frequency table
-கீழ்வழிதல்|underflow|
-கீழ்வளர்வு|hypophysis|
-கீழ்விரிப் பட்டியல்|drop down list|
-கீறலிட்ட காசோலை|crossed check |
-கீறுநகம்|claw|
-கீற்றணி|grating|
-கீற்றுத்தசை|striated muscle|
-கீற்றோ-|keto-|
-கீற்றோக்கோனசோல்|ketoconazole|
-கீற்றோசு|ketose|
-கீற்றோமூன்றோசு|ketotriose|
-கீற்றோவாக்க|ketogenic|
-கீற்றோவாக்கம்|ketogenesis|
-கீற்றோவாறோசு|ketohexose|
-கீற்றோவேழோசு|ketoheptose|
-கீற்றோன்|ketone|
-கீற்றோன்மிகைப்பு|ketosis|
-கீனசியப் புரட்சி|Keynesian revolution|
-குகையனையவுடல்|corpus cavernosum|
-குகையனையவுடல்கள்|corpora cavernosa|
-குங்குமின்|safranin|
-குச்சிக் கடினத்திசு|macrosclereid|
-குச்சியப்பேதி|bacillary dysentery|
-குச்சியப்பேதி|shigellosis|
-குச்சியம்|bacillus|
--குச்சியம்|-bacillus|
--குச்சியன|-bacilli|
-குச்சியனையன|bacillaceae|
-குஞ்சம்|panicle |
-குஞ்சுகாத்தல்|brooding (chicks)|
-குடம்பி|larva|
-குடம்பிகள்|larvae|
-குடம்பியுண்ணும்|larvivorous|
-குடலங்களின் நிணவனைய திசு|gut associated lymphoid tissue
-குடலழற்சி|enteritis|
-குடலியக்கவூக்கி|enterokinase|
-குடலியல்|enterology|
-குடலுட்புண்|peptic ulcer|
-குடலுட்புண்ணாகு|ulcerate|
-குடல்|intestine|
-குடல்களிடைச் சந்தி|ileocaecal junction|
-குடல்களிடைத் தடுக்கிதழ்|ileocaecal valve|
-குடல்நச்சுவமாக்க|enterotoxigenic|
-குடல்நச்சுவம்|enterotoxin|
-குடல்நோயாக்கி|enteropathogen|
-குடல்மடி|typhlosole|
-குடல்மணியம்|enterococcus|
-குடல்முற்றுகையிடு|enteroinvasive|
-குடல்வாலழற்சி|appendicitis|
-குடல்வால்|appendix (anatomy)|
-குடற்குழியம்|archenteron|
-குடற்குழியம்|gastrocoel|
-குடற்பக்க இடுக்கி|pyloric sphincter|
-குடற்பக்க இரைப்பை|pyloric stomach|
-குடற்பக்கப் பகுதி|pyloric region|
-குடற்பாட்டீரியம்|enterobacter|
-குடற்பாட்டீரியனையன|enterobacteriaceae|
-குடற்பிதுக்கம்|hernia|
-குடற்புழுக்கள்|helminthes|
-குடற்றாங்கி|mesenteric|
-குடற்றாங்கி தமனி|mesenteric artery|
-குடி உட்பெயர்ச்சி|in-migration|
-குடி வெளிப்பெயர்ச்சி|out-migration|
-குடிதகு|potable|
-குடிதகு நீர்|potable water|
-குடிநீர்|drinking water|
-குடிபரவு|populate|
-குடிப்பெயர்ச்சி|migration|
-குடிமகர்|citizen|
-குடிமகர்மை|citizenship|
-குடியரசு|republic|
-குடியாட்சி|democracy|
-குடியாட்சிச் சமவுடைமம்|democratic socialism|
-குடியாட்சிய|democratic|
-குடியியல்|civil|
-குடியியல் அரசாங்கம்|civil government|
-குடியியல் நடுவர்|civil judge|
-குடியிருப்பு|settlement (geography)
-குடியேறு|immigrate|
-குடியோடு|emigrate|
-குடும்ப நிதித்திட்டம்|family budget|
-குடும்ப மரம்|family tree|
-குடும்பக் கட்டுப்பாடு|family planning|
-குடும்பம்|family  |
-குடுவம்|ampulla|
-குடுவை|flask|
-குடுவையம்|ampullariella|
-குடைமஞ்சரி|umbel|
-குடைவடிவ|umbellate|
-குட்டை|pool|
-குட்டையிடுவி|pooler|
-குணகம்|modulus (strength of solids)
-குண்டி|buttocks|
-குண்டுநூல்|plumb line|
-குண்டுநூல்|plumb rule and bob|
-குதஞ்சூழ்|perianal|
-குதம்|anus|
-குதி (கணினி)|jump (computer)|
-குதிகாலெலும்பு|tarsal|
-குதிரைமுன்பி|hyracotherium|
-குதிரையம்|equus|
-குதிரைலாட வளைவு|horseshoe arch|
-குதிரைலாடம்|horseshoe|
-குதிரைவால் நரம்பு|cauda equina|
-குதிரைவால் பெரணி|horsetail|
-குத்தகை|lease|
-குத்தலகாக்கல்|orthonormalization (math)
-குத்தாக்கல்|orthoganalization (math)
-குத்தி பெ|fork (culinary)|
-குத்தித்தூக்கி பெ|fork lift|
-குத்துக்கல் பிணைப்பு|brick on edge bond|
-குத்துக்கோணக்கோடு|line of latitude|
-குத்துக்கோணப் பிளவுறல்|latitudinal cleavage|
-குத்துக்கோணம்|latitude (geography)|
-குத்துத்தளப் பிளவுறல்|vertical cleavage|
-குத்துப்பலகை|style (construction)|
-குத்துவட்டப் பிளவுறல்|meridional cleavage|
-குத்துவட்டம்|meridian|
-குத்தூசி|poker|
-குத்தெதிர்க் கோணங்கள்|vertically opposite angles
-குபவ (குறும்பரப்பு வலையம்)|LAN (local area network)
-குப்பரின் அணு|Kupffer cell|
-குப்பி விரிசல்|cup shake|
-குப்பை|garbage|
-குமிழ அல்லது வாயில்|bubbled OR gate|
-குமிழ உம்ம வாயில்|bubbled AND gate|
-குமிழம்|bulb|
-குமிழாணி|stud|
-குமிழாணியிடல்|studding|
-குமிழி முறைமையாக்கல்|bubble sort|
-குமிழ் ஆல்கா|fucus|
-குமிழ்ச் சிறுவன் குறித்தொகுப்பு|bubble boy syndrome|
-குமிழ்ப்பை|vesicle|
-குமூகு (குறுங்கடு மூச்சமைப்புக் குறித்தொகுப்பு)|SARS (severe acute respiratory syndrome)
-கும்பா அலைவுணரி|dish antenna|
-குயிடு|squid|
-குயினாலினிக அமிலம்|quinolinic acid|
-குயினால்|quinol|
-குயினிக அமிலம்|quinic acid|
-குயினோனனையக் கோட்பாடு|quinonoid theory|
-குயினோனனையம்|quinonoid|
-குயினோன்|quinone|
-குரங்கு|monkey|
-குரங்கு வைரசு|simian virus|
-குரலக நோக்கல்|laryngoscopy|
-குரலகத்தொண்டை|laryngopharynx|
-குரலகம்|larynx|
-குரலுணரி|voice recognition|
-குரல் தொகுத்தாக்கி|voice synthesizer|
-குரல்வளை|glottis|
-குரல்வளை மூடி|epiglottis|
-குரற்பேழை (பறவையியல்)|syrinx|
-குரீயவலிப்பு|chorea|
-குருசோவா|Kurusowa|
-குருட்டுமையம்|blind spot|
-குருதி அணு|blood cell|
-குருதி உறையாமை|haemophilia|
-குருதி ஒட்டுண்ணி|haemosporidia|
-குருதிகட்டித்தல்|thrombosis|
-குருதிகட்டித்துகள்|embolus|
-குருதிக் குழற் சுருக்கி|angiotensin|
-குருதிக் குழைமம்|blood plasma|
-குருதிக்கசிவு|hemorrhage|
-குருதிக்கசிவுக் கிருமியேற்றம்|hemorrhagic septicemia
-குருதிக்கசையிழையன|hemoflagellates|
-குருதிக்கட்டி|thrombus|
-குருதிக்கழலை|hematoma|
-குருதிக்கிருமியேற்றம்|septicemia|
-குருதிக்குழல்|blood vessel|
-குருதிக்கொக்கியம்|bilharzia|
-குருதிக்கொக்கியம்|schistosome|
-குருதிச்சோகை|anemia|
-குருதித் தேக்கி|blood reservoir|
-குருதித் தொகுதி|blood group|
-குருதிநிணநீர்|haemolymph|
-குருதிநிலைபெறல்|hemostasis|
-குருதிப்புழு|schistosoma|
-குருதிப்புற்று|leukemia|
-குருதிப்போக்கு|bleeding|
-குருதியணுமிகல்|polycythemia|
-குருதியணுவளத்தல்|hemocytometry|
-குருதியணுவளவி|hemocytometer|
-குருதியழுத்தம்|blood pressure|
-குருதியனின்|leucine|
-குருதியாக்கம்|hematogenesis|
-குருதியாக்கம்|hematopoiesis|
-குருதியாக்கம்|hemopoiesis|
-குருதியுண்ணி|tick (biology)|
-குருதியுண்ணிக் காய்ச்சல்|tick fever|
-குருதியுறவு|consanguine|
-குருதியுறை காரணி|blood clotting factor|
-குருதியுறையாமை|hemophilia|
-குருதியூடுபகுப்பு|hemodialysis|
-குருதியோட்டம்|circulation (blood)|
-குருதியோட்டவமைப்பு|circulatory system|
-குருத்தெலும்பாக்கம்|chondrogenesis|
-குருத்தெலும்பாக்கம்|chondrosis|
-குருத்தெலும்பிடின் கந்தகேட்டு|chondroitin sulfate|
-குருத்தெலும்பு|cartilage|
-குருத்தெலும்பு நிறமாற்றம்|ochronosis|
-குருத்தெலும்பு மூட்டழற்சி|osteoarthritis|
-குருத்தெலும்பு மூட்டு|cartilaginous joint|
-குருத்தெலும்பு வளையம்|cartilage ring|
-குருத்தெலும்புப்பூஞ்சையங்கள்|chondromyces|
-குருந்தம்|corundum|
-குருவி|sparrow|
-குரூக்கமணியைகள்|chroococcales|
-குரோமரசு|chromista|
-குரோமியம்|chromium|
-குரோமேட்டு|chromate|
-குரோமைல்|chromyl|
-குர்த்தியம்|kurthia|
-குலம்|group (math)|
-குலவனையம்|monoid|
-குலுக்கல் முறை|lottery method|
-குலுக்கு (சீட்டுக்கட்டு)|shuffle|
-குல்லது (கணினியியல்)|XOR |
-குவாசியாகர்|kwashiorkar|
-குவாடு அனைத்துவக் குறையிரைச்சற்கட்டி|quad universal LNB|
-குவாட்டிரோ அனைத்துவக் குறையிரைச்சற்கட்டி|quattro universal LNB|
-குவார்க்கு|quark|
-குவாலமீன்|squalamine|
-குவாலின்|squalene|
-குவானசின்|guanosine|
-குவானின்|guanine|
-குவிகூறை|geodesic dome|
-குவிட்டைம்|QuickTime|
-குவிநாண்|focal chord|
-குவிந்த|convex|
-குவிபோகும்|convergent|
-குவிபோகும் வரப்புகள்|convergent boundaries
-குவிபோதல்|convergence|
-குவிமேடு|cusp|
-குவிய மையம்|focal point|
-குவியக் கிருமியேற்றம்|focal infection|
-குவியத்தொலைவு|focal distance|
-குவியமாக்கல்|focusing|
-குவியம்|focus|
-குவியர்|Cuvier|
-குவியல்|heap|
-குவியாடி|convex mirror|
-குவிவு|convexity|
-குழந்தைகளின் ஒத்திய வாக்கீடு|Children's Deferred Assurance
-குழப்ப வரிநிரல்|spaghetti code|
-குழல|tubular|
-குழலங்கள்|tubules|
-குழலத் தசை|pars tuberalis|
-குழலப்பவளங்கள்|tubipora|
-குழலப்புரதம்|tubulin|
-குழலழுத்தி|vasopressin|
-குழலளவி|pipette|
-குழலாதல்|tubulation|
-குழலிடுக்கம்|stenosis|
-குழலுள்|lumen (biology)|
-குழலொடுக்கம்|vasoconstriction|
-குழல் அணுக்கரு|tube nucleus|
-குழல் நிறப்பிரிகை|column chromatography
-குழல் நீர்த்தல் செய்நுட்பம்|tube dilution technique
-குழல் விரிவுறுதல்|vasodilation|
-குழல் விளக்கு|tube light|
-குழல்வழிச்சேர்க்கை|siphonogamy|
-குழல்வாய்|ostium|
-குழல்விரிதல்|aneurism|
-குழற் குழல்கள்|vasa vasorum|
-குழற்பாசி|club moss|
-குழற்றண்டு|calamus|
-குழற்றண்டு|quill|
-குழற்றாவரம்|tracheophyte|
-குழற்றுள்ளுளி|tube jumper|
-குழாய்வடி|syphon v|
-குழிச்சவ்வு|pit membrane|
-குழிந்த|concave|
-குழிப்பல்|thecodont|
-குழிப்பூட்டு|mortise lock|
-குழிப்பை|follicle|
-குழிப்பை உயிரணு|follicular cell|
-குழிப்பை உள்ளுறை|theca interna|
-குழிப்பை தூண்டுநீர்|follicle stimulating hormone
-குழிப்பை வெளியுறை|theca externa|
-குழிப்பைக் கட்டம்|follicular phase|
-குழிப்பைச் சவ்வு|follicular membrane|
-குழிப்பைப்புண்|furuncle|
-குழிப்பையழற்சி|folliculitis|
-குழிய|pitted|
-குழியறை|pit chamber|
-குழியாடி|concave mirror|
-குழியுடலிகள்|cnidaria|
-குழியுடலிகள்|coelenterata|
-குழிவு (இயல் அறிவியல்)|concavity|
-குழிவு (உடலமைப்பியல்)|sinus|
-குழிவுமேலறைக் கணு|sinoatrial node|
-குழு|team|
-குழுப்பரிணாம வளராக்கம்|phylogenetic development
-குழுப்பரிணாமம்|phylogeny|
-குழும|collegiate|
-குழுமொழி|jargon|
-குழைப்பு எந்திரம்|pug mill|
-குழைமக்கரடு|atheroma|
-குழைமச் சேர்க்கை|plasmogamy|
-குழைமத்தடிப்பு|atherosclerosis|
-குழைமமனையம்|plasmodium|
-குழைமமாக்கி|plasmalogen|
-குழைமம்|plasma|
-குழைமவணு|plasma cell|
-குழைமவெளியெடுத்தல்|plasmapheresis|
-குழைவி|pestle|
-குளம்|pond|lake - ஏரி
-குளவி|wasp|
-குளிகை|pill|
-குளிரூட்டி|refrigerant|
-குளிரூட்டு|refrigerate|
-குளிர் சேமகம்|cold storage|
-குளிர்ப் பாலை|cold desert|
-குளிர்வி|cool|
-குளிர்விரும்பி|psychrophile|
-குளுக்ககான்|glucagon|
-குளுக்கானோபாட்டர்|gluconobacter|
-குளுக்குரானிக அமிலம்|glucuronic acid|
-குளுக்கோசன்|glucosan|
-குளுக்கோசாக்க அமினோ அமிலம்|glucogenic amino acid
-குளுக்கோசாக்கம்|glucogenesis|
-குளுக்கோசிறுநீர்|glucosuria|
-குளுக்கோசு|glucose|
-குளுக்கோசு சகிப்புத் தேர்வு|glucose tolerance test|
-குளுக்கோசு புத்தாக்கம்|gluconeogenesis|
-குளுக்கோசு புத்தாக்கம்|glucoseneogenesis|
-குளுக்கோசுச் சிதைவு|glycolysis|
-குளுக்கோபுரணித்திரலனையம்|glucocorticoid|
-குளுக்கோவேழோசு|glucoheptose|
-குளுக்கோனிக அமிலம்|gluconic acid|
-குளுட்டக்கந்தகோன்|glutathione|
-குளுட்டமிக அமிலம்|glutamic acid|
-குளுட்டமின்|glutamine|
-குளுட்டமேட்டு|glutamate|
-குளுட்டமேட்டு ஆச்சலோவசிட்டேட்டு அமினமாற்றலூக்கி|glutamate oxaloacetate transferase
-குளுட்டமைல்|glutamyl |
-குளுட்டரிக அமிலம்|glutaric acid|
-குளுட்டரைல்|glutaryl|
-குளோபின்|globin|globulin - கோளப்புரதம்
-குளோரகோச அணுக்கள்|chloragogen cells|
-குளோரபாம்|chloroform|
-குளோரிக அமிலம்|hydrochloric acid|
-குளோரிற்றோன்|chloretone|
-குளோரின்|chlorine|
-குளோரின் நீர்|chlorine water|
-குளோரெல்லா|chlorella|
-குளோரேட்டு|chlorate|
-குளோரைடு|chloride|
-குளோரைட்டு|chlorite|
-குளோரோ-|chloro-|
-குளோரோ-|chloro-|
-குளோரோகுவின்|chloroquine|
-குளோரோநாற்சுழலி|chlortetracycline|
-குளோரோநீர்மூச்சியன்|chlorohydrin|
-குளோரோபுளோரோகரிமம் (குபுக)|chlorofluorocarbon (CFC)
-குளோரோமைசிட்டின்|chloromycetin|
-குளோனிடல்|cloning|
-குளோன்|clone|
-குறடு|pincers|
-குறதிலை (கணினியியல்)|XNOR|
-குறி|code|
-குறி|sign|
-குறி மரபு|sign convension|
-குறிக்கொள்கை|ideology|
-குறிக்கோள்|aim|
-குறிக்கோள் சார்பு|objective function|
-குறிச்சரம்|codon|
-குறிச்சார்பு|signum function|
-குறிச்சொல்|keyword|
-குறிதாங்கி|semaphore|
-குறித்தற்குறிய காரணம்|assignable cause|
-குறித்தார் காசோலை|order check|
-குறித்தொகுப்பு|syndrome|
-குறிநீக்கி|decoder|
-குறிநீக்கு|decode|
-குறிநோக்கு|motive|
-குறிப்பற்ற|arbitrary (math)|
-குறிப்பற்ற|nonspecific|
-குறிப்பி|label|
-குறிப்பிட்ட|specific|
-குறிப்புமை|specificity|
-குறிப்புரை|caption|
-குறிப்புவிவரம்|specification|
-குறிப்புள்ளியம்|stigmatella|
-குறிப்பெடுப்பான்|notes taker|
-குறிப்பெட்டி|check box (computer)|
-குறிப்பேடு|notebook|
-குறிப்பேட்டுக் கணினி|notebook computer|
-குறியற்ற முழுவெண்|unsigned integer|
-குறியாக்கி|encoder|
-குறியாக்கு|encode|
-குறியீடு|notation|
-குறியுடை முழுவெண்|signed integer|
-குறியுடை முழுவெண்ணின் வீச்சு|range of signed integer
-குறியுறுப்பு|genital|
-குறியுறுப்பு அக்கி|genital herpes|
-குறியுறுப்புத் தெளிவநோய்|genital candidiasis|
-குறிவிளக்கம்|legend|
-குறு மின்சுற்று|short circuit|
-குறுகிடவச்சம்|claustrophobia|
-குறுக்கக் குழாய்|vena contracta|
-குறுக்கக் கெழு|coefficient of contraction
-குறுக்கச்சு|transverse axis|
-குறுக்கத்துடிப்பழுத்தம்|systolic pressure|
-குறுக்கத்துடிப்பு|systole|
-குறுக்கப் புரதம்|contractile protein|
-குறுக்கம்|contraction|
-குறுக்கிடுவி|interferon|
-குறுக்கிணைப்பு|anastomosis|
-குறுக்கிழை|cross hair|
-குறுக்கீடு|interference|
-குறுக்கு ஆல்டால் ஒருக்கமாதல்|crossed aldol condensation
-குறுக்கு இனவளர்ப்பு|crossbreeding|
-குறுக்குக் கிருமியேற்றம்|cross infection|
-குறுக்குக்கல்|perpend|
-குறுக்குக்கோடிடு|crosshatch|
-குறுக்குச்சரிகாண்|cross-check|
-குறுக்குத் தொகுப்பி|cross compiler|
-குறுக்குத் தொகுவிணைப்பி|cross assembler|
-குறுக்குப் பார்வையம்|cross reference|
-குறுக்குப் பெருக்கல்|cross product|
-குறுக்குப் பெருக்கல் முறை|cross multiplication method
-குறுக்குப் பேச்சு|cross talk|
-குறுக்குமறுக்கு|zig zag |
-குறுக்குமாற்றம்|crossover n|
-குறுக்குமாற்று|crossover v|
-குறுக்குவழிப் பட்டி|shortcut menu|
-குறுக்குவாட்டு|transverse|lateral - பக்கவாட்டு
-குறுக்குவாட்டு அதிர்வு|transverse vibration|
-குறுக்குவாட்டுப் பிளவுறல்|transverse cleavage|
-குறுக்குவெட்டி|transversal|
-குறுக்குவெட்டு|cross section|
-குறுக்கெதிரமை|decussate opposite |
-குறுக்கே கலத்தல்|cross over|
-குறுங்கடு|acute (medicine)|
-குறுங்கடு தைமநிணவணு குருதிப்புற்று|acute T cell leukemia|
-குறுங்கடு முடிச்சச்சிறுநீரகவழற்சி|acute glomerulonephritis
-குறுங்கடு மூச்சமைப்புக் குறித்தொகுப்பு (குமூகு)|severe acute respiratory syndrome (SARS)
-குறுங்கழுத்து|bottleneck|
-குறுங்கழுத்து விளைவு|bottleneck effect|
-குறுங்கால|short term|
-குறுங்குறி|abbreviation|
-குறுங்கொக்கி|hooklet|
-குறுங்கோடு|dash (punctuation)|
-குறுங்கோணம்|acute angle|
-குறுங்கோர்வை (புரதம்)|light chain (protein)|
-குறுஞ்சொல்|acronym|
-குறுநூல்|booklet|
-குறுநோக்கு|zoom out|
-குறுந்தன்மை|compactness|
-குறும்பகல் தாவரங்கள்|short day plants|
-குறும்படம்|icon|
-குறும்படிப் புரட்சி|marginal revolution|
-குறும்பயன் உயிரியெதிர்ப்பி|narrow spectrum antibiotic
-குறும்பரப்பு வலையம் (குபவ)|local area network (LAN)
-குறும்பின்னி|barbule|
-குறுவட்டு|compact disc|
-குறுவட்டு எழுதுதல்|burning CD |
-குறுவட்டெழுதி|CD burner|
-குறுவட்டோட்டி|CD drive|
-குறுவளரர்|dwarf|
-குறுவளர்ச்சி|dwarfism|
-குறைகுளுக்கோகுருதி|hypoglycemia|
-குறைக் குருதியழுத்தம்|hypotension|
-குறைக்கடத்தி|semiconductor|
-குறைக்கும் உருமாற்றி|step down transformer|
-குறைச்சரிவு சுருள்|short pitch coil|
-குறைச்சவ்வூடு|hypoosmotic|aka hypotonic
-குறைச்சவ்வூடு|hypotonic|aka hypoosmotic; turgor pressure - வீப்பழுத்தம்
-குறைதானியங்கி|semiautomatic|
-குறைதொடர்ந்த|semicontinuous |
-குறைத்தைராயிடு|hypothyroidism|
-குறைநாண்முதுகிகள்|hemichordata|
-குறைநிலைப்பு|metastability|
-குறைநிறமியாதல்|hypopigmentation|
-குறைபணிகொள்ளல்|underemployment|
-குறைபுகவிடும்|semipermeable|
-குறைப் பாய்மம்|quasi fluid|
-குறைப்பயனுகர்ந்த|underexploited|
-குறைப்பயன்பாடு|underutilization|
-குறைப்பாடு|disadvantage|
-குறைப்பான்|suppressor|
-குறைப்பு|decrement|
-குறைமீட்சி மோதல்|inelastic collision|
-குறைமூச்சு|hypoventilation|
-குறைமெய்யம்|hypoploidy|
-குறைமைப் பிளவுறல்|meroblastic cleavage|
-குறையமில|acyl  |
-குறையமில உப்பாக்கைடு|acid halide|
-குறையமில உப்பாக்கைடு|acyl halide|
-குறையமில மாற்றலூக்கி|acyltransferase|
-குறையமில மாற்றலூக்கி|transacylase|
-குறையிணைத்தைராயிடு|hypoparathyroidism|
-குறையொளிபுகு|translucent|
-குறையோசைக் கட்டி|low noise block (LNB)|
-குறைவிசம்|cretinism|
-குற்றச்சு|minor axis|
-குற்றவியல்|criminal|
-குற்றுணவு முட்டை|microlecithal egg|
-குற்றுணவு முட்டை|oligolecithal egg|
-குனோவினாகிலின் வினை|Knoevenagel|
-குன்றற் பிரிவு|meiosis|
-குன்றற்பிரிவித்து|meiospore|
-கூகிள்|google|
-கூக்கின் விதி|Hook's law|
-கூசுத்தா சமுதாயம்|Cousteau society|
-கூடல்|cluster|
-கூடியுள்ள வட்டி|accrued interest|
-கூடு|cell (crystallography)|
-கூடுமையக் கனச்சதுரம்|body-centered cube|
-கூட்ட மறைவுமை|mass extinction|
-கூட்டகமாக்கல்|incorporation|
-கூட்டகம்|corporation|
-கூட்டணி|coalition|
-கூட்டணுவம்|symplast|
-கூட்டமைப்பு|federation|
-கூட்டம் (சந்திப்பு)|meeting|
-கூட்டம் (மக்கள்)|crowd|
-கூட்டலுறுப்பு|sum term|
-கூட்டல்|addition|
-கூட்டல் உறவுத்தொடர்|arithmetic progression|
-கூட்டல் சமனி|additive identity|
-கூட்டல் தொகை|sum|
-கூட்டல் தொடர்|arithmetic series|
-கூட்டல் மிகைப்பி|summing amplifier|
-கூட்டல்களின் பெருக்கல்|product of sums|கூட்டல் கூட்டற்பலனைக் குறிப்பதால் ஆகுபெயர்
-கூட்டவை|bloc|
-கூட்டாற்றல்|synergy|
-கூட்டாற்றும|synergistic|
-கூட்டி|adder|
-கூட்டிணை|cohesive|
-கூட்டிணை விசைகள்|cohesive forces|
-கூட்டிணைவு  |cohesion|
-கூட்டிணைவு விறைப்புக் கோட்பாடு|cohesion-tension theory
-கூட்டிலை|compound leaf|
-கூட்டினம்|cenospecies|
-கூட்டு ஆயுட் காப்பிதழ்|joint life policy|
-கூட்டு இருபிரிவன்|compound dichasium|
-கூட்டு நுண்ணோக்கி|compound microscope|
-கூட்டு மடற்கூர்முனை|compound spadix|
-கூட்டு வட்டி|compound interest|
-கூட்டுக் குடும்ப அமைப்பு|joint family system|
-கூட்டுக் குடும்பம்|joint family|
-கூட்டுக் குடைமஞ்சரி|compound umbel|
-கூட்டுக் கூர்முனை|compound spike|
-கூட்டுக் கொழுமியம்|compound lipid|
-கூட்டுக் கோணங்கள்|compound angles|
-கூட்டுக்கனி|compound fruit|
-கூட்டுச் சராசரி|arithmetic mean|
-கூட்டுச் சாத்தியக்கூறு|joint probability|
-கூட்டுச் சிரமஞ்சரி|compound capitulum|
-கூட்டுச் செயலர்|joint secretary|
-கூட்டுச் செயற்குழு|joint committee|
-கூட்டுப் பங்கு நிறுமம்|joint stock company|
-கூட்டுப்புழு|pupa|
-கூட்டும அளவுமுறை|complexometry|
-கூட்டுமத் திசு|complex tissue|
-கூட்டுமம்|complex (chemical)|
-கூட்டுயிரி|symbiont|
-கூட்டுயிர்மம்|symbiosis|
-கூட்டுவ|federal|
-கூட்டுவாழ்விசம்|colonialism|
-கூட்டுவாழ்வு|colony|
-கூட்டுறவு|co-operative|
-கூட்டுறவுக் கடை|co-operative store|
-கூட்டுறவுச் சங்கம்|co-operative society|
-கூப்பனி|caramel|
-கூம்பணு|cone (retina)|
-கூம்பின் இடைக்கண்டம்|frustrum of a cone|
-கூம்புக் குடுவை|conical flask|
-கூம்பும் உருளையும்|cone and rod|
-கூம்புவளைவு|conics|
-கூரை|roof|
-கூரைச் சவ்வு|tectorial membrane|
-கூரைச் சாளரம்|dormer window|
-கூரைத்தகடு|shingle|
-கூர்ம (தாவரவியல்)|acuminate|
-கூர்முனை|spike|
-கூர்மை|sharpness|
-கூலி|wage|
-கூலிச்சு குழாய்|coolidge tube|
-கூலும்|Coulomb|
-கூவிவிற்பவர்|hawker|
-கூழாதல்|solation|
-கூழ்|sol|
-கூழ்மக் கோட்பாடு|colloidal theory|
-கூழ்மம்|colloid|
-கூளம்|junk|
-கூறடக்க விழுக்காடுகள்|percentage composition
-கூறடக்கம்|composition|
-கூற்று|statement|
-கூற்றுரை|comment|
-கூனிறால்|shrimp|
-கூன்றின் விதி|Hund's rule|
-கெக்குலே|Kekulé|
-கெடுதல் விகாரம்|deletion mutation|தோன்றல் திரிதல் கெடுதல் விகாரம் - நன்னூல் 154
-கெட்ட சுளை|bad sector|
-கெட்ட துண்டம்|bad segment|
-கெண்டி|pitcher|
-கெண்டை|carp|
-கெப்பரின்|heparin|
-கெப்பிளரின்  கால விதி|Kepler's law of period|
-கெப்பிளரின் விதிகள்|Kepler's laws|
-கெரட்டான் கந்தகேட்டு|keratan sulfate|
-கெர்சப்பா நீர்வீழ்ச்சி|Jog falls|
-கெலுப்பால்கா|kelp|
-கெல்மோட்டின் இரட்டைப் படலம்|Helmholtz double layer
-கெல்மோட்டின் தனியாற்றல்|Helmholtz free energy|
-கெல்லின் காரணி|Kell factor|
-கெல்வினின் கூற்று|Kelvin's statement|
-கெல்வின்|Kelvin|
-கெல்வின் பிளாங்கின் கூற்று|Kelvin-Planck's statement
-கெழு|coefficient|
-கெழு தளவணி|coefficient matrix|
-கெளுத்தி|catfish|
-கென்லியின் கழல்|Henle's loop|
-கென்னடி|Kennedy|
-கே-2 வைட்டமின்|menaquinone|
-கேகாவி (கேட்பொலி காணொளி இடைச்செருகல்)|AVI (Audio Video Interleave)
-கேசிய அடிப்படை|caisson foundation|
-கேசியச் செவ்வூதா|purple of cassium|
-கேசீனாக்கி|caseinogen|
-கேசீனேட்டு|caseinate|
-கேசீன்|casein|
-கேடயமிடா திருகிணைகள்|unshielded twisted pair
-கேடயி|shield v|
-கேடயித்தல்|shielding|
-கேடுறாக்கா|preserve (verb root)|
-கேடுறாக்காக்க|preserve (imperative)|
-கேடுறாக்காத்த|preserved|
-கேடுறாக்காத்தல்|preservation|
-கேடுறாக்காப்பி|preservative|
-கேடுறு இடைவினை|negative interaction|
-கேட்டை|Antares|
-கேட்பொலி|audio|
-கேட்பொலி இடைமாற்றக் கோப்பு வடிவூட்டம் (கேவிகோவ)|Audio Interchange File Format (AIFF)
-கேட்பொலி காணொளி இடைச்செருகல் (கேகாவி)|Audio Video Interleave (AVI)
-கேட்பொலிசுவைஞர்|audiophile|
-கேட்பொலித் துண்டு|audio clip|
-கேட்பொலியும் காணொளியும்|audio video|
-கேபரின் வழிமுறை|Haber process|
-கேமோகுவின்|Camoquin|
-கேம்பிரிடிசு|Cambridge|
-கேம்பிரியக் காலம்|Cambrian period|
-கேரட்டீனனையம்|carotenoid|
-கேரட்டீன்|carotene|
-கேரட்டு|carrot|
-கேரலஸ் லினியஸ்|Carolus Linnaeus|
-கேலான்|halon|
-கேவிகோவ (கேட்பொலி இடைமாற்றக் கோப்பு வடிவூட்டம்)|AIFF (Audio Interchange File Format)
-கேள்காண்|audiovisual|
-கை (கிரேக்க எழுத்து)|chi|
-கை வாக்களிப்பு|show of hands|
-கைகர் முல்லரின் எண்ணி|Geiger – Muller counter
-கைகால் சிரை|brachial vein|
-கைகால் தமனி|brachial artery|
-கைகுலுக்கல்|handshake|
-கைகோர்|interdigitate|
-கைகோர்க்கும்|interdigitating|
-கைக்கணினி|palm computer|
-கைச்சுழற்சித் தசை|coracobrachialis|
-கைட்டின்|chitin|
-கைட்டோசன்|chitosan|
-கைத்தசை|brachii|
-கைத்தலைச் சிரை|branchio cephalic vein
-கைத்தலைத் தமனி|brachio cephalic artery
-கைப்பண நிதித்திட்டம்|cash budget|
-கைப்பணம்|cash|
-கைப்பிடி|handle n |
-கைப்பேசி|cell phone|
-கைப்பேசி|mobile phone|
-கைமமுறிவூக்கி|chymotrypsin|
-கைமமுறிவூக்கியாக்கி|chymotrypsinogen|
-கைமய வழிமுறை|manual process|
-கைமயச் செயலம்|manual operation|
-கைமரம்|rafter|
-கைம்|chyme|
-கையடக்கச் சாதனம்|handheld device|
-கையளி|handout|
-கையாள்|handle v|
-கையாள்தல்|handling|
-கையிருதலைத் தசை|biceps brachii|
-கையின்பம்|masturbation|
-கையும|chiral|
-கையுமை|chirality|
-கையுருட்டுத் தசை|brachialis muscle|
-கையூடாள்|manipulate|
-கையூடாள்தல்|manipulation|
-கையேடு|handbook|
-கைலோநுண்மன்|chylomicron|
-கைவர்க்கம்|chi square|
-கைவிளக்கு|torch|
-கைவினைஞர்|craftsman|
-கைவினைமை|craftsmanship|
-கைனூரினைன்|kynurinine|
-கொக்கக்கோலா கூட்டகம்|Coca Cola Corporation
-கொக்கி|hook|
-கொக்கி இதழ்|clawed petal|
-கொக்கிச் சுத்தியல்|claw hammer|
-கொக்கியும் துளையும்|hook and eye|
-கொக்குக்கழுத்துக் குடுவை|swan neck flask|
-கொசு|mosquito|
-கொடி|flag|
-கொடிக்கம்பம்|flagpole|
-கொடுக்கவேண்டிய வட்டி|outstanding interest|
-கொடுக்கி|trygon|
-கொடுக்கு|sting|
-கொடுக்குமீன்|sting ray|
-கொடுஞ்சுழல்|vicious cycle|
-கொடுவா|sea bass|
-கொடை|grant|
-கொட்டல்|dump|
-கொட்டுப்பை|cnida|
-கொட்டுப்பை|nematocyst|
-கொட்டுப்பையணு|cnidoblast|
-கொட்டை|nut (fruit)|
-கொட்டையனையம்|pyrenoid|
-கொண்டளி|deliver|
-கொண்டளி வருகோள்|delivery order|
-கொண்டளிக் குழாய்|delivery tube|
-கொண்டளிப்பு|delivery|
-கொண்டுசெல்லும்|efferent|
-கொண்டுசெல்லும் குருதிக்குழல்|efferent blood vessel|
-கொண்டுவரும்|afferent|
-கொண்டுவரும் குருதிக்குழல்|afferent blood vessel|
-கொதிகலன்|water heater|
-கொதிநிலை |boiling point|
-கொதிநிலை உயர்வு|elevation of boiling point
-கொதியளவி மாறிலி|ebullioscopic constant|
-கொதியளவியல்|ebullioscopy|
-கொத்தனார்|mason|
-கொத்தனார்ச் சட்டம்|mason square|
-கொத்தியக்கவூக்கி|staphylokinase|
-கொத்து|bunch|bundle - கட்டு
-கொத்து வேர்கள்|fasciculated roots|
-கொத்துக்கனி|multiple fruit|
-கொத்துமணியம்|staphylococcus|
-கொத்துமணியம் தங்கன்|Staphylococcus aureus
-கொந்தளிப்பு|turbulence|
-கொந்தளிப்புப் பாய்வு|turbulent flow|
-கொப்புளம்|blister|
-கொப்புளித்தல்|blistering|
-கொம்பமாக்கு|cornify|
-கொம்புப்பவளங்கள்|acropora|
-கொம்புமீன்|sword tail|
-கொம்புவடிவன|anthocerotae|
-கொயினா|quinine|
-கொலம்பவடிவி|Columbiform|
-கொல்|kill|
-கொல்நிணவணு|T killer cell|
-கொழகொழப்பு|mucilage|
-கொழுப்பமில மூச்சியமேற்றம்|fatty acid oxidation|
-கொழுப்பமிலம்|fatty acid|
-கொழுப்பு |fat|
-கொழுப்புச்சிதைவு|lipolysis|
-கொழுப்புத் திசு|adipose tissue|
-கொழுப்புத்திட்டு|cellulite|
-கொழுமிய இருபடலம்|lipid bilayer|
-கொழுமியப் பலசர்க்கரைடு|lipopolysaccharide|
-கொழுமியப் புரதமூக்கி|lipoproteinase|
-கொழுமியப் புரதம்|lipoprotein|
-கொழுமியப் புரதலின்|lipovitellin|
-கொழுமியப்பை|liposome|
-கொழுமியமூக்கி|lipase|
-கொழுமியமொன்றிய புரதம்|lipid anchored protein|
-கொழுமியம்|lipid|
-கொழுவிரையூக்கி|steapsin|
-கொளுக்கி|hasp|
-கொளுக்கியும் தைப்பாணியுமுடைய தாழ்|hasp and staple bolt|
-கொள்கலனாக்கம்|containerization|
-கொள்கலன்|container|
-கொள்கலன் கப்பல்|container ship|
-கொள்கை|principle|
-கொள்முதல்|purchase|
-கொள்வார் காசோலை|bearer check|
-கொள்விதி|policy|
-கொள்விதியாக்கம்|policy making|
-கொள்வெளி|steric|
-கொள்ளளவு|capacity|volume - பருமன்
-கொள்ளாணை|warrant n|
-கொள்ளுரிமை|ownership|உரிமை - right
-கொள்ளைக் காப்பீடு|burglary insurance|
-கொள்ளைநோய்|plague|epidemy - நோய்வெடிப்பு
-கொனிடியங்கள்|conidia|
-கொன்றுண்ணல்|predation|
-கொன்றுண்ணி|predator|
-கோடமைத்தல்|collimation|
-கோடமைந்த|collinear|
-கோடமைப்பி|collimator|
-கோடமையா|noncollinear|
-கோடமைவு|collinearity|
-கோடலில்லா|unbiassed|
-கோடலின்மை|unbiassedness|
-கோடல்|bias|
-கோடுநேராக்கம்|antialiasing|
-கோட்பாடு|theory|
-கோட்பாட்டு|theoretical|
-கோட்போதான|tentative|
-கோண அடித்தோல் திசு|angular collenchyma|
-கோண அடைப்புக்குறி|angular bracket|
-கோண அலைவெண்|angular frequency|
-கோண உந்தம்|angular momentum|
-கோண ஒத்திசை அலைவி|angular harmonic oscillator
-கோணத்தின் உச்சி|vertex of an angle|
-கோணம் (கலப்பெண்)|argument (of a complex number)
-கோணளவி|protractor|
-கோபால்|COBOL|
-கோபாற்று|cobalt|
-கோபி மீன்|goby fish|
-கோபுரத் தாழ்|tower bolt|
-கோபுரம்|tower|
-கோப்பகக் கட்டமைப்பு|directory structure|
-கோப்பகப் பாதை|directory path|
-கோப்பகம்|directory|
-கோப்பமைப்பு|file system|
-கோப்பர்நிசியம்|copernicium|
-கோப்பிறுதி|end of file|
-கோப்பு|file|
-கோப்பு உரிமையாளர்|file owner|
-கோப்பு நீட்சி|file extension|
-கோப்பு வடிவூட்டம்|file format|
-கோப்புச் சேவையர்|file server|
-கோப்புத் தேர்வி|file chooser|
-கோப்புத் தொற்றி|file infector|
-கோப்புப் பாதை|file path|
-கோப்புமாற்றல் விதிமுறை (கோமாவி)|File Transfer Protocol (FTP)
-கோப்புறை|folder|documents are placed in files and files are placed in folders; ஆவணங்கள் கோப்பிலும், கோப்புகள் கோப்புறைகளிலும் வைக்கப்படுகின்றன.
-கோமாரி|rinderpest|
-கோமாவி (கோப்புமாற்றல் விதிமுறை)|FTP (File Transfer Protocol)
-கோமாளிச்சீட்டு|wildcard|
-கோமாளிநாற்று|bakanae|
-கோம்பைச் சாளரம்|gable window|
-கோம்பைச்சுவர்|gable wall|
-கோரியானனைய உறை|choroid coat|
-கோரியானனைய பின்னல்|choroid plexus|
-கோரியான்|chorion|
-கோரெண்|quorum|
-கோரைப்பலகை|straw board|
-கோரைப்பல்|canine (teeth)|
-கோர்ட்டசால்|cortesol|
-கோர்வை மாற்றியம்|chain isomerism|
-கோர்வை விதி|chain rule|
-கோர்வைக் கடை|chain store|
-கோர்வைக் கண்டு|chain winding|
-கோர்வைக்குறிப்பி|cistron|
-கோர்வையாக்கம்|catenation|
-கோலின்|choline|
-கோலையுண்ணி|coliphage|
-கோல்ட்ஸ்டைன்|Goldstein|
-கோல்பின் முறை|Kolbe's method|
-கோல்பின் வினை|Kolbe's reaction|
-கோல்பு சுமிட்டின் வினை|Kolbe Schmidt reaction
-கோல்மனைட்டு|colemanite|
-கோல்வைரசு|rhabdovirus|
-கோவை|expression (math)|
-கோழி முளைக்கரு செய்நுட்பம்|chicken embryo technique
-கோழை|mucus|
-கோழைச்சவ்வின் நிணவனைய திசு (கோநிதி)|mucosa associated lymphoid tissue (MALT)
-கோழைச்சவ்வு|mucosa|aka mucous membrane
-கோழைச்சவ்வு|mucous membrane|aka mucosa
-கோழைப்பலசர்க்கரைடு|mucopolysaccharide|
-கோழைப்புரதம்|mucoprotein|
-கோழைய|mucous|
-கோழைவீக்கம்|myxoedema|
-கோள|spherical|
-கோள ஓடு|spherical shell|
-கோளச் சீரொருமை|spherical symmetry|
-கோளத் துருவ|spherical polar|
-கோளப்புரதம்|globulin|globin - குளோபின்
-கோளமந்தையம்|sphaerotilus|
-கோளவுயிரணு|spheroplast|
-கோளேவுவண்டி|SLV (Satellite Launch Vehicle)
-கோள்|planet|
-கோள்மண்டல ஒளி|zodiacal light|
-கோள்மண்டலம்|zodiac|
-கோன்மை|sovereignty|
-கௌப்பரின் சுரப்பி|Cowper's gland|
-கௌவி|clamp|
-கௌவி|clip n|
-கௌவிசோதிப்பி|tongtester|
-கௌவிப்பலகை|clipboard|
-கௌவிப்புத்தகம்|clipbook|
-க்ரிஃப்பித்|Griffith|
-க்ரிக்|Crick|
-க்ளார்க் மேக்ஸ்வெல்|Clark Maxwell|
-க்ளாஸியஸ்|Clausius|
-சகதிச்சரிவு|mudslide|
-சகதிறன் பிணைப்பு|covalent bond|
-சகாத்தம்|epoch|
-சகிப்பு|tolerance|
-சகுனவீர்|saquinavir|
-சகோதரத்துவம்|fraternity|
-சக்கரவடிவ அல்லிவட்டம்|rotate corolla|
-சக்கினிக அமிலம்|succinic acid|
-சக்கைக் குழி|pulp cavity|
-சக்ரே|Segre|
-சங்கியங்கள்|gastropoda|
-சங்கியம்|gastropod|
-சங்கிலி நிலமளப்பு|chain surveying|
-சஞ்சிகை|magazine|
-சடங்கற்ற|informal|
-சட்ட முகமை|law agency|
-சட்டகக் கணினியம்|grid computing|
-சட்டகம்|grid|
-சட்டக் கணினி|mainframe computer|
-சட்டக் கதவு|framed door|
-சட்டக் காரணவழி அதிகாரம்|legal rational authority
-சட்டக்கணம்|frameset|
-சட்டத்தத்துவவியல்|jurisprudence|
-சட்டமன்றம்|legislature|
-சட்டமிடல் (தச்சு)|housing (carpentry)|
-சட்டமியற்றல்|legislation|
-சட்டமியற்று|legislate|
-சட்டமுறை|statutory|
-சட்டம் (கட்டிடவியல்)|frame|
-சட்டம் (விதிமுறை)|law|
-சட்டவிதி|article (law)|
-சதர்னின் ஒற்று|Southern blot|
-சதுப்பு|marsh|
-சதுப்பு நிலம்|marshy land|
-சதுர அடைப்புக்குறி|square bracket|
-சதுரத் தளவணி|square matrix|
-சதுரமடல் (கல்லீரல்)|quadrate lobe (liver)|
-சதைக்கனி|fleshy fruit|
-சதைப்பற்றான|succulent|
-சதைப்பற்றுள்ள தனிக்கனி|simple fleshy fruit|
-சத்துயிரி|trophozoite|
-சந்ததி|descendant|
-சந்ததி வீதம்|fertility rate|
-சந்தி|junction|
-சந்தைப் பொருளாதாரம்|market economy|
-சந்தையிடல்|marketing|
-சப்பானிய அனடி தரவுத்தளம் (சனத)|DNA databank of Japan (DDBJ)
-சம-|iso-|
-சம ஆற்றநிலை தளம்|equipotential surface|
-சம கணம்|equal set|
-சம மதிப்பு|par value|
-சம மின்னமில நிலை|isoelectric point|
-சம முழுமைப் பிளவுறல்|equal holoblastic cleavage
-சம வாய்ப்பு|equally likely|random - நேர்ந்தவாறான
-சம விலையில்|at par|
-சமக்கசையிளை|isokont|
-சமக்கூறு|aliquot|
-சமச் சமன்மைக் கரைசல்கள்|equinormal solutions|
-சமச்சவ்வூடு|isotonic (osmotic)|turgor pressure - வீப்பழுத்தம்
-சமச்சீரற்ற|nonuniform|
-சமச்சீரான|uniform|
-சமச்சீரான வளங்காணி (சவகா)|Uniform Resource Locator (URL)
-சமச்சீரான வளமினங்காட்டி (சவமி)|Uniform Resource Identifier (URI)
-சமச்சேர்க்கை|isogamy|
-சமதந்தைய|sympatric|
-சமதந்தைய இனம்|sympatric species|
-சமதள|planar|
-சமதள ஆடி|plane mirror|
-சமதள சதுர|square planar|
-சமதள நிலமளப்பு|plane surveying|
-சமதள முனையுற்ற ஒளி|plane polarized light|
-சமதளக் கோடுகள்|coplanar lines|
-சமதளத் திசையன்கள்|coplanar vectors|
-சமதளத் துருவ|plane polar|
-சமதளமற்ற|noncoplanar|
-சமதளம்|plane (surface)|
-சமதிசைப் பண்புகள்|isotropic properties|
-சமதிசைமை|isotropy|
-சமதிசையாப் பண்புகள்|anisoltropic properties
-சமதிசையாமை|anisotropy|
-சமத்திருப்ப|racemic|
-சமத்திருப்பக் கலவை|racemic mixture|
-சமத்திருப்பமாக்கல்|racemization|
-சமத்துவம்|equality|
-சமநிரான்|isotone|
-சமநிலை|equilibrium|
-சமநிலை மாறிலி|equilibrium constant|pK - சமநிலைச் சுட்டெண்
-சமநிலைச் சுட்டெண்|pK|equilibrium constant - சமநிலை மாறிலி
-சமநிலையாக்க விசை|equilibrant force|
-சமநிறையன்|isobar (nuclear)|
-சமநீள உடற்பயிற்சி|isometric exercise|
-சமநீளக் குறுக்கம்|isometric contraction|
-சமநோயெதிர்ப்பி|isoantibody|
-சமநோயெதிர்ப்பூட்டி|isoantigen|
-சமபக்க முக்கோணம்|equilateral triangle|
-சமபதியம்|isograft|aka syngraft
-சமபதியம்|syngraft|aka isograft
-சமப் பயன்கூறு வீத விதி|law of equi-marginal utility
-சமப்பங்கீடு|equipartition|
-சமப்பரும|isochoric|
-சமப்பாய்ம நிலை|steady state|
-சமப்பாய்ம நிலைக் கட்டம்|steady state phase|
-சமமற்ற முக்கோணம்|scalene triangle|
-சமமற்ற முழுமைப் பிளவுறல்|unequal holoblastic cleavage
-சமமான விசைகள்|balanced forces|
-சமமில்லை|not equal to|A <> B என்பதை 'A சமமி்ல்லை B சார்பில்' அல்லது 'A சமமில்லை B' என்று வாசிக்கலாம்.
-சமமின்மை|inequality|
-சமமுகமான|isohedral|
-சமம்|equal to|A = B என்பதை 'A சமம் B சார்பில்' அல்லது 'A சமம் B' என்று வாசிக்கலாம்.
-சமயிரவு|equinox|
-சமர்ப்பி|submit|
-சமவகை|isotype|
-சமவழுத்த|isobaric|
-சமவழுத்தக் கோடு|isobar (pressure)|
-சமவளவு|isometry|
-சமவளவு (பொருளியல்)|isoquant|
-சமவாக்கவிலை|isocost|
-சமவிடத்தான்|isotope|
-சமவிடத்தான் இடைமாற்றம்|isotope exchange |
-சமவிறைப்புக் குறுக்கம்|isotonic contraction|
-சமவினவணு|isogamete|
-சமவுடைமை அரசு|socialist state|
-சமவுடைமையிச|socialistic|
-சமவுடைமையிசம்|socialism|
-சமவுணவு முட்டை|isolecithal egg|
-சமவுருவம்|isomorphism|
-சமவெப்ப|isothermal|homoiothermic - ஒரேவெப்ப
-சமவெப்பக்கோடுகள்|isotherms|
-சமவெளி|plains|
-சமவொளி மாற்றியன்|enantiomer|
-சமனச் சுமை|balanced load|
-சமனமற்ற|unbalanced|
-சமனமற்ற கண்டு|unbalanced winding|
-சமனமற்ற சுமை|unbalanced load|
-சமனமாக்கல்|balancing|
-சமனமாக்கு|balance v|
-சமனம்|balance n|
-சமனி|identity (math)|
-சமனி அடிகோள்|identity axiom|
-சமனிச் சார்பு|identity function|
-சமனிச் செயலி|identity operator|
-சமன்பாடமைப்பு|system of equations|
-சமன்பாடு|equation|
-சமன்பாடுகளின் மூலங்கள்|roots of equation|
-சமன்மை|normality (chemistry)|
-சமன்வரைகோடு|contour|
-சமான |equivalent adj|
-சமான நிறை|equivelent mass|
-சமானக் கணம்|equivalent set|
-சமானம்|equivalence|
-சமானி|equivalent n|
-சமூக ஒப்பந்தக் கோட்பாடு|social contract theory|
-சமூக நலம்|social welfare|
-சமூக நீதி|social justice|
-சமூக வனவியல்|social forenstry|
-சமூகப் பாதுகாப்பு|social security|
-சமூகமேல்|epidemic|
-சமூகம்|society|
-சமூகவியல்|sociology|
-சமூகவுள்|endemic|
-சமூகவெளி|pandemic|
-சமேரியம்|samarium|
-சமையல் சோடா|baking soda|
-சயனலி|nitrile|
--சயனலி|-nitrile|
-சயனைடு|cyanide (inorganic)|
-சயனோ-|cyano-|
-சயனோ தொகுதி|cyano group|
-சயனோபாட்டீரியம்|cyanobacterium|
-சயனோவைரசு|cyanophase|
-சயாமியவீரமீன்|siamese fighter|
-சரக்கு |cargo|
-சரக்குக் காப்பீடு|cargo insurance|
-சரக்குந்து|lorry|aka truck
-சரக்குந்து|truck|aka lorry
-சரணடை|surrender (oneself)|
-சரணாலயம்|sanctuary|
-சரணிடு  |surrender (something)|
-சரணிடு மதிப்பு|surrender value|
-சரம்|string|
-சரல்|gravel|
-சராசரி|average|
-சரி|OK|
-சரிகாணல்|reconciliation|
-சரிகாணிடம்|checkpoint|
-சரிகாணிணு|check bit|
-சரிகாண்தொகை|checksum|
-சரிகை|fringe|
-சரிக்கட்டல்|adjustment|
-சரிக்குறி|tick mark|
-சரிபார்|verify|
-சரியளவு|accuracy|correctness - சரி்யுடைமை
-சரியளவுப்பார்வை|emmetropia|
-சரியாக்கு|correct v|சரிபார் - verify
-சரியான|correct adj|
-சரியுடைமை|correctness|accuracy - சரியளவு
-சரிலின் முறை|Searle's method|
-சரிவிகித உணவு|balanced diet|
-சரிவிணைப்பு|splayed joint|
-சரிவு|pitch (slope)|slope - சாய்வு
-சரிவுக் காரணி|pitch factor|
-சரிவுத் தசை|scalene|
-சரிவுநாற்கரத் தசை|trapezius|
-சரிவுநாற்கரம்|trapezium|
-சருக்கிக் கணிப்பான்|slide rule|
-சருக்குக் கதவு|sliding door|
-சருக்குச் சிற்றிழை கருதுகோள்|sliding filament hypothesis
-ஜெ. ஜெ. தாம்சன்|J. J. Thompson|
-ஹான்ஸ் அடால்ஃப் க்ரெப்ஸ்|Hans Adolf Krebs|
-சர்க்கரேட்டு|carbohydrate|
-சர்க்கரை|sugar|
-சர்க்கரைக்கொழுமியம்|glycolipid|
-சர்க்கரைடு|saccharide|
-சர்க்கரைத் தொடுப்பு|glycosidic linkage|
-சர்க்கரைப் பிணைப்பு|glycosidic bond|
-சர்க்கரைப்பித்த அமிலம்|glycocholic acid|
-சர்க்கரைப்புரதம்|glycoprotein|
-சர்க்கரைப்பூஞ்சை|saccharomyces|
-சர்க்கரையாக்கி|glycogen|
-சர்க்கரையாக்கி சிதைவு|glycogenolysis|
-சர்க்கரையாக்கி சேமக நோய்|glycogen storage disease
-சர்க்கரையிணைவி|lectin|
-சர்க்கரையுடனி|glycoside|
-சர்க்கரையுடனியூக்கி|glycosidase|
-சர்வசம|congruent|
-சர்வசம முக்கோணங்கள்|congruent triangles|
-சர்வசமம்|congruence|
-சர்வாதிகார அரசாங்கம்|dictatorial government
-சலமாண்டர்|salamander|
-சலவை எந்திரம்|washing machine|
-சலவை சோடா|washing soda|
-சலி|sift|
-சலுகை|concession|
-சலுகைக் காலம்|grace period|
-சல்லடைக்குழல்|sieve tube|
-சல்லடைசூழ்|amphicribral|
-சல்லடைத்திசு|phloem|
-சல்லிவனின் சோதனை|Sullivan's test|
-சல்லிவேர்|fibrous root|
-சவகர் கிராம வேலைவாய்ப்புத் திட்டம்|Jawahar Gram Samridhi Yojana (JGSY)
-சவகா (சமச்சீரான வளங்காணி)|URL (Uniform Resource Locator)
-சவமி (சமச்சீரான வளமினங்காட்டி)|URI (Uniform Resource Identifier)
-சவால்|challenge|
-சவ்வசு|Sussex|
-சவ்வலை|Q wave|P wave - கவ்வலை; Q wave - சவ்வலை; R wave - தவ்வலை
-சவ்வியச் சிறுநீர்ப்புறவழி|membranous urethra|
-சவ்விறகன|hymenoptera|
-சவ்வு|membrane|
-சவ்வு தாக்கக் கூட்டுமம் (சதாகூ)|membrane attack complex (MAC)
-சவ்வுக்குழல்|tracheid|
-சவ்வூடல்|osmosis|
-சவ்வூடு அலகு|osmol unit|
-சவ்வூடு அழுத்தம்|osmotic pressure|aka tonicity
-சவ்வூடு அழுத்தம்|tonicity|aka osmotic pressure
-சவ்வூடு ஒழுங்கமைத்தல்|osmoregulation|
-சவ்வூடு புரதம்|transmembrane protein
-சவ்வூடுநோக்கி|osmoscope|
-சவ்வூடுபெறுவி|osmoreceptor|
-சளி|phlegm|
-சளிக்காய்ச்சல்|influenza|
-சளிநீக்கி|expectorant|
-சறுக்கி|slider|
-சனத (சப்பானிய அனடி தரவுத்தளம்)|DDBJ (DNA databank of Japan)
-சனி (கோள்)|Saturn|
-சனி (கோள்)|Saturn|
-சனிக்கிழமை|Saturday|
-சாகியாப்பின் விதி|Chargaff rule|
-சாகிவால்|Sahiwal|
-சாக்கநீரிலி|anhydrite|
-சாக்கம்|gypsum|
-சாக்கரின்|saccharin|
-சாக்கின் விதி|Sach's law|
-சாக்குவேவு|ShockWave|
-சாக்கோகிளாசு|saccoglossus|
-சாட்கி குறைபாடு|Schottky defect|
-சாட்டலியரின் கொள்கை|Le Chatelier's principle
-சாட்டன் பாமனின் வினை|Schotten-Baumann reaction
-சாட்டைக் கசையிழை|acronematic flagellum|
-சாட்டைப்பூஞ்சின|mastigomycotina|
-சாட்டையன்|mastigophora|
-சாட்டைவால் நோய்|whiptail disease|
-சாண ஆற்றல்|dung energy|
-சாண வளிமம்|gobar gas|
-சாணம்|dung|
-சாண்மயரின் வினை|Sandmeyer reaction|
-சாதகமான|favorable|
-சாதனம்|device|
-சாதாரண|ordinary|
-சாதி|caste|
-சாத்தியக்கூறியல்|probability theory|
-சாத்தியக்கூறு|probability|நிகழ்தகவு - frequency of occurrence
-சாத்தியக்கூறு அடர்வுச் சார்பு|probability density function
-சாத்தியக்கூறு நிறைச் சார்பு|probability mass function
-சாத்தியக்கூறு பரவல்|probability distribution
-சாத்தியக்கூறு மாதிரிக்கூறெடுப்பு|probability sampling|
-சாத்தியம்|possibility|
-சாந்தீன்|xanthine|
-சாமர்பெல்டின் அணு ஒப்புரு|Sommerfeld atom model
-சாம்பலாக்கல்|incineration|
-சாம்பலாக்கு|incinerate|
-சாம்பற் பொருள்|grey matter|
-சாம்மர்ஃபெல்ட்|Sommerfeld|
-சாயமிடல்|dyeing|
-சாய்கோடு|slash|
-சாய்சதுரச் சிறுதசை|rhomboid minor|
-சாய்சதுரப் பெருந்தசை|rhomboid major|
-சாய்சதுரம்|rhombus|
-சாய்ந்த|oblique |
-சாய்ந்திரு|lean-to|
-சாய்மடிப்பு|miter|
-சாய்மடிப்பு மூடுகல்|mitered closer|
-சாய்வன்|italic|
-சாய்வான தசை|oblique muscle|
-சாய்விதழ்|louver|
-சாய்விதழ்க் கதவு|louvered door|
-சாய்விதழ்ச் சாளரம்|louvered window|
-சாய்விளிம்பு|bevel|
-சாய்விளிம்பு மூடுகல்|beveled closer|
-சாய்வீதம்|gradient|
-சாய்வு|slope|pitch - சரிவு
-சாய்வுக்கோணத் துணுக்க எண்|azimuthal quantum number
-சாய்வுக்கோணம்|azimuth|
-சாரா நிகழ்வுகள்|independent events|
-சாரா மாறி|independent variable|
-சாரைப்பாம்பு|rat snake|
-சார் நிகழ்வுகள்|dependent events|
-சார்கசம்|sargassum|
-சார்ந்துள்ளது|depends|
-சார்பற்ற வகையுறுதல் விதி|law of independent assortment
-சார்பின் எல்லை|limit of a function|
-சார்பின் சார்பு|function of a function|
-சார்பின் தொடர்தன்மை|continuity of a function
-சார்பின் நிழலுரு|image of a function|
-சார்பின் முன்னுரு|preimage of a function|
-சார்பின் வகைக்கெழு|derivative of a function
-சார்பின் வீச்சகம்|range of a function|
-சார்பு|dependence|
-சார்பு (கணிதம்)|function (mathematics)|operator - செயலி
-சார்பு அறிவிப்பு|function declaration|
-சார்பு மாதிரியம்|function prototype|
-சார்பு வரையறை|function definition|
-சார்புகளின் கூறடக்கம்|composition of functions
-சார்மாறி|dependent variable|
-சார்லசின் விதி|Charles' law|
-சார்லஸ் வீட்ஸ்டோன்|Charles Wheatstone|
-சாலிசிலிக அமிலம்|salicylic acid|
-சாலுணர்|sensitive|
-சாலுணர்மை|sensitivity|
-சாலை|road|
-சாலைகட்டுத் திரள்மம்|road aggregate|
-சாலைக் குறி|road sign|
-சாலைச் சைகை|road signal|
-சால்ப்பு|salp|
-சால்ப்புகள்|salpa|
-சால்மரம்|sal|
-சால்மனியநோய்|salmonellosis|
-சால்மனியம்|salmonella|
-சால்மனியம் தைபை|salmonella typhi|
-சாளரக் காட்சியம்|window display|
-சாளரச் சட்டம்|window frame|
-சாளரம்|window|
-சாளரவழி|OTC (over the counter)
-சாளரவழி|over the counter (OTC)
-சாளை|sardine|
-சாறடங்கியவை|succulents|
-சாறு|juice|
-சாறுமட்டம்|spirit level|
-சாறேற்றம்|ascent of sap|
-சான்சன் எண்ணி|Johnson counter|
-சான்றிதழளி|certify|
-சான்றிதழளித்தல்|certification|
-சான்றிதழ்|certificate  |
-சான்றுச்சீட்டு|voucher|
-சிகரம்|crown|
-சிகர்வி|scurvy|
-சிகாவியம்|shigella|
-சிகிச்சை |treatment (medical) |
-சிகிச்சைக்கான|therapeutic|
-சிகிச்சையளி|treat (medical) |
-சிக்கலாட்டம்|puzzle|
-சிக்கலான|convoluted|
-சிக்கலான வேதிவினை|complex reaction|
-சிக்கல்|problem|
-சிக்கவை|entrap|
-சிக்கவைத்தல்|entrapment|
-சிக்கற் குழலம்|convoluted tubule|
-சிக்கன வருகோள் அளவு|economic order quantity
-சிக்கனமற்ற|prodigal|
-சிக்கனமான|economic|
-சிக்கனம்|economy|
-சிங்கர்|Singer|
-சிங்கோனா|cinchona|
-சிசேரிய|cesarian|
-சிசேரிய வெட்டு|cesarian section|
-சிடார்க்கு விளைவு|Stark effect|
-சிடோவுடீன்|zidovudine|
-சிடோவேழுலோசு|sedoheptulose|pseudo heptulose - ஏழுலோசுப் போலி
-சிட்டகாங்கு|Chitagong|
-சிதறல் படவரைவு|scatter diagram|
-சிதறு|scatter|
-சிதைபொருள்|detritus|
-சிதைப்பவை|decomposers|
-சிதைமரம்|peat|
-சிதைமாற்றம்|catabolism|
-சிதையுண்ணி|detrivore|
-சிதைவிறப்பு|gangrene|
-சிதைவு|decay|
-சிதைவுறுதல்|decomposition|
-சிதைவுறுதல் வினை|decomposition reaction
-சிதொ (சிற்றளவத் தொகையிடல்)|SSI (small-scale integration)
-சித்தாந்தம்|doctrin|
-சித்திரக்கதை|cartoon|
-சித்திரை|Spica|
-சிந்தி|Sindhi|
-சிந்து எண்ணி|ripple counter|
-சிபர்கியம்|seaborgium|
-சிபிலிசு|syphilis|
-சிபேசிக அமிலம்|sebacic acid|
-சிபோனாச்சி|Fibonacci|சரியான இத்தாலிய உச்சரிப்பு
-சிப்பி|oyster|
-சிப்பிப்பூஞ்சை|bracket fungi|
-சிப்பின் காரம்|Schiff's base|
-சிப்பின் வினையாக்கி|Schiff's reagent|
-சிமிட்டு|nictitate|
-சிமிட்டுச் சவ்வு|nictitating membrane|
-சிம்பன்சி|chimpanzee|
-சிம்பி|papilla|
-சிம்பிப் படலம்|papillary layer|
-சிம்பிவகை|papillonaceous|
-சிம்மா|sigma|
-சிம்மா காரணி|sigma factor|
-சியாலிக அமிலம்|sialic acid|
-சிரமஞ்சரி|capitulum|
-சிராயி|splinter|
-சிராய்ப்பு|bruise|
-சிரி (கால்நடை)|Siri|
-சிரிப்புணர்வு|sense of humor|
-சிருக்கோனியம்|zirconium|
-சிரை|vein (circulatory system)
-சிரையமைப்பு|venous system|
-சிரைவழி|intravenous|
-சிரைவழியாக|intravenously|
-சிலசர்க்கரைடு|oligosaccharide|
-சிலசுணையுடலிகள்|Oligochaeta|
-சிலந்தனையங்கள்|arachnida|
-சிலந்தனையம்|arachnid |
-சிலந்தி|spider|
-சிலந்தி அமைவடிவம்|spider configuration|
-சிலபுரதை|oligopeptide|
-சிலபூஞ்சையோன்|oligomycin|
-சிலராதிக்கம்|oligopoly|
-சிலிக்க|silicious|
-சிலிக்கா|silica|
-சிலிக்கான்|silicon|
-சிலிக்கான் சில்லு|silicon chip|
-சிலிக்கான் சீவல்|silicon wafer|
-சிலிக்கோன்|silicone|
-சிலியோன்|selone|
-சிலிர்த்தசை|arrector pili|
-சிலுரியக் காலம்|Silurian period|
-சிலுவைத் தண்டு|cross staff|
-சிலுவைவடிவ|cruciform|
-சிலேபிக்கெண்டை|tilapia|
-சிலேற்றரின் விதிகள்|Slater rules|
-சிலேற்றர் காண்டனின் விதிகள்|Slater-Condon rules|
-சில்லரை விற்பவர்|retailer|
-சில்லரை விற்பனை|retail|
-சில்லரைக் கைப்பணம்|petty cash|
-சில்லு|chip|
-சிவப்பணு|erythrocyte|aka red blood cell
-சிவப்பணு|red blood cell|aka erythrocyte
-சிவப்பணு|red blood corpuscle|aka erythrocyte
-சிவப்பணு நொறுங்குமை சோதனை|erythrocyte fragility test
-சிவப்பணுச் சுழல்|erythrocytic cycle|
-சிவப்பணுச்சிதைப்பி|hemolysin|
-சிவப்பணுச்சிதைவு|hematolysis|aka hemolysis
-சிவப்பணுச்சிதைவு|hemolysis|aka hematolysis
-சிவப்பால்கவை|Rhodophyceae|
-சிவப்பு நாடா|red-tape|
-சிவப்பு நாடாத்தனம்|red-tapism|
-சிவப்புச் சக்கை|red pulp|
-சிவப்பூன்|red marrow|
-சிவர்டு|sievert|
-சிறகனைய தசை|pterygoid|
-சிறகு|wing|pinna - இறகு
-சிறகுக்கனி|samara|
-சிறப்பிட உணர்மறைப்பி|local anaesthetic|
-சிறப்பு ஒப்புமைக் கோட்பாடு|special theory of relativity
-சிறப்பு வரியுரு|special character|
-சிறப்பு வேற்றுநிலை|special case|
-சிறப்புக் கீறலிடுதல்|special crossing (of checks)
-சிறப்புத் தீர்வு|particular solution (differential equations)
-சிறப்புத் தொகையீடு|particular integral|
-சிறப்புப் படைப்புக் கோட்பாடு|theory of special creation
-சிறப்பொட்டு|paste special|
-சிறிதாக்கு (பபவி)|minimize (GUI)|
-சிறியது|less than|A < B என்பதை 'A சிறியது B சார்பில்' அல்லது 'A சிறியது B' என்று வாசிக்கலாம்.
-சிறியது அல்லது சமம்|less than or equal to|A <= B என்பதை 'A சிறியது அல்லது சமம் B சார்பில்' அல்லது 'A சிறியது அல்லது சமம் B' என்று வாசிக்கலாம்.
-சிறு தலசச்சோகை|thalassemia minor|
-சிறு முழுவெண்|small integer|
-சிறுகணினி|minicomputer|
-சிறுகணு|nodule|
-சிறுகரடி (விண்மீன்குழு)|Ursa Minor|
-சிறுகற்றை|flocculus|
-சிறுகற்றைக்கணு மடல்|flocculonodular lobe|
-சிறுகால்வாய்|canaliculus|
-சிறுகுடல் தொகுதி|small intestine|
-சிறுகுடற் காய்ச்சல்|enteric fever|
-சிறுகுடற்சாறு|succus entericus|
-சிறுகுடை|umbellet|
-சிறுகுமிழம்|bulbil|aka bulblet
-சிறுகுமிழம்|bulblet|aka bulbil
-சிறுகுழந்தை|infant|
-சிறுகுழந்தை இறப்பு வீதம்|Infant Mortality Rate|
-சிறுகூர்முனை|spikelet|
-சிறுகேடயம்|scutellum|
-சிறுகோப்பையங்கள்|minor calyces|
-சிறுகோள்|asteroid|
-சிறுசிரை|venule|
-சிறுதசை|minor muscle|
-சிறுதமனி|arteriole|
-சிறுதலமி|hypothalamus|
-சிறுதலமி பிட்டூட்டரி நுழைவமைப்பு|hypothalamohypophyseal portal system
-சிறுதலமி வெளியீட்டுக் காரணி|hypothalamic releasing factor
-சிறுதனியன்|leptomonas|
-சிறுதிரள்மம்|fine aggregate|
-சிறுதூண்|columella|
-சிறுதோட்டசை|subclavius|
-சிறுதோட்டசைச் சிரை|subclavian vein|
-சிறுதோட்டசைத் தமனி|subclavian artery|
-சிறுநீரக இடுப்பு|pelvis of the kidney|
-சிறுநீரக இடுப்பு|renal pelvis|
-சிறுநீரக ஒழுங்கமைத்தல்|renal regulation|
-சிறுநீரக நாற்கூம்பு|medullary pyramid|
-சிறுநீரக நாற்கூம்பு|renal pyramid|
-சிறுநீரக நுழைவச் சிரை|renal portal vein|
-சிறுநீரக நுழைவடு|renal hilum|
-சிறுநீரகக் கழல்|loop of Henle|
-சிறுநீரகக் குழிவு|renal sinus|
-சிறுநீரகச் சிம்பிகள்|renal papillae|
-சிறுநீரகச் சிரை|renal vein|
-சிறுநீரகச் செயலிழப்பு|renal failure|
-சிறுநீரகத் தமனி|renal artery|
-சிறுநீரகத் தனித்துகள்|renal corpuscle|
-சிறுநீரகப் பெட்டகம்|renal capsule|
-சிறுநீரகப்பாட்டீரியம்|renibacterium|
-சிறுநீரகமேவு சுரப்பிகள்|suprarenal glands|
-சிறுநீரகம்|kidney|
-சிறுநீரகவடிவ|reniform|
-சிறுநீரகவழற்சி|nephritis|
-சிறுநீரதி|diuretic|
-சிறுநீராய்வு|urinalysis|
-சிறுநீரியன்|nephridia|
-சிறுநீர் நாளம்|ureter|
-சிறுநீர்க் குழலம்|uriniferous tubule|
-சிறுநீர்க் குறியுறுப்பு அமைப்பு|urinogenital system|
-சிறுநீர்க் குறியுறுப்பு இடைத்திரை|urogenital diaphragm|
-சிறுநீர்க்கல்|kidney stone|
-சிறுநீர்க்குறை|antidiuretic|
-சிறுநீர்க்குறை இயக்குநீர்|antidiuretic hormone|
-சிறுநீர்க்குறைவு|oliguresis|aka oliguria
-சிறுநீர்க்குறைவு|oliguria|aka oliguresis
-சிறுநீர்த் தூண்|renal column|
-சிறுநீர்ப் புறவழி|urethra|
-சிறுநீர்ப்பாதை|urodaeum|
-சிறுநீர்ப்பிரிப்பி|nephron|
-சிறுநீர்ப்பை|bladder (anatomy)|
-சிறுநீர்ப்பை|urinary bladder|
-சிறும|min|
-சிறுமடல்|lobule|
-சிறுமலர்|floret|
-சிறுமார்புத்தசை|pectoralis minor|
-சிறுமாற்றமில்லா|unperturbed|
-சிறுமாற்றம்|perturbation|
-சிறுமூளை|cerebellum|
-சிறும்பெருமம்|minimax|
-சிறுவரைவுப்பொறி|mini-drafter|
-சிறுவர்|children|infant - குழந்தை
-சிறுவர் பராமரிப்பு|child care|
-சிறுவேர்|rootlet|
-சிறையுறுபாட்டீரியம்|haliscomenobacter|
-சிற்றடுக்கம்|substratum|
-சிற்றணிக்கோவை|minor determinant|
-சிற்றம்மை|chicken pox|
-சிற்றலகு|subunit|
-சிற்றளவச் சில்லரை விற்பனை ஒருங்கமைப்பு|small scale retail organization
-சிற்றளவத் தொகையிடல் (சிதொ)|small-scale integration (SSI)
-சிற்றளவம்|small scale|
-சிற்றளவுத் தனிமங்கள்|trace elements|
-சிற்றறை|alveolus|
-சிற்றறை (அட்டவணை)|cell (of a table)|
-சிற்றறைகள்|alveoli|
-சிற்றறைப் பேருண்ணி|alveolar macrophage|
-சிற்றிடம்|locule (botany)|
-சிற்றிலை|leaflet|little leaf diesease - இலைக்குறுக்க நோய்
-சிற்றிழை |filament  |
-சிற்றிழையணுக்கள்|dendritic cells|
-சிற்றினம்|subspecies|
-சிற்றுகம்|chron |
-சிற்றுண்டி |tiffin|
-சிற்றுண்டிச்சாலை|canteen|
-சிற்றுதடு|labia minora|
-சிற்றுத்திரம்|trabecula|
-சிற்றுந்து|car|
-சிற்றுந்துப் பகிரர்|car dealer|
-சிற்றெலும்பு|ossicle|
-சிற்றேடு|journal (accountancy)|குறிப்பேடு - notebook
-சின்செங்கு|ginseng|
-சீசலின் முறை|Zeisel's method|
-சீசியம்|cesium|
-சீட்டா-|zetta-|
-சீட்டுக்கட்டு|deck of cards|
-சீட்டுப் பகிரர்|card dealer|
-சீதபேதி|amebic dysentery|
-சீதாப்பழம்|custard apple|
-சீபெக்கின் விளைவு|Seebeck effect|
-சீப்பனையம்|ctenoid|
-சீப்பால் அழகுறுத்தல்|combed dressing|
-சீப்பியா|sepia|
-சீப்புரு|pecten|
-சீப்புவம்|ctenidium|
-சீமன்சு|siemens|
-சீமானின் விளைவு|Zeeman effect|
-சீமான்|Zeeman|
-சீமூரியா|seymouria|
-சீமெனின் ஓசோனாக்கி|Siemen's ozoniser|
-சீம்பால்|colostrum|
-சீரற்ற கற்கட்டு|rubble masonry|
-சீரான பலகோணம்|regular polygon|
-சீரான பன்முகி|regular polyhedron|
-சீரியம்|cerium|
-சீரின்|serine|
-சீரெதிர்ச்சார்பு|odd function|
-சீரொருமை|symmetry|
-சீரொருமைச் சமதளம்|symmetry plane|
-சீரொருமையற்ற|asymmetric|
-சீரொருமையற்ற ஈத்தர்|unsymmetrical ether|
-சீரொருமையான|symmetric|
-சீரொளி|laser|
-சீரொளி அச்சிடுவான்|laser printer|
-சீரொளித் துடிப்பு|laser pulse|
-சீர்குலைவு|entropy|chaos - ஒழுங்கின்மை; disroder - முறைமையின்மை
-சீர்ச்சார்பு|even function|
-சீர்திருத்தம்|reform|
-சீர்நுண்ணொளி|maser|
-சீர்முறி|erratic|
-சீர்மை|regularity|
-சீர்மையற்ற|irregular|
-சீர்மையின்மை|irregularity|
-சீல் நீல்சன் அமிலம்|Ziehl-Neelson acid|
-சீவல்|slice n|
-சீவு|slice v|
-சீழாக்க|pyogenic|
-சீழாக்கிகள்|pyogenes|
-சீழில்லா|aseptic|
-சீழுடைய|septic|
-சீழ்க்கட்டி|abscess|
-சீழ்க்கொப்புளம்|pustule|
-சீழ்ச்சிதைவாக்க|suppurative|
-சீழ்ச்சிதைவுறல்|suppuration|
-சீறெழு|surge|
-சீற்றா|zeta|
-சீனான்|xenon|
-சுகாமு (சுற்றுச்சூழல் காப்பு முகவம்)|EPA (Environmental Protection Agency)
-சுங்கத் தீர்வு|customs clearance|
-சுங்கப் பிணைய இருப்பகம்|Custom-Bonded Warehouse
-சுடரணு|flame cell |
-சுடாத செங்கல்|unburnt brick|
-சுட்ட சுண்ணாம்பு|quicklime|
-சுட்ட செங்கல்|burnt brick|
-சுட்டி|pointer|
-சுட்டுக்குறி|cursor|
-சுட்டுத் திட்டமிடல்|indicative planning|
-சுட்டெண்|index|
-சுட்டெண்ணளவி|index number|
-சுட்டெண்ணிடுதல்|indexing|
-சுட்டெலி|mouse|don't misspell it as சுண்டெலி; pointer - சுட்டி
-சுட்டெலிச் சுட்டி|mouse pointer|
-சுட்டெலித் தளம்|mouse pad|
-சுணக்கம்|latency|
-சுணைக்காலிகள்|chaetopoda|
-சுண்ணாம்பு நீர்|lime water|
-சுண்ணாம்பு பெ.எ|calcareous|
-சுண்ணாம்புக் கல்|limestone|
-சுண்ணாம்புப் பசை|milk of lime|
-சுதப (சுவிச உயிர்மத் தகவலியல் பயிலகம்)|SIB (Swiss Institute of Bioinformatics)
-சுதி|note (music)|
-சுதீவனின் வினை|Stephen's reaction|
-சுதைக்குழை|putty|
-சுத்தியலால் அழகுறுத்தல்|hammer dressing|
-சுத்தியலெலும்பு|malleus|
-சுத்தியல்|hammer|
-சுபேரிக அமிலம்|suberic acid|
-சுமத்தி (கணினி)|loader (computer)|
-சுமப்பி|carrier|
-சுமப்பிக் கருத்துரு|carrier concept|
-சுமப்பிப் புரதம்|carrier protein|
-சுமிச (சுழல் மிகைமம் சரிகாணல்)|CRC (cyclic redundancy check)
-சுமைக்கட்டணக் காப்பீடு|freight insurance|
-சுமைக்கட்டணம்|freight|
-சுரங்கியம்|mining|
-சுரங்கு|mine v|
-சுரத்தல்|secretion|
-சுரப்பனையம்|adenoid|
-சுரப்பி|gland|
-சுரப்பி மடல்|glandular lobe|
-சுரப்பி வைரசு|adenovirus|
-சுரப்பிப்புற்று|adenoma|
-சுரப்பியக்கநீர்|secretin|
-சுரப்பியணு|glandular cell|
-சுரப்பியல்|eccrinology|
-சுரப்புக் குமிழங்கள்|secretory vesicles|
-சுரமாக்கல்|tuning|
-சுரம்|tone|pitch - சுருதி; fever - காய்ச்சல்
-சுரவளவி|sonometer|
-சுராசியக் காலம்|Jurassic period|
-சுருக்கப்பாட்டீரியம்|brevibacterium|
-சுருக்கமாதல்|wrinkling |
-சுருக்கம்|brevity|
-சுருக்கவுரை|summary|
-சுருக்கிடுக்கி|sphincter|
-சுருக்கு|collapse|
-சுருங்கல்|crenation|
-சுருங்கவுரை|summarize|
-சுருதி|pitch (music)|tone - சுரம்
-சுருளாக்கம்|spooling|
-சுருளி|spiral|
-சுருளிக் கண்டு|spiral winding|
-சுருளிக்குழைமியம்|spiroplasma|
-சுருளிக்குழைமியனையன|spiroplasmataceae|
-சுருளிடு|spool (computer)|
-சுருளிடுவி|spooler|
-சுருளிப் பாட்டீரியம்|spirochete|
-சுருளிப்பாட்டீரியனையன|spirochaetaceae|
-சுருளிப்பாட்டீரியைகள்|spirochaectales|
-சுருளியம்|spirillum|
-சுருளுடலி|spirosoma|
-சுருளெலும்பு|cochlea|
-சுருளெலும்புக் குழி|cochlear duct|
-சுருள்|spool n|
-சுருள் சரிவு|coil pitch|
-சுருள்சட்டம்|armature (electricity)|
-சுருள்வடிவச் சூல்|circinotropous ovule|
-சுருள்வட்ட|spirocyclic|
-சுருள்வளைவி|Spirogyra|
-சுருள்வில்|spring (coil)|
-சுவடு|tract|
-சுவரழுத்தம்|wall pressure|
-சுவரெலும்பு|parietal bone|
-சுவரொட்டு|parietal|
-சுவரொட்டுப் படலம்|parietal layer|
-சுவர் சூலொட்டுமுறை|parietal placentation|
-சுவர்ச் சட்டம்|wall plate|
-சுவர்த்தாள்|wallpaper|poster - சுவர்ப்படம்
-சுவர்ப்படம்|poster|mural - சுவர்வரைவு
-சுவர்வரைவு|mural|poster - சுவர்ப்படம்
-சுவாதி|Arcturus|
-சுவிச உயிர்மத் தகவலியல் பயிலகம் (சுதப)|Swiss Institute of Bioinformatics (SIB)
-சுவிசப்புரது|swiss-prot|
-சுவெட்|Tswett|
-சுவைகெடல்|rancidity|
-சுவைச்சாலுணர்|fastidious|
-சுவைஞர்|connoiseur|
-சுவைப் பெறுவி|gustatory receptor|aka taste receptor
-சுவைப் பெறுவி|taste receptor|aka gustatory receptor
-சுழகமோனிகேட்டு|cyclamate|
-சுழந்தமின அமிலம்|cyclamic acid|சுழலாறவைல் கந்தகமின அமிலம்
-சுழல ஊசி|pivot pin|
-சுழலம்|pivot|
-சுழலளவி|tachometer|speedometer - வேகமளவி
-சுழலற்ற|acyclic|
-சுழலால்க்கேன்|cycloalkane|
-சுழலாறமூவீன்|cyclohexatriene|
-சுழலாறவேன்|cyclohexane|
-சுழலி|rotor|stator - நிலையி
-சுழலில்லா|noncyclic|
-சுழலுந்தி|propeller|
-சுழலைந்தவேன்|cyclopentane|
-சுழலோட்டம்|gyre|
-சுழல்- |cyclo-|
-சுழல் அச்சு|axis of rotation|
-சுழல் கொழுப்பார்ந்த|alicyclic|
-சுழல் சுணக்கம்|rotational latency|
-சுழல் நகர்வு|circular shift|
-சுழல் நிகழ்முறை|cyclic process|
-சுழல் பெ|vortex|
-சுழல் பெ.உ|cyclic|
-சுழல் மிகைமம் சரிகாணல் (சுமிச)|cyclic redundancy check (CRC)
-சுழல் முறைமை|cyclic order|
-சுழல் மையம்|center of rotation |
-சுழல் வி|rotate|
-சுழல்குவானசின்|cycloguanosine|
-சுழல்நான்கவேன்|cyclobutane|
-சுழல்நிறுத்தம்|deadlock|
-சுழல்முடுக்கி|cyclotron|
-சுழல்முறை|rotation (of appointments, of crops)
-சுழல்வித்தம்|cyclosporin|
-சுழல்விலங்கின்வருநோய்|cyclozoonosis|
-சுழல்வீழ்த்தி|centrifuge|
-சுழற் கதவு|revolving door|
-சுழற்காற்று|tornado|
-சுழற்கோணவளவி|theodolite|
-சுழற்சக்கரக் கணிப்பான்|rotating wheel calculator
-சுழற்சி|cycle |
-சுழற்சி நேரம்|cycle time|
-சுழற்சி வளரியக்கம்|nutational growth movement
-சுழற்சிச் சீரொருமை|rotational symmetry|
-சுழற்சித் தளம்|surface of revolution|
-சுழற்சித் திண்மம்|solid of revolution|
-சுழற்பட்டியல்|circular list|
-சுழற்புரோப்பேன்|cyclopropane|
-சுழற்றி|dial n|
-சுழன்மை|vorticity|
-சுழி|zero|
-சுழி இருப்பு|nil balance|
-சுழி முறைமை வினை|zeroeth order reaction|
-சுழி விலகல் முறை|null deflection method|
-சுழித் தளவணி|zero matrix|
-சுழித் திருத்தம்|zero correction|
-சுழிப்பிழை|zero error|
-சுழிப்பு|eddy|
-சுழியாக்கிகள் (பல்லுறுப்புக் கோவையின்)|zeroes (of a polynomial)
-சுழியெல்லை|infinitesimal|
-சுழியெல்லை வேகத்துடன்|infinitesimally slowly|
-சுழியெல்லைச் சிறும|infinitesimally small|infinitely large - முடிவில்லாப் பெரும
-சுழியோட்டம்|eddy current|
-சுளுக்கு|sprain|
-சுளை|sector (computer)|
-சுளை வளைவு|segmental arch|
-சுளையுள்ள சதைக்கனி|hesperidium|
-சுறா|shark|
-சுற்றசைவு|cyclosis|
-சுற்றளவு|perimeter|
-சுற்றறிக்கை|circular n|
-சுற்றியம்|periblem|
-சுற்றுக் கசையிழை|peritrichous|
-சுற்றுச்சூழலுக்கும் வளராக்கத்துக்குமான உலக ஆணையம்|World Commission on Environment and Development
-சுற்றுச்சூழல்|environment|
-சுற்றுச்சூழல் இடர்|environmental hazard|
-சுற்றுச்சூழல் உயிரியல்|environmental biology|
-சுற்றுச்சூழல் காப்பு நிதி|Environmental Defense Fund 
-சுற்றுச்சூழல் காப்பு முகவம் (சுகாமு)|Environmental Protection Agency (EPA)
-சுற்றுச்சூழல் நச்சுவியல்|environmental toxicology
-சுற்றுநோய்|impetigo|
-சுற்றுப் பாதை|orbit|
-சுற்றுப்பாதை திசைவேகம்|orbital velocity|
-சுற்றுவட்டம்|circumcircle|
-சுற்றோட்டம்|circulation|
-சுனாமி|tsunami|
-சுனெலின் விதி|Snell's law|
-சூடம்|camphor|
-சூடாகு|warmup|
-சூடாகு நேரம்|warmup time|
-சூடோன்|phorone|
-சூட்டிகை|smart|
-சூட்டிகை அட்டை|smart card|
-சூட்டிகை அட்டை படிப்பி|smart card reader|
-சூதாட்ட முறை|Monte Carlo method|
-சூரியகாந்தியனையன|asteraceae|
-சூலக வட்டம்|gynoecium|
-சூலகமுன்முதிர்வு|protography|
-சூலகம்|ovary (botany) |
-சூலலகு|pistil|
-சூலனையம்|archegonium|
-சூலிலை|carpel|
-சூலிலைகளின் கூட்டிணைவு|cohesion of carpels|
-சூலின் விதி|Joule's law|
-சூலொட்டுதிசு|placenta|
-சூலொட்டுதிசுவன|placentalia|
-சூலொட்டுமுறை|placentation|
-சூல்|joule|
-சூல்|ovule|
-சூல் தண்டு|style (in flower) |
-சூல் தாம்சனின் விளைவு|Joule-Thomson effect|
-சூல் முடி|stigma (in flower)|
-சூல்காம்பு|funicle|aka funiculus
-சூல்காம்பு|funiculus|aka funicle
-சூவலிரைட்டின் விளைவு|Sewall Wright effectl|
-சூழமைவு|context|
-சூழமைவுணர்|context sensitive|
-சூழமைவுணர்ப் பட்டி|context sensitive menu|
-சூழிடம்|surrounding|
-சூழுறை|sheath|envelope - மூடுறை
-சூழுறைபாட்டீரியம்|sheathed bacteria|
-சூழொலி|surround sound|
-சூழ்நிணநீர்|perilymph|
-சூழ்நிலை|circumstance|
-சூழ்வட்டம் (தாவரவியல்)|pericycle|
-சூறாவளி|cyclone|
-செகிவி|cgs|
-செங்கடல்|Red Sea|
-செங்கருவி|apparatus|
-செங்கல்|brick|
-செங்குத்தான|perpendicular|
-செங்குத்து|vertical|
-செங்குத்து (கணிதம்)|orthogonal|
-செங்குத்து வீழ்ப்பு|orthographic projection
-செங்குமிழம்|erythroblastosis|
-செங்குமிழ்|erythroblast|
-செங்குருந்தச் சீரொளி|ruby laser|
-செங்குருந்தம்|ruby|
-செங்குவிநாண்|latus rectum|
-செங்கோடு|normal (math)|செங்குத்து - orthogonal
-செங்கோட்டு வடிவம்|normal form (math)|
-செங்கோண முக்கோணம்|right triangle|
-செங்கோணம்|right angle|
-செஞ்சிலுவை|Red Cross|
-செஞ்சொறி|rubella|
-செட்டோ-|zepto-|
-செதிலனைய உயிரணு|squamous cell|
-செதிலிலை|scale leaf|
-செதிலிறக்கையன|lepidoptera|
-செதிலுதிர்|exfoliate|
-செதில்|scale (zoology)|
-செதிற் குமிழம்|scaly bulb|
-செதிற்றோல் குறித்தொகுப்பு|scaled skin syndrome|
-செந்தரமாக்கல்|standardization|
-செந்தோல்முடியம்|erysipelothrix|
-செந்நீலம்|pink|
-செபலின்|cephalin|
-செப்பனிடு|repair|
-செப்பு|sentence|தொல்காப்பியம் 495; சொற்றொடர் - phrase
-செப்பெச்சம்|clause|
-செமமீசெ (செய்திட்ட மதிப்பறிதலும் மீள்பார்வையுமான செய்நுட்பம்)|PERT (program evaluation and review technique)
-செம்பருத்தி|hibiscus|
-செம்பாக்கிகள்|chalcogens|
-செம்பூஞ்சையின்|erythromycin|
-செம்பெருமீன்கள்|red giants|
-செம்மெலனின்|pheomelanin|
-செயல மிகைப்பி|operational amplifier|
-செயலகம்|secretariat|
-செயலப் பாகுபாட்டு அலகு|operational taxonomic unit
-செயலம்|operation |
-செயலர்|operator (person)|
-செயலர்|secretary|
-செயலற்ற|inactive|
-செயலற்ற நுண்ணுறுப்புகள்|functionless organelles
-செயலற்ற பங்காளி|sleeping partner|
-செயலற்றதாக்கு|inactivate|
-செயலாக்க ஆற்றல்|activation energy|
-செயலாக்கக் கூட்டுமம்|activated complex|
-செயலாக்கம்|activation|
-செயலாக்கம் (கணினியியல்)|processing |
-செயலாக்கு|activate|
-செயலி|operator|function - சார்பு
-செயலிலுள்ள|active (opp inactive)|
-செயலிழ|fail|
-செயலிறக்கு|disable|enable - செயலேற்று
-செயலுருபு|argument (of a function)
-செயலுறுதி|guarantee|indemnity - ஈட்டுறுதி; warranty - பொறுப்புறுதி
-செயலுறுத்தம்|mandamus|
-செயலேற்று|enable|disable - செயலிறக்கு
-செயல் உறுப்பு|effector organ|
-செயல் தலம்|active site|
-செயல் திட்ட ஏற்றரங்கு|prefrontal area|
-செயல் திட்டம்|action plan|
-செயல் தொகுதி|functional group|
-செயல் தொகுதி மாற்றியம்|functional isomerism|
-செயல் விசை|function key|
-செயல் விவரம்|functional description|
-செயல்களை|undo|
-செயல்முனைவு|activism|
-செயல்மையம்|active center|
-செயற் சாளரம்|active window|
-செயற் பங்காளி|active partner|
-செயற்குழு|committee|
-செயற்குறிப்பு|minutes (of meetings)|
-செயற்கை அறிவாற்றல்|artificial intelligence|
-செயற்கை மூச்சு|artificial respiration|
-செயற்கை விந்தேற்றம்|artificial insemination|
-செயற்கோடு|line of action (of forces)
-செயற்படு|function v|
-செயற்படுத்தக் கூற்றுகள்|executable statements|
-செயற்படுத்தாக் கூற்றுகள்|nonexecutable statements
-செயற்படுத்து|execute|
-செயற்படுத்துத் திறன்|executive power|
-செயற்படுத்துனர்|executive|
-செயற்பாடமைப்பு|operating system|
-செயற்பாடி|operon|
-செயற்பாடு|function n|
-செயற்பாட்டு விகிதம்|operating ratio|
-செயற்பாட்டுப் புள்ளி|operating point|
-செயற்பாட்டுப் பெறுமம்|operating profit|
-செயற்பாட்டுமேடை|platform (computer)|
-செயற்புரதம்|actin|
-செயற்றள உரைநிரல்|shell script|
-செயற்றாள்|worksheet|செயல் + தாள்
-செயற்றிறன்|performance|
-செயற்றிறன் கண்காணி|performance monitor|
-செயற்றிறன் கெழு|coefficient of performance
-செயற்றிறன் விகிதம்|activity ratio|
-செயன்மம்|activity|
-செயன்முறி|abort|
-செயன்மை|business|
-செயன்மை செயன்மையிடை|business to business|
-செயன்மை நடப்பிடம்|business premise|
-செயன்மை நுகர்வோரிடை|business to consumer|
-செயன்மையாளர்|businessperson|
-செயாநிலை|default n, adj|
-செயாநிலையாக்கு|default v|
-செய் {…} (…) என்றபோது|do {…} while (…)|
-செய்திக் குழு|news group|
-செய்திச் சேவை|news service|messaging service - தூதுரைச் சேவை
-செய்திட்ட மதிப்பறிதலும் மீள்பார்வையுமான செய்நுட்பம் (செமமீசெ)|program evaluation and review technique (PERT)
-செய்திட்டம்|program (administrative)
-செய்நிரல்|agenda|
-செய்நுட்ப விற்பனையாளர்|technical salesperson|
-செய்நுட்பம்|technique|technology - தொழில்நுட்பம்
-செய்பிழை|error of commission|
-செய்முறை|procedure|
-செரட்டோனின்|serotonin|
-செரமைடு|ceramide|
-செராடியம்|serratia|
-செரித்தலமைப்பு|digestive system|
-செரித்தல்|digestion|
-செரித்தல்மணியம்|peptococcus|
-செரித்தற்றிருகுமணியம்|peptostreptococcus|
-செரியாமை|jndigestion|
-செருகல்|insertion|தோன்றல் திரிதல் கெடுதல் விகாரம் - நன்னூல் 154
-செருகிடம்|insertion point|
-செருகு|insert|
-செருகு நிலமம்|insert mode|
-செருகு வரிசை|last in first out (LIFO)|
-செருகு வரிசை|LIFO (last in first out)|
-செருகுகுழல்|catheter|
-செருசைட்டு|cerrusite|
-செருமனியம்|German|
-செருமனியர்|Germans|
-செருமேனியம்|germanium|செருமனியம் என்பது செருமானியர் பேசும் மொழி
-செருமேன்|germane (chemistry)|
-செர்சி|Jersey (cattle)|
-செலப்பேன்|cellophane|
-செலவினம்|expenditure|
-செலவு|expense|
-செலிவனாப்பின் சோதனை|Seliwanoff's test|
-செலினப்பையனின்|selenocysteine|
-செலினயீத்தர்|selenoether|
-செலினால்|selenol|
-செலினியம்|selenium|
-செலுத்தற்குறிய கணக்குகள்|accounts payable|
-செலுத்தாத மூலதனம்|unpaid capital|
-செலுத்திய மூலதனம்|paid-up capital|
-செலுத்துக் காலப்படி|due annuity|
-செலுத்துச் சீட்டு|challan|
-செலுத்தும் நாள்|due date|
-செல்|go|
-செல்பொருள்|vector (biology)|
-செல்லுத் தழுவிய அசைவூட்டல்|cel based animation|
-செல்லுத்தாள்|cel|
-செல்லுலூக்கி|cellulase|
-செல்லுலோசு|cellulose|xylulose - சைலுலோசு
-செல்லுலோவலகியம்|cellulomonas|
-செல்லுவனையம்|celluloid|
-செல்லேடு|pass book|வங்கியில் இருக்காமல் கணக்குடையாருடன் செல்வதால்
-செல்வம்|wealth|
-செல்வரம்பு|limitation|
-செல்வாக்கு|influence|
-செவி|ear|
-செவி நரம்பு|auditory nerve|
-செவிக் குறைபாடு|hearing impairment|
-செவிச் சிற்றெலும்புகள்|ear ossicles|
-செவிடு|deafness|
-செவித்தசை|auricular muscle|
-செவிப்பறை|ear drum|
-செவியிழப்பு|hearing loss|
-செவியுதவி|hearing aid|
-செவிலகம்|nursery|
-செவிலியம்|nursing|
-செவுள்|gill|
-செவுள் பிளவு|gill slit|
-செவுள்மூடி|operculum|
-செவ்வக ஒருங்களவு தளம்|rectangular coordinate plane
-செவ்வகம்|rectangle|
-செவ்வணுதிரட்டி|hemagglutinin|
-செவ்வாய் (கோள்)|Mars|
-செவ்வாய் (கோள்)|Mars|
-செவ்வாய்க்கிழமை|Tuesday|
-செவ்வூதா|purple|
-செறிந்த|concentrated|
-செறிவு|intensity|
-செறிவு (வேதியியல்)|concentration (chemistry)
-செறிவு அமிலம்|concentrated acid|
-செறிவுக் கண்டு|concentrated winding|
-செறிவுச் சாய்வு|concentration gradient
-செறிவூட்டல்|enrichment|
-செனர் இருமின்வாய்|Zener diode|
-சென்வங்கி|genbank|
-சென்றாரசு|Centaurus|சென்டாரசு என எழுதுவது இடைநிலை மெய்மயக்க விதியை மீறும் (நன்னூல் 114)
-சென்றாரசுகள்|Centauri|
-சென்றி-|centi-|
-சென்றிக அமிலம்|gentisic acid|
-சென்றிமீட்டர்|centimeter|
-சென்றியன்|gentian|
-சேகரி|gather|
-சேகரித்தல்|gathering|
-சேட்டா-|zeta-|
-சேதவுயிரி|fouler (zoology)|
-சேதவுயிரிகள்|fouling organisms|
-சேதிப்படநோக்கி|saticon|
-சேமக உடன்கூழ்த்திசு|storage parenchyma|
-சேமக நிரல் கருத்துரு|stored program concept
-சேமக வகுப்புகள்|storage classes|
-சேமக வெந்நீராக்கி|storage water heater|
-சேமகக் குழலம்|collecting tubule|
-சேமகக் கொள்ளளவு|storage capacity|
-சேமகத் தரவு|stored data|
-சேமகப் புரதம்|storage protein|
-சேமகமும் இருப்பகமும்|storage and warehousing
-சேமகம்|srotage|
-சேமகி|store (computer)|
-சேமி|save|
-சேமிப்பு|saving|
-சேமிப்பு வங்கி|savings bank|
-சேமிப்புக் கணக்கு|savings account|
-சேய் உயிரணு|daughter cell|
-சேய்த்தலைமுறை|filial generation|
-சேர்க்கத்தகு|associative|
-சேர்க்கை|associativity|
-சேர்க்கை (இயற்பு அறிவியல்)|association (physical sciences)
-சேர்க்கை அடிகோள்|associative axiom|
-சேர்க்கைப் பகுதிகள்  (மூளையின்)|association areas (of brain)
-சேர்க்கைப் பண்பு|associative property|
-சேர்க்கையுற்றது|associated|
-சேர்த்தல் வினை|addition reaction|
-சேர்ப்பியல்|joinery|
-சேர்ப்பு|joint|
-சேர்ப்பு (கணிதம்)|union (math)|
-சேர்ப்பு அல்லது|inclusive OR|
-சேர்ப்பு முறை|inclusive method|
-சேர்ப்புப் பிரிப்பு|inclusive disjunction|
-சேர்மம்|compound|
-சேர்வகச் சட்டவிதிகள்|articles of association|
-சேர்வகம்|association (social)|
-சேர்வு|combination|
-சேர்வு உருவங்கள்|combined figures|
-சேர்வு மின்சுற்று|combinational circuit|
-சேர்வு விதி|combination law|
-சேர்வுப்பெட்டி|combo box|
-சேவகர்|servant|
-சேவா|Java|
-சேவுறர்|client|server - சேவையர்
-சேவை|service|
-சேவைசார் வணிகத்துறை|service sector|
-சேவைத்துளை|manhole|
-சேவையர்|server|client - சேவுறர்
-சேறு|sludge|
-சேற்றுநிலம்|bog|
-சேற்றுப்புண்|athletes' foot|
-சை (கிரேக்க எழுத்து)|psi|
-சைகை|signal|
-சைகை அனுப்பி|signal transducer|
-சைகை அனுப்பீடு|signal transduction|
-சைகை ஓசை விகிதம்|signal to noise ratio|
-சைதக்காலிசின்|cytochalasin|
-சைதசின்|cytosine|
-சைதத்திரால்|sitosterol|
-சைமனியம்|simonsiella|
-சைலீன்|xylene|silane - சைலேன்
-சைலுலோசு|xylulose|cellulose - செல்லுலோசு
-சைலேன்|silane|xylene - சைலீன்
-சைலோசு|xylose|
-சைற்றோசின்|cystosine|
-சொகுசு|luxury|
-சொடுக்கியிழு|click and drag|
-சொடுக்கு|click|
-சொட்டளவி|burette|
-சொட்டு நீர்ப்பாசனம்|drip irrigation|
-சொத்துகள்|assets|
-சொல் மடிப்பு|word wrap|
-சொல்லட்டை|WordPad|
-சொல்லலசு|parse|
-சொல்லாட்சி|terminology|
-சொல்வழக்கு|idiom|
-சொல்வளம்|vocabulary|
-சொறி|rash (skin)|
-சொற்பொழிவு|discourse|
-சொற்றொடர்|phrase|
-சோசகுவொ (சோவியத்து சமவுடைமைக் குடியரசுகள் ஒன்றியம்)|USSR (Union of Soviet Socialist Republics)
-சோடிங்கர் சமன்பாடு|Schrödinger equation|
-சோடியம்|sodium|
-சோடியம் உப்பியப்புருசைடுச் சோதனை|sodium nitroprusside test
-சோதனை|examination (nonacademic)
-சோதனை|test|experiment - பரிசோதனை
-சோதனைக் கலப்பு|test cross|
-சோதனைக் குழல்|test tube|
-சோதிப்பி|tester|
-சோப்பாக்கல்|saponification|
-சோப்பு|soap|
-சோர்வு|fatigue|
-சோவியத்து உருசியா|Soviet Russia|
-சோவியத்து ஒன்றியம்|soviet union|
-சோவியத்து சமவுடைமைக் குடியரசுகள் ஒன்றியம் (சோசகுவொ)|Union of Soviet Socialist Republics (USSR)
-சோளவியக்கன்|zeatin|
-ஞாயிற்றுக்கிழமை|Sunday|
-டாப்ஷான்ஸ்கி|Dobzhansky|
-டார்வின்|Darwin|
-டால்ற்றன்|Dalton|
-டான் ப்ரிக்ளின்|Dan Bricklin|
-டி பிராக்ளி|de Broglie|
-டிமித்ரி மெஞ்ஜலீவ்|Dimitriv Mendeleev|
-டியோபாண்டஸ்|Diophantus|
-டூமாஸ்|Dumas|
-டூவர்|Dewar|
-டெமாக்ரிடஸ்|Democritus|
-டோபாரைனர்|Dobereiner|
-த மாய்வர்|de Moivre|
-தகடனைய|discoidal|
-தகடனைய பிளவுறல்|discoidal cleavage|
-தகடனையம்|placoid|
-தகடாகு|ductile|
-தகடாகுமை|ductility|
-தகரம்|tin|
-தகரேன்|stannane|
-தகவமை நோயெதிர்ப்பு|acquired immunity|aka adaptive immunity
-தகவமை நோயெதிர்ப்பு|adaptive immunity|aka acquired immunity
-தகவமை நோயெதிர்ப்புப் பற்றாக்குறைக் குறித்தொகுப்பு (தநோபகு)|Acquired Immune Deficiency Syndrome (AIDS)
-தகவமைப்பி|adaptor|
-தகவமைவு|adaptation|
-தகவலடக்கம்|information content|
-தகவலறிக்கை|prospectus|
-தகவலியல்|informatics|
-தகவல்|information|
-தகவல் இடைமாற்றத்துக்கான அமெரிக்கச் செந்தரக்குறி (தவியசெ)|American Standard Code for Information Interchenge (ASCII)
-தகவல் வெடிப்பு|information explosion|
-தகவற்றொடர்பு|communication|
-தகவற்றொடர்பு விதிமுறை|communication protocol
-தகவற்றொடர்புப் புரட்சி|communication revolution
-தகா உட்கணம்|improper subset|
-தகாண் (தனியாள் இனங்காணல் எண்)|PIN (personal identification number)
-த-காரணி|Q-factor|
-தகாவேட்டை|poaching|
-தகு உட்கணம்|proper subset|
-தகுதிவினவு|quo warranto|
-தகுந்தன பிழைத்தல்|survival of the fittest|
-தகுவடிவு|proper form|
-தகைமை|equity|
-தக்காளிச்செடி முடக்கி|tomato bushy stunt|
-தக்கிரான்|dacron|
-தக்கை|cork|
-தக்கையம்|phellem|
-தக்கையாக்கி|phellogen|
-தங்க நாற்கரம்|golden quadrilateral|
-தங்கக் காலம்|golden age|
-தங்கநிறவால்கவை|Chrysophyceae|
-தங்கமீன்|gold fish|
-தங்கம்|gold|
-தசம எண்ணி|decade counter|
-தசை|muscle|
-தசை ஊட்டத்தீங்கு|muscular dystrophy|
-தசை நுண்குழல்|tissue capillary|
-தசைக்கிழி்வு|muscle tear|
-தசைக்குழைம வலை|sarcoplasmic reticulum
-தசைக்குழைமம்|sarcoplasm |
-தசைக்குறுக்கம்|muscle contraction|
-தசைக்குறுக்கி|tetany|
-தசைச்சவ்வு|aponeurosis|
-தசைச்சிற்றிழை|myofibril|
-தசைச்செதுக்கு|biopsy|
-தசைச்சோர்வு|muscle fatigue|
-தசைத் தமனி|muscular artery|
-தசைத் திசு|muscular tissue|
-தசைத்துருத்தம்|caruncle|
-தசைநார்|tendon|
-தசைநார்ச்சவ்வழற்சி|tenosynovitis|
-தசைநிவர்த்தி|antispasmodic|
-தசைப்படலம்|fascia|
-தசைப்படலவழற்சி|fasciitis|
-தசைப்பள்ளம்|sulcus|
-தசைப்பிடிப்பு|muscle pull|
-தசைப்புரதம்|myosin|
-தசைப்புற்று|carcinoma|
-தசைமேற்சவ்வு|myoepithelium|
-தசையமினோ அமிலம்|creatine|
-தசையலகு|sarcomere|
-தசையிழுப்பு|spasm|
-தசையிழை|muscle fiber|
-தசையிறப்பு|infarction|
-தசையிறுக்கம்|muscle tone|
-தசையுமி|sarcolemma|
-தசையொவ்வுமை|histocompatibility|
-தசைவலி|myalgia|
-தச்சர்|carpenter|
-தச்சு|carperntry|
-தஞ்சமின்றி|sans recourse|
-தஞ்சம்|recourse|
-தடக்கம்|interrupt n|
-தடக்கு|interrupt v|
-தடங்கலில்லா மின்திறனளிப்பு (தமிதி)|uninterrupted power supply (UPS)
-தடங்கலுறு மரபணு|interrupted gene|
-தடங்கல்|hindrance|
-தடமாற்றம்|shunt|
-தடம்|track|route - வழித்தடம்
-தடம் (தகவற்றொடர்பு)|line (communication)|
-தடம்பற்றல்|tracking|
-தடம்பற்றிப் பந்து|tracker ball|
-தடம்புரளா|anti-telescopic|
-தடிக்காம்புள்ள|caryophyllaceous|
-தடித்தோல்|thick skin|
-தடிப்பாட்டீரியம்|corynebacterium|
-தடிப்பாளம்|slab|
-தடிமரம்|lumber|
-தடிமன் (உரையலசல்)|bold (word processing)
-தடிமன் (வளைவின்)|depth (of an arch)|
-தடியிழை நிலை|pachytene stage|
-தடுக்கிதழ்|valve|
-தடுக்கிவிழு|tumble|
-தடுக்கு முழங்கால்கள்|knock knees|
-தடுத்தல்|prevention|
-தடுப்பறை|compartment|
-தடுப்பி|brake|
-தடுப்பி எண்ணெய்|brake oil|
-தடுப்பு மருந்து|vaccine|
-தடுப்புச் சுவர்|retaining wall|
-தடுப்புத்தடை|herkogamy|
-தடுப்புப் பேணுதல்|preventive maintenance
-தடுப்பு்நீக்கு|deblock|
-தடுமன்|cold (common)|
-தடுமன்|common cold|
-தடுமாறு|staggered|
-தடைக் குடற்பிதுக்கம்|incarcerated hernia|
-தடைய அலைவு|damped oscillation|
-தடையக் குழல்|resistance vessel|
-தடையமமைப்பு|system of resistors|
-தடையம்|resistance|
-தடையி|resistor|
-தடையிடர்|obstacle|
-தடையிலா அலைவு|free oscillation|
-தடையிலாப் பருமன்|free volume|
-தடையுறுத்தல்|prohibition|
-தடையுறுத்து நீதிப்பேராணை|prohibition writ|
-தடைவுமை|resistivity|
-தட்டகம்|palette|
-தட்டச்சுதல்|typing|
-தட்டடியன்|platypus|
-தட்டடுக்கு (ஒளியியல்)|pile of plates (optics)|
-தட்டம்மை|measles|
-தட்டல்|stroke (computer)|
-தட்டனைய தசை|platysma|
-தட்டாணி|rivet|
-தட்டார்|goldsmith|
-தட்டி|barrier|
-தட்டிப் பவளப்பாறைகள்|barrier reef|
-தட்டு மஞ்சரி|coenanthium|
-தட்டுடைய தோலி|placoderm|
-தட்டுப்பாடு|scarcity|
-தட்டுப்புழுவங்கள்|platyhelminthes|
-தட்டுவடிவ அல்லிவட்டம்|hypocrateriform corolla|aka salver-shaped corolla
-தட்டுவடிவ அல்லிவட்டம்|salver-shaped corolla|aka hypocrateriform corolla
-தட்டுவத் தேர்விணைவி|P-selectin|
-தட்டுவம்|platelet|
-தட்டைக் கோப்பு|flat file|
-தட்டைத்தண்டு|phylloclade|
-தட்டைப் பலகம்|flat panel|
-தட்டைப் புழு|cestode|
-தட்டைப் புழுவகை|cestoda|
-தட்டைமணியம்|planococcus|
-தட்டைமீன்|platy|
-தட்டையன|planulae|
-தட்டையுயிரிகள்|planaria|
-தட்பவெப்பந்தாங்கல்|weathering|
-தணி|quench|
-தணிக்கை|censor |audit - கணிக்கை
-தணிப்பி|quencher|
-தண்டம்|penalty|
-தண்டயம்|corbel|
-தண்டவாளம்|rail|
-தண்டு|stalk|
-தண்டு|stem|
-தண்டு (எந்திரம்)|shaft|
-தண்டுடைய கூட்டுக்கனி|sorosis|
-தண்டுபாட்டர்|caulobacter|
-தண்டுமட்டை|scape|
-தண்டுவடக் கழலை|spinal tumor|
-தண்டுவடப் பாய்மம்|spinal fluid|
-தண்டுவடம்|spinal cord|
-தண்டுவழி|railway|
-தண்டுவழி முன்பதிவு அமைப்பு|railway reservation system
-தண்டூர்தி|tram|
-தண்தொடக்கம்|cold start|
-ததுரா மிட்டல்|datura metel|
-தத்தல்|tab|
-தத்தல் நிறுத்தம்|tab stop|
-தத்தல் வரியுரு|tab character|
-தத்தல் விசை|tab key|
-தத்துவம்|philosophy|
-தநோபகு (தகவமை நோயெதிர்ப்புப் பற்றாக்குறைக் குறித்தொகுப்பு)|AIDS (Acquired Immune Deficiency Syndrome)
-தந்தித் தாவரம்|telegraph plant|
-தந்தினி|dentine|
-தந்தைய|paternal|
-தந்தைவழிக் கோட்பாடு|patriarchal theory|
-தப்பந்தைன்|turpentine|
-தமனி|artery|
-தமனித் துடிப்பு|arterial pulse|
-தமனித்தடிப்பு|arteriosclerosis|
-தமனியமைப்பு|arterial system|
-தமிதி (தடங்கலில்லா மின்திறனளிப்பு)|UPS (uninterrupted power supply)
-தமிழியலாக்கம்|tamilization|
-தமேவ (தரவுத்தள மேலாண்மை அமைப்பு)|DBMS (Database Management System)
-தம் திம்|lub dub|
-தம்பதி காப்பு வீதம்|Couple Protection Rate
-தம்பம்|column (of liquid)|
-தயக்கம்|hesitance|
-தயங்கியக்க இழப்பு|hysteresis loss|
-தயங்கியக்கக் கழல்|hysteresis loop|
-தயங்கியக்கம்|hysteresis|
-தயாரிப்பு மிகைச்சுழல்வீழ்த்தி|preparative ultracentrifuge
-தய்யா வனம்|Taiga forest|
-தரகர்|broker |
-தரகு|brokerage|
-தரக் கட்டுப்பாடு|quality control|
-தரக்காரணி|quality factor|
-தரங்குறைந்த|substandard|
-தரங்குறைந்த நீர்த்த சுண்ணாம்பு|feebly hydraulic lime|
-தரசக்கணிகம்|amyloplast|
-தரசப்புரதம்|amyloprotein|
-தரசம்|starch|
-தரசவூக்கி|amylase|
-தரஞ்சொட்டல்|titration|
-தரஞ்சொட்டு|titrate|
-தரநிலை|rank|
-தரநிலையாக்கல்|ranking|
-தரந்தாழல்|degradation (of itself)|
-தரந்தாழ்|degrade vi|
-தரந்தாழ்த்தல்|degradation (of something)
-தரந்தாழ்த்து|degrade vt|
-தரந்தாழ்த்துமை|degradability|
-தரப்படுத்தல்|grading|
-தரமிட்ட|rated|
-தரமுயர்த்து|upgrade|
-தரவினலசல்|data processing|தரவு + இன் + அலசல்; இன் சாரியை
-தரவீட்டல்|data acquisition|
-தரவு|datum|
-தரவு அனுப்பீடு|data transmission|
-தரவு இடைமாற்ற வடிவூட்டம் (தவிவ)|Data Interchange Format (DIF)
-தரவு ஏற்புடையாக்கல்|data validation|
-தரவு கவர்தல்|data capture|
-தரவு குறிப்பிடல்|data representation|
-தரவு பாதுகாப்பு|data security|
-தரவு மாற்றல்|data transfer|
-தரவு மாற்றல் செயலங்கள்|data transfer operations
-தரவு மாற்றல் வீதம்|data transfer rate|
-தரவு முனைய மீக்கருவி|data terminal equipment
-தரவுகள்|data|
-தரவுக் கட்டமைப்பு|data structure|
-தரவுச் சுரங்கல்|data mining|
-தரவுத் தொடர்பு மீக்கருவி|data communication equipment
-தரவுத்தள மேலாண்மை|database management|
-தரவுத்தள மேலாண்மை அமைப்பு (தமேவ)|Database Management System (DBMS)
-தரவுத்தளம்|database|
-தரவுவகை|datatype|
-தருக்கின் கரைசல்|Turk's solution|
-தருவி|deduce|derive - வருவி
-தருனரின் குறித்தொகுப்பு|Turner's syndrome|
-தரை நிலை|ground state|
-தரைக்கீழ்|hypogeal|
-தரைப்படமாக்கல்|mapping (geography)|
-தரைப்படமாக்கி|mapper|
-தரைப்படம்|map (geography)|
-தரைப்படவியல்|cartography|
-தரைமேல்|epigeal|
-தரையடி|subway|
-தரையடி|underground|
-தரையடி மாற்றமைவு|underground modification
-தரையடுக்குக்கல்|terrazzo|
-தரையொட்டிய|crustose|
-தல உள்ளடக்கம்|site map|
-தல நேரமைத்தல்|local alignment|
-தல நேரமைத்தல் தேடு கருவி (தநதக)|BLAST (basic local alignment search tool)
-தல மாறி|local variable|
-தல மீயளவம்|local extremum|
-தலசசோகை|thalassemia|
-தலசு|thallus|
-தலமடங்கிய வேதிப்பிணைப்பு|localized chemical bonding
-தலமி|thalamus (anatomy)|aka torus
-தலம்விரிந்த வேதிப்பிணைப்பு|delocalized chemical bonding
-தலைகீழி|reciprocal|
-தலைகீழ் வளைவு|inverted arch|
-தலைக்காலி|cephalopod|
-தலைக்குறிப்பு|head note|
-தலைத் தமனி|carotid artery|
-தலைநாணிகள்|cephalochordata|
-தலைப்பக்க|cranial|
-தலைப்பக்க நரம்புகள்|cranial nerves|
-தலைப்பிரட்டை|tadpole|
-தலைப்பு|title|header - தலையம்
-தலைப்புக் கோப்பு|header file|
-தலைப்புப் பட்டை|title bar|
-தலைமேல்|overhead|
-தலைமைத்துவ அதிகாரம்|charismatic authority|
-தலைமைத்துவம்|charisma|
-தலைமைப் பக்கம்|master page|
-தலைமையமைச்சரின் கிராம நலன் திட்டம்|Pradhan Mantri Gramodaya Yojana (PMGY)
-தலைமையமைச்சர்|prime minister|chief minister - முதலமைச்சர்
-தலையணை|pillow|cushion - மெதுவணை
-தலையம்|header|
-தலையாக்கம்|cephalization|
-தலையிடாமை|non-intervention|
-தலையொலிப்பி|headphone|
-தலைவலி|headache|
-தலைவீத வருமானம்|per capita income|
-தலைவீதம்|per capita|
-தல்சின்|dulcin|
-தவணை|instalment|
-தவழி|creeper|
-தவழ்|creep|
-தவளை|frog|
-தவறு|wrong|error - பிழை
-தவறுதல்|mistake|
-தவற்றுப் பிழை|gross error|
-தவிடு|palea|
-தவிநிலை|suspense|
-தவியசெ (தகவல் இடைமாற்றத்துக்கான அமெரிக்கச் செந்தரக்குறி)|ASCII (American Standard Code for Information Interchenge)
-தவிர்ப்பு அல்லது|exclusive OR|
-தவிர்ப்பு நிறப்பிரிகை|exclusion chromatography
-தவிர்ப்பு முறை|exclusive method|
-தவிர்ப்புப் பருமன்|excluded volume|
-தவிர்ப்புப் பிரிப்பு|exclusive disjunction|
-தவிவ (தரவு இடைமாற்ற வடிவூட்டம்)|DIF (Data Interchange Format)
-தவ்வலை|R wave|P wave - கவ்வலை; Q wave - சவ்வலை; R wave - தவ்வலை
-தழுவு இதழடுக்கம்|imbricate aestivation|
-தழை|foliage|
-தழைக் கோட்பாடு|foliar theory|
-தளக்கோவை|determinant (math)|
-தளத்திசு|ground tissue|
-தளநழுவுப் பாய்வு|laminar flow|
-தளப்பரப்பு|surface area|
-தளமாக்கல்|planing|
-தளம்|surface (math)|
-தளவகம்|foundation (organization)
-தளவணி|matrix|
-தளவணி வெளி|matrix space|
-தளவணியின் உறுப்பு|element of a matrix|
-தளவணியின் ஊடுமாற்று|transpose of a matrix|
-தளவணியின் முறைமை|order of a matrix|
-தளவணியின் வடிவம்|dimension of a matrix|
-தளிரமைப்பு|shoot system|
-தளிரனையம்|gemma|
-தளிர்  |shoot|
-தளிர் மூப்பு|shoot senescence|
-தளைதல்|tethering|
-தளையமூக்கி|ligase|aka synthetase
-தளையமூக்கி|synthetase|aka ligase
-தளையம்|ligation|
-தளையன்|ligand|
-தளையுறவு|constraint|
-தளைவி|strut|
-தள்ளமுக்கு|thrust|
-தள்ளலும் இழுத்தலும்|push pull|
-தள்ளிடல் (தச்சு)|rebating|
-தள்ளிணைப்பு|rebated joint|
-தள்ளு|push|
-தள்ளுபடி|discount|
-தற்கலவி|homothallic|
-தற்காப்பு|self defence|
-தற்காலிக வளிமம்|temporary gas|
-தற்சார்பு|self-reliance|
-தற்சிதைவு|autolysis|
-தற்சுருள் உறவு|recursive relation|
-தற்சுருள் பெ.|recursion|
-தற்சுருள் பெ.அ|recursive|
-தற்சுழல்|spin|
-தற்சுழல் சீரொருமை|spin symmetry|
-தற்சுழற்பெட்டி|spin box|
-தற்செயல்|coincidence|
-தற்செயல் காரணம்|chance cause|
-தற்சேர்க்கை|autogamy|
-தற்பதியம்|autograft|
-தற்பரவல்|autochory|
-தற்பன்மைமெய்யம்|autopolyploidy|
-தனி இருபிரிவன்|simple dichasium|
-தனி உரிமைத்துவம்|sole proprietorship|
-தனி முற்றுநுனியன்|simple cyme|
-தனி வியாபாரி|sole trader|
-தனி வீடு|detached house|
-தனிக்கனி|simple fruit|
-தனிக்கோள்|ad hoc|
-தனிச் சுமப்பி|private carrier|
-தனிச்சுவர் இனவணு|aplanogamete|
-தனிச்சுவர்ச் சேர்க்கை|aplanogamy|
-தனிச்சுவர்வித்து|aplanospore|
-தனித்த அமைப்பு|isolated system|
-தனித்து நில்|stand-alone|
-தனித்துகள்|corpuscle|microparticle - நுண்துகள்
-தனித்துவமாக்கல்|specialization|
-தனித்துவமாக்கிய|specialized|
-தனித்துவம்|specialty (brit speciality)|uniqueness -ஒருத்துவம்
-தனித்துவர்|specialist|
-தனித்தொகுதி|free radical|
-தனித்தொகுதி சேர்த்தல் வினை|free radical addition reaction
-தனித்தொகுதி பதிலீட்டு வினை|free radical substitution reaction
-தனிப்படுத்து|isolate|
-தனிப்பட்ட|distinct|
-தனிப்பண்பான|characteristic adj|
-தனிப்பண்பு|characteristic n|
-தனிப்பண்புச் சமன்பாடு|characteristic equation
-தனிப்பண்புவிவரி|characterize|
-தனிப்பயனாக்கு|customize|
-தனிப்பயன்|custom|
-தனிப்பயன்|dedicated (computer)|
-தனிப்பாதை|free path|
-தனிப்பாலிய|diecious|aka dioecious
-தனிப்பாலிய|dioecious|aka diecious
-தனிப்பாலியமை|dioecism|
-தனிப்பிரி |segregate|
-தனிப்பிரிதல்|segregation|
-தனிப்பிரிதல் விதி|law of segregation|
-தனிப்பொருள் கடை|speciality shop|
-தனிமச் செயலம்|elementary operation|
-தனிமமாற்றம்|transmutation|
-தனிமம்|element (chemical)|
-தனிமையன்|soliton|
-தனிமையாக்கல்|isolation (of something)
-தனிமையாட்டம்|Solitaire|
-தனிமையாதல்|isolation (by itself)|
-தனிமையான|solitary|
-தனியமிழ்|sequester|
-தனியமிழ்த்தல்|sequestration|
-தனியம்|privacy|
-தனியறைப் பிளவுக்கனி|lomentum|
-தனியாட்சி|autocracy|autonomy - தன்னாட்சி
-தனியாதிக்கமாக்கு|monopolize|
-தனியாதிக்கம்|monopoly|
-தனியார் வசிப்பிடம்|private dwelling|
-தனியார் வணிகத்துறை|private sector|
-தனியார்மயமாக்கல்|privitization|
-தனியாள்|personal (private)|
-தனியாள் இனங்காணல் எண் (தகாண்)|personal identification number (PIN)
-தனியாள் எண்ணியல் உதவியர்|personal digital assistant
-தனியாள் கணக்கு|personal account|
-தனியாள் கணினி|personal computer|
-தனியாள் விற்றல்|personal selling|
-தனியாற்றல்|free energy|
-தனியிணை|lone pair|
-தனியிலை|simple leaf|
-தனியுரு|entity|
-தனியுரை|monograph|
-தனிவட்டி|simple interest|
-தனுசு|Sagittarius|
-தன் தொழிலர்|self employed|
-தன் மகரந்தச் சேர்க்கை|self pollination|
-தன்தூண்டல்|self induction|
-தன்மயமாக்கு வேர்கள்|assimilatory roots|
-தன்மயமாதல்|assimilation|
-தன்வணியர்|jobber|
-தன்வழிக் கப்பல்|tramp (ship)|
-தன்வாழ்க்கை வரலாறு|autobiography|
-தன்விருப்ப|voluntary|
-தன்விருப்ப நரம்பமைப்பு|autonomic nervous system
-தன்விருப்ப நரம்பமைப்பு|autonomous nervous system
-தன்விருப்ப வணிகம்|laissez faire|
-தன்விருப்பமற்ற நரம்பமைப்பு|involuntary nervous system
-தன்வினையூக்கம்|autocatalysis|
-தன்னாக்க|authigenic|
-தன்னாட்சி|autonomy|autocracy - தனியாட்சி
-தன்னாட்சிய|autonomous|
-தன்னாள்வியல்|cybernetics|
-தன்னிகழ்வு|reflex|
-தன்னிகழ்வு வில்|reflex arc|
-தன்னிலைம|homeostatic|
-தன்னிலைமச் சமநிலை|homeostatic equilibrium
-தன்னிலைமம்|homeostasis|
-தன்னுணர்வு|self awareness|
-தன்னுரிமை|liberty|
-தன்னையறிதல்|self recognition|
-தன்னொவ்வாமை|self-incompatibility|
-தன்னோயெதிர்ப்பு|autoimmunity|
-தாகொபு (தாழடர்வு கொழுமியப்புரதம்)|LDL (low density lipoprotein)
-தாக்கச்சல்|impact printing|தட்டச்சல் - typing
-தாக்கமற்ற அச்சிடல்|non-impact printing|
-தாக்கல்|offense|defense - காத்தல்
-தாங்கக் கரைசல்|buffer solution|
-தாங்கமமைப்பு|buffer system|
-தாங்கம்|buffer|
-தாங்கம் (எந்திரவியல்)|bearing (mechanical)|
-தாங்கம் வினை|buffer action|
-தாங்கவைப்பு|buffering|
-தாங்கிய அலைவு|maintained oscillation|
-தாடையடிச் சுரப்பி|submandibular gland|
-தாடையற்றவை|agnatha|
-தாடையெலும்பு|mandible|
-தாட்கொத்து|pad (writing)|
-தாது|ore|mineral - கனிமம்
-தாதுக்கூளம்|gangue|
-தாத்தன்|pappus|
-தாநோனு (தானொளிர் இழையாகி நோயெதிர்ப்பான் உட்கவர்தல்) சோதனை|FTA-ABS (Fluorescent Treponemal Antibody Absorption) Test
-தாந்தலம்|tantalum|
-தாபவி (தாவரவியல் பெயரிடுமுறையின் பன்னாட்டு விதிமுறை)|ICBN (International Code of Botanical Nomenclature)
-தாமத எழுவிழு|D (delay) flip flop|
-தாமத மின்சுற்று|delay circuit|
-தாமஸ் கிரஹாம்|Thomas Graham|
-தாமிடா|lambda|
-தாமிடா குறுங்கோர்வை|lambda light chain|
-தாமிரக|cupric|
-தாமிரக்கடத்தி|ceruloplasmin|
-தாமிரச|cuprous|
-தாமிரம்|copper|
-தாம்சனின் முறை|Thomson's method|
-தாயிறப்பு விகிதம்|maternal mortality ratio
-தாயின்வளர்தல்|vivipary|
-தாய்க் கோப்பகம்|parent directory|
-தாய்க் கோர்வை|parent chain|
-தாய்சனின் கரைசல்|Toisson solution|
-தாய்ப்பலகை|motherboard|
-தாய்மைய|maternal|
-தாய்வழிக் கோட்பாடு|matriarchal theory|
-தாராளமயமாக்கல் கொள்விதி|liberalization policy|
-தாரிப்பித்த அமிலம்|taurocholic acid|
-தாரின்|taurine|
-தாரை|stream (computer)|
-தார்க்கல்|asphalt|
-தார்பார்க்கர்|Tharparkar|
-தாலமைட்டு|dolomite|
-தாலனின் வினையாக்கி|Tollen's reagent|
-தாலியம்|thallium|
-தாவர அழுத்தி|plant press|
-தாவர இயக்கம்|plant movement|
-தாவர நுண்ணலைவன்|phytoplankton|
-தாவர வீட்டுப்பழக்கல்|plant domestication|
-தாவரக்கன்று|plantlet|
-தாவரசெவ்வணுதிரட்டி|phytohemagglutinin|
-தாவரச்செழுமை|vegetation|
-தாவரநிறமி|phytochrome|
-தாவரப் பேரரசு|plant kingdom|
-தாவரமீள்சீராக்கம்|phytoremediation|
-தாவரமுனை|vegetal pole|
-தாவரமுன்னோடி|explant|
-தாவரமூப்பியல்|phytogerontology|
--தாவரம்|-phyte|
-தாவரரசு|plantae|
-தாவரவகம்|herbarium|
-தாவரவலகியம்|phytomonas|
-தாவரவளம்|flora|
-தாவரவியலர்|botanist|
-தாவரவியல் பெயரிடுமுறையின் பன்னாட்டு விதிமுறை (தாபவி)|International Code of Botanical Nomenclature (ICBN )
-தாவரவியில் தோட்டம்|botanical gardens|
-தாவரவுண்ணி|herbivore|
-தாவரவேதியியல்|phytochemistry|
--தாவரவை|-opsida|
--தாவரன|-phyta|
--தாவரிவை|-idea|
--தாவரின|-phytina|
-தாவு|skip|
-தாவு தொலைவி|skip distance|
-தாவுக் கண்டு|lap winding|
-தாவுப் பகுதி|skip zone|
-தாழடர்வு கொழுமியப்புரதம் (தாகொபு)|low density lipoprotein (LDL)
-தாழிவடிவ அல்லிவட்டம்|urceolate corolla|
-தாழ் ஈர்ப்பலை|low tide|
-தாழ்த்தப் பட்டவர்கள்|SC (Scheduled Caste)|
-தாழ்த்தப் பட்டவர்கள்|Scheduled Caste (SC)|
-தாழ்நிலம்|swamp|
-தாழ்நிலை மொழி|low level language|
-தாழ்ப்பாள்|bolt|
-தாழ்வெளி|subspace|
-தாளகதி|tempo (music)|
-தாளக்கேடு|arrhythmia|
-தாளம்|rhythm|
-தாளூட்டம்|paper feed|
-தாள்|paper|
-தாள் நிறப்பிரிகை|paper chromatography
-தானவனி|donovani|
-தானியக்கமாக்கல்|automation|
-தானியங்கி|automatic|
-தானியம்|caryopsis|
-தானிற்கும்|standalone|
-தானுந்து|automotive|
-தானூட்டி|autotroph|
-தானே எழுத்துக்கூட்டல் சரிகாணி|auto spell checker|
-தானே திருத்து|autocorrect|
-தானே நீடிக்கும்|self sustaining|
-தானே வடிவூட்டு|autoformat|
-தானே வாசி|autoplay|
-தானேசுட்டெண்ணிடு|auto-index|
-தானேசுழற்று|auto-dial|
-தானேசெயலி|automaton|
-தானேநிரப்பு|autofill|
-தானேபகுப்பாய்வி|autoanalyser|
-தானேவலவன்|autopilot|
-தானொளிர்|fluorescent|
-தானொளிர் இழையாகி நோயெதிர்ப்பானுட்கவர்தல் (தாநோனு) சோதனை|Fluorescent Treponemal Antibody Absorption (FTA-ABS) test
-தானொளிர் நுண்ணோக்கி|fluorescence microscope
-தானொளிர்திரை|fluorescent screen|
-தானொளிர்நிறமி|fluorochrome|
-தான்னன் சமநிலை|Donnan equilibrium|
-தான்னிகழா|nonspontaneous|
-தான்னிகழும்|spontaneous |
-தான்னிகழும் உமிழ்தல்|spontaneous emission|
-தான்னிகழும் நிகழ்முறை|spontaneous process|
-தான்னிகழ்வாக|spontaneously|தன்னிச்சையாக - willfully
-தி பிராகிளி அலைநீளம்|de Broglie wavelength|
-தி மார்கனின் விதிகள்|De Morgan's laws|
-திங்கட்கிழமை|Monday|
-திசு வளர்த்தல்|tissue culture|
-திசு வேறுபடல்|histological differentiation
-திசுக்கடினம்|sclerosis|
-திசுக்காரணி|tissue factor|
-திசுக்குழைமநோய்|histoplasmosis|
-திசுக்குழைமி|histoplasma|
-திசுச்சேதவூட்டி|necrotroph|
-திசுமணிக்கட்டி|granuloma|
-திசுவமீனெதிர்ப்பி|antihistamine|
-திசுவமீன்|histamine|
-திசுவமைப்பியல்|histology|
-திசுவனின்|histidine|
-திசுவிறப்பு|necrosis|
-திசுவேதியியல்|histochemistry|
-திசுவோன்|histone|
-திசைகாட்டி|compass (navigation)|
-திசைதிருப்பல்|redirection|
-திசைதிருப்பி (மின்னோட்டம்)|commutator (electricity)
-திசைமம்|directivity|
-திசைமாறா உந்துவி|DC motor|
-திசைமாறா மின்னியற்றி|DC generator|
-திசைமாறா மின்னோட்டம்|direct current|
-திசைமாறு உந்துவி|AC motor|
-திசைமாறு மின்னியற்றி|alternator|aka AC generator
-திசைமாறு மின்னோட்டம்|alternating current|
-திசைய வரைபடம்|directed graph|
-திசைய வழித்தடம்|directed route|
-திசையத் தேர்வு|directional selection|
-திசையப் பாதை|directed path|
-திசையமைவு|orientation|
-திசையன் |vector|
-திசையன் படவரைவு|vector graphics|
-திசையன் பெருக்கல்|vector product|
-திசையிலி|scalar|
-திசையிலிப் பெருக்கல்|scalar product|
-திசைவேகக் கெழு|coefficient of velocity|
-திசைவேகம்|velocity|
-திடீர்வளர்ச்சி|bolting (botany)|
-திட்ட அழுத்தமும் வெப்பநிலையும்|standard temperature and pressure
-திட்ட இயல்புப் பரவல்|standard normal distribution
-திட்ட உள்ளீடு|standard input|
-திட்ட மின்னியக்க விசை|standard emf|
-திட்ட மூச்சியமிறக்க ஆற்றநிலை|standard reduction potential
-திட்ட வடிவம்|standard form|
-திட்ட விடுமுறை|Plan Holiday|
-திட்ட விலக்கம்|standard deviation|
-திட்ட வெளியீடு|standard output|
-திட்டக் கருவிப்பட்டை|standard toolbar|
-திட்டக் குடுவை|standard flask|
-திட்டக் கூட்டலுறுப்பு|maxterm|aka standard sum term
-திட்டக் கூட்டலுறுப்பு|standard sum term|aka maxterm
-திட்டத் தனியாற்றல்|standard free energy|
-திட்டநோக்க விற்பனையாளர்|missionary salesperson
-திட்டநோக்கம்|mission|
-திட்டப் பெருக்கலுறுப்பு|minterm|aka standard product term
-திட்டப் பெருக்கலுறுப்பு|standard product term|aka minterm
-திட்டப்படம்|schematic|
-திட்டப்பணி|project|
-திட்டப்பணி மேலாண்மை|project management|
-திட்டமிட்ட அணுச்சாவு|programmed cell death
-திட்டம்|plan |
-திட்டவட்டமான|deterministic|
-திட்டவரை|standard definition (television)
-திட்டு|islet|
-திணிதல்|compaction vi|
-திணிதாக்கல்|compaction vt|திணித்தல் - cramming
-திணுங்கல்|settlement (soil)|
-திண்கட்டு|tie (construction)|
-திண்காரை|concrete n|
-திண்டலின் சிதறல்|Tyndal scattering|
-திண்டலின் விளைவு|Tyndall effect|
-திண்ணுருவ|concrete adj|abstract - உருவிலா
-திண்ணெலும்பு|compact bone|
-திண்ம நிலை|solid state|
-திண்மக் கடத்தி|solid conductor|
-திண்மக் கழிவு மேலாண்மை|solid waste management
-திண்மக் கோணம்|solid angle|
-திண்மம்|solid|
-திண்மாரையன்|steradian|
-திப்புரோசியம்|dysprosium|
-திமிங்கலம்|whale|
-திமிலற்றவை|bos taurus|
-திமிலுள்ளவை|bos indicus|
-திம்மத்திரால்|stigmasterol|
-தியரிக அமிலம்|stearic acid|
-தியாக விகிதம்|sacrificing ratio|
-தியானம்|meditation|
-திரசு|thrush|
-திரட்கட்டு|truss|
-திரட்டி|accumulator|
-திரட்டு|cumulative|
-திரட்டு அலைவெண் அட்டவணை|cumulative frequency table
-திரட்டு இரட்டைப் பிணைப்புகள்|cumulated double bonds
-திரட்டு முன்விருப்பப் பங்கு|cumulative preference share
-திரட்டுப் பரவல் சார்பு|cumulative distribution function
-திரட்டுப் பிழை|cumulative error|
-திரண்ட இருப்புவைப்பு|accumulated reserve|
-திரண்மெய்யம்|cumulus mass|
-திரலனையம்|steroid|
-திரளச்செய்|agglutinize|
-திரளம் (புரதம்)|domain (protein)|
-திரளா முன்விருப்பப் பங்கு|noncumulative preference share
-திரளூக்கி|rennin|
-திரளூக்கியாக்கி|prorennin|
-திரளை|burl|
-திரள்|mass (aggregation)|
-திரள்கனி|aggregate fruit|
-திரள்படி|coagulate|திரள் - accumulate
-திரள்படி காரணிகள்|coagulation factors|
-திரள்படிதடுப்பி|anticoagulant|
-திரள்படிதல்|coagulation|
-திரள்படிவூக்கி|coagulase|
-திரள்படிவூட்டி|coagulant|
-திரள்மச் சுட்டெண்ணளவி|aggregative index number
-திரள்மச் செலவின முறை|aggregate expenditure method
-திரள்மத் தாக்கச் சோதனை|aggregate impact test|
-திரள்மம்|aggregate|
-திரள்மம் நொறுக்குச் சோதனை|aggregate crushing test
-திராபர்டின் தகடு|Trafford sheet|
-திரால்|sterol|
-திராவிட முன்னேற்றக் கழகம்|Dravida Munnetra Kazhagam
-திரி வி|skew|
-திரிட்டோபன்|tryptophan|
-திரிதல்|distortion|
-திரிதல் விகாரம்|substitution mutation|தோன்றல் திரிதல் கெடுதல் விகாரம் - நன்னூல் 154
-திரிபு|strain|
-திரிமை|skewness|
-திரியோனின்|threonine|
-திருகம்|helix|
-திருகம் நிலைப்புறுதி நீக்கப் புரதம்|helix destabilizing protein
-திருகம் முற்றுநுனியன்|helicoid cyme|
-திருகவூக்கி|helicase|
-திருகளவி|screw gauge|
-திருகாணி|screw|
-திருகாணி விதி|corkscrew rule|
-திருகிணைகள்|twisted pairs|
-திருகு இதழடுக்கம்|twisted aestivation|
-திருகுக்குச்சியம்|streptobacillus|
-திருகுக்குறடு|wrench|
-திருகுச்சுழலியம்|streptoverticillium|
-திருகுப்பூஞ்சையம்|streptomyces|
-திருகுப்பூஞ்சையின்|streptomycin|
-திருகுமணியம்|streptococcus|
-திருகுமரை|nut (hardware) |
-திருகுமுடியம்|streptothrix|
-திருகுவெட்டுப் புதிர்|jigsaw puzzle|
-திருகூக்கி|gyrase|
-திருத்தம்|correction |
-திருத்தாக்கம்|update|
-திருத்தி|editor|compiler - தொகுப்பி
-திருத்து|edit|
-திருப்பத்தசைப்புரதம்|tropomyosin|
-திருப்பப்புரதம்|troponin|
-திருப்பமாற்றம்|mutarotation|
-திருப்பம்|return|
-திருப்பம் கூற்று|return statement|
-திருப்பம் விசை|return key|
-திருப்பியவாறு|vice versa|
-திருப்புக் கூற்று|converse statement|
-திருப்புக்கூற்றாக|conversely|
-திருப்புச் சக்கரம்|steering wheel|
-திருப்புதிறன்|moment|திருப்புத்திறன் தவறு; வினைத்தொகையில் வல்லினம் மிகாது.
-திருப்புநேரம்|turnaround time|
-திருப்புவிசை|torque|
-திருப்புளி|screwdriver|
-திருவெலும்பு|sacrum|
-திருவெலும்புப் பகுதி|sacral region|
-திரை காப்பு|screen saver|
-திரைநிலைப்படம்|screenshot|
-திரைப்படலம்|veneer|
-திரையிடல்|screening|
-திரையிடல் மாறிலி|screening constant|
-திரையுருட்டு|scroll|
-திரையுருட்டுப் பட்டை|scroll bar|
-திரௌட்டனின் விதி|Trouton's rule|
-திவானியக் காலம்|Devonian period|
-திற|open |
-திறந்த அமைப்பு|open system|
-திறந்த இடைவெளி|open interval|
-திறந்த இறக்கிடை|open indent|
-திறந்த எலும்புமுறிவு|open fracture|
-திறந்த காசோலை|open check|
-திறந்த காப்பிதழ்|open policy|
-திறந்த கிணற்றுப் படிக்கட்டு|open well stair|
-திறந்த முனை|open ended|
-திறந்த வருகோள்|open order|
-திறந்தமை இடையிணைப்பு|OSI (open system interconnection)
-திறப்பகலம்|aperture (photography)
-திறப்பி|key|
-திறப்பி மதிப்பு இணை|key value pair|
-திறப்பித் தொழிலகம்|key industry|
-திறப்பு|aperture|
-திறப்பு (பெரணி)|stomium|
-திறப்பு நேரம்|exposure time|
-திறப்புமை|exposure (photography)
-திறமை|tactic|
-திறனளவி|wattmeter|
-திறனாய்வு|criticism|
-திறன்|power (physics, administration)
-திறன் காரணி|power factor|
-தினியா|tinea|
-தினியா நிறமாற்றம்|tinea versicolor|
-தின்கல்|tincal|
-தீக்கனின் வழிமுறை|Deacon's process|
-தீக்கோழி|ostrich|
-தீங்கற்ற|benign|
-தீங்கற்ற கழலை|benign tumor|
-தீங்கிழை|malignant|
-தீங்கிழை மலேரியா|malignant tertian malaria|aka pernicious malaria
-தீங்கிழை மலேரியா|pernicious malaria|aka malignant tertian malaria
-தீங்கிழை விலங்கு|harmful animal|
-தீங்கிழைக் கழலை|malignant tumor|
-தீங்கிழையா|benevolent|
-தீங்குயிரி|pest|
-தீங்குயிரிக்கொல்லி|pesticide|
-தீங்குறு|vulnerable|
-தீங்குறுமை|vulnerability|
-தீசல்|diesel|petrol - எரிசல்
-தீசல் மின்னிலையம்|diesel power plant|
-தீத்தடையம்|fire resistance|
-தீந்தொழிலாற்றல்|malpractice|
-தீபனின் விதி|Stefan's law|
-தீப்பற்றத்தகு|flammable|aka inflammable
-தீப்பற்றத்தகு|inflammable|aka flammable
-தீப்பாறை|igneous rock|
-தீய விளைவு|adverse effect|
-தீர்மானம்|resolution|
-தீர்மானி பெ|determinant (evolution)
-தீர்மானிக்கத்தகாத|indeterminate|
-தீர்மானிக்கத்தக்க|determinate|
-தீர்வகம்|clearing house|
-தீர்வு|solution (math)|
-தீர்வு (பங்கு மாற்றம்)|settlement (stock exchange)
-தீர்வு முகவர்|clearing agent|
-தீர்வுப் பணி|clearing function|
-தீல்சு ஆல்டரின் வினை|Diels-Alder reaction|
-தீவிரமற்ற|conservative|aggressive - தீவிரமான
-தீவீரமான|aggressive|conservative - தீவிரமற்ற
-தீவுத்தொகுதி|archipelago|
-தீற்றா|theta|
-துகளக் கோட்பாடு|particulate theory|
-துகள்|particle|
-துங்கதன்|tungsten|
-துங்கதன் சிற்றிழை விளக்கு|tungsten filament lamp|
-துடிதசையிழுப்பு|clonic spasm|
-துடிப்பழுத்தவளவி|sphygmomanometer|
-துடிப்பு|pulse|
-துடிப்பு இணக்கேற்றம்|pulse modulation|
-துடிமாறு|fluctuate|
-துடிமாற்றம்|fluctuation|
-துடிமுடியம்|clonothrix|
-துடியசை|pulsate|
-துடியசைவு|pulsation|
-துடியசைவுக் கோட்பாடு|pulsation theory|
-துடுப்பக் கதவு|ledged door|
-துடுப்பம்|ledge|
-துடுப்பு|paddle|
-துடுப்புச் சக்கரச் சோதனை|paddle wheel experiment
-துடை|erase|remove - நீக்கு; delete - அகற்று
-துடைப்பி|eraser|
-துணி|fabric|
-துணி வி|truncate|
-துணித்தல்|truncation|
-துணித்தல் பிழை|truncation error|
-துணுக்க எண்|quantum number|
-துணுக்கம்|quantum|
-துணை ஆட்களம்|co-domain|
-துணை நிறுமம்|subsidiary company|
-துணை பன்மடிக் கோணங்கள்|submultiple angles|
-துணை வளைவு|relieving arch|
-துணைக்கண்டம்|subcontinent|
-துணைக்கருவி|accessory|
-துணைக்காரணி|cofactor|
-துணைக்கோள்|satelite|
-துணைக்கோள் பெறுவி|satellite receiver|
-துணைச் சமன்பாடு|auxilliary equation|
-துணைச் செயலர்|deputy secretaty|
-துணைச்சேரிளம்பச்சையம்|prosthecochloris|
-துணைச்சேர் தொகுதி|prosthetic group|
-துணைச்சேர்ப்பு|admixture|
-துணைத் துணுக்க எண்|subsidiary qunatum number
-துணைத்தரகர்|remiser|
-துணைத்தேற்றம்|lemma (math)|
-துணைநிரற்கூறு|subroutine|
-துணையடியவுடல்|amastigote|aka leishman-donovan body
-துணையடியவுடல்|leishman-donovan body|aka amastigote
-துணையணு|synergid|
-துணையதிபர்|vice  president|
-துணையம்|adjuvant|
-துணையூக்கி|cocatalyst|
-துணையூக்கிப்புரதம்|coenzyme|
-துண்டமாக்கல்|segmentation|
-துண்டம்|segment|
-துண்டறிக்கை|hand bill|
-துண்டாதல்|fragmentation|
-துண்டிணைப்பு|fillet joint|
-துண்டுதுண்டான|piecewise|
-துதுவ (துருவத் துணைக்கோளேவு வண்டி)|PSLV (polar satellite launch vehicle)
-துத்தநாகம்|zinc|
-துத்திரும்பு|galvanized iron|துத்தநாகம் சேர்ந்த இரும்பு
-துந்திரம்|tundra|
-துப்பல்|sputum|
-துப்புரவாக்கி|sanitizer|
-துப்புரவி|cleaner|
-துப்புரவு|sanitation|
-தும்பிக்கை|proboscis|
-தும்பைவகை மஞ்சரி|verticillaster|
-துயர்நீக்கி|nepenthes|
-துயுமாசின் முறை|Dumas method|
-துய்யறி |detect|
-துய்யறிதல் முறைகள்|detection methods|
-துய்யறிவான்|detector|
-துரந்தியம்|strontium|
-துரிதாவி|volatile|
-துரிதாவி நினைவகம்|volatile memory|
-துரிதாவி நீர்மம்|volatile liquid|
-துருசிகப் பள்ளம்|sella turcica|
-துருத்துச் சாளரம்|bay window|
-துருப்பிடிக்காத எஃகு|stainless steel|
-துருப்பூஞ்சை|puccinia|
-துருவ அச்சு|polar axis|
-துருவ ஒருங்களவு|polar coordinate|
-துருவக் கோணம்|polar angle|
-துருவத் துணைக்கோளேவு வண்டி (துதுவ)|polar satellite launch vehicle (PSLV)
-துருவத் துணைக்கோள்|polar satelite|
-துருவமி|Polaris|
-துருவரிக்கும்|corrosive|
-துருவரித்தல்|corrosion|அரிமானம் - erosion
-துலியம்|thulium|
-துல்முழுவாக்கப் பிழை|round off error|
-துல்முழுவாக்கு|round off|
-துல்லிய நீர்மை சொத்துகள்|absolute liquid assets|
-துல்லிய நீர்மை விகிதம்|absolute liquid ratio|
-துல்லியம்|precision|
-துவக்க அணுக்கரு|incipient nucleus|
-துவக்க நீர்மச்சுருக்கம்|incipient plasmolysis|
-துவக்கமுன் கூட்டுமம்|preinitiation complex|
-துவக்கி|starter|
-துவங்கல் (அனரி)|initiation (rna)|
-துளசிவகை மஞ்சரி|thyrsus|
-துளை|pore|
-துளை கிணறு|bore well|
-துளைகுழல்|vessel|
-துளைக் கதிர்கள்|canal rays|
-துளைப்பல்|sprocket|
-துளைப்பு|boring|meatus - துளையம்
-துளைப்புழுக்கள்|trematoda|
-துளைமம்|centesis|
-துளைமுனை|nozzle|
-துளையம்|meatus|boring - துளைப்பு
-துளையால் அழகுறுத்தல்|punched dressing|
-துளையிடு|punch|
-துளையிடுவன்|driller|
-துளையிடுவி|perforin|
-துளையுடலிகள்|porifera|
-துளையூடல்|effusion|
-துளைவழிச்சேர்க்கை|porogamy|
-துள்ளல்|burst|
-துள்ளுந்து|scooter|
-துள்ளுளி|jumper|
-துறை (விலங்கியல்)|genus|
-துறைகள் (விலங்கியல்)|genera|
-துறைமுகக் கட்டணம்|dock dues|
-துறைமுகம்|port|
-துறையிடை|interdisciplinary|
-துறைவாரிக் கடை|departmental store|
-தூக்க நோய்|sleeping sickness|
-தூக்கவளைவு|nyctinasty|
-தூக்கி|lift n|
-தூக்கிணு|carry bit|
-தூக்கியெழுது|carry forward |
-தூக்கிலக்கம்|carry digit|
-தூக்கு|lift v|
-தூணடி|plinth|
-தூண் வேர்கள்|prop roots|
-தூண்டல் (இயற்பியல்)|induction|
-தூண்டல் (உயிரியல்)|stimulus|
-தூண்டல் எதிர்வினையம்|inductive reactance|
-தூண்டல் விளைவு|induction effect|
-தூண்டல் விளைவு|inductive effect|
-தூண்டல்வழி நிரூபணம்|proof by induction|
-தூண்டி (உயிரியல்)|stimulant|
-தூண்டி (கணினியி்யல்)|prompt n|fishing rod - தூண்டில்
-தூண்டிய கருவுறாப்பெருக்கம்|induced parthenogenesis
-தூண்டிய வினையூக்கி|induced catalyst|
-தூண்டு|prompt v|
-தூண்டு உமிழ்தல்|stimulated emission|
-தூண்டுத் திட்டமிடல்|planning by inducement
-தூண்டுநீர்|stimulating hormone|
-தூண்துறை|pier|
-தூதனரி|messenger RNA|
-தூதனரி|mRNA|
-தூதுரை|message|செய்தி - news
-தூதுரை சேவை|messaging service|செய்திச் சேவை - news service
-தூதுரையமைப்பு|messaging system|
-தூய நுண்வளரி|pure culture|
-தூய்மையாக்கல்|purification|
-தூரிகை|brush|
-தூரிகை மரபுமெய்யம்|lamp brush chromosome
-தூரிங்கின் எந்திரம்|Turing machine|
-தூலகவிட்டம்|purlin|
-தூவரின் குடுவை|Dewar flask|
-தூவரின் முறை|Dewar's method|
-தெக்கா-|deca-|
-தெக்கிரின்|dextrin|
-தெக்கினியம்|technetium|
-தெங்குக் காய்ச்சல்|Dengue fever|
-தெசி-|deci-|
-தெசிபல்|decibel|
-தெசுலா|tesla|
-தெப்பம்|raft|
-தெரா-|tera-|
-தெரித்தெடு|pop|
-தெரித்தெழு|pop up|
-தெரித்தெழு பட்டி|popup menu|
-தெரிலீன்|terylene|
-தெரிவி|communicate|அறிவி - announce
-தெரிவுறுத்து|notify|
-தெரீன்|terene|
-தெரு|street|
-தெலுங்கு தேசம்|Telugu Desam|
-தெலுரால்|tellurol|
-தெலுரியம்|tellurium|
-தெல்டா|delta (Greek letter)|
-தெல்லைட்டு|stellite|
-தெல்லோன்|tellone|
-தெவிட்டல்|saturation|
-தெவிட்டல் புள்ளி|saturation point|
-தெவிட்டல் மின்னோட்டம்|saturation current|
-தெவிட்டல் விளைவு|saturation effect|
-தெவிட்டாத நீரியக்கரிமம்|unsaturated hydrocarbon
-தெவிட்டிய கரைசல்|saturated solution|
-தெவிட்டிய நீரியக்கரிமம்|saturated hydrocarbon
-தெளிக்குருத்தியம்|caryophanon|
-தெளிதூரிகை|air brush|
-தெளித்துப்பூசுதல்|spray painting|
-தெளிப்பூஞ்சை|aspergillus|
-தெளிப்பூஞ்சைநோய்|aspergillosis|
-தெளியடுக்கம்|stratum lucidum|
-தெளியால்கம்|leuconostoc|
-தெளிவநோய்|candidiasis|
-தெளிவம்|candida|
-தெளிவலைவம்|vitreoscilla|
-தெளிவுக் கச்சை|zona pellucida|
-தெள்ளை|flea|
-தென் துருவம்|south pole|
-தேக்கம்|stagnation|
-தேக்கி|reservoir|
-தேக்கிக் குழல்|reservoir vessel|
-தேக்கு|teak|
-தேசாக்கு நோய்|Tay-Sach's disease|
-தேசிய|national (Indian)|
-தேசிய சமூக உதவித் திட்டம்|National Social Assistance Programme (NSAP)
-தேசிய தாவர மரபியல் வளங்கள் பேழையகம்|National Bureau of Plant Genetic Resources|மைய நரம்பமைப்பு
-தேசிய நெடுஞ்சாலை|national highway|
-தேசிய மின்பண மாற்றல் (தேமிமா)|NEFT (National Electronic Funds Transfer)
-தேசிய மீன் மரபியல் வளங்கள் பேழையகம்|National Bureau of Fish Genetic Resources
-தேசிய வங்கி|National Bank|
-தேசிய விலங்கு மரபியல் வளங்கள் பேழையகம்|National Bureau of Animal Genetic Resources
-தேசியக் குடும்பநலத் திட்டம்|national family welfare program
-தேசியத் திட்டமிடு ஆணையம்|National Planning Commission
-தேசியப் பூங்கா|national park|
-தேடல் முடிவுகள்|search results|
-தேடு கருவி|search tool|
-தேடு பெட்டி|search box|
-தேடு பொறி|search engine|
-தேடு விளக்கு|search light|
-தேடுபட்டை|search bar|
-தேடுரை|search for (text)|replace with - மீள்வைப்புரை
-தேபியம்|terbium|
-தேமிமா (தேசிய மின்பண மாற்றல்)|National Electronic Funds Transfer (NEFT)
-தேய்ப்பி|rubber|
-தேய்ப்பு|ironing|
-தேய்ப்புப் பெட்டி|iron box|
-தேய்மானச் சோதனை|attrition test|
-தேய்மானம்|attrition|
-தேய்வு வழி|wearing course|
-தேரை|toad|
-தேரைத்தோல்|phrynoderma|
-தேர்ச்சி|pass (on a test)|
-தேர்தலுற்ற|elected|
-தேர்தல்|election|
-தேர்தல் தொகுதி|constituency|
-தேர்ந்தெடு|select|
-தேர்மை|selectivity|
-தேர்வழுத்தம்|selective pressure|
-தேர்வி|selector|
-தேர்விணைவி|selectin|
-தேர்வு|selection|test - சோதனை
-தேர்வு (கல்வி)|examination (academic)
-தேர்வுப் புகவிடும்|selectively permeable|
-தேவதை மீன்|angel fish|
-தேவாங்கு|tarsier|
-தேவையானதும் போதுமானதுமான நிபந்தனைகள்|necessary and sufficient condition
-தேள்|scorpion|
-தேனியெல்லி தாவுசன் ஒப்புரு|Danielli-Davson model
-தேனிரும்பு|wrought iron|
-தேனீ|Apis|
-தேனீ வளர்த்தல்|apiculture|aka bee keeping
-தேனீ வளர்த்தல்|bee keeping|aka apiculture
-தேனீமெழுகு|beeswax|
-தைத்தேனியம்|titanium|
-தைபம்|typhus|
-தைபனையம்|typhoid|
-தைப்பாணி|staple|
-தைம குறைப்பணு|T suppressor cell|
-தைம நிணவணு|T cell|
-தைம நிணவணு|T lymphocyte|
-தைம நினைவணு|T memory cell|
-தைமசறுவை|thymectomy|தைமசு + அறுவை
-தைமசு|thymus|
-தைமத் தனித்துகள்|thymic corpuscle|
-தைமவணு|thymocyte|
-தைமால்|thymol|
-தைமின்|thymine|
-தைமுலின்|thymulin|
-தைமோசின்|thymosin|
-தைமோபோயட்டின்|thymopoietin|
-தையலிணை|suture|
-தைரசினூக்கி|tyrosinase|
-தைரசின்|tyrosine|
-தைரநச்சுநிலை|thyrotoxicosis|
-தைரமீன்|tyramine|
-தைரனின்|thyronine|
-தைராச்சின்|thyroxine|
-தைராயிடு|thyroid|
-தைராயிடு குருத்தெலும்பு|thyroid cartilage|
-தைராயிடு சவ்வு|thyroid membrane|
-தைராயிடு தூண்டுநீர்|thyroid stimulating hormone|aka thyrotropic hormone
-தைராயிடு தூண்டுநீர்|thyrotropic hormone|aka thyroid stimulating hormone
-தைராயிடு புற்று|thyroid carcinoma|
-தைரோகோளப்புரதம்|thyroglobulin|
-தைவான் உயிர்மப் பன்மயத் தகவல் வசதியம்|Taiwan Biodiversity Information Facility
-தொகுகனி|composite fruit|
-தொகுசார்பு|composite function |
-தொகுதி|group|collection - தொகுப்பு
-தொகுதி உரிமையாளர்|group owner|
-தொகுதிக் காப்பிதழ்|group policy|
-தொகுதிக் காப்பீடு|group insurance|
-தொகுதியாக்கல்|grouping|
-தொகுத்தறி|inductive|deductive - பகுத்தறி
-தொகுத்தாக்கக் கட்டம்|synthetic phase|
-தொகுத்தாக்கம்|synthesis|
-தொகுத்தாக்கவூக்கி|synthase|
-தொகுத்தாக்கி|synthesizer|
-தொகுத்தாக்கு|synthesize|
-தொகுபயன் திசையன்|resultant vector|
-தொகுப்ப நேரம்|compile time|
-தொகுப்பப் பிழை|compilation error|
-தொகுப்பம்|compilation|
-தொகுப்பி|compiler|editor - திருத்தி
-தொகுப்பிடு|compile|
-தொகுப்பு|collection|group - தொகுதி
-தொகுப்புப் பண்புகள்|colligative properties|
-தொகுப்புப்பொருள்|composite material|
-தொகுவிணைத் தொழிலகம்|assembling industries|
-தொகுவிணைத்தல்|assembling|
-தொகுவிணைப்பி|assembler|
-தொகுவிணைப்பு|assembly|
-தொகுனம்|suite|
-தொகை|composite|component - அகை
-தொகை மின்சுற்று|integrated circuit|
-தொகையிடலின் எல்லைகள்|limits of integration|
-தொகையிடல்|integration (math)|
-தொகையிடல் மாறிலி|integration constant|
-தொகையிடு|integrate|
-தொகையிடுவி|integrator|integrand - தொகையுறுவி
-தொகையீட்டு |integral|
-தொகையீட்டு நுண்கணிதம்|integral calculus|
-தொகையீட்டுக் காரணி|integrating factor|
-தொகையீட்டுச் சமன்பாடு|integral equation|
-தொகையீட்டுச் சூழல்|integrated environment
-தொகையுறுவி|integrand|integrator - தொகையிடுவி
-தொங்கட்டான்|suspensor|
-தொங்கல்|suspension|
-தொங்கி|tag|
-தொங்கியிடல்|tagging|
-தொங்கு படியம்|hanging indent|
-தொங்குகம்பி (முகட்டு விசிறி)|down rod (ceiling fan)|aka suspension rod
-தொங்குகம்பி (முகட்டு விசிறி)|suspension rod (ceiling fan)|aka down rod
-தொடக்க நிலை|initial state|
-தொடக்கச் சுளை நச்சுநிரல்|boot sector virus|
-தொடக்கத் தொங்கி|opening tag|
-தொடக்கப் பட்டி|start menu|
-தொடக்கல்|priming|
-தொடக்காதி|primordial|
-தொடக்காதி குழைமம்|primordial soup|
-தொடக்கி|primer|
-தொடக்கிருத்து|initialize|
-தொடரடி|thrash|
-தொடரலை|progressive wave|
-தொடரி|sequence|
-தொடரி தொங்கியிட்ட தலம்|sequence tagged site|
-தொடரி நேரமைத்தல்|sequence alignment|
-தொடரிகண்டெழுதி|sequenator|
-தொடரிகாணி|sequencer|
-தொடரிய|sequential|
-தொடரிய மின்சுற்று|sequential circuit|
-தொடரியமற்ற|nonsequential|
-தொடரியாக்கல்|sequencing|
-தொடர் (உதிரி)|series|
-தொடர் அச்சிடுவான்|serial printer|
-தொடர் அணு வழி|continuous cell line|
-தொடர் இணைப்பில் தடையிகள்|resistors in series|
-தொடர் மின்சுற்று|series circuit|
-தொடர்ச்சிச் சமன்பாடு|equation of continuity|
-தொடர்ச்சிமை|continuity|
-தொடர்ச்சிமைச் சோதனை|continuity test|
-தொடர்ச்சியற்ற மரபணு|discontinuous gene|
-தொடர்தசையிழுப்பு|tonic spasm|
-தொடர்தாக்கு|bombard|
-தொடர்தாக்குதல்|bombardment|
-தொடர்நில் அறிவுறுத்தல்|standing instruction|
-தொடர்நுனி மஞ்சரி|racemose inflorescence
-தொடர்நுனியன்|raceme|
-தொடர்ந்த|continuous|
-தொடர்ந்த நேர்வு மாறி|continuous random variable
-தொடர்ந்த பாத்தி முறை|continuous bay method
-தொடர்ந்த மாறி|continuous variable|
-தொடர்பு|contact|
-தொடர்புடமை|materiality|
-தொடர்புள்ள தகவல்|material fact|
-தொடர்முறை|succession|
-தொடர்மை|continuum|
-தொடர்வண்டி|train|
-தொடர்வி|trailer|
-தொடர்விளிம்பு|trailing edge|
-தொடாவிசை|non-contact force|
-தொடு இடைமாற்றம்|contact exchange|
-தொடு இதழடுக்கம்|valvate aestivation|
-தொடு பெறுவி|tactile receptors|
-தொடுகோடு|tangent (geometry)|
-தொடுகோணம்|angle of contact|
-தொடுதல் வழிமுறை|contact process|
-தொடுதளம்|touchpad|
-தொடுதிரை|touchscreen|
-தொடுநாடு|thigmotropic|
-தொடுப்பி|linker|
-தொடுப்பிணை|concatenate|
-தொடுப்பிணை நீக்கு|decatenate|
-தொடுப்பு|link n|இணை - pair; பிணை - bind
-தொடுப்பு|linkage|
-தொடுப்பு (மரபணு)|coupling (of genes)|
-தொடுப்பு மாற்றியம்|linkage isomerism|
-தொடுமுட்டல்|abutment|
-தொடுவானம்|horizon|
-தொடுவிகித கால்வனளவி|tangent galvanometer|
-தொடுவிகித விதி|tangent law|
-தொடுவிகிதம் (தொவி)|tangent (trigonometry)|
-தொடுவிசை|contact force|
-தொடுவுணர்|touch sensitive|
-தொடுவுணர் திரை|touch sensitive screen|
-தொடை|thigh|
-தொடைக் குடற்பிதுக்கம்|femoral hernia|
-தொடைச் சிரை|femoral vein|
-தொடைத் தமனி|femoral artery|
-தொடைமடக்குத் தசை|psoas major|
-தொடையெலும்பு|femur|
-தொட்டிக் கப்பல்|tanker|
-தொட்டியங்கள்|cisternae|
-தொட்டியப் படலங்கள்|layered cisternae|
-தொண்டை கழிவுக்குழல்|pharyngeal nephridium
-தொண்டைக்குழி|pharynx|
-தொண்டைக்குழியழற்சி|pharyngitis|
-தொண்டைசூழ் நரம்பிணைப்பு|circum pharyngeal connective
-தொண்டைச் சிரை|jugular vein|
-தொண்டைச்செவிக் கால்வாய்|eustachian canal|
-தொண்டையடிநாத்தசை|pharyngeal tonsil|
-தொண்டையம்|throating|
-தொப்பி|bonnet|
-தொப்புள்|umbilicus|
-தொப்புள் குடற்பிதுக்கம்|umbilical hernia|
-தொப்புள் கொடி|umbilical cord|
-தொலைக் கலந்துரை|teleconference|
-தொலைக்கட்டுப்படுத்தி|remote controller|
-தொலைக்கட்டுப்பாடு|remote control|
-தொலைக்கல்வி|distance education|
-தொலைச்சந்தையிடல்|telemarketing|
-தொலைதொடு|asymptotic|
-தொலைதொடுவகையில்|asymptotically|
-தொலைதொடுவி|asymptote|
-தொலைத் தகவற்றொடர்பு|telecommunication|
-தொலைநகலி|fascimile (fax)|
-தொலைநோக்குத் திட்டமிடல்|perspective planning|
-தொலைப் பணித்தள இணைப்பு|Remote Desktop Connection
-தொலைப் பணித்தளம்|remote desktop|
-தொலைமருத்துவம்|telemedicine|
-தொலையுணரல்|remote sensing|
-தொலையுணரி|remote sensor|
-தொலைவத் தசை|pars distalis|
-தொலைவலையம்|telnet|
-தொலைவளவி|telemeter|
-தொலைவாங்கல்|teleshopping|
-தொலைவி|remote (control)|
-தொலைவீச்சு முறைமை|long-range order|
-தொலைவு|distance|
-தொலைவுப்பக்க|distal|
-தொலைவுப்பக்கக் குழலம்|distal tubule|
-தொலைவுப்பக்கச் சிக்கற்குழலம்|distal convoluted tubule
-தொலைவுமைய|telocentric|
-தொல்லுயிரியல்|paleontology|
-தொல்லுயிர்முன்|Paleoproterozoic|
-தொவி|tan (trigonometry)|
-தொழிலக |industrial|
-தொழிலக வங்கி|industrial bank|
-தொழிலகக் கொள்விதி தீர்மானம், 1956|Industrial Policy Resolution of 1956
-தொழிலகங்கள் (வளராக்கமும் ஒழுங்கமைத்தலும்) சட்டம் 1951|Industries (Development and Regulation) Act 1951
-தொழிலகம்|industry|
-தொழிலகர்|industrialist|
-தொழிலர்|professional|
-தொழிலாற்றல்|practice (professional)|
-தொழில்|profession|
-தொழில்நுட்ப மாற்றல்|technology transfer|
-தொழில்நுட்பம்|technology|technique - செய்நுட்பம்
-தொழில்மயமாதல்|industrialization|
-தொழில்முனைவம்|entrepreneurship|
-தொழில்முனைவர்|entrepreneur|
-தொழுநோய்|leprosy|
-தொழுநோய்ப் பூஞ்சைப்பாட்டீரியம்|mycobacterium leprae|
-தொற்புவியியல்|paleogeographic|
-தொற்றுநோய்கள்|communicable diseases
-தொன்கோளியம்|archaeoglobus|
-தொன்கோளியனையன|archaeglobaceae|
-தொன்கோளியைகள்|archaeoglobales|
-தொன்பாட்டீரியக் கந்தக மூச்சியமிறக்கிகள்|archiobacterial sulfate reducers
-தொன்பாட்டீரியங்கள்|archaea|
-தொன்பாட்டீரியப் பேரூழி|Archean eon|
-தொன்பாட்டீரியம்|archaebacterium|
-தொன்பாட்டீரியம்|archaeon|
-தொன்மை|classical|
-தொன்மை ஊழி|Paleozoic era|
-தொன்மை எண்ணக்குழு|classical school|
-தொன்மை எந்திரவியல்|classical mechanics|
-தொன்மைமுந்திய மாபேரூழி|Precambrian supereon
-தொன்மையப் பாகுபாட்டியல்|paleotaxonomy|
-தொன்னெழு காலம்|Paleogene period|
-தோ|rho|
-தோக்கசின் கோடு|Stokes line|Stoke's line is incorrect; the scientist's name is Stokes, not Stoke.
-தோக்கசின் விதி|Stokes' law|Stoke's law is incorrect; the scientist's name is Stokes, not Stoke.
-தோக்கோபெரால்|tocopherol|
-தோட்டக்கலை|horticulture|
-தோட்டச்சுவர்ப் பிணைப்பு|garden wall bond|
-தோட்டமிடல்|gardening|
-தோட்பை|satchel|
-தோராய|approximate|
-தோரியம்|thorium|
-தோலத்தாள்|parchment|தோல் + அம் + தாள்; அம் சாரியை
-தோலழற்சி|dermatitis|
-தோலாக்கி|dermatogen|
-தோலியோலியம்|doliolum|
-தோலுமி|furfur|
-தோலுமித் தோலுமியாக்கி|malassezia furfur|
-தோலுமியாக்கி|malassezia|formerly pityrosporium
-தோலுமியாக்கி|pityrosporum|now malassezia
-தோல்|skin|
-தோல் வேர் சூழுறை|dermal root sheath|
-தோல்வரட்சி|xerosis|
-தோல்விரும்பியம்|dermatophilus|
-தோளெலும்பு|scapula|
-தோளெலும்பு உயர்த்தி|levator scapulae|
-தோளெலும்புத் திருப்பத் தசை|anterior serratus|
-தோளெலும்புத் திருப்பத் தசை|serratus anterior|
-தோள்ப்பட்டை நீட்சி|acromion process|
-தோற்கட்டிகள்|warts|
-தோற்செட்டை|patagium|
-தோற்செம்மிகை|erythema|
-தோற்புண்|herpes zoster|aka shingles
-தோற்புண்|shingles|aka herpes zoster
-தோற்பூஞ்சைநோய்|dermatomycosis|
-தோற்ற நிழலுரு|virtual image|
-தோற்ற நினைவகம்|virtual memory|
-தோற்றப்பாடு|phenomenon|
-தோற்றாவரம்|dermatophyte|தோல் + தாவரம்
-தோன்றல் விகாரம்|insertion mutation|
-தோன்றளித்தல்|presentation|
-தோன்றுண்மை|virtual reality|
-தௌ|tau|
-நக மடிப்பு|nail fold|
-நகப்பள்ளம்|nail groove|
-நகர|urban|
-நகர அரசு|city state|
-நகரமயமாதல்|urbanization|
-நகரும் சராசரி|moving average|
-நகர்த்தல் |translation (movement)
-நகர்த்து|move|
-நகர்த்து|translate (movement)|
-நகர்ப்பரப்பு வலையம்|metropolitan area network
-நகர்முட்டை|ookinete|
-நகர்விடம்|kinetochore|
-நகர்வுச் சீரொருமை|translational symmetry
-நகர்வுச் செயலி|shifting operator|
-நகலெடு|copy v|
-நகலெழுதல்|transcription|
-நகலெழுதல் குமிழி|transcription bubble|
-நகலெழுதல் கூட்டுமம்|transcription complex|
-நகலெழுது|trascribe|
-நகலெழுதுபின் மாற்றமைவு|post-transcription modification
-நகலெழுதூக்கி|transcriptase|
-நகல்|copy|
-நகவில்லை|thumbnail|
-நகவிளிம்பு|free edge (nail)|
-நகவுடல்|nail body|
-நகுதசை|risorius|
-நகை|jewellery|
-நங்கூரத் தொங்கி|anchor tag|
-நசிவு|lesion|
-நச்சு நாளம்|poison duct|
-நச்சுச் சுரப்பி|poison gland|
-நச்சுடை உயிரிகள்|poisonous organisms|
-நச்சுத்தடைத் தொட்டி|septic tank|
-நச்சுத்தன்மை|toxicity|
-நச்சுநிரல்|virus (computer)|
-நச்சுநிலை|toxicosis|
-நச்சுநீக்கம்|detoxification|
-நச்சுப்பல்|fang|
-நச்சுவதிர்ச்சி குறித்தொகுப்பு|toxic shock syndrome|
-நச்சுவியல்|toxicology|
-நச்செதிர்நிரல்|antivirus|
-நச்செதிர்ப்பி|antitoxin|
-நடக்கை|traversal|
-நடத்தை|behavior|
-நடத்தைப் பண்பு|behavioural character|
-நடப்பு|current adj|
-நடப்பு விகிதம்|current ratio|
-நடப்பு வைப்புக் கணக்கு|current deposit account
-நடப்புக் கடப்பாடுகள்|current liabilities|
-நடப்புக் கோப்பகம்|current directory|
-நடமாடிப்புழு|peripatus|
-நடமாடும்|itinerant|
-நடமாடும் வியாபாரி|itinerant trader|
-நடனக்கலைகள்|performing arts|
-நடு|middle|
-நடு முன்பக்க மேடு|middle frontal gyrus|
-நடு மூளையுரை|arachnoid membrane|
-நடு மென்தட்டு|middle lamella|
-நடுக்கம்|shivering|
-நடுக்கவளைவு|seismonasty|
-நடுக்கோடு|equator|
-நடுக்கோட்டு|equatorial|
-நடுக்கோட்டு வடநீரோட்டம்|north equatorial current
-நடுக்கோட்டுப் பிளவுறல்|equatorial cleavage|
-நடுசீருமையுணவு முட்டை|centrolecithal egg|
-நடுச்சட்டம்|mullion|
-நடுச்செவி|middle ear|aka tympanum
-நடுச்செவி|tympanum|aka middle ear
-நடுச்செவிக் குழி|scala tympani|
-நடுச்செவிச் சவ்வு|tympanic membrane|
-நடுத்தர நீர்த்த சுண்ணாம்பு|moderately hydraulic lime
-நடுநரம்பு|midrib|
-நடுநிலை|neutral|
-நடுநிலைச் சிவப்புச் சாயம்|neutral red dye|
-நடுநிலைப்புச் சமநிலை|neutral equilibrium|
-நடுநிலையாக்கம்|neutralization|
-நடுப்பக்க மூளை |mid brain|
-நடுப்பிளவு|median cleft|
-நடுப்புள்ளி|midpoint|
-நடுமம்|mesosome|
-நடுமூளை|mesencephalon|aka midbrain
-நடுமூளை|midbrain|aka mesencephalon
-நடுமைய|metacentric|
-நடுவர்|judge|
-நடுவிடம்|median|
-நடுவிதைச் சதைக்கனி|pepo|
-நடுவித்தகம்|mesosporium|
-நடுவிரும்பி|neutrophil|
-நடுவுடல்|torso|
-நடுவொலிப்பி|midrange|
-நடைபேசி|walky-talky|
-நடைப்பணம்|currency|
-நடைமுறை|practical|
-நடைமுறை மடல்|temporal lobe|
-நடைமுறையியல்|pragmatics|
-நடைமேடை|platform|
-நடையாக்கி|pacemaker|
-நடைவிற்பவர்|peddler|
-நட்புமை|alliance|
-நணு|nibble|
-நண்டு|crab|
-நத்தை|snail|
-நத்தைச்சேர்க்கை|malacophily|
-நத்தையெலும்புக் குழி|scala media|
-நம்பக முகவர்|del credere agent|
-நம்பகர்|del credere|
-நம்பிக்கை|faith|
-நம்புறுதி|confidence|
-நம்புறுதி இடைவெளி|confidence interval|
-நம்பூக|speculative|
-நம்பூக வணிகர்|speculator|
-நம்பூகம்|speculation|
-நம்பூகி|speculate|
-நயமுணர்|aesthetic|
-நயமுணர்வு|aesthetics|
-நயாசின்|niacin|
-நரம்பணு|nerve cell|aka neuron
-நரம்பணு|neuron|aka nerve cell
-நரம்பணுத்திரள்|ganglion|
-நரம்பணுத்திரள்கள்|ganglia|
-நரம்பமினவூக்கி|neuraminidase|
-நரம்பமினிக அமிலம்|neuraminic acid|
-நரம்பமைப்பு (தாவரவியல்)|venation|
-நரம்பமைப்பு (விலங்கியல்)|nervous system|
-நரம்பவலையம்|neural network|
-நரம்பாலனுப்பி|neurotransmitter|
-நரம்பாலனுப்பீடு|neurotransmission|
-நரம்பிணை|synapse|
-நரம்பிணையிடை|synaptic cleft|
-நரம்பு (தாவரவியல்)|vein (leaf structure)|
-நரம்பு இழை|nerve fiber|
-நரம்பு ஒருங்கிணைவு|nervous coordination|
-நரம்பு நிமிண்டல்|nerve signal|
-நரம்பு மடிப்பு|neural fold|
-நரம்பு மையம்|nerve center|
-நரம்பு வடம்|nerve cord|
-நரம்புக் குருதிக்குழல்|vasa nervosum|
-நரம்புக்கொத்திடைத்திசு|endoneurium|
-நரம்புக்கொத்திடைப் பாய்மம்|endoneurial fluid|
-நரம்புக்கொத்து|fasciculus (nerve)|
-நரம்புக்கொத்துறை|perineurium|
-நரம்புச் செவிக் குறைபாடு|neural hearing loss|
-நரம்புடைக்கரு|neurula|
-நரம்புடையாதல்|neurulation|
-நரம்புத் திசு|nervous tissue|
-நரம்புத் துளை|neuropore|
-நரம்புத்தசைச் சந்தி|neuromuscular junction
-நரம்புத்தண்டு|nerve trunk|
-நரம்புத்தண்டுறை|epineurium|
-நரம்புநச்சுவம்|neurotoxin|
-நரம்புப் பள்ளம்|neural groove|
-நரம்புப் பாலம்|pons|
-நரம்புப் பொதியல்|corpus callosum|
-நரம்புப்பின்னல்|plexus|
-நரம்புமண்டல அழற்சி|encephalomyelitis|
-நரம்புமி|neurilemma|
-நரம்புமுடிச்சு|ganglioside|
-நரம்புமெலனின்|neuromelanin|
-நரம்பூட்டம்|innervation|
-நரிக்கைநச்சு|digoxin|
-நரிக்கையுறை|foxglove|
-நலிவு|atrophy|
-நல்ல பாம்பு|cobra|
-நல்லியல்பு|ideal|
-நல்லியல்பு வளிமம்|ideal gas|
-நல்லூட்டமாக்கல்|eutrophication|
-நல்லூட்டம்|eutrophy|
-நல்லெண்ணம்|goodwill|
-நல்விலங்குகள்|eumetazoa|
-நழுவு|glide|
-நழுவு இயக்கம்|gliding movement|
-நழுவு வளையம்|slip ring|
-நழுவொழுகல்|diapedesis|
-நறுக்கு|trim|
-நனைபரப்பு|matric|
-நனைபரப்பு ஆற்றநிலை|matric potential|
-நன்பாட்டீரியம்|eubacterium|
-நன்மரபு|eugenic|dysgenic - புன்மரபு
-நன்மை|advantage|நிறை - mass
-நன்மையுறு இடைவினை|positive interaction|
-நன்னம்பிக்கை|good faith|
-நன்னீர்|fresh water|
-நன்னெறி |ethic|
-நன்னெறியற்ற|unethical|
-நன்னெறியான|ethical |
-நன்னெறியியல்|ethics (study of)|
-நன்னெறியுடைமை|ethics|
-நாகபுரி திட்டம்|Nagpur plan|
-நாகரிகம்|civilization|
-நாகுவீன்|neoprene|குளோரோநான்கவீன் பன்மம்
-நாக்கு|tongue|
-நாசித்துளை|nostril|
-நாசிவித்தழற்சி|rhinosporidiosis|
-நாசிவித்து|rhinosporidium|
-நாசோ தேய்ப்பி|buna rubber|நான்கவைல் சோடியம் தேய்ப்பி
-நாசோபி தேய்ப்பி|buna-s rubber|நான்கவைல் சோடியம் பினித்தீன் தேய்ப்பி
-நாசோவை தேய்ப்பி|buna-n rubber|நான்கவைல் சோடியம் வைனில்சயனலி தேய்ப்பி
-நாடா பதிவி|tape recorder|நாடாப் பதிவி - நாடாத பதிவி
-நாடா புழு|tape worm|நாடாப் புழு - நாடாத புழு
-நாடாவுறை|cassette|
-நாடாளுமன்றம்|parliament|
-நாடுகளுக்கும் மேலான|supranational|
-நாட்காட்டி|calendar|
-நாட்ட நிறப்பிரிகை|affinity chromatography
-நாட்டம்|affinity|
-நாட்டரசு|nation state|
-நாட்டின் தலைவீத மொத்த வருமானம்|per capita GNP|
-நாட்டு|national|
-நாட்டு உயிரியத் தொழில்நுட்பத் தகவல் மையம் (நாதமை)|National Center for Biotechnology Information (NCBI)
-நாட்டு வானூர்தியியல் மற்றும் வான்வெளியியல் நிர்வாகம் (நாவா)|National Aeronautics and Space Administration (NASA)
-நாட்டுடைமை தளர்த்தல்|denationalization|
-நாட்டுடைமையாக்கல்|nationalisation|
-நாணல்|reed |
-நாண்|chord|
-நாண்முதுகிகள்|chordata|
-நாத்தலிக அமிலம்|phthalic acid|
-நாத்தலிகேட்டு|phthalate|
-நாத்தலிமைடு|phthalimide|
-நாத்தலீன்|naphthalene|
-நாத்தலீன் ஒன்றிழைதல்|phthalein fusion|
-நாத்தா|naphtha|
-நாய்க்கடி நோய்|rabies|நாய்க்கடியால் ஏற்பட்ட நோய்; மூன்றாம் உருபும் பயனும் உடன்தொக்க தொகை
-நாய்க்கால் படிக்கட்டு|dog legged stair|
-நாய்க்குடை|toad stool|
-நாரிணைப்பு மூட்டு|fibrous joint|
-நாரிழை|fibril|
-நார்பிரிதல்|retting|
-நார்ப்பட்டு|rayon|
-நார்ப்பெட்டகம்|fibrous capsule|
-நாலங்க மலர்|tetrameroud flower|நான்கு + அங்க மலர்
-நாலங்கை|quadrifoliate|
-நாவடிச் சுரப்பி|sublingual gland|
-நாவடிநாத்தசை|lingual tonsil|
-நாவடியெலும்பு|hyoid bone|
-நாவடிவ|ligulate|
-நாவா (நாட்டு வானூர்தியியல் மற்றும் வான்வெளியியல் நிர்வாகம்)|NASA (National Aeronautics and Space Administration)
-நாவாய்க் காப்பீடு|hull insurance|
-நாவிணைப்பு|tongued joint|
-நாளக்குழிவு|sinus venosus|
-நாள் நடுநிலைத் தாவரங்கள்|day neutral plants|
-நாற்கரம்|quadrilateral|
-நாற்காலி வெளிவடிவம்|chair conformation|
-நாற்காலுயிரிகள்|tetrapoda|
-நாற்குளோரோ அசிற்றலீன்|tetrachloro acetylene|
-நாற்கூம்பு|pyramid|
-நாற்கோணத் தசை|quadratus muscle|
-நாற்சுழலி|tetracycline|
-நாற்சூலிலை|tetracarpellary|
-நாற்பதவேன்|tetracontane|
-நாற்றலைத் தசை|quadriceps|நான்கு + தலைத் தசை
-நாற்றிறன்|tetradynamous|நான்கு + திறன்
-நாற்று|seedling|
-நானுணர்வு|ego|
-நானோ-|nano-|
-நான்-|tetra-|
-நான்க-|buta-|
-நான்க-2-ஐன்|but-2-yne|
-நான்கவாயிக அமிலம்|butyric acid|
-நான்கவாயிகேட்டு|butarate|
-நான்கவால்|butanol|
-நான்கவீரீன்|butadiene|
-நான்கவேன்|butane|
-நான்கவைல்|butyl|
-நான்கவைல் தேய்ப்பி|butyl rubber|
-நான்கவைன்|butyne|
-நான்காமை|quaternary|
-நான்காமைக் கட்டமைப்பு|quaternary structure|
-நான்காமைக் கரிமம்|quaternary carbon|
-நான்காமைக் காலம்|Quaternary period|
-நான்காம் கூட்டுமம் (கூ4)|complex IV|
-நான்காம்வகைக் கணையவணு|delta cell|
-நான்குக்கொரு காய்ச்சல்|quartan|
-நான்குக்கொரு மலேரியா|quartan malaria|
-நான்குப்பாக்கியமீத்தேன்|tetrahalomethane|
-நான்கோசு|tetrose|
-நான்மடியாயிரம்|trillion (short scale)|
-நான்மடியுடலங்கள்|carpora quadrigemina
-நான்மணியம்|tetracoccus|
-நான்மம்|quartet|
-நான்முகி|tetrahedral|
-நான்முனை|quadrupole|
-நான்மை|tetrad|
-நிகர|net (opp. gross)|
-நிகர நாட்டு உற்பத்தி (நிநாவு)|Net National Product (NNP)
-நிகர நாட்டு வருமானம் (நிநாவ)|Net National Income (NNI)
-நிகரான|corresponding|
-நிகழ்குறிப்பு|log|
-நிகழ்சாத்தியம்|contingency|
-நிகழ்தகவு|frequency of occurrence
-நிகழ்ப்போக்கு|tendency|
-நிகழ்ப்போக்குக் கூற்று|statement of tendency|
-நிகழ்முறை|process (phenomenon)
-நிகழ்வு|event|
-நிகழ்வுகாலம்|duration|
-நிகழ்வெண்|frequency (of occurrence)
-நிக்கல்|nickel|
-நிக்கல்சன்|Nicholson|
-நிக்குரோம்|nichrome|
-நிக்கோட்டினமைடு|nicotinamide|
-நிக்கோட்டினமைடு அடினீன் ஈரணுக்கருவைடு (நிடியீ)|nicotinamide adenine dinucleotide (NAD)
-நிக்கோட்டினமைடு அடினீன் ஈரணுக்கருவைடு பாசுவேட்டு (நிடியீபா)|nicotinamide adenine dinucleotide phosphate (NADP)
-நிக்கோட்டினிக அமிலம்|nicotinic acid|
-நிக்கோட்டின்|nicotine|
-நிச்சயமின்மை|uncertainty|
-நிச்சயமின்மைக் கொள்கை|uncertainty principle|
-நிச்சயம்|certainty|
-நிடியீ (நிக்கோட்டினமைடு அடினீன் ஈரணுக்கருவைடு)|NAD (nicotinamide adenine dinucleotide)
-நிடியீபா (நிக்கோட்டினமைடு அடினீன் ஈரணுக்கருவைடு பாசுவேட்டு)|NADP (nicotinamide adenine dinucleotide phosphate)
-நிட்டுமசு|litmus|
-நிணக்குறை|lymphopenia|
-நிணச்சுரப்பிக் கொள்ளைநோய்|bubonic plague|
-நிணச்சுரப்பியவதி|lymphadenopathy|நிணச்சுரப்பி + அவதி
-நிணத்திசுக்கட்டி|lymphogranuloma|
-நிணநீரமைப்பு|lymphatic system|
-நிணநீர்க் கணு|lymph node|
-நிணநீர்க்குழல்|lymphatic vessel|
-நிணநீர்ச் சிரை நுழைவம்|lympho venous portal|
-நிணநீர்ச் சுற்றோட்டம்|lymphatic circulation|
-நிணநீர்மம்|lymph|
-நிணப்புற்று|lymphoma|
-நிணமேற்சவ்வு|lymphoepithelial|
-நிணவணு|lymphocyte|
-நிணவணுதூண்டி (நிதூ)|interleukin|
-நிணவணுப்பிளவி|lymphoblast|
-நிணவணுவியக்கி|lymphokine|
-நிணவனைய|lymphoid|
-நிணவனையத் திசு|lymphoid tissue|
-நிணவனையவணு|lymphoid cell|
-நிணவிநீபிநிறமி|leucodopachrome|
-நிணவுண்டாக்கி|lymphoid progenitor|
-நிண்டேயின் முறை|Linde's method|
-நிதி|finance |
-நிதி நிறுவனம்|financial institution|
-நிதிக்கூட்டவை|consortium|
-நிதித் தடங்கல்|hindrance of finance|
-நிதித்திட்டம்|budget|
-நிதிநிலை|financial|
-நிதிநிலை அறிக்கை|financial statement|
-நிதிநிலை அறிக்கை பகுப்பாய்வு|financial statement analysis
-நிதியகச் சீட்டு|treasury bill|
-நிதியகம்|treasury|
-நிதியச் சேவைகள்|financial services|
-நிதியம்|fund|
-நிதியியல்|finance (study of)|
-நிநாவ (நிகர நாட்டு வருமானம்)|NNI (Net National Income)
-நிநாவு (நிகர நாட்டு உற்பத்தி)|NNP (Net National Product)
-நிபநி (நிரலாக்கத்தகு படிக்கவே நினைவகம்)|PROM (programmable read only memory)
-நிபந்தனை|condition|
-நிபந்தனை கூற்று|conditional statement|
-நிபந்தனை சாத்தியக்கூறு|conditional probability
-நிபந்தனை தன்நிகழ்வு|conditioned reflex|
-நிபந்தனைகளை நிறைவுசெய்|satisfy conditions|
-நிபந்தனைக் கோவை|conditional expression|
-நிபுணர்|expert|
-நிமிண்டல்|signal (neural, electronic)
-நிமிண்டல் ஓசை விகிதம்|signal to noise ratio|
-நிமிண்டல் தாங்கி|cytokine|
-நிமிண்டல் மூலக்கூறுகள்|signaling molecules|
-நிமிர்ந்த|upright |
-நிமோமணிய நிமோனியம்|pneumococcal pneumonia
-நிமோமணியம்|pneumococcus|
-நிமோனியக் கொள்ளைநோய்|pneumonic plague|
-நிமோனியா|pneumonia|
-நியமவிடம்|locus (genetics)|
-நியமனம்|nomination|
-நியமிறுத்தல்|appointment|
-நியமிறுத்து|appoint|
-நியாய விலை|fair price|
-நியாவின்|nystatin|
-நியான்|neon|
-நியூ காம்சயர்|New Hampshire|
-நியூட்டனின் இயக்க முதல் விதி|Newton's first law of motion
-நியூட்டனின் குளிர்வு விதி|Newton's law of cooling
-நியூட்டனின் வளையங்கள்|Newton's rings|
-நியூட்டிரான்|neutron|
-நியூட்டிரினோ|neutrino|
-நியூட்டு|newt|
-நியோடிமியம்|neodymium|
-நியோபியம்|niobium|
-நிரந்தர|permanent|
-நிரந்தர வளிமம்|permanent gas|
-நிரந்தரக் காந்தம்|permanent magnet|
-நிரந்தரத் திசு|permanent tissue|
-நிரந்தரப் பற்கள்|permanent teeth|
-நிரந்தரம்|permanence|
-நிரப்ப உலோக மூச்சியைடு குறைகட்டத்தி (நிவுமூகு)|Complementary Metal Oxide Semiconductor (CMOS)
-நிரப்பட்டை|padding|
-நிரப்பம்|plerome|
-நிரப்பி|complement|
-நிரப்பி அமைப்பு|complement system|
-நிரப்பிக் கிடையிழை|complementary strands
-நிரப்பு அனடி |complementary DNA (cDNA)
-நிரப்பு நிகழ்வு|complementary event|
-நிரப்புக் காரங்கள்|complementary bases|
-நிரப்புக்கோணங்கள்|complementary angles|
-நிரப்புச் சார்பு|complementary function
-நிரலம்|instruction (computer) 
-நிரலர்|programmer|
-நிரலாக்கத்தகு|programmable|
-நிரலாக்கத்தகு படிக்கவே நினைவகம் (நிபநி)|programmable read only memory (PROM)
-நிரலாக்கம்|programming (computer)
-நிரல் (கணினியி்யல்)|program (computer)|column (table, matrix) - நெடுக்கை
-நிரல்மொழி|programming language
-நிரற்கூறு|routine (computer)|
-நிரற்பிழை|bug (computer)|
-நிரற்பெயர்ப்பி|interpreter (computer)|
-நிராகரி|reject|
-நிரூபணம்|proof|
-நிரோது|Nirodh|
-நிர்ணயி பெ|determiner|
-நிர்ணயி வி|determine|
-நிர்ணயித்தல்|determination|
-நிர்வாகம்|administration|
-நிர்வாகி|administrator|
-நிலக்கரி|coal|
-நிலக்காலவியல்|geochronology|
-நிலக்கிழாரிசம்|feudalism|
-நிலக்கிழார்|zamindar|
-நிலக்கிழார் அரசு|feudal state|
-நிலச்சமமாக்கி|bulldozer|
-நிலச்சரிவு|landslide|
-நிலத்தடி நீர்|ground water|
-நிலநடுக்கம்|quake|
-நிலநிரப்பு|landfill|
-நிலநீர்நிலை|aquifer|
-நிலப்படம்|landscape|portrait - முகப்படம்
-நிலமச் சாளரம்|modal window|
-நிலமமாற்றம்|inflection|
-நிலமம்|mode|
-நிலமளப்பு|survey (land)|
-நிலம் அளப்பவர்|surveyer|
-நிலம்படர்|decumbent|
-நிலவங்கம்|topography|
-நிலவிணைப்பு|isthmus|
-நிலவியல்|geology|geography - புவியியல்
-நிலவியல் ஊழிகள்|geological eras|
-நிலா|moon|
-நிலாவலகியம்|selenomonas|
-நிலுவை|arrears|
-நிலை|stage|
-நிலை (இயற்பியல்)|state (physics)|
-நிலைக்கம்பத் திசு|palisade tissue|
-நிலைச் சமன்பாடு|equation of state|
-நிலைச் சார்பு|state function|
-நிலைத்த|persistent|
-நிலைபெறல்|stasis|
-நிலைபேறுடைய|eternal|
-நிலைப்படம்|snapshot|
-நிலைப்படி|sill|
-நிலைப்பற்ற|unstable|
-நிலைப்பற்ற சமநிலை|unstable equilibrium|
-நிலைப்பற்ற நிலை|unstable state|
-நிலைப்பாக்கத் தேர்வு|stabilizing selection|
-நிலைப்பாக்கல்|stabilization|
-நிலைப்பாக்கு|stabilize|
-நிலைப்பான|stable|
-நிலைப்பான நிலை|stable state|
-நிலைப்பில்லா|astable|
-நிலைப்பு|stability|
-நிலைப்பு நீக்கு|destabilize|
-நிலைப்புச் சமநிலை|stable equilibrium|
-நிலைம|static|
-நிலைம நிழலுரு|static image|
-நிலைம நிறை|inertial mass|rest mass - ஓய்வு நிறை
-நிலைமச் சட்டம்|inertial frame|
-நிலைமச் சமனமாக்கல்|static balancing|
-நிலைமத் திருப்புதிறன்|moment of inertia|
-நிலைமமற்ற சட்டம்|noninertial frame|
-நிலைமமின்|electrostatic|
-நிலைமமின்னலகு|electrostatic unit|
-நிலைமம்|inertia|
-நிலைமவியல்|statics|
-நிலைமாற்ற|transitional|
-நிலைமாற்ற உலோகம்|transition metal|
-நிலைமாற்ற சாத்தியக்கூறு|transition probability|
-நிலைமாற்ற நிலை|transition state|
-நிலைமாற்ற நிலைக் கோட்பாடு|transition state theory|
-நிலைமாற்றத் தனிமம்|transition element|
-நிலைமாற்றப் பாய்வு|transition flow|
-நிலைமாற்றம்|transition|
-நிலைமை|status|
-நிலையக் காலம்|Permian period|
-நிலையம்|station|
-நிலையி|stator|rotor - சுழலி
-நிலையின் தொடர்தன்மை|continuity of state|
-நிலையுரு|literal|
-நிலைவிட்டம்|lintel|
-நில்|stop|
-நில்மரம்|standing timber|
-நிவாரணம்|alleviation|
-நிவுமூகு (நிரப்ப உலோக மூச்சியைடு குறைகட்டத்தி)|CMOS (Complementary Metal Oxide Semiconductor)
-நிழலிட்ட|shaded|
-நிழலுரு|image|
-நிழலுரு அலசல்|image processing|
-நிழலுருத்தல்|imaging|
-நிழல்வீதி|boulevard|
-நிற விழித்திரை|pigmented retina|
-நிறக்கணிகம்|chromoplast|
-நிறக்கலப்பினர்|mulatto|
-நிறக்கோளம்|chromosphere|
-நிறப்பாட்டீரியம்|chromobacterium|
-நிறப்பிரிகை|chromatography|
-நிறப்புரதம்|chromoprotein|
-நிறமம்|hue|
-நிறமற்றவம்|achromatium|
-நிறமாக்கி|chromogen|
-நிறமாட்டியம்|chromatium|
-நிறமாட்டியனையன|chromatiaceae|
-நிறமாலை|spectrum|
-நிறமாலை பகுப்பாய்வு|spectral analysis|
-நிறமாலைக் கோடுகள்|spectral lines|
-நிறமாலைநோக்கி|spectroscope|
-நிறமாலையளவி|spectrometer|
-நிறமாலையளவியல்|spectrophotometry|
-நிறமாலையியல்|spectroscopy|
-நிறமாற்றம்|versicolor|
-நிறமி|pigment|chromosome - மரபுமெய்யம்
-நிறமிகைப்பி|auxochrome|
-நிறமிப்புற்று|melanoma|
-நிறமியணு|melanocyte|
-நிறமியாதல்|pigmentation|
-நிறமிலாக்கணிகம்|leucoplasts|
-நிறமூட்டி|toner|
-நிறமேந்தி|chromophore|
-நிறம் நிரப்பி|fill with color|
-நிறவினச் சமத்துவம்|racial equality|
-நிறவினம்|race|
-நிறுத்த ஆற்றநிலை|stopping potential|
-நிறுத்தளவி|stopwatch|
-நிறுத்தி பெ.|stopper|
-நிறுத்திவைப்பு|parking|
-நிறுத்து|stop (something)|
-நிறுமம்|company|
-நிறுவநீக்கு|uninstall|
-நிறுவன இருப்பகம்|institutional warehouse
-நிறுவனம்|institution |
-நிறுவனர்|founder|
-நிறுவனர் கொள்கை|founder principle|
-நிறுவு|establish|
-நிறுவு (கணினியி்யல்)|install|
-நிறை|mass (weight)|
-நிறை எண்|mass number|
-நிறை நிறமாலையியல்|mass spectrography|
-நிறைச் செயல் விதி|law of mass action|
-நிறைப் பாய்வு|mass flow|
-நிறைமையம்|center of mass|
-நிறைவடைதல் மதிப்பு|satiety value|
-நிறைவுசெய்|satisfy|
-நிற்பம்|representation|
-நிற்பாளர்|representative|
-நினைக்குறிப்பு|memorandum|
-நினைவக அலகு|memory unit|
-நினைவக முகவரி|memory address|
-நினைவக மேலாண்மை|memory management|
-நினைவகம்|memory|
-நினைவிழப்பு|amnesia|
-நினைவு வரைவம்|memory engram|aka memory trace
-நினைவு வரைவம்|memory trace|aka memory engram
-நினைவுத்துணை|mnemonic|
-நின்றொளிர்வு|phosphorescence|
-நின்னைதிரின்|ninhydrin|
-நீக்கல் முறை|elimination method|
-நீக்கல் வினை|elimination reaction|
-நீக்கு|remove|delete - அகற்று; erase - துடை
-நீடிக்கத்தகு|sustainable|
-நீடிக்கத்தகு வளராக்கம்|sustainable development
-நீடித்த|prolonged|augmented - மிகுத்த; extended - நீட்டிய
-நீடித்த குறுக்கீடு|sustained interference|
-நீட்களம்|extent|
-நீட்சி|extension|
-நீட்சிக்கோடு|extension line|
-நீட்சித் தசை|extensor muscle|
-நீட்சித்திரிபு|longitudinal stress|
-நீட்சிப்பட்டை|lengthening bar|
-நீட்சிமுனை|punctum|
-நீட்சியுற்ற|elongated|
-நீட்டிய|extended|augmented - மிகுத்த; prolonged - நீடித்த
-நீட்டிய உதவி|extended help|
-நீட்டிய உரோகிணித் துணைக்கோள் வரிசை (நீரோதுவ)|stretched Rohini satellite series (SROSS)
-நீட்டுவம்|stretcher (masonry)|
-நீண்ட தசை|longus muscle|
-நீண்மை|elongation|
-நீண்மைப் பகுதி|zone of elongation|
-நீதித்துறை|judiciary|
-நீதித்துறை நீதிபதி|judicial magistrate|
-நீதித்துறை மீள்பார்வை|judicial review|
-நீதிபதி|magistrate|
-நீதிப்பேராணை|writ|
-நீதிமன்ற ஆணை|court order|
-நீதிமன்றம்|court (of justice)|
-நீபகா (நீர்மப் படிகக் காட்சியம்)|LCD (liquid crystal display)
-நீபிக்கின் எரித்தல் முறை|Leibig's combustion method
-நீமீகு (3-நீர்மூச்சிய-3-மீத்தைல்குளுட்டாரில துணையூக்கி)|HMG (3-Hydroxy-3-methyl-Glutaryl-CoA
-நீரடி|benthic|
-நீரடிச்சேர்க்கை|hypohydrophily|
-நீரடுக்கம்|water table|நீர்மட்டம் - water level
-நீரழுத்த|hydraulic|
-நீரழுத்தவியல்|hydraulics|
-நீரற்ற|non-aqueous|
-நீராவிப் பொறி|steam engine|
-நீராவியால் காய்ச்சிவடித்தல்|steam distillation|
-நீராற்பகுப்பு|hydrolysis|நீர்த்தல் - dilution
-நீராற்பகுப்பு ஊக்கிப்புரதம்|hydrolytic enzyme|
-நீராற்பகுப்பூக்கி|hydrolase|
-நீரிசு|Nereis|
-நீரிய|aqueous|
-நீரிய புரோமைடு|hydrogen bromide|
-நீரியக்கரிமம்|hydrocarbon|
-நீரியக்குளோரோபுளோரோகரிமம் (குபுக)|hydrochlorofluorocarbon (CFC)
-நீரியநீக்கம்|dehydrogenation|
-நீரியப் பிணைப்பு|hydrogen bond|
-நீரியமாக்கிய|hydrogenated|
-நீரியம்|hydrogen|
-நீரியம்நீ்க்கிய|dehydrogenated|
-நீரியைடு|hydride|
-நீரிலி|anhydride|
-நீரீயநீக்கவூக்கி|dehydrogenase|
-நீருடையி|hydrate|
-நீருட்கவர்தல்|water absorption|
-நீரேற்பு|hygroscopic|
-நீரேற்பு இயக்கம்|hygroscopic movement
-நீரேற்ற மாற்றியம்|hydrate isomerism|
-நீரேற்றம்|hydration|
-நீரொலியன்|hydrophone|
-நீரோட்டம்|current (water)|
-நீரோதுவ (நீட்டிய உரோகிணித் துணைக்கோள் வரிசை)|SROSS (stretched Rohini satellite series)
-நீர்|water|
-நீர் ஆற்றநிலை|water potential|
-நீர் திறன்  |hydropower|
-நீர் திறன் உற்பத்தி ஆலை|hydropower plant|
-நீர் மின்னிலையம்|hydroelectric power plant
-நீர்கசியா|waterproof|
-நீர்கந்தக|sulfhydryl|
-நீர்கந்தகவமைடு|sulfanilamide|
-நீர்க்குழாயமைப்பு|plumbing|
-நீர்க்கோளம்|hydrosphere|
-நீர்ச்சரல்|slurry|
-நீர்ச்சுருளியம்|aquaspirillum|
-நீர்ச்சேர்க்கை|hydrophily|
-நீர்த்த|dilute|
-நீர்த்த அமிலம்|dilute acid|
-நீர்த்த சுண்ணாம்பு|hydrated lime|aka slaked lime
-நீர்த்த சுண்ணாம்பு|slaked lime|aka hydrated lime
-நீர்த்தடையத் தட்டி|water resistant barrier|
-நீர்த்தல்|dilution|
-நீர்த்தாவர தொடர்முறை|hydrosere|
-நீர்நாடு|hydrotropic|
-நீர்நாளம்|aqueduct|
-நீர்நிலவாழ்|amphibious|
-நீர்நிலவாழ்வன|amphibia|
-நீர்நிலவாழ்வன்|amphibian|
-நீர்நீக்கம்|dehydration|
-நீர்நீக்கவூக்கி|anhydrase|
-நீர்போரேற்றல்|hydroboration|
-நீர்ப்பதம்|humidity|moisture - ஈரப்பதம்
-நீர்ப்பரவல்|hydrochory|
-நீர்ப்பாசனம்|irrigation|
-நீர்ப்பிரிமுகடு|watershed|
-நீர்ப்பையம்|lamphoocystis|
-நீர்மக் கடத்தி|liquid conductor|
-நீர்மக்குழலாக்கத்திசு|procambium|
-நீர்மக்குழல்|vascular|
-நீர்மக்குழல் கற்றை|vascular bundle|
-நீர்மக்குழல் மூடுறை|vascular tunic|
-நீர்மக்குழல் மேல்மறைப்பு|vascular occlusion|
-நீர்மச்சுருக்கமீள்வு|deplasmolysis|
-நீர்மச்சுருக்கம்|plasmolysis|
-நீர்மத்தன்மை|liquidity|
-நீர்மப் படிகக் காட்சியம் (நீபகா)|liquid crystal display (LCD)
-நீர்மப் படிகம்|liquid crystal|
-நீர்மமாக்கல்|liquation|
-நீர்மம்|liquid|fluid - பாய்மம்
-நீர்மின்|hydel|
-நீர்முச்சிய-|hedroxy-|
-நீர்மூச்சிய (கரிம)|hydroxyl|
-நீர்மூச்சிய (கனிம)|hydroxy|
-நீர்மூச்சியமேற்றல்|hydroxylation|
-நீர்மூச்சியவமீன்|hydroxylamine|
-நீர்மை விகிதம்|liquid ratio|
-நீர்வளர்ப்பு|aquaculture|
-நீர்வாழ்தாவரம்|hydrophyte|
-நீர்விருப்பம்|hydrophilicity|
-நீர்விரும்பி |hydrophile|
-நீர்விரும்பித் தொகுதி|hydrophilic group|
-நீர்வீழ்ச்சி|waterfalls|
-நீர்வெறுப்பி|hydrophobe|
-நீர்வெறுப்பு|hydrophobicity|
-நீர்வெறுப்புத் தொகுதி|hydrophobic group|
-நீர்வேளாண்மை|hydroponics|
-நீலக்குருந்தம்|sapphire|
-நீலத்திமிங்கிலம்|blue whale|
-நீலநாக்கு|bluetongue|
-நீலப்பசும் ஆல்கா|blue green alga|
-நீல்ஸ் போர்|Niels Bohr|
-நீளக்குறுக்கம்|length contraction|
-நீளப்பிணைப்பு|stretcher bond|
-நீளமாதல் (அனரி)|elongation (rna)|
-நீளவாட்டு அதிர்வு|longitudinal vibration|
-நீளவாட்டுவரிசை|stretcher course|
-நீளிருக்கை|sofa|
-நீளுருளைப்புழு|Ascartis|
-நீளுறக்கம்|hibernation|ஆழுறக்கம் - deep sleep
-நீள்கோளம்|ellipsoid|
-நீள்கோளவம்|ellipsoideus|
-நீள்தட்டு|platter|
-நீள்துண்டமாக்கல்|metameric segmentation
-நீள்துண்டம்|metamere|
-நீள்துளை|slot|
-நீள்பகல் தாவரங்கள்|long day plants|
-நீள்மாறெழு|longvarchar|
-நீள்முதுகுத்தசை|longissimus|
-நீள்மூக்கு இடுக்கி|long nose plier|
-நீள்வகுத்தல்|long division|
-நீள்வட்ட |elliptical|
-நீள்வட்ட வளைவு|elliptical arch|
-நீள்வட்டச் சுற்றுப்பாதை|elliptical orbit|
-நீள்வட்டத் திறப்பு|oval window|
-நீள்வட்டம்|ellipse|
-நீற்றுதல்|calcination|நீர்த்தல் - dilution
-நு|nu|
-நுகர்பொருள்|consumable|
-நுகர்வு|consumption|smell - முகர்வு
-நுகர்வோரிசம்|consumerism|
-நுகர்வோரைக் காத்தல்|consumer protection|
-நுகர்வோர்|consumer|
-நுகர்வோர் கல்வி|consumer education|
-நுகர்வோர் தடையம்|consumer resistance|
-நுகர்வோல் விலைச் சுட்டெண்|consumer price index|
-நுடீசியம்|lutetium|
-நுண்-|micro-|
-நுண்கணிதம்|calculus|
-நுண்கணினி|microcomputer|
-நுண்கலைகள்|fine arts|
-நுண்கழிவுக்குழல்|micronephridium|
-நுண்குழலம்|microtubule|
-நுண்குழலளவி|micropipette|
-நுண்கூரியம்|spicule|
-நுண்சிற்றிழை|microfilament|
-நுண்ணரசியல்|micropolitics|
-நுண்ணலகியம்|macromonas|
-நுண்ணலசி|microprocessor|
-நுண்ணலை|microwave|
-நுண்ணலை கணப்பு|microwave oven|
-நுண்ணலைவன்|plankton|அலைந்து திரியும் நுண்ணுயிரி
-நுண்ணளவு|microscopic|
-நுண்ணறை|utricle|
-நுண்ணாய்வி|probe|
-நுண்ணிய நிறமாலை|fine spectrum|
-நுண்ணியிரி|microbe|
-நுண்ணியிரியல்|microbiology|
-நுண்ணிழுமடி|frenulum|
-நுண்ணினவணு|microgamete|
-நுண்ணுயிரி வளர்த்தல்|microbial culture|
-நுண்ணுயிரெதிர்ப்ப|antimicrobial|
-நுண்ணுயிர்நிலைபெறல்|microbiostasis|
-நுண்ணுள்ளேற்றல்|microinjection|
-நுண்ணுறுப்புகள்|organelles|
-நுண்ணூட்டங்கள்|micronutrients|
-நுண்ணொலியன்|microphone|
-நுண்ணோக்கவியல்|microscopy|
-நுண்ணோக்கி|microscope|
-நுண்துகள்|microparticle|corpuscle - தனித்துகள்
-நுண்துளை|ostiole|
-நுண்துளைப் பாண்டம்|porous pot|
-நுண்துளையிடுவான்|perforator|
-நுண்துளையிட்ட|perforated|
-நுண்பசையணு|microglia|
-நுண்பசையப் பேருண்ணி|microglial cell|
-நுண்படிகம்|microcrystal|
-நுண்பாட்டீரியம்|microbacterium|
-நுண்புழை|capillary|
-நுண்புழையேற்றம்|capillary rise|
-நுண்புழைவு|capillarity|
-நுண்பெருக்கம்|micropropagation|
-நுண்பொருளியல்|microeconomics|
-நுண்மணியம்|micrococcus|
-நுண்மணியனையன|micrococcaceae|
-நுண்மன்|micron|
-நுண்முடியம்|leptothrix|
-நுண்மெய்யம்|microsome|
-நுண்மையம்|microcystis|
-நுண்வடிவம்|microform|
-நுண்வளரி|culture (microbiology) n
-நுண்வளரூடகம்|culture medium|
-நுண்வளர்|culture (microbiology) v
-நுண்வித்திலை|microsporophyll|
-நுண்வித்து|microspore|
-நுண்வித்துப்பை|microsporangium|
-நுண்விரலி|microvillus|
-நுண்வெட்டி|microtome|
-நுதலெலும்பு|frontal bone|
-நுரை|foam|
-நுரை மிதப்பு|froth floatation|
-நுரைக்கல்|pumice|
-நுரைச்சிற்றரைக் கோட்பாடு|alveolar foam theory|
-நுரைபொங்கல்|effervescence|
-நுரையீரலுறை|pleura|
-நுரையீரலுறைகள்|pleuron|
-நுரையீரலுறைச் சவ்வு|pleural membrane|
-நுரையீரலுறைநிமோனியா|pleuropneumonia|
-நுரையீரலுறைப் பாய்மம்|pleural fluid|
-நுரையீரலுறையழற்சி|pleurisy|
-நுரையீரலுறையழற்சி|pleuritis|
-நுரையீரல்|lung|
-நுரையீரல் சுற்றோட்டம்|pulmonary circulation|
-நுரையீரல் தமனி|pulmonary artery|
-நுரையீரல் நுண்குழல்|lung capillary|
-நுரையீரல் புற்று|lung carcinoma|
-நுரையீரல் பெ.உ|pulmonary|
-நுரையீறலுறைக் குழி|pleural cavity|
-நுழை விசை (கணினியி்யல்)|enter key|
-நுழைசேர்ப்பு|admission|
-நுழைவ ஆற்றல்|threshold energy|
-நுழைவச் சுற்றோட்டம்|portal circulation|
-நுழைவடு|hilum|
-நுழைவமைப்பு|portal system|
-நுழைவம்|portal|
-நுழைவறை|vestibule|
-நுழைவறைக் குழி|scala vestibuli|
-நுழைவறைச் சவ்வு|Reissner's membrane|aka vestibular membrane
-நுழைவறைச் சவ்வு|vestibular membrane|aka Reissner's membrane
-நுழைவறைச் சுரப்பி|vestibular gland|
-நுழைவாயில்|threshold|
-நுழைவாய்|inlet|
-நுழைவி|gateway|
-நுனிக்கருகல்|die back|
-நூ|gnu|
-நூபிய (நூ பிழை அலசி)|GDB (Gnu Debugger)|
-நூயி அமிலம்|Lewis acid|
-நூயிக் காரம்|Lewis base|
-நூலிழை முனை|Filum terminale|
-நூறாயிரம்|lakh|அறிவியலில் இலச்சமும் கோடியும் பயன்படுத்த வேண்டாம்.
-நூறுகாலி|centipede|
-நூறோ-|hecto-|
-நூற்றொருமடியாயிரம்|centillion (short scale)|
-நெகிழ்தம்|relaxin|
-நெகிழ்பாட்டீரியம்|flexibacter|
-நெகிழ்ம|plastic adj|
-நெகிழ்ம வீச்சு|plastic range|
-நெகிழ்மப் பண்பு|plastic property|
-நெகிழ்மமாக்கி|plasticizer|
-நெகிழ்மம்|plastic n|
-நெகிழ்முடியம்|flexithrix|
-நெகிழ்மை|plasticity|elasticity - இழுமை; elastic - இழுமம்
-நெகிழ்வட்டு|floppy disk|
-நெகிழ்வட்டோடி|floppy drive|
-நெசவமை|fabricate|
-நெசவமைத்தல்|fabrication|
-நெசவாலை|textile mill|
-நெசவுப்பொருள்|textile|
-நெடுக்கு|longitudinal|
-நெடுக்கு வெட்டு|longitudinal section|
-நெடுக்குப் பிளவு|longitudinal fissure|
-நெடுக்கை (அட்டவணை, தளவணி)|column (table, matrix)|நிரல் - program (computer)
-நெடுங்கடு|chronic|
-நெடுங்கடு மூளைக் குறித்தொகுப்பு|chronic brain syndrome
-நெடுங்கால|long term|
-நெடுங்கோர்வை (புரதம்)|heavy chain (protein)|
-நெடுஞ்சாலை|highway|
-நெட்டச்சு|major axis|
-நெட்டச்சு|ordinate|
-நெட்டரின்|nectarin|
-நெட்டி|pith|
-நெட்டியூன்|Neptune|
-நெட்டிலிங்கம்|polyalthia|
-நெட்டுனியம்|neptunium|
-நெட்டூன்|Neptune|
-நெபுலம்|nebula|
-நெம்புகோல்|lever|
-நெம்புப்பிடி|lever handle|
-நெய்சரியங்கள்|neisseria|
-நெய்சரியனையன|neisseriaceae|
-நெரிக் குடற்பிதுக்கம்|strangulated hernia|
-நெரிப்பகற்றல்|angioplasty|நெரிப்பு + அகற்றல்
-நெரிப்பளவி|angiogram|
-நெரிப்பளவியல்|angiography|
-நெரிப்பி|choke|
-நெரிப்புவலி|angina|
-நெரினசரின் சமன்பாடு|Nernst equation|
-நெருக்கப் பொதிவு|close packing|
-நெல்|paddy|
-நெளியத்தகு|flexible|
-நெளியாச் சுழலி|rigid rotor|
-நெளியாட்டக் காரம்|wobble base|
-நெளியாட்டம்|wobble |
-நெளியாப் பொருள்|rigid body|
-நெளியாமை|rigidity|
-நெளியாமைக் குணகம்|rigidity modulus|
-நெளிவியங்கு|undulate|
-நெளிவு முற்றுநுனியன்|scorpioid cyme|
-நெளிவுக் குறி|tilde|
-நெளிவுமை|flexibility|
-நெறியுரை|normative|
-நெறியுறுத்தம்|directive|
-நெற்றிமடை|temple (anatomy)|
-நெற்றிமடை எலும்பு|temporal bone|
-நெற்று|achene|
-நேநி (நேரணுகு நினைவகம்)|RAM (random access memory)
-நேப்பியரின் குச்சிகள்|Napier's bones|aka Napier's rods
-நேப்பியரின் குச்சிகள்|Napier's rods|aka Napier's bones
-நேப்பியர்|Napier|
-நேர நீட்சி|time dilation|
-நேர மீள்திருப்பம்|time reversal|
-நேரங்கடத்து ஒளிப்படவியல்|time-laspse photography
-நேரடி|direct|
-நேரடி அகற்பரப்பல்|live broadcast|
-நேரடி அஞ்சல் விளம்பரம்|direct mail advertising|
-நேரடி அயல் முதலீடு|foreign direct investment
-நேரடி நினைவக அணுகல்|direct memory access|
-நேரடி மாறுபாடு|direct variation|
-நேரணுகு|direct access|aka random access
-நேரணுகு|random access|aka direct access
-நேரணுகு நினைவகம் (நேநி)|random access memory (RAM)
-நேரத் தொடர்|time series|
-நேரத்தடக்கம்|time-out (computer)|
-நேரப் பகிர்வு|time share|
-நேரப் பகிர்வு|time sharing|
-நேரமுத்திரை|timestamp|
-நேரமை|align|
-நேரமை பரிமாணமிடுதல்|aligned dimensioning|
-நேரமைத்தல்|aligning|
-நேரமையாமை|misalignment|
-நேரமைவு|alignment|
-நேரம்சார் போக்கு|secular trend|
-நேரவுணர்வு|sense of timing|
-நேரளவம்|time scale|
-நேராக்கப் பதிகை|rectifying entry|
-நேராக்கி|rectifier|
-நேராக்கு|rectify|
-நேரிய உலோக மூச்சியைடு குறைகடத்தி (நேவுமூகு)|p-type metal oxide semiconductor (PMOS)
-நேரிய பல்லுறுப்புக்கோவை|linear polynomial|
-நேரியத் திட்டமிடல்|linear programming|
-நேரியமற்ற|nonlinear|
-நேரியல்|linear|
-நேரியற் சமன்பாடுகள்|linear equations|
-நேரெதிர் சந்தி|pn junction|
-நேரெதிர் சந்தி இருமின்வாய்|pn junction diode|
-நேரெதிர்நேர் மாற்றடையன்|pnp transistor|
-நேர் விகிதம்|direct proportion|
-நேர்க்கோட்டு முறை|straight line method|
-நேர்க்கோட்டுத் துண்டு|line segment|
-நேர்க்கோட்டுத் தொகுதி|family of straight lines|
-நேர்க்கோணம்|straight angle|
-நேர்த்திசைக் கிடையிழை|sense strand|
-நேர்த்தியாக்கல்|justification|
-நேர்த்தியாக்கு|justify|
-நேர்நிலைச் சூல்|atropous ovule|aka orthotropous ovule
-நேர்நிலைச் சூல்|orthotropous ovule|aka atropous ovule
-நேர்ந்தவாறான|random  |சமவாய்ப்பு - equally likely
-நேர்ந்தவாறான எண்|random number|
-நேர்ந்தவாறான சீரற்ற கற்கட்டு|random rubble masonry
-நேர்ந்தவாறான நிகழ்வு|random event|
-நேர்ந்தவாறான பிழை|random error|
-நேர்ந்தவாறான மாதிரிக்கூறெடுப்பு|random sampling|
-நேர்ந்தவாறு|at random|
-நேர்ந்தவாறு|randomly|
-நேர்ந்தவாறுமை|randomness|
-நேர்ப் படிக்கட்டு|straight stair|
-நேர்ப்படநோக்கி|orthicon|
-நேர்ப்பெருக்கல்|direct product|
-நேர்ம|positive|
-நேர்ம இரீசு|rhesus positive|
-நேர்ம எண்கள்|positive numbers|
-நேர்ம ஒளிநாட்டம்|positive phototropism|
-நேர்ம முழுவெண்கள்|positive integers|
-நேர்ம வகைக் குறைக்கடத்தி|p-type semiconductor|
-நேர்ம வளைவம்|positive curvature|
-நேர்ம வினையூக்கி|positive catalyst|
-நேர்மக் கதிர்கள்|positive rays|
-நேர்மச் சாயமிடல்|positive staining|
-நேர்மப் பின்னூட்டம்|positive feedback|
-நேர்மயனி|cation|
-நேர்மவாய்|cathode|
-நேர்மவாய்க் கதிர் அலைவுநோக்கி|cathode ray oscilloscope
-நேர்மவாய்க் கதிர்கள்|cathode rays|
-நேர்மவாய்க் கேடயம்|cathod shield|
-நேர்மவாய்க்கவர்ச்சி|cataphoresis|
-நேர்மவாய்த் தடுப்பறை|cathode compartment|
-நேர்மாறற்ற தளவணி|singular matrix|
-நேர்மாறுள்ள தளவணி|nonsingular matrix|
-நேர்வுமாறி|random variable|
-நேர்வுமாறி|variate|
-நேவுமூகு (நேரிய உலோக மூச்சியைடு குறைகடத்தி)|PMOS (p-type metal oxide semiconductor)
-நைக்கல் பட்டகம்|Nicol prism|
-நைலான்|nylon|
-நொடி|second (time)|
-நொடிக்கு --- இருமடியாயிரம் நிரலங்கள் (நொவிநி)|million instructions per second (MIPS)
-நொடிக்கு … இணு|baud|
-நொடிப்பின்மை|solvency|
-நொடிப்பு|insolvent|
-நொதி|ferment|enzyme - ஊக்கிப்புரதம்
-நொதித்தல்|fermentation|
-நொதிப்பூஞ்சை|yeast|
-நொதியம்|cerevisiae|
-நொதியலகியம்|zymomonas|
-நொவிநி (நொடிக்கு --- இருமடியாயிரம் நிரலங்கள்)|MIPS (million instructions per second)
-நொறுக்கத்துண்டு|debris|
-நொறுக்கு வலிமை|crushing strength|
-நொறுங்கக்கூடிய|fragile|
-நொறுங்கல்|spallation|
-நொறுங்குமை|fragility|
-நொற்றேற்றம்|notatum|
-நோகோ (நோயெதிர்ப்புக்கோளப்புரதம்)|Ig (immunoglobulin)|
-நோகோகா|IgG|
-நோகோடி|IgD|
-நோகோம|IgM|
-நோகோவா|IgA|
-நோகோவி|IgE|
-நோக்கமுடைய மாதிரிக்கூறெடுப்பு|judgement sampling|aka purposive sampling
-நோக்கமுடைய மாதிரிக்கூறெடுப்பு|purposive sampling|aka judgement sampling
-நோக்கல் அட்டவணை|lookup table|
-நோக்கார்டியங்கள்|nocardia|
-நோக்கார்டியவுருக்கள்|nocardioforms|
-நோக்கார்டியனவம்|nocardiopsis|
-நோக்குக் கோணம்|glancing angle|
-நோக்குநிலை |perspective|
-நோக்குமயக்கப் பிழை|parallax error|
-நோக்குமயக்கம்|parallax|
-நோக்குள்|peek|
-நோக்கெல்லை|scope|
-நோபெலியம்|nobelium|
-நோமச்சு|Nomex|
-நோயற்ற வாழ்வே குறைவற்ற செல்வம்|Health is Wealth|
-நோயாக்கவியல்|pathogenesis|
-நோயாக்கி|pathogen|
-நோயாக்குமை|pathogenicity|
-நோயெதிர்ப்பமைப்பு|immune system|
-நோயெதிர்ப்பாக்க|immunogenic|
-நோயெதிர்ப்பாக்கம்|immunogenicity|
-நோயெதிர்ப்பாக்கி|immunogen|
-நோயெதிர்ப்பி|antibody|
-நோயெதிர்ப்பித்தானொளிர்வு|immunofluorescence|
-நோயெதிர்ப்பியல்|immunology|
-நோயெதிர்ப்பிவிரவல்|immunodiffusion|
-நோயெதிர்ப்பு|immunity (medicine)|vaccination - நோய்த்தடுப்பு
-நோயெதிர்ப்பு மேற்கவர்வி|immunoadsorbent|
-நோயெதிர்ப்பு மேற்கவர்வி|immunosorbent|
-நோயெதிர்ப்புக் குறைப்பு|immunosuppression|
-நோயெதிர்ப்புக் கூட்டுமம்|antigen-antibody complex|aka immune complex
-நோயெதிர்ப்புக் கூட்டுமம்|immune complex|aka antigen-antibody complex
-நோயெதிர்ப்புக்குறை|immunodeficiency|
-நோயெதிர்ப்புக்கோளப்புரதம் (நோகோ)|immunoglobulin (Ig)|
-நோயெதிர்ப்புத் தாழ்வு|immunodepression|
-நோயெதிர்ப்புத் தீர்மானி|antigenic determinant|aka epitope
-நோயெதிர்ப்புத் தீர்மானி|epitope|aka antigenic determinant
-நோயெதிர்ப்புப் பதில்வினை|immune response|
-நோயெதிர்ப்புவல்ல|immunocompetent|
-நோயெதிர்ப்பூட்டல்|immunization|
-நோயெதிர்ப்பூட்டி|antigen|
-நோயெதிர்ப்பூட்டி தடுத்தல்|antigen blocking|
-நோயெதிர்ப்பூட்டி தோன்றளித்தல்|anitigen presentation|
-நோயெதிர்ப்பூட்டி வழங்கணு (நோயெவ)|antigen presenting cell (APC)
-நோயெதிர்ப்பூட்டு|immunize|
-நோய்க்காரண|etiological|
-நோய்க்காரணவியல்|etiology|
-நோய்க்குறி எலும்புமுறிவு|pathological fracture|
-நோய்க்குறியியல்|pathology|
-நோய்த்தடுப்பியல்|prophylaxis|
-நோய்த்தடுப்பு|vaccination|immunity - நோயெதிர்ப்பு
-நோய்த்தடுப்பு மருந்து|prophylactic drug|
-நோய்ப்பரவலியல்|epidemiology|
-நோய்வெடிப்பு|epidemy|plague - கொள்ளைநோய்
-நோவா|nova |
-நோவாக்கள்|novae|
-நோவிகித் துண்டு|fab fragment|நோயெதிர்ப்பூட்டி இணைப்புக் கிளை
-நோவிகிப் பகுதி|fab region|
-பகரவடி|invert (plumbing)|ப வடிவமுள்ள குழாயடி
-பகலொளிச் சாளரம்|skylight window|
-பகா எண்கள்|prime numbers|
-பகிரர்|dealer |
-பகிரர் சேவை விற்பனையாளர்|dealer-servicing salesperson
-பகிர்|share v|
-பகு-|lyso-|
-பகுதி (வேதியியல்)|moiety|
-பகுதி அழுத்தம்|partial pressure|
-பகுதி ஓங்கல்|partial dominance|
-பகுதி பெ|section|
-பகுதி பெ.அ|partial|
-பகுதி வகைக்கெழு|partial derivative|
-பகுதி வகையிடல்|partial differentiation|
-பகுதி வகையீட்டுச் சமன்பாடுகள்|partial differential equations
-பகுதிக் காய்ச்சிவடித்தல்|fractional distillation|
-பகுதிச் சராசரி|semiaverage|
-பகுதிச் சுரப்பி|merocrine gland|
-பகுதிச் செலுத்தக் காப்பிதழ்|limited payment policy|
-பகுதிப் பண்படுத்தல்|zone refining|
-பகுதிப் பின்னம்|partial fraction|
-பகுதிம|modular|
-பகுதிமம்|modularity|
-பகுதிமாற்றியம்|metamerism (chemistry)
-பகுதியடுக்கம்|metamerism (zoology)|
-பகுதியளவில்|partially|
-பகுதியாக்கல்|sectioning|
-பகுதிறன்|resolution (instrument)
-பகுதிறன் எல்லை|limit of resolution|
-பகுத்தல்|lysis|
-பகுத்தல் சுழற்சி|lytic cycle|
-பகுத்தறி|deductive|inductive - தொகுத்தறி
-பகுத்தனின்|lysine|
-பகுபடாமை|indivisibility|
-பகுபி (பலகுளோரினிட்டவிருபினைல்)|PCB (polychlorinated biphenyl)
-பகுப்பாய்வர்|analyst|
-பகுப்பாய்வு|analysis|
-பகுப்பாய்வு மிகைச்சுழல்வீழ்த்தி|analytical ultracentrifuge
-பகுமுட்டைக்கொழு|lysolecithin|
-பகுமுறை வடிவியல்|analytical geometry|
-பகுமெய்யம்|lysosome|
-பகுவல்|fractal|
-பகுவி|dividend|
-பகுவூக்கி|lysozyme|
-பகோ (பணிக் கோப்பகம்)|wd (working directory)
-பக்க ஆக்கத்திசு|lateral meristem|
-பக்க இணைப்பில் தடையிகள்|resistors in parallel|
-பக்க நீட்சி (முள்ளெலும்பு)|transverse process (vertebra)
-பக்க நோக்குநிலை|broad side on positon|
-பக்க மாற்றியமூக்கி|cis-trans isomerase|
-பக்க மாற்றியம்|cis-trans isomerism|
-பக்கக் கழல்|lateral loop|
-பக்கக் காட்சி|PageView|
-பக்கக் கால்கள்|parapodia|
-பக்கக் கிளை|collateral (biology)|
-பக்கக் கிளை|collateral branch|
-பக்கக் கோர்வை|side chain|
-பக்கக்கால்|queen post|
-பக்கமிடுதல்|pagination|
-பக்கவாட்டாக்கம்|lateralization|
-பக்கவாட்டு|lateral|transverse - குறுக்குவாட்டு
-பக்கவாட்டு மூளை உள்ளறை|lateral ventricle|
-பக்கவாட்டுக் கடத்தல்|lateral transport|
-பக்கவாதம்|stroke (medicine)|
-பக்கவிணை|synapsis|
-பக்கிப்பந்து|buckyball|
-பக்மின்ஸ்டர் ஃபுல்லர்|Buckminster Fuller|
-பங்களவிடல்|rationing|
-பங்களவு|ration|
-பங்களி |contribute|
-பங்களிப்பு|contribution|
-பங்காளி|partner|shareholder - பங்குதாரர்
-பங்காளிமை|partnership|
-பங்கு|share n|
-பங்கு மாற்றகம்|stock exchange|
-பங்கு வியாபாரம்|stock trading|
-பங்குசேர்|subscribe|
-பங்குசேர்க்கை|subscription|
-பங்குச் சந்தை|stock market|
-பங்குதாரர்|shareholder|partner - பங்காளி
-பங்குத்திரள்|stock (shares)|
-பங்குவகி|participate|
-பங்குவகிக்காத முன்விருப்பப் பங்கு|nonparticipating preference share
-பங்குவகிக்கும் முன்விருப்பப் பங்கு|participating preference share
-பசாற்றுக்கல்|basalt|
-பசிப்பிக|Pacific|
-பசுங்கணிகம்|chloroplast|
-பசுங்குச்சி எலும்புமுறிவு|greenstick fracture|
-பசுநிலம்|meadow|
-பசுமை உரமிடல்|green manuring|
-பசுமை வேதியியல்|green chemistry|
-பசுமைப் புரட்சி|Green Revolution|
-பசுமைமாறா|evergreen|
-பசுமையமைதி|greenpeace|
-பசுமையில்லம்|greenhouse|
-பசுரா|Busra|
-பசுவம்மை|cow pox|
-பசை|paste n|
-பசை நாடா|cellophane tape|
-பசை மின்கலம்|dry cell|
-பசையணு|glia|
-பசையம்|gluten|
-பசையாப்பகுதி|prozone|
-பசையூட்டி|agglutinogen|
-பசையெண்ணெய்|grease|
-பசையொட்டல்|agglutination|
-பசையொட்டி|agglutinin|
-பசையொட்டு மொழி|agglutinative language
-பசைவீக்கம்|rind gall|
-பச்சின்|fuchsin|
-பச்சைக் கந்தகப் பாட்டீரியம்|green sulfur bacterium
-பச்சையக்கூழ்த்திசு|chlorenchyma|
-பச்சையச் சோகை|chlorosis|
-பச்சையம்|chlorophyll|
-பச்சையால்கவை|chlorophyceae|
-பஞ்சனையவுடல்|corpus spongiosum|
-பஞ்சிய|spongy|
-பஞ்சியச் சிறுநீர்ப்புறவழி|spongy urethra|
-பஞ்சியத்திசு|spongy tissue|
-படகிய|carinate|
-படகு வெளிவடிவம்|boat conformation|
-படக்கருவி|camera|
-படநோக்கி|iconoscope|
-படலக்கோளம்|stratosphere|
-படலமிடல்|veneering|
-படலம்|layer|stratum - அடுக்கம்
-படலவோடாக்கம்|encrustation|
-படலவோடாதல்|crustation|
-படலவோடு|crust (earth)|
-படலவோடுடையது|crustacean|
-படலாடை|film |
-படலாடைத் துண்டு|film strip|
-படவரைவு|diagram|chart - வரிவரைவு
-படவரைவு|graphics|
-படவரைவு அட்டை|graphics card|
-படவரைவு இடமாற்ற வடிவூட்டம் (பயிவ)|Graphic Interchange Format (GIF)
-படவரைவு பயனர் இடைமுகம் (பபவி)|graphical user interface (GUI)
-படவலகு|pixel|
-படவில்லை|slide n|
-படவில்லை தோன்றுரை|slide presentation|
-படவில்லைக் காட்சி|slide show|
-படவில்லைக் காட்டி|slide viewer|
-படற்சட்டம்|sash (construction)|
-படி 1, 2, 3 ...|step 1, 2, 3,…|
-படிக|crystalline|
-படிகக்கல்|quartz|
-படிகமற்ற|amorphous|
-படிகமாக்கல்|crystallizing|
-படிகமாக்கு|crystallize|
-படிகமாதல்|crystallization |
-படிகம்|crystal|
-படிகவியல்|crystallography|
-படிகவியல் அச்சுகள்|crystallographic axes|
-படிகனையம்|crystalloid|
-படிக்கட்டு|stair|
-படிக்கட்டு|staircase|hierarchy - படிவரிசை
-படிக்கல்|milestone|
-படிக்கவே நினைவகம் (பநி)|read only memory (ROM)
-படிக்கால்|newel post|
-படிசென்றிக அமிலம்|alkapton|aka homogentisic acid
-படிசென்றிக அமிலம்|homogentisic acid|aka alkapton
-படிசென்றிகச்சிறுநீர்|alkaptonuria|
-படிசென்றிகேட்டு|homogentisate|
-படிச் சார்பு|step function|
-படிநகல்|transcript |
-படிநிலை|stratified|
-படிநிலை மாதிரிக்கூறெடுப்பு|stratified sampling|
-படிப்பறிவின்மை|illiteracy|
-படிப்பறிவு|literacy|
-படிப்பி|reader|
-படிமப்பாறை|sedimentary rock|
-படிமமாதல்|sedimentation|
-படிமமாதல் மாறிலி|sedimentation constant
-படிமம்|sediment|
-படிமுறை|algorithm|
-படிமூலம்|root (math)|
-படியத் திறப்பி|indented key|
-படியமிடு|indent (text)|
-படியம்|indentation|
-படியிறக்க வாய்ப்பாடு|reduction formula|
-படியிறக்கி|escalator (down)|
-படியேற்றி|escalator (up)|
-படிவம்|form (fill in)|
-படிவரிசை|hierarchy|staircase - படிக்கட்டு
-படிவரிசைக் கோப்பமைப்பு|hierarchical file system
-படிவொத்த|homologous|
-படிவொப்பு வரிசை|homologous series|
-படிவொப்புமை|homology|
-படிவொப்போன்|homolog|
-படுகதிர்|incident ray|
-படுகை|bed (river)|
-படுகை இணைப்பு|bed joint|
-படுகோணம்|incident angle|
-படுபுள்ளி|point of incidence|
-படை (தோல்)|eczema|
-படைநிமோ|legionnaires' disease|aka படையினர் நி்மோனியா
-படைநிமோவாக்கி|legionella|
-படைநிமோவாக்கியனையன|legionellaceae|
-படைப்பறிவியல்|creation science|
-படையினர் நிமோனியா|legionnaires' disease|aka படைநிமோ
-பட்டகம்|prism|
-பட்டடையெலும்பு|incus|
-பட்டம்|kite|
-பட்டறிவூட்ட|heuristic|
-பட்டறிவூட்டம்|heuristics|
-பட்டாம்பூச்சி|butterfly|silik moth - பட்டுப்பூச்சி
-பட்டி|menu|
-பட்டிசி (பட்டியல் அலசி)|LISP (LISt Processing)
-பட்டிப் பட்டை|menu bar|
-பட்டியடை|impound|
-பட்டியலிடுதல்|listing|
-பட்டியலிலுள்ள வங்கி|scheduled bank|
-பட்டியலில் இல்லாத வங்கி|non-scheduled bank|
-பட்டியல் பெட்டி|list box|
-பட்டியோட்ட|menu driven|
-பட்டுப்புழு|silkworm|butterfly - பட்டாம்பூச்சி
-பட்டுப்பூச்சி|silkmoth|butterfly - பட்டாம்பூச்சி
-பட்டை|girdle|
-பட்டை (கட்டுமானம்)|frieze|
-பட்டை நிறமாலை|band spectrum|
-பட்டைக் காந்தம்|bar magnet|
-பட்டைக்குளூசினால்|phloroglucinol|
-பட்டைக்குறி|barcode|
-பட்டைக்குறி படிப்பி|barcode reader|
-பட்டைசின்|phlorizin|
-பட்டைத்துளை|lenticle|
-பட்டைநீக்கப் பரிசோதனை|girdling experiment|
-பட்டைப் படவரைவு|bar diagram|
-பட்டையகலம்|bandwidth|
-பட்டையிடுதல்|banding|
-பட்டைவரைவு|histogram|
-பண|monetary|
-பண அட்டை|debit card|
-பண எந்திர அட்டை|ATM card|
-பண எந்திரம்|ATM|
-பணக்கொள்விதி|monetary policy|
-பணஞ்செலுத்தல்|payment|
-பணமற்ற பொருளாதாரம்|non-monetized economy
-பணமாக்கல்|cashing|
-பணமீள்|redeem|
-பணமீள்தகா|nonredeemable|
-பணமீள்தகு|redeemable|reversible - மீள்தகு
-பணவீச்சு|outlay|
-பணி|job|
-பணி தேடல்|job search|
-பணி வரிசையாக்கல்|job sequencing|
-பணிகளைக் காலமுறையாக்கல்|job scheduling|
-பணிகள் காட்சி|jobs view|
-பணிகொள்|employ |
-பணிகொள் வாக்கீட்டுத் திட்டம்|Employment Assurance Scheme
-பணிகொள்வோர்|employer|
-பணிகொள்ளலின்மை|unemployment|
-பணிகொள்ளல்|employment|
-பணிகொள்ளல் வாய்ப்பு|employment opportunity
-பணிக் கோப்பகம் (பகோ)|working directory (wd)
-பணிக்குழு|workgroup|committee - செயற்குழு
-பணிசார் இடர்|occupational hazard|
-பணித்தளக் கணினி|desktop computer|
-பணித்தளம்|desktop|
-பணித்திட்டம்|programme|
-பணிநிலையம்|workstation|
-பணிப்பலகை|workbench|
-பணிமுனைவம்|enterprise|
-பணிமேசை|desk|
-பணியாளர்|employee|
-பணியீடளி|remunerate|
-பணியீடு|remuneration|பணி + ஈடு
-பணிவெளி|workspace|
-பண்கல்|gem|
-பண்டமாற்று|barter|
-பண்டின் தொடர்|Pfund series|
-பண்டெச்ச|vestigeal|
-பண்டெச்சம்|vestige|
-பண்படாத|unrefined|
-பண்படுத்து|refine|
-பண்படை|attribute|பண்பு + அடை
-பண்பட்ட|refined|
-பண்பலை|FM|
-பண்பு|property|
-பண்புக்கூறு|feature|organ - உறுப்பு
-பண்புசார்|qualitative|
-பண்புசார் பகுப்பாய்வு|qualitative analysis|
-பண்முன்|raw|
-பண்முன் தரவு|raw data|
-பண்முன் பொருள்|raw material|
-பதங்கமாதல்|sublimation|
-பதப்படுத்தல்|conditioning|
-பதமாக்கல்|seasoning|
-பதமாக்கல் (தோல்)|tanning|
-பதமாக்கி|tannin|
-பதமாக்கி அமிலம்|tannic acid|
-பதமின்மை|distemper|
-பதவி (பயனர் தரவுச்செய்தி விதிமுறை)|UDP (User Datagram Protocol)
-பதவி துறத்தல்|vacation of office|
-பதனாக்கல்|curing|
-பதாகை|vexillum|
-பதாகை இதழடுக்கம்|vexillary aestivation|
-பதிகை|entry|
-பதிகைபுகு|login|
-பதிகைபுகுதல்|logging in|
-பதிகைவிடல்|logging out|
-பதிகைவிடு|logout|
-பதித்தல்|imbedding|fixation - இருப்பித்தல்
-பதிநான்கவேன்|tetradecane|
-பதிநான்மடியாயிரம்|tredecillion (short scale)
-பதிப்பி|publish|
-பதிப்பித்தல்|publishing|
-பதிப்பு|publication|
-பதிப்பெண்|version|
-பதிய ஏற்பின்மை|graft rejection|
-பதியமிடல்|grafting|
-பதிலளி|respond|
-பதிலளிப்பு சாராப் பிழை|non-response error|
-பதிலளிப்புப் பிழை|response error|
-பதிலனுப்பி|transponder|
-பதிலாக|in lieu of|
-பதிலாள்|proxy|
-பதிலி|substituent|
-பதிலிடு|substitute v|
-பதிலிடுதல்|substitution|
-பதிலிட்ட|substituted|
-பதிலீடு|substitute n|
-பதிலீட்டு எசுத்தராக்கல்|trans esterification|
-பதிலீட்டு வினை|substitution reaction|
-பதில்வினை|response|
-பதிவகம்|registry|
-பதிவி|register n|registry - பதிவகம்
-பதிவிடு|register v |
-பதிவிறக்கு|download|
-பதிவீடு|registration|
-பதிவு|record|
-பதிவுசெய்தல்|booking|
-பதிவுப்பிழை|error of recording|
-பதிவெண்|registration number|
-பதிவேற்று|upload|
-பதினறுமடியாயிரம்|quindecillion (short scale)
-பதினாறவேன்|hexadecane|
-பதினாறவைல்|cetyl|
-பதினாறும|hexadecimal|
-பதினெட்டவேன்|octadecane|
-பதினெண்மடியாயிரம்|septendecillion (short scale)
-பதினெழுமடியாயிரம்|sexdecillion (short scale)
-பதினேழவேன்|heptadecane|
-பதினைந்தவேன்|pentadecane|
-பதினைமடியாயிரம்|quattuordecillion (short scale)
-பதினொருமடியாயிரம்|decillion (short scale)|
-பதினொன்ற-|undeca-|
-பதினொன்றவேன்|undecane|
-பதின்ம விரிவு|decimal expansion|
-பதின்மடியாயிரம்|nonillion (short scale)|
-பதின்மப் புள்ளி|decimal point|
-பதின்மம்|decimal|
-பதின்மும்மடியாயிரம்|duodecillion (short scale)
-பதின்மூன்றவேன்|tridecane|
-பதூபவே (பன்னாட்டு தூய மற்றும் பயன்பாட்டு வேதியியலார்) ஒன்றியம்|IUPAC (International Union of Pure and Applied Chemistry)
-பதூபவே மரபேற்பு|IUPAC convention|
-பதூபவே விதிகள்|IUPAC rules|
-பத்த-|deca- (decane)|
-பத்தவாயிக அமிலம்|decanoic acid|
-பத்தவேன்|decane|
-பத்தாம் நரம்புத்தூண்டல்|vagus nerve stimulation
-பத்தாம் நரம்புத்தூண்டல்|vagus stimulation|
-பத்தாம் மண்டைநரம்பு|vagus nerve|
-பத்தி|paragraph|
-பத்து இருமடியாயிரம்|crore|அறிவியலில் இலச்சமும் கோடியும் பயன்படுத்த வேண்டாம்.
-பத்தொன்பதவேன்|nonadecane|
-பத்தொன்பதுமடியாயிரம்|octodecillion (short scale)
-பநி (படிக்கவே நினைவகம்)|ROM (read only memory)
-பந்துக்கும்பா|acetabulum|
-பந்துப்பாளச் சுத்தியல்|ball pane hammer|
-பபநி (பன்னாட்டுப் பண நிதி)|IMF (International Monetary Fund)
-பபவி (படவரைவு பயனர் இடைமுகம்)|GUI (graphical user interface)
-பப்பாளிப்புரதம்|papain|
-பம்பரவடிவம்|napiform|
-பயட்டு சாவர்ட்டின் விதி|Biot-Savart law|
-பயண அனடி|passenger DNA|
-பயணக் காப்பிதழ்|voyage policy|
-பயணர்|traveler|
-பயணர் காசோலை|travelers check|
-பயனர்|user|
-பயனர் இடைமுகம்|user interface|
-பயனர் தரவுச்செய்தி விதிமுறை (பதவி)|User Datagram Protocol (UDP)
-பயனர் தொகுதி|user group|
-பயனர் தோழமையான|user friendly|
-பயனர் நட்பான|user friendly|
-பயனர் பெயர்|username|
-பயனர் வரையறு|user defined|
-பயனர் விவரம்|user profile|
-பயனாக்கு|apply|
-பயனுகர்தல்|exploitation|
-பயனுறு|effective  |
-பயனுறு வீதம்|effective rate|
-பயனுறுமை|effectiveness|
-பயன்கருவி|appliance|
-பயன்கூறு|utility|
-பயன்கூறு வீதக் குறைவு விதி|law of diminishing marginal utility
-பயன்கூறு வீதம்|marginal utility|
-பயன்சிதைவு|weathering|
-பயன்சுமை|payload|
-பயன்தரு|beneficial|
-பயன்தரு பூச்சிகள்|beneficial insects|
-பயன்திறனின்மை|inefficiency|
-பயன்திறன்|efficiency|
-பயன்துளி|applet|
-பயன்பாடு (கணினியி்யல்)|application (computer)
-பயன்பாட்டு நிரலாக்கம்|application programming
-பயன்பாட்டு மென்பெருள்|application software|
-பயன்பாட்டுச் சேவை|application service|
-பயன்மை|usability|
-பயன்வலை|usenet|
-பயன்விளைவு|payoff|
-பயன்விளைவு அட்டவணை|payoff table|
-பயிலகம்|institute|
-பயிலரங்கு|workshop|
-பயிலர்|apprentice|
-பயிலுரை|tutorial|
-பயிவ (படவரைவு இடமாற்ற வடிவூட்டம்)|GIF (Graphic Interchange Format)
-பயிற்சி|exercise|
-பயோட்டின்|biotin|
-பரணிடு|archive|
-பரப்பு|area|
-பரமீசியம்|paramecium|
-பரல்|bead|
-பரவகலப் பகுப்பாய்வு|anova|analysis of variance
-பரவகலம்|variance|பரவு + அகலம்
-பரவலாக்க வழி|distribution channel|
-பரவலாக்கக் குழல்|distributing vessel|
-பரவலாக்கல்|distribution (action)|
-பரவலாக்கு|distribute|
-பரவலான செயற்பாடமைப்பு|distributed operating system
-பரவலூக்கி|hyaluronidase|
-பரவல்|distribution (thing)|diffusion - விரவல்
-பரவல் கெழு|distribution coefficient|
-பரவல்பெட்டி|distribution box|
-பரவளைய வளைவு|parabolic arch|
-பரவளைவு|parabola|வளையம் - torus
-பரவற் கண்டு|distributed winding|
-பரவானிக அமிலம்|hyaluronic acid|
-பரவுநட|propagate|
-பரவுநடந்த பிழை|propagated error|
-பரவுநடை|propagation|
-பரவுநடை தாமதம்|propagation delay|
-பரிசீலனை|inspection|
-பரிசீலி|inspect |
-பரிசுக் காசோலை|gift check|
-பரிசோதனை|experiment|test - சோதனை
-பரிசோதனைவழி|experimental|
-பரிசோதனைவழி கருவளரியல்|experimental embryology
-பரிதி|circumference|
-பரிதிச் சுழற்சி|circumnutation|
-பரிதியொட்டிய பிரிவு|periclinal division|
-பரிமாணப் பகுப்பாய்வு|dimensional analysis|
-பரிமாணமற்ற அளவு|dimensionless quantity|
-பரிவு|sympathetic|
-பரிவு நரம்பு|sympathetic nerve|
-பருத்தி|cotton|
-பருத்திப்புழு|bollworm|
-பருத்தியனையன|malvaceae|
-பருப்பு வண்டு|pulse beetle|
-பருப்புவகை|legume|
-பருப்பொருள்|matter|
-பருப்பொருள் அலைகள்|matter waves|
-பருமக் குணகம்|bulk modulus|
-பருமனறி|volumetric|
-பருமனறி குழலளவி|volumetric pipette|
-பருமனறி பகுப்பாய்வு|volumetric analysis|
-பருமன்|volume|capatity - கொள்ளளவு
-பருவத் தனிமையாதல்|seasonal isolation|aka temporal isolation
-பருவத் தனிமையாதல்|temporal isolation|aka seasonal isolation
-பரோடா|Baroda|
-பர்கௌசனின் நிபந்தனை|Barkhausen condition|
-பர்க், டீன்|Burk, Dean|
-பர்க்கைன் இழை|purkinje fiber|
-பர்பியூரல்|furfural|
-பலகக் கதவு|panelled door|
-பலகடவு|multipass|
-பலகடவு சவ்வூடு புரதம்|multipass transmembrane proteins
-பலகம்|panel|
-பலகருச் சேர்க்கை|coenogamete|
-பலகருவின|polynucleate|
-பலகருவின அணுக்கள்|syncytial cells|
-பலகருவுள்ள|coenocytic|
-பலகற்றை மகரந்தத்தாள்கள்|polyadephous stamens|
-பலகாலிகள்|myriapoda|
-பலகுளோரினிட்டவிருபினைல் (பகுபி)|polychlorinated biphenyl (PCB)
-பலகை|bench|
-பலகைச் சுழல்வீழ்த்தி|bench cetriguge|
-பலகையடி|substrate (electronics)|
-பலகையூசி|thumbtack|
-பலகோணம்|polygon|
-பலசர்க்கரைடு|polysaccharide|
-பலசிறு|sundry|
-பலசுணையுடலிகள்|Polychaeta|
-பலசுழலி|polycyclic n|
-பலசுழல்|polycyclic adj|
-பலசுழல் அரோமாட்டியச் சேர்மங்கள்|polycyclic aromatic compounds
-பலசுழல் சேர்மம்|polycyclic compound|
-பலசூலிலை|multicarpellary|
-பலசெயல்|multitasking|
-பலசொற்றுகள்|N-gram|பல சொல் + துகள்
-பலதெவிட்டாத கொழுப்பமிலங்கள்|polyunsaturated fatty acids
-பலநரம்புடைய|multicostate|
-பலநிரலாக்கம்|multiprogramming|
-பலநோக்களவி|multimeter|
-பலபக்க|multilateral|
-பலபடல|multilayer|
-பலபட்டைப் படவரைவு|multiple bar diagram|
-பலபயனர்|multiuser|
-பலபயன்|multipurpose|
-பலபாலுரனன்|polygalacturonan|
-பலபாலுரனூக்கி|polygalacturonase|
-பலபால்|polygamous (botany)|
-பலபிரிவன்|polychasium|
-பலபினால் மூச்சியைடூக்கி|polyphenol oxidase|
-பலபுரதை|polypeptide|
-பலமரபணு|polygenic|
-பலமரபணு மரபுபெறல்|polygenic inheritance|
-பலமாறி|multivariate|
-பலமுகவரி|multiaddress|
-பலயிறக|multipennate |
-பலராட்சி|oligarchy|
-பலவகைப்பட்ட|miscellaneous|
-பலவக்கிரைலமைடு களி|polyacrylamide gel|
-பலவங்கை|multifoliate|
-பலவடிவ|polymorphic|
-பலவடிவக்கரு|polymorphonuclear|
-பலவடிவுமை|polymorphism|
-பலவணு|polyatomic|
-பலவணு (உயிரியல்)|multicellular|
-பலவணு மூலக்கூறு|polyatomic molecule|
-பலவணுகு|multiaccess|
-பலவணுக்கருவைடு|polynucleotide|
-பலவதிர்வி|multivibrator|
-பலவலசல்|multiprocessing|
-பலவழி|multiplex|
-பலவழிநீக்கி|demultiplexer|
-பலவழியாக்கி|multiplexer|
-பலவாற்றல்|pluripotent|
-பலவிதழின|polypetalae|
-பலவித்துக்கதிர்ப்பூஞ்சையம்|actinopolyspora|
-பலவிழையாக்கல்|multithreading|
-பலவிளைவியம்|pleiotropism|
-பலவிளைவு மரபணு|pleiotropic gene|
-பலவீன்|polyene|
-பலவெப்ப|poikilothermic|
-பலனோகிளாசு|balanoglossus|
-பலன்தரு பூச்சிகள்|productive insects|
-பலிசுமவலிப்பு|ballismus|
-பல்|tooth|
-பல் வரிசை|dentition|
-பல்கலைக்கழகம்|university|
-பல்லாண்டிய|perennial|
-பல்லாண்டியம்|perennation|
-பல்லி|lizard|
-பல்லுறுப்புக்கோவை|polynomial (expression)
-பல்லூடகங்கள்|multimedia|
-பல்லூடகத் தூதுரை|multimedia message|
-பல்லூடகத் தூதுரையமைப்பு|multimedia messaging system
-பல்லேடியம்|palladium|
-பல்வரி|raster|
-பல்வரிப்பிணைப்பு|raking bond|
-பல்விளிம்புடைய|serrate|
-பவ அலகுகள்|SI units|
-பவளப்பாறை|coral reef|
-பவளம்|coral|
-பவளனையம்|corolloid|
-பவைகு (பன்மவைனில்குளோரைடு)|PVC (polyvinylchloride)
-பவ்வலை|S wave|P wave - கவ்வலை; Q wave - சவ்வலை; R wave - தவ்வலை
-பழக்கண்ணி|euglena|
-பழக்கண்ணித்தரசம்|paramylon|
-பழக்கண்ணியால்கவை|Euglenophyceae|
-பழங்கலை|antique|
-பழங்குடியினர்|Scheduled Tribe (ST)|
-பழங்குடியினர்|ST (Scheduled Tribe)|
-பழம்|ripe fruit|
-பழுதடை மதிப்பு|breakdown value|
-பழுதடைதல்|breakdown|
-பழுதறி பெ.உ|diagnostic|
-பழுதறி வி|diagnose|
-பழுதறிதல்|diagnosis|
-பழுப்பால்கவை|Phaeophyceae|
-பளிங்குக்கல்|marble|
-பள்ள விரியன்|pit viper|
-பள்ளத்தாக்கு|valley|
-பள்ளமற்ற விரியன்|pitless viper|
-பறத்தல்|flight|
-பறத்தல் பாவனையாக்கி|flight simulator|
-பறவைகள்|aves|
-பறவைச்சேர்க்கை|ornithophily|
-பறவையகம்|aviary|
-பறவையம்மை|fowl pox|
-பறவையனின்|ornithine|
-பறவையியல்|ornithology|
-பறவையெச்சவுரம்|guano|
-பறவைலி|pterosaur|
-பறவைவளம்|avifauna|
-பறவைவளர்ப்பு|poultry|
-பற்கள்|teeth|
-பற்காரை|cementum|
-பற்சுழற்றி|ratchet|
-பற்சொத்தை|dental caries|aka tooth decay
-பற்சொத்தை|tooth decay|aka dental caries
-பற்பசை|toothpaste|
-பற்படல இதழ்|filmbriate petal|
-பற்றாக்குறை|deficiency|
-பற்றாக்குறை (பொருளியல்)|deficit|
-பற்றிழை|tendril|
-பற்று நெடுக்கை|debit column|
-பற்று வேர்கள்|epiphytic roots|தொற்று - infect
-பற்றுச்சீட்டு|receipt|
-பற்றுத்தாவரம்|epiphyte|
-பற்றும் வரவும்|debit and credit|
-பற்றுருண்டை|trackball|
-பற்றூரிகை|toothbrush|
-பனிக்கவிப்பு|icecap|
-பனிக்குடத்துளையிடல்|amniocentesis|
-பனிக்குடப் பாய்மம்|amniotic fluid|
-பனிக்குடம்|amnion|
-பனிக்குடவன|amniota|
-பனிக்குளிர்|ice cold|
-பனித்தகடு|ice sheet|
-பனித்துளிச்செடி|drosera|
-பனிப்பு வெப்பநிலை|dew point|
-பனியடுக்கு|glacier|
-பனையிக அமிலம்|palmitic acid|
-பனையிகேட்டு|palmitate|
-பனைவகை|cycas|
-பன்ம எறும்பால்டிகைடு|paraformaldehyde|
-பன்மடி ஆயுட் காப்பிதழ்|multiple life policy|
-பன்மடி திசுக்கடினம்|disseminated sclerosis|aka multiple sclerosis
-பன்மடி திசுக்கடினம்|multiple sclerosis|aka disseminated sclerosis
-பன்மடி நேரமைத்தல்|multiple alignment|
-பன்மடி மரபுரு|multiple allele|
-பன்மடிக் கடைகள்|multiple shops|
-பன்மடிக் காரணி கருதுகோள்|multiple factor hypothesis
-பன்மடிக் கோணங்கள்|multiple angles|
-பன்மடிப் பிணைப்பு|multiple bond|
-பன்மடியம்|manifold|
-பன்மடியிறகன|decompound pinnate|
-பன்மப்பினித்தீன்|polystyrene|
-பன்மமறிவியல்|polymer science|
-பன்மமாக்கலூக்கி|polimerase|
-பன்மமாக்கல்|polymerization|
-பன்மம்|polymer |
-பன்மய நிதி|mutual fund|
-பன்மயமாக்கு|diversify|
-பன்மயம்|diversity|
-பன்மவால்க்கீன்|polyalkene|
-பன்மவெத்திலீன்|polyethylene|
-பன்மவைனில்குளோரைடு (பவைகு)|polyvinylchloride (PVC)
-பன்முக அமைப்பு|polyphase system|
-பன்முகநிலை|polyphase|
-பன்முகி|polyhedron|
-பன்மை (கணிதம்)|tuple|
-பன்மைச்சீரான|heterogeneous|
-பன்மைச்சீர்மை|heterogeneity|
-பன்மைமெய்யம்|polyploidy|
-பன்றி|pig|
-பன்றிக்கறி|pork|
-பன்றிக்காய்ச்சல்|swine flu|
-பன்றிய வைரசு|H1N1 virus|
-பன்றியம்|swine|
-பன்றிவளர்ப்பு|piggery|
-பன்னாட்டு|international|
-பன்னாட்டு அலகமைப்பு|System International de Units
-பன்னாட்டு அறிவியல் தளவகம் (பவத)|International Science Foundation
-பன்னாட்டு இயற்கை மற்றும் இயற்கை வளங்கள் அழிவுறாக்காத்தல் (உயிவ) ஒன்றியம்|International Union for Conservation of Nature and Natural Resources (IUCN)
-பன்னாட்டு உயிரியற் பன்மய மரபு (உபம)|International Convention on Biological Diversity (CBD) 
-பன்னாட்டு தூய மற்றும் பயன்பாட்டு வேதியியலார் (பதூபவே) ஒன்றியம்|International Union of Pure and Applied Chemistry (IUPAC)
-பன்னாட்டு நிறுமம்|multinational company
-பன்னாட்டு மரபியல் வளங்கள் செயற்பாடு (பமவ)|Genetic Resources Action International (GRAIN)
-பன்னாட்டு வியாபாரம்|international trade|
-பன்னாட்டுக் கூட்டகங்கள்|multinational corporations
-பன்னாட்டுப் பண நிதி (பபநி)|International Monetary Fund (IMF)
-பன்னிரண்டவேன்|dodecane|
-பன்னிருமடியாயிரம்|undecillion (short scale)
-பாகம்|part (volume of a book)
-பாகம் (நூலின்)|volume (of a book)|
-பாகுபடுத்தி|taxon|
-பாகுபாட்டியல்|taxonomy|
-பாகுமம்|viscose|
-பாகுமை|viscosity|
-பாகுமைக் கெழு|coefficient of viscosity|
-பாகுமைக் கெழு|viscosity coefficient|
-பாகுமையான|viscous|
-பாகை|degree (angle)|
-பாகை செல்சியசு|degree celcius|
-பாக்காலமீன்|catecholamine|
-பாக்கால்|catechol|
-பாக்கு|catechu|
-பாங்கறிதல்|pattern recognition|
-பாங்கு|pattern|
-பாசான்|Poisson|
-பாசான் பரவல்|Poisson distribution|
-பாசி|moss|
-பாசி நிலை|moss stage|
-பாசிகள்|musci|
-பாசித்தாவரம்|bryophyte|
-பாசுக்கலின் விதி|Pascal law|
-பாசுவக்குளுக்கோமாற்றியவூக்கி|phosphoglucoisomerase
-பாசுவக்குளுக்கோனேட்டு வழித்தடம்|phosphogluconate pathway
-பாசுவக்கொழுமிய இனாசிற்றால்|phosphatidyl inositol|
-பாசுவக்கொழுமியமூக்கி|phospholipase|
-பாசுவக்கொழுமியம்|phosphatide|aka phospholipid
-பாசுவக்கொழுமியம்|phospholipid|aka phosphatide
-பாசுவதசையமினோ அமிலம்|phosphocreatine|
-பாசுவப்பிங்கோசைடு|phosphopsphingoside|
-பாசுவப்பிரட்டோயியக்கவூக்கி|phosphofructokinase|
-பாசுவப்புரதம்|phosphoprotein|
-பாசுவயினாசிற்றைடு|phosphoinositide|
-பாசுவயீனால்|phosphoenol|
-பாசுவரக்கொழுமிய இனாசிற்றால்|lipositol|
-பாசுவரக்கொழுமிய சீரின்|phosphatidyl serine|
-பாசுவரச அமிலம்|phosphorous acid|
-பாசுவரம்|phosphorus|
-பாசுவரிக அமிலம்|phosphoric acid|
-பாசுவவீரெசுத்தரூக்கி|phosphodiesterase|
-பாசுவிடின்|phosvitin|
-பாசுவின் வழிமுறை|Bosch's process|
-பாசுவீயரின் சமன்பாடு|Poiseuille's equation|
-பாசுவேட்டாக்கி|phosphagen|
-பாசுவேட்டு|phosphate|
-பாசுவேட்டுநீக்கம்|dephosphorylation|
-பாசுவேட்டுநீக்கவூக்கி|phosphatase|
-பாசுவேட்டேற்றம்|phosphorylation|
-பாசுவேட்டேற்றூக்கி|phosphorylase|
-பாச்சராக்கல்|pasteurization|
-பாச்சராக்கு|pasteurize|
-பாச்சரியம்|pasteurella|
-பாச்சரின் பயிலகம்|Pasteur Institute|
-பாச்சனின் தொடர்|Paschen series|
-பாச்சுலிசம்|botulism|
-பாச்சுலியக் கதிராணியம்|clostridium botulinum|
-பாச்சுலியம்|botulinum|
-பாச்சுலின்|botulin|
-பாடத்திட்டம்|syllabus|
-பாடத்தொகுதி|course|
-பாடப்பகுதி|subject|
-பாட்டரசு|bacteria|
-பாட்டீரனையனையன|bacteroidaceae|
-பாட்டீரியக்குருதி|bacteremia|
-பாட்டீரியக்கொல்லி|bactericide|
-பாட்டீரியங்கள்|bacteria|
-பாட்டீரியத்தாற்பகுப்பு|bacteriolysis|
-பாட்டீரியத்தாற்பகுப்பு ஊக்கிப்புரதம்|bacteriolytic enzyme|
-பாட்டீரியநிலைநிறுத்தி|bacteriostatic|
-பாட்டீரியநிலைபெறல்|bacteriostasis|
-பாட்டீரியம்|bacterium|பாக்டீரியம் என்ற சொல் இடைநிலை மெய்மயக்கம் என்ற இலக்கண விதியை மீறுகிறது.
-பாட்டீரியவியல்|bacteriology|
-பாட்டீரியவைரசு|bacteriaphage|பாட்டீரியவிழுங்கி would be a literal translation; but we use பூஞ்சைவைரசு for mycovirus
-பாட்டீரியனையம்|bacteroid|
-பாட்டை|lane|
-பாட்டை (கணினியி்யல்)|bus (computer)|
-பாட்டை வலையம் (கணினியி்யல்)|bus network (computer)
-பாணி|style|
-பாணி தொங்கி|style tag|
-பாதம்|foot|
-பாதரசம்|mercury|
-பாதவுயிரணு|podocyte|
-பாதிக்கப்பட்டவர்|victim|
-பாதுகாப்பு|security|
-பாதை|path|
-பாதைசாரா விசை|conservative force|
-பாதைசார் விசை|nonconservative force|
-பாதைச் சார்பு|path function|
-பாபிரிசியரின் பை|bursa of Fabricius|
-பாமக்குவின்|Pamaquin|
-பாமரின் தொடர்|Balmer series|
-பாம்பு|snake|
-பாய அடர்வு|flux density|
-பாயம்|flux (hydrodynamics)|
-பாயிசு|poise (viscosity)|
-பாயிலின் விதி|Boyle's law|
-பாய்|mat|
-பாய்ம வடிவடுக்கு ஒப்புரு|fluid mosaic model|
-பாய்மக் கோட்பாடு|fluid theory|
-பாய்மம்|fluid|liquid  நீர்மம்
-பாய்மரம்|mast|
-பாய்வு|flow|
-பாய்வு வரிவரைவு|flow chart|
-பாய்வுக்கோடு|flow line|
-பாய்வுமை|fluidity|
-பாரடு|farad|
-பாரடே|Faraday|
-பாரம்பரிய அலகுகள்|hereditary units|
-பாரம்பரியம்|heredity|
-பாராளுமன்றக் கீல்|parliamentary hinge|
-பாரிசச் சாந்து|plaster of Paris|
-பார்க்கின்சனின் நோய்|Parkinson's disease|
-பார்க்கின்சனின் விதி|Parkinson's law|
-பார்ட்டனியம்|bartonella|
-பார்ட்டனியனையன|bartonellaceae|
-பார்பரா மக்லின்றாக்|Barbara McClintock|
-பார்பிட்டுரிக அமிலம்|barbituric acid|
-பார்பிட்டுரேட்டு|barbiturate|
-பார்பிரின்|porphyrin|
-பார்போடின் சோதனை|Bafoed's test|
-பார்வையம்|reference (citation)|
-பார்வையளவியர்|optometrist|
-பார்வையளவியல்|optometry|
-பார்னடின் விண்மீன்|Barnard's star|
-பாலட்டோசு|galactose|
-பாலட்டோசுகுருதி|galactosemia|
-பாலட்டோசுடனி|galactoside|
-பாலட்டோசுடனியூக்கி|galactosidase|
-பாலட்டோவேழோசு|galactoheptose|
-பாலதிமூச்சியைடூக்கி|lactoperoxidase|
-பாலமிலக் குச்சியம்|bacillus acidi lacti|
-பாலமைடு|lactam|
-பாலம்|bridge|
-பாலி|Pauli|
-பாலிங்|Pauling|
-பாலிங்கின் அளவம்|Pauling's scale|
-பாலிப்பு|polyp|
-பாலியத் தனிமையாதல்|sexual isolation|
-பாலியின் தவிர்ப்புக் கொள்கை|Pauli exclusion principle
-பாலிரும்புப்புரதம்|lactoferrin|
-பாலின|sexual|
-பாலின இருவடிவுமை|sexual dimorphism|
-பாலின இனங்காணல்|sexual identity|
-பாலின இனப்பெருக்கம்|sexual reproduction|
-பாலின மரபுமெய்ய இயங்குமுறை|sex chromosome mechanism
-பாலின மரபுமெய்யம்|sex chromosome|
-பாலினசார் மரபுபெறல்|sex linked inheritance|
-பாலினச் சமத்துவம்|sexual equality|
-பாலினச் சமமின்மை|gender inequality|
-பாலினத்தூண்டல்|eroticism|
-பாலினத்தூண்டு|erotic |
-பாலினமிலா இனப்பெருக்கம்|asexual reproduction|
-பாலினம்|sex|
-பாலினம் நிர்ணயித்தல்|sex determination|
-பாலினவியம்|sexuality|
-பாலுடிரின்|Paludrine|
-பாலுறவுத் தொற்று நோய்கள்|sexually transmitted diseases
-பாலூட்டி|mammal|
-பாலூட்டிகள்|mammalia|
-பாலை|desert|
-பாலைத் திணை (உயிரி்யல்)|desert biome|
-பாலையாக்கல்|desertification|
-பாலோசமீன்|galactosamine|
-பாலோசியக்கவூக்கி|galactokinase|
-பாலோசு|lactose|
-பாலோசூக்கி|lactase|
-பாலோன்|lactone|
-பால் அமிலம்|lactic acid|
-பால்சிப்பாரம் கூ.|P. falciparum|
-பால்சுரக்கும்|lactating|
-பால்சுரப்பு|lactation|
-பால்சுரப்புத் தூண்டுநீர்|lactogenic hormone|aka prolactin hormone luteotropic hormone, luteotropin, and mammotropin
-பால்சுரப்புத் தூண்டுநீர்|luteotropic hormone|aka prolactic hormone, luteotropin, lactogenic hormone, and mammotropin
-பால்சுரப்புத் தூண்டுநீர்|luteotropin|aka prolactin hormone, luteotropic hormone, lactogenic hormone, and mammotropin
-பால்சுரப்புத் தூண்டுநீர்|mammotropin|aka prolactin hormone luteotropic hormone, luteotropin, and lactogenic hormone
-பால்சுரப்புத் தூண்டுநீர்|prolactin hormone|aka luteotropic hormone, luteotropin, lactogenic hormone, and mammotropin
-பால்பண்ணை|dairy|
-பால்பரின் விதி|Balfour's law|
-பால்மாடு|milch cow|
-பால்வட்டம்|areola|
-பால்வினை|venereal|
-பால்வீதி|Milky Way|
-பாவனையாக்கம்|simulation|
-பாவனையாக்கு|simulate|
-பாவு சாளரம்|tiled window|
-பாவுசட்டம்|reefer (construction)|
-பாளமாதல்|flaking|
-பாளம்|pane|
-பாளை|spathe|
-பாளைச்சுற்று|involucre|
-பாறைக்குழம்பு|magma|
-பாறைக்கோளம்|lithosphere|
-பாறைத் தேனீ|Apis dorsata|
-பாறைத்தாவரம்|lithophyte|
-பாறைநத்தை|limpet|
-பாறைமயமாதல்|petrification|
-பாற்காம்பு|nipple|
-பாற்குச்சியம்|lactobacillus|
-பாற்குழல்|lacteal|
-பாற்சுரப்பி|mammary gland|
-பாற்சுரப்பு நாளம்|lactiferous duct|
-பான் ஃப்ராங்க்ஸ்ற்றன்|Bon Frankston|
-பான்மை மதிப்பு|eigenvalue |
-பான்மைச் சார்பு|eigenfunction|
-பான்மைத் திசையன்|eigenvector|
-பான்மைத் திசையன்|proper vector|
-பாஸ்கரா|Bhaskara|
-பி சேனப் பச்சை|Janus green B|
-பி சைதக்காலிசின்|cytochalasin B|
-பி-2 வைட்டமின்|riboflavin|
-பி-5 வைட்டமின்|pentothenic acid|
-பிகை|phi|
-பிங்கட்டீனின் வினை|Finkelstein reaction|
-பிங்கோசக்கொழுமியம்|sphingolipid|
-பிங்கோசமயலின்|sphingomyelin|
-பிங்கோசின்|sphingosine|
-பிசரின் வீழ்ப்பு வாய்ப்பாடு|Fischer's projection formula
-பிசினப்படிவம்|amber|
-பிசினார்சினால்|resorcinol|
-பிசினால்|retinol|Although retinol is associated with retina, the name arises from resin - பிசின்
-பிசின்|resin|
-பிசுமத்து|bismuth|
-பிடல்லதிரியம்|bdellovibrio|
-பிடிகட்டை|cleat|
-பிடிசுவர்|parapet|
-பிடிதட்டு|catch basin|
-பிடிதண்டு|handrail|
-பிடிதாழ்|latch|
-பிடிபட்டை|flange|
-பிடிபள்ளம்|catch pit|
-பிடிபொறி|trap|
-பிடிப்பக் கதவு|braced door|
-பிடிப்பம்|brace n|
-பிடிப்பி|brace v|
-பிடிப்பி (நோயெதிர்ப்பியல்)|hapten|
-பிடிப்பு|commission (fee)|
-பிடிப்பு முகவர்|commission agent|
-பிடிவாதவேன்|adamantane|
-பிட்டூட்டரி சுரப்பி|hypophysis|
-பிட்டூட்டரி சுரப்பி|pituitary gland|
-பிணைதிறன்|valence|bond - பிணைப்பு
-பிணைதிறன் ஓட்டின் எலட்டிரான் இணை விலக்கல் (விசப்பார்) கோட்பாடு|Valence Shell Electron Pair Repulsion (VSEPR) theory
-பிணைப்பிலா அலைமண்டலம்|nonbonding orbital|
-பிணைப்பு|bond (chemistry)|
-பிணைப்பு ஆற்றல்|bond energy|binding energy - கூட்டிணை ஆற்றல்
-பிணைப்பு நீளம்|bond length|
-பிணைப்பு முறைமை|bond order|
-பிணைப்புறும் அலைமண்டலம்|bonding orbital|
-பிணைப்பெதிர் அலைமண்டலம்|antibonding oribital|
-பிணைமீட்பு|bail|
-பிணைய இருப்பகம்|bonded warehouse|
-பிணையம்|bond (finance)|
-பிதாகரசின் தேற்றம்|Pythagoras' theorem|
-பிதாகரஸ்|Pythagoras|
-பிதுங்கை|cornice|
-பித்த அமிலம்|cholic acid|
-பித்த நாளம்|bile duct|
-பித்தக்கட்டி|gallstone|
-பித்தக்கற்கள்|gall stones|
-பித்தச்செம்மை|bilirubin|
-பித்தத்திரால்|cholesterol|
-பித்தத்திரால் எசுத்தர்|cholestrol ester|
-பித்தப்பை|gallbladder|
-பித்தளை|brass|
-பித்தளையேற்றல்|brazing|
-பித்துமன|bituminous|
-பித்துமன்|bitumen|
-பிமலிக அமிலம்|pimelic acid|
-பியர் கியூரி|Pierre Curie|
-பியூரான்|furan|purin - பியூரின்
-பியூரின்|purine|furan - பியூரான்
-பிரங்கலின் குறைபாடு|Frenkel defect|
-பிரசோடிமியம்|praseodymium|
-பிரடிக்கின் மின்வில் முறை|Bredig's arc method|
-பிரட்டோசு|fructose|
-பிரம்மா|Brahma|
-பிரனலின் விளிம்புவளைவு|Fresnel diffraction|
-பிராக்கெட்டின் தொடர்|Brackett series|
-பிராங்கியம்|frankia|
-பிராடிகிழங்கியம்|bradyrhizobium|
-பிரான்சிய|French|
-பிரான்சிய வளைவுகள்|French curves|
-பிரான்சியம்|francium|
-பிரான்சு|France|
-பிரான்ஸிஸ் ஜேன்ஸன்|Francis Janssen|
-பிரிகை|dissociation (chemistry)
-பிரிகை ஆற்றல்|dissociation energy|
-பிரிகை இரட்டித்தல்|semiconservative replication
-பிரிகை மாறிலி|dissociation constant|
-பிரிகை விகிதம்|degree of dissociation|
-பிரிகையடை|dissociate (chemistry)|
-பிரிக்கத்தக்க மாறிகள்|variables separable|
-பிரிசாளரம்|split window|
-பிரிடல் கிராட்டின் வினை|Friedel-Craft's reaction
-பிரிடாச்ச பாசுவேட்டு|pyridoxal phosphate|
-பிரிடாச்சல்|pydidoxal|
-பிரிடாச்சின்|pyridoxine|
-பிரிடீன்|pyridine|
-பிரிதிரை|split screen|
-பிரித்தல்|separation|
-பிரித்தல் வடிப்பி|separating funnel|
-பிரித்தறியக்கூடிய|distinguishable|
-பிரித்தறியத்தகாத|indistinguishable|
-பிரித்தானிய|Brittish|
-பிரித்தானியத் தாவரவியல் தோட்டம்|Royal Botanical Gardens
-பிரித்தெடுத்தல்|extraction|
-பிரிநீர்மம்|extract n|
-பிரிந்தோடு|degenerate|
-பிரிந்தோடு அலைமண்டலங்கள்|degenerate orbitals|
-பிரிப்பான்|divider|
-பிரிப்பின்மை|nondisjunction|
-பிரிப்பு|disjunction|
-பிரிமிடீன்|pyrimidine|
-பிரிமீத்தமீன்|pyrimethamine|
-பிரியா இரட்டித்தல்|conservative replication
-பிரிலியம்|pyrulium|
-பிரிவணு|schizont|
-பிரிவியக்க நிலை|diakinesis stage|
-பிரிவீடு|apartment|
-பிரிவு|division|
-பிரிவு (விலங்கியல்)|phylum|
-பிரிவு அலுவலர்|section officer|
-பிரிவுக் கதிராணி|mitotic spindle|
-பிரிவோசின் கோட்பாடு|Prevost's theory|
-பிரீயான்|freon|prion - பிரையான்
-பிரேகு|Bragg|
-பிரேமலதா|cuscuta|
-பிரைகுத்தல்|culturing|
-பிரைமாகுவின்|primaquine|
-பிரையான்|prion|freon - பிரீயான்
-பிரௌங்காபரின் கோடுகள்|Fraunhofer lines|
-பிரௌனின் இயக்கம்|Brownian motion|
-பிலிப்பு|Philips|
-பிலிப்பைன் கோபி|philipine goby|
-பிவ (பின்தங்கிய வகுப்பினர்)|BC (Backward Class)|
-பிழவுறுதல்|fission|
-பிழை|error|wrong - தவறு
-பிழை சகிப்பு|fault tolerance|
-பிழை விழுக்காடு|percent error|
-பிழைக்குறை|defect|
-பிழைத் தூதுரை|error message|
-பிழைபொறுக்கும்|robust|
-பிழைப் பற்றுச்சீட்டு|foul receipt|
-பிழைப்பர்|survivor|
-பிழைப்புமை|viability|
-பிழையலசி|debugger|
-பிழையலசு|debug|
-பிழையளவுப்பார்வை|ametropia|
-பிழையற்ற பற்றுச்சீட்டு|clean receipt|
-பிழையாமை|inviability|
-பிளமிங்கின் இடக்கை விதி|Fleming's left hand rule
-பிளம்பிகான்|Plumbicon|
-பிளவணு|blastomere|
-பிளவுக் கனி|schizocarpic fruit|
-பிளவுத் தேர்வு|disruptive selection|
-பிளவுப்பெருக்கம்|schizogony|
-பிளவுறல்|cleavage|
-பிளவுற்ற இதழ்|laciniate petal|
-பிளாக்கசின்|ciprofloxacin|
-பிளாங்கின் மாறிலி|Planck's constant|
-பிளாட்டினம்|platinum|
-பிளாட்டோ|Plato|
-பிளிமத்துப் பாறை|Plymouth rock|
-பிளிரோவியம்|flerovium|
-பிளெமியப் பிணைப்பு|Flemish bond|
-பிளேக்கு|plaque|
-பிள்ளைவாதம்|polio|aka poliomyelitis
-பிள்ளைவாதம்|poliomyelitis|aka polio
-பிறந்தவுடன்|neonatal|
-பிறந்தவுடன் இனவுறுப்புமணியக் கண்நோய்|gonococcal ophthalmia neonatorum
-பிறப்பு எலும்புமுறிவு|birth fracture|
-பிறப்பு வீதம்|birth rate|
-பிறப்புக் கட்டுப்பாடு|birth control|
-பிறப்புவழி|inborn|
-பிறவிநிலை|nascent|
-பிறழ்ச்சி|aberration|
-பிறழ்ச்செயல்|malfunction|
-பிறழ்ச்செயற்காண்|troubleshoot|
-பிறைத் தடுக்கிதழ்|semilunar valve|
-பிறையணு கீமோகுளோபின் (பிகீகு)|hemoglobin S (HbS)|
-பிறையணு குருதிச்சோகை|sickle cell anaemia|
-பிறைவடி|lunula|
-பிற்கலப்பு|back cross|
-பிற்கோள்|a posteriori|
-பிற்சேர்க்கை|appendix|
-பிற்தடுப்பறை|posterior compartment
-பிற்பேறுகால|puerperal|
-பிற்பேறுகாலம்|puerperium|
-பினாத்தலீன்|phenolphthalein|
-பினாந்தரீன்|phenanthrene|
-பினால்|phenol|
-பினால் கெழு முறை|phenol coefficient method
-பினித்தீன்|styrene|
-பினியல்|pineal|
-பினைலலனின்|phenylalanine|
-பினைல்-|phenyl-|
-பினைல்-|phenyl-|
-பினைல்கீற்றோசிறுநீர்|phenylketonuria|
-பின்கட்டைத்திசு|metaxylem|
-பின்கண் பாய்மம்|vitreous humour|கண் நீர் - tears
-பின்களம்|background|
-பின்காலெலும்பு|fibula|
-பின்சாய்கோடு|backslash|
-பின்சிறுகுடல்|ileum|
-பின்சுருட்டு|rollback|
-பின்சுருண்ட|revolute|
-பின்செல் பொத்தான்|back button|
-பின்சேர்|append|
-பின்தங்கிய|lagging|
-பின்தங்கிய வகுப்பினர் (பிவ)|Backward Class (BC)|
-பின்தங்கு கட்டம்|lag phase|
-பின்தசை|posterior muscle|
-பின்தண்டு|aftershaft|
-பின்தலைத் தசை|pars occipitalis|
-பின்தாங்கி|skewback|
-பின்துடைப்பி|backspace|
-பின்தோற்செட்டை|postpatagium|
-பின்பிட்டூட்டரி|neurohypophysis|
-பின்பொருத்து|retrofit|
-பின்மடிக் கீல்|back flap hinge|
-பின்மண்டை எலும்பு|occipital bone|
-பின்மண்டை மடல்|occipital lobe|
-பின்மூளை|hindbrain|aka rhombencephalon
-பின்மூளை|rhombencephalon|aka hindbrain
-பின்வளை|reflexive|
-பின்வளை கோணம்|reflex angle|
-பின்விளைவு|consequence|
-பின்ன முறைமை வினை|fractional order reaction
-பின்னக் காய்ச்சுக் குழல்|fractionating column|
-பின்னணிக் கணினி அமைப்பு|back office computer system
-பின்னப் படிகமாக்கல்|fractional crystallization
-பின்னலெனிற் கூற்று|nested if statement|
-பின்னல் (கணினியி்யல்)|nesting (computer)|
-பின்னல்மடக்கு|nested loop|
-பின்னி|barb|
-பின்னிணைப்பு|annex|
-பின்னுந்தம்|recoil|
-பின்னூட்ட இயங்குமுறை|feedback mechanism|
-பின்னூட்டக் கழல்|feedback loop |
-பின்னூட்டம்|feedback|
-பின்னொட்டு|postfix|
-பின்னோக்கிய|backward|
-பின்னோக்கு (நிலமளப்பு)|backsight|
-பின்னோக்கு வேறுபாட்டுச் செயலி|backward difference operator
-பின்னோக்குமை|backwardness|
-பின்னோடு கிடையிழை|lagging strand|
-பீக்கோ-|pico-|
-பீங்கான்|porcelain|
-பீங்கான் காப்புருகி|kit kat fuse|
-பீசம்|beech|
-பீப்பாய்|barrel|
-பீப்பாய்த் தாழ்|barrel bolt|
-பீர்லாம்பர்ட்டின் விதி|Beer-Lambert law|
-பீற்றா|beta|
-பீற்றா தகடு|beta sheet|
-பீற்றா திருப்பம்|beta turn|
-பீற்றா துகள்|beta particle|
-பீற்றா பதிப்பு|beta version|
-பீற்றாபாலமைடூக்கி|betalactamase|
-பீனால் சிவப்பு|phenol red|
-புகவிடல்|permeability|
-புகவிடா|impermeable|
-புகவிடும்|permeable|
-புகவிடூக்கி|permease|
-புகுவழி|hatch n|
-புகைச் சைகை|smoke signal|
-புகைத் திரை|smoke screen|
-புகைப்பனி|smog|
-புகையிக அமிலம்|fumaric acid|
-புகையிகவூக்கி|fumarase|
-புகையிலை|tobacco|
-புகையிலை வடிவடுக்கு வைரசு|tobacco mosaic virus|
-புகையும்|fuming|
-புகையுறையுண்ணியங்கள்|capnocytophaga|
-புகையூட்டுதல்|fumigation|
-புகைவிரும்பி|capnophile|கிரேக்கம்; capno - புகை
-புடண்டம்|pudendum|
-புடைப்பு|protuberance|
-புடைமேடு|colliculus|
-புட்டப் பெருந்தசை|gluteus maximus|
-புதர் |shrub  |
-புதர் நிலை|shrub stage|
-புதன்|Mercury|
-புதன் (கோள்)|Mercury|
-புதன்கிழமை|Wednesday|
-புதிதாக|de novo|
-புதிய ஊழி|Cenozoic eras|
-புதிய கோப்பு உருவாக்கு|create new file|
-புது தில்லி|New Delhi|
-புதுப்பி|renew|refresh - மீ்ளூட்டு
-புதுப்பிக்கவல்ல|renewable|
-புதுப்பிக்கவல்ல வளங்கள்|renewable resources|
-புதுப்பிக்கவியலா வளங்கள்|non-renewable resource
-புதுப்பித்தல்|renewal|
-புதுப்பெருக்கம்|neoplasm|
-புதுமைப் பொருள்|novelty|
-புதுவிலமார்க்கிசம்|neo-Lamarckism|
-புதுவெழு காலம்|Neogene period|
-புதுவைந்தவேன்|neo-pentane|
-புதைபடிம எரிபொருள்|fossil fuel|
-புதைபடிமமாதல்|fossilization|
-புதைபடிமம்|fossil|
-புத்தயல்|exotic|
-புத்துநிக்கு|Sputnik|
-புத்தூட்டம்|recreation|
-புயல்|storm|
-புயேனா (புவியெண்ணெய் ஏற்றுமதி நாடுகளின் ஒருங்கமைப்பு)|OPEC (Organization of Petroleum Exporting Countries)
-புரட்டா மிகைப்பி|non-inverting amplifier
-புரட்டு அடிகோள்|inverse axiom|
-புரட்டு பெ|inverse|
-புரட்டு மிகைப்பி|inverting amplifier|
-புரட்டு வர்க்க விதி|inverse square law|
-புரட்டு வி|invert|
-புரட்டு வெப்பநிலை|inversion temperature|
-புரட்டுச் சீரொருமை|inversion symmetry|
-புரட்டுதல்|inversion|
-புரட்டுருமாற்றம்|inverse transformation|
-புரட்டுவிகிதம்|inverse proportion|
-புரணி|cortex|
-புரணித்திரலனையம்|corticoid|aka corticosteroid
-புரணித்திரலனையம்|corticosteroid|aka corticoid
-புரணியியக்குநீர்|cortisone|
-புரத மடிப்பு|protein folding|
-புரதக் கட்டமைப்பு|protein structure|proteome - புரதவமைப்பு
-புரதக் கருவுணவு|protein yolk|
-புரதக்கூடலகு|capsomere|
-புரதக்கூடு|capsid|
-புரதத் தொகுத்தாக்கம்|protein synthesis|
-புரதப்பகுப்பி|proteolytic agent|
-புரதப்பகுப்பு|proteolysis|
-புரதமணி|volutin|
-புரதமாக்க அனடி|ribosomal DNA|
-புரதமாக்க அனரி|ribosomal RNA (rRNA)
-புரதமாக்க அனரி|rRNA (ribosomal RNA)
-புரதமாக்கி|ribosome|
-புரதமாக்கித் தொகுப்பு|polyribosome|aka polysome
-புரதமாக்கித் தொகுப்பு|polysome|aka polyribosome
-புரதமீன்|protamine|
-புரதமூக்கி|protease|
-புரதம்|protein|
-புரதவமைப்பியல்|proteomics|
-புரதவமைப்பு|proteome|protein structure - புரதக் கட்டமைப்பு
-புரதவுறை|protein coat|
-புரதவூக்கி|proteinase|
-புரதை|peptide|
-புரதைச்சர்க்கரைடு|murein|aka peptidoglycan
-புரதைச்சர்க்கரைடு|peptidoglycan|aka murein
-புரதைத் தொடுப்பு|peptide linkage|
-புரதைப் பிணைப்பு|peptide bond|
-புரதையத் தலம்|peptidyl site|
-புரதையாக்கல்|peptization|
-புரதையூக்கி|peptidase|
-புரதோசு|proteose|
-புரதோன்|peptone|
-புரி|groove|
-புரியிடல்|grooving|
-புருசெல்லியநோய்|brucellosis|
-புருசெல்லியம்|brucella|
-புருவம்|eyebrow|
-புரூட்டரின் விதி|Brewster's law|
-புரோட்டட்டினியம்|protactinium|
-புரோட்டானேற்றிய|protonated|
-புரோட்டான்|proton|
-புரோப்பு- (புரோப்பேன்)|prop- (propane)|
-புரோப்பேன்|propane|
-புரோப்பைல்|propyl|
-புரோப்பைன்|propyne|
-புரோமிக அமிலம்|hydrobromic acid|
-புரோமிதியம்|promethium|
-புரோமின்|bromine|
-புரோமோ-|bromo-|
-புரோமோ-|bromo-|
-புரோலின்|proline|
-புலச் சுருள்|field coil|
-புலம்|field (physics)|
-புலனாகா|intangible|
-புலனாகு|tangible|
-புலனுருவாதல்|organogenesis|
-புலித் திட்டப்பணி|project Tiger|
-புல்லரீன்|fullerene|
-புல்லிவட்டம்|calyx|
-புல்வெளித் திணை|grassland biome|
-புவி|earth|
-புவி (கோள்)|Earth|
-புவி தினம்|Earth Day|
-புவிக்காலக் கோளேவுவண்டி|GSLV|
-புவிக்கிடப்புத் துணைக்கோள்|geostationary satelite|
-புவிக்கிடையியக்கம்|diagrotropism|
-புவிசார்|terrestrial|
-புவிசார் பொருள்|terrestrial object|
-புவிச்சாய்வியக்கம்|plagiogeotropism|
-புவிநாடியக்கமின்மை|apogeotropism|
-புவிநாடியக்கம்|geotropism|
-புவிநாடியக்கம்|positive geotropism|
-புவிநாடு|geotropic|
-புவிநிலையன்|GSAT|
-புவிப்படலவோடு|earth's crust|
-புவிப்பொறியியல்|geoengineering|
-புவிமேல் நிலமளப்பு|geodesic surveying|
-புவிமேற் கோடு|geodesic line|
-புவியத் தட்டு|tectonic plates|
-புவியருகு பொருட்கள்|near earth objects|
-புவியருமைத் தனிமங்கள்|rare earth elements|
-புவியியத் தனிமையாதல்|geographical isolation|
-புவியியல்|geography|geology - நிலவியல்
-புவியின் மேற்பரப்பு|earth's surface|
-புவியுடன்கால|geosynchronous|
-புவியுயிரியச்சுழற்சி|biogeocycle|
-புவியூர் தளம்|ecliptics|
-புவியெண்ணெய்|petroleum|kerosene - மண்ணெண்ணெய்
-புவியெண்ணெய் ஏற்றுமதி நாடுகளின் ஒருங்கமைப்பு (புயேனா)|Organization of Petroleum Exporting Countries (OPEC)
-புவியெண்ணெய்க்கரி|petroleum coke|
-புவிவிலகியக்கம்|negative geotropism|
-புவிவெப்ப|geothermal|
-புழுக்கலப்புரம்|vermicompost|
-புழுக்கூடு|cocoon|
-புழுக்கூறு|proglottis|
-புழுத்தலை|scolex|
-புழுவடிவக் குடல்வால்|vermiform appendix|
-புழுவனையம்|vermis|
-புழுவெச்சம்|worm cast|
-புழுவெதிர்ப்பிகள்|anthelmintics|
-புளியிக அமிலம்|tartaric acid|
-புளியிகேட்டு|tartrate|
-புளியினிக அமிலம்|tartronic acid|
-புளுட்டோனியம்|plutonium|
-புளூட்டோ|Pluto|
-புளூட்டோ|Pluto|
-புளோரிடத்தரசம்|floridean starch|
-புளோரின்|fluorine|
-புளோரோ-|flouro-|
-புளோரோ-|fluoro-|
-புள்ளி விகாரம்|point mutation|
-புள்ளிகள் தொடர்மை|continuum of points|
-புள்ளிக் குறைபாடு|point defect|
-புள்ளிக்காய்ச்சலியம்|rickettsia|
-புள்ளிக்காய்ச்சலியனையன|rickettsiaceae|
-புள்ளிக்காய்ச்சலியைகள்|rickettsiales|
-புள்ளிக்காய்ச்சல்|rickets|
-புள்ளிக்குவிய|stigmatic (optics)|
-புள்ளிக்குவியமின்மை|astigmatism|
-புள்ளிக்கோடு|dotted line|
-புள்ளிச் செயலி|dot operator|
-புள்ளித் தளவணி அச்சிடுவான்|dot matrix printer|
-புள்ளிப் பருத்திப்பூச்சி|spotted bollworm|
-புள்ளிப் பெருக்கல்|dot product|
-புள்ளியிய எந்திரவியல்|statistical mechanics|
-புள்ளியிய சீர்மை|statistical regularity|
-புள்ளியியல்|statistics|
-புள்ளிவாடல் நோய்|spotted wild disease|
-புற எலும்புக்கூடு|exoskeleton|
-புற ஓடு|outer shell|
-புற விலாவிடைத் தசை|external intercostal muscle
-புறக்கணிக்கத் தக்கது|negligible|
-புறக்காரணி|external agency|
-புறக்குழைமம்|ectoplasm|
-புறச்சவ்வு|outer membrane|
-புறச்சிவப்பணுச் சுழற்சி|exoerythrocytic cycle|aka preerythrocytic cycle
-புறச்சிவப்பணுச் சுழற்சி|preerythrocytic cycle|aka exoerythrocytic cycle
-புறச்சுரப்பி|apocrine|
-புறச்செவி|external ear|
-புறச்செவித்துளையம்|external auditory meatus
-புறத்தொண்டைச் சிரை|external jugular vein|
-புறத்தோல்|ectoderm|
-புறத்தோற்றமாக்கம்|morphogenesis|
-புறத்தோன்றிகள்|exogenous|
-புறநச்சுவம்|exotoxin|
-புறநீட்டல்|extrapolation|
-புறப்புல்லிவட்டம்|epicalyx|
-புறப்பையன|metatheria|
-புறமனை|outdoor|
-புறவணுப் பக்கம்|exoplasmic face|
-புறவர்|extern|
-புறவழி|bypass|
-புறவழி அறுவைசிகிச்சை|bypass surgery|
-புறவழிக்குமிழச் சுரப்பி|bulbourethral gland|
-புறவனவூக்கி|exonuclease|
-புறவார்ந்த|extrinsic|
-புறவிசை|external force|
-புறவிதழிணைந்த|gamosepalous|
-புறவிதழ்|sepal|
-புறவிதையன|gymnospermae|
-புறவிதையன்கள்|gymnosperms|
-புறவித்தகம்|exosporium|
-புறவித்துப்படலம்|amphithecium|
-புறவுள்ளகம்|outer core|
-புறவூக்கிப்புரதம்|exoenzyme|
-புறவூதா உட்கவர் நிறமாலையளவியல்|UV absorption spectrophotometry
-புறவூதா உட்கவர்தல்|UV absorption|
-புறவூதாக்கதிர்கள் (புவூ)|ultraviolet rays|
-புறவேற்றியன்|allotrope|
-புறவேற்றுமை|allotropy|
-புறவொலி|ultrasound|
-புறவொலிய|ultrasonic|
-புறா|pigeon|
-புறாமார்பு|pigeon chest|
-புற்றாக்கம்|carcinogenesis|
-புற்றாக்கி|carcinogenic|
-புற்று மரபணு|oncogene|
-புற்று மரபணு முன்னோடி|protooncogene|
-புற்றுநோயியல்|oncology|
-புற்றுநோய்|cancer|
-புற்றுவிளை|oncogenic|
-புனலனையம்|infundibulum|
-புனல்வடிவ|infundibuliform|
-புனையம்|invention|
-புனையர்|inventor|
-புனையவுரிமம்|patent|
-புனைவு|fiction|
-புன்கலவை|dyscrasias|
-புன்சன் எரிப்பி|Bunsen burner|
-புன்மரபு|dysgenic|eugenic - நன்மரபு
-புன்விற்பவர்|cheap Jack|
-புன்னெறியான|unethical|
-பூக்காம்புச்செதிலற்றது|ebracteolate|
-பூக்காம்புச்செதிலுள்ளது|bracteolate|
-பூக்காம்புச்செதில்|bracteole|
-பூக்கோசு|cauliflower|cabbage - இலைக்கோசு
-பூக்கோப்பையன|calyciflorae|
-பூங்கோர்வை|daisy chain|
-பூசணம்|mold (fungus)|
-பூசல்|contention|
-பூச்சி|insect|
-பூச்சிகள்|insecta|
-பூச்சிக்கொல்லி|insecticide|
-பூச்சிச்சேர்க்கை|entomophily|
-பூச்சியியல்|entomology|
-பூச்சியுண்ணி|insectivor|
-பூச்சியுண்ணும்|insectivorous|
-பூச்சிவிழுங்கும்|entomophagous|
-பூஞ்சக்கரம்|daisy wheel|
-பூஞ்சரசு|fungi|
--பூஞ்சவை|-mycetes|
--பூஞ்சன|-mycota|
--பூஞ்சிவை|-mycetidae|
--பூஞ்சின|-mycotina|
-பூஞ்சை|fungus|
-பூஞ்சைக்குழைமியம்|mycoplasma|
-பூஞ்சைக்குழைமியனையன|mycoplasmataceae|
-பூஞ்சைநிறுத்தி|fungistatic|
-பூஞ்சைநோய்|mycosis|
-பூஞ்சைப்பாட்டீரியம்|mycobacterium|
-பூஞ்சையப்பவளங்கள்|fungia|
-பூஞ்சையியல்|mycology|
-பூஞ்சையிழை|hypha|
-பூஞ்சைவலை|mycelium|
-பூஞ்சைவைரசு|mycovirus|
-பூட்டி|locker|
-பூட்டுப்பலகை|lock rail|
-பூட்டுவிடுவி|unlock|
-பூத்தல்|blooming|
-பூத்தளம்|receptacle (botany)|aka thalamus, torus
-பூத்தளம்|thalamus (botany)|aka torus, receptacle
-பூத்தளம்|torus (botany)|aka receptacle, thalamus
-பூத்தளவின|thalamiflorae|
-பூந்தட்டன|disciflorae|
-பூப்பு|puberty|
-பூப்பெலும்பு|pubis|
-பூப்பெலும்பு மேடு|mons pubis|
-பூரிக்கட்டை|rolling pin|
-பூலிய|boolean|
-பூலிய அல்லது|logical OR|
-பூலிய இயற்கணிதம்|boolean algebra|
-பூலிய உம்மை|logical AND|
-பூலியச் செயலி|boolean operator|
-பூவடிச்செதிலற்றது|ebracteate|
-பூவடிச்செதிலுள்ளது|bracteate|
-பூவடிச்செதில்|bract|
-பூவால்டு பிளாங்கின் மூச்சியமிறக்கம்|Bouveault-Blanc reduction
-பெக்கரல்|becquerel|
-பெக்குமனின் முறை|Beckmann method|
-பெக்குமனின் வெப்பநிலையளவி|Beckmann thermometer
-பெங்களூரு|Bangalore|
-பெங்குவின்|penguin|
-பெசமராக்கல்|bessemerization|
-பெசமரின் வழிமுறை|Bessemer process|
-பெசமர் |Bessemer |
-பெட்டகமாக்கல்|encapsulation|
-பெட்டகமூடி|calyptra|
-பெட்டகம்|capsule|
-பெண் நீரோட்டம்|La Nina current|
-பெண்குறி|vagina|
-பெண்குறி இடைத்திரை|vaginal diaphragm|
-பெண்குறி மூடுசவ்வு|Hymen vaginae|
-பெண்குறிய முடியொருவியம்|trichomonas vaginalis|
-பெண்குறியழற்சி|colpitis|
-பெண்குறியழற்சி|vaginitis|
-பெண்குறியுள்நோக்கல்|colposcopy|
-பெண்சூழ்|perigyny|
-பெண்டா|Benda|
-பெண்ணில்வாய்|cunnilingus|
-பெண்ணின்கீழிய|hypogynous|
-பெண்ணின்கீழ்|hypogyny|
-பெண்ணின்மேலிய|epigynous|
-பெண்ணின்மேல்|epigyny|
-பெண்ணுறை|cervical cap|
-பெண்ணேந்தி|gynophore|
-பெண்ணொட்டிய|gynandrous|
-பெண்ணொட்டு மரபுபெறல்|X-linked inheritance|
-பெண்மலர்|pistillate|
-பெண்மை இயக்குநீர்|estrogen|
-பெண்வெறுப்பு|misogyny|
-பெதட்டம்|petri dish|
-பெதவலை|petri net|
-பெத்தின்|pectin|
-பெந்தங்குக்கரின் வகைப்பாடு|Bentham and Hooker classification
-பெமுடோ-|femto-|
-பெயரத்தகு|portable|
-பெயரத்தகுமை|portability|
-பெயரளவு|nominal|
-பெயரளவு மதிப்பு|nominal value|
-பெயரளவு வீதம்|nominal rate|
-பெயரற்ற சிரை|innominate vein|
-பெயரற்ற தமனி|innominate artery|
-பெயரிடு இனக் கருத்துரு|nominalistic species concept
-பெயரிடுமுறை|nomenclature|
-பெயரொத்தல்|homonym|
-பெயர் மற்றும் எண் ஒப்படைப்புக்கான இணையக் கூட்டகம் (ஈக்கான்)|Internet Corporation for Assigned Names and Numbers (ICANN)
-பெயர்ச்சியூக்கி|translocase|
-பெயர்மாற்று|rename|
-பெயர்மைய|submetacentric|
-பெயனிக அமிலம்|behenic acid|
-பெயின்பிரிசு நிறை நிறமாலையளவி|bainbridge mass spectrometer
-பெய்ன்ப்ரிட்ஜ்|Bainbridge|
-பெரணி |fern|cortex - புரணி
-பெரணித்தாவரம்|pteridophyte|
-பெரல்|Perl|
-பெரல் உரைநிரல்|perl script|
-பெரிதாக்கு (பபவி)|maximize (GUI)|
-பெரிபெரி|beriberi|
-பெரியது|greater than|A > B என்பதை 'A பெரியது B சார்பில்' அல்லது 'A பெரியது B' என்று வாசிக்கலாம்.
-பெரியது அல்லது சமம்|greater than or equal to|A >= B என்பதை 'A பெரியது அல்லது சமம் B சார்பில்' அல்லது 'A பெரியது அல்லது சமம் B' என்று வாசிக்கலாம்.
-பெரியின் கரும்பொருள்|Fery's black body|
-பெரிலியம்|beryllium|pyrylium - பிரிலியம்
-பெரினியம்|perineum|
-பெரு முழுவெண்|big integer|
-பெருக்கலுறுப்பு|product term|
-பெருக்கல் வாய்ப்பாடுகள்|product formulae|
-பெருக்கல் விதி|product law|
-பெருக்கல்களின் குறுகிய கூட்டல்|minimum sum of products
-பெருக்கல்களின் கூட்டல்|sum of products|பெருக்கல் பெருக்கற்பலனைக் குறிப்பதால் ஆகுபெயர்
-பெருக்கற்பலன்|product (math)|
-பெருக்கனடி|plasmid|
-பெருக்கிலியம்|berkelium|
-பெருக்குச் சராசரி|geometric mean|
-பெருக்குத் தொடர் |geometric series|
-பெருக்குத்தொடர்|geometric progression|
-பெருங்கடலியல்|oceanography|
-பெருங்கடல்|ocean|
-பெருங்கடல் வெப்பத்தை ஆற்றலாக மாற்றல் (பெவெமா)|Ocean Thermal Energy Conversion (OTEC)
-பெருங்கரடி (விண்மீன்குழு)|Ursa Major|
-பெருங்கழிவுக்குழல்|meganephridium|
-பெருங்குடலழற்சி|colitis|
-பெருங்குடல்|colon|
-பெருங்குடல் தொகுதி|large intestine|
-பெருங்குடல்நோக்கல்|colonoscopy|
-பெருங்குடல்வாய்|caecum|
-பெருங்குடற் புற்று|colon cancer|
-பெருங்குடற்குச்சியம்|coliform|
-பெருங்கொடி|liane|
-பெருங்கோப்பையங்கள்|major calyces|
-பெருங்கௌரமி|giant gourami|
-பெருஞ் சுமப்பி|bulk carrier|
-பெருஞ்சிரை|vena cava|
-பெருஞ்சிறுமம்|maxmin|
-பெருஞ்சுழலோன்|macrolide|
-பெருஞ்சுழலோன் வளையம்|macrolide ring|
-பெருஞ்சுழல்|maelstrom|
-பெருஞ்சேமகம்|mass storage|
-பெருநண்டு|lobster|
-பெருநோவா|supernova|
-பெருநோவாக்கள்|supernovae|
-பெருந் தலசச்சோகை|thalassemia major|
-பெருந் திரள்மம்|coarse aggregate|
-பெருந்தசை|major muscle|
-பெருந்தமனி|aorta|
-பெருந்தமனிய வளைவு|aortic arch|
-பெருந்துளை|foramen|
-பெரும|max|
-பெருமக்கள் நுகர்வு|mass consumption|
-பெருமணியங்கள்|megasphaera|
-பெருமளவச் சிக்கனமின்மை|diseconomy of scale|
-பெருமளவச் சிக்கனம்|economy of scale|
-பெருமளவம்|large scale|
-பெருமளவில் உற்பத்தி செய்|mass produce|
-பெருமளவு உற்பத்தி|mass production|
-பெருமார்புத்தசை|pectoralis major|
-பெருமுதலை|alligator|
-பெருமூலக்கூறு|macromolecular|
-பெருமூளை|cerebrum|
-பெரும் தசையொவ்வுமை கூட்டுமம் (பெதகூ)|major histocompatibility complex (MHC)
-பெரும் தசையொவ்வுமை புரதம்|major histocompatibility protein
-பெரும்பசையணு|macroglia|
-பெரும்புயல்|hurricane|
-பெரும்புழுத்தலை|megascolex|
-பெரும்பெருமம்|maximax|
-பெரும்பொருளியல்|macroeconomics|
-பெருவட்டம்|great circle|
-பெருவித்திலை|megasporophyll|
-பெருவித்து|megaspore|
-பெருவித்துப்பை|megasporangium|
-பெருவிரல்|thumb|
-பெருவெடிப்புக் கோட்பாடு|big bang theory|
-பெர்கியசின் வழிமுறை|Bergius process|
-பெர்க்கிலி-ஹார்ட்லி|Berkley-Hartley|
-பெர்க்கினின் வினை|Perkin's reaction|
-பெர்மாவின் தேற்றம்|Fermat's theorem|
-பெர்மியம்|fermium|
-பெர்னூலி|Bernoulli|
-பெர்னூலியின் தேற்றம்|Bernoulli's theorem|
-பெல்டியரின் விளைவு|Peltier effect|
-பெல்லகிரா|pellagra|
-பெவுலிங்கின் கரைசல்|Fehling's solution|
-பெவுலிங்கின் வினை |Fehling's reaction|
-பெவுலிங்கின் வினையாக்கி|Fehling's reagent|
-பெறவேண்டிய வருமானம்|outstanding income|
-பெறுதல் அலைவுணரி|receiving antenna|
-பெறுதற்குறிய கணக்குகள்|accounts receivable|
-பெறுபயன்|benefit|
-பெறும அளவு|profit margin|
-பெறும இழப்புக் கணக்கு|profit and loss account
-பெறுமத்தன்மை|profitability|
-பெறுமப் பங்காளி|partner in profit only|
-பெறுமமும் இழப்பும்|profit and loss|
-பெறுமம்|gain|
-பெறுமம் (வணிகம்)|profit|loss - இழப்பு
-பெறுவி|receptor|acceptor - ஏற்பி
-பெறுவி உறுப்பு|receptor organ|
-பெறுவியனுப்பி|transciever|
-பெறுனர்|recipient|
-பெறுனர் (காசோலை)|payee (of a check)|
-பெற்ற பெறுமம்|realized gain|
-பெனடிக்கின் சோதனை|Benedict's test|
-பெனடிக்கின் வினையாக்கி|Benedict's reagent|
-பெனிசிலியம்|penicillium|
-பெனிசிலினூக்கி|penicillinase|
-பெனிசிலின்|penicillin|
-பென்சாயிக அமிலம்|benzoic acid|
-பென்சாயில் குளோரைடு|benzoyl chloride|
-பென்சாயின்|benzoin|
--பென்சால்டிகைடு|-benzaldehyde|
-பென்சில்|pencil|
-பென்சீனனையம்|benzenoid|
-பென்சீன்|benzene|
-பென்சைல்|benzyl|
-பென்சோ-|benzo-|
-பேக்கலைட்டு|bakelite|
-பேசத்தகா|nonnegotiable|
-பேசத்தகு|negotiable  |
-பேசத்தகு ஆவணம்|negotiable instrument|
-பேசிடியப்பூஞ்சை|basidiomycete|
-பேசிடியம்|basidium|
-பேசின் தேற்றம்|Bayes' theorem|
-பேச்சு|speech|
-பேச்சுத் தொகுத்தாக்கி|speech synthesizer|
-பேச்சொலிய|phonetic|
-பேச்சொலியம்|phonetics|acoustics - ஒலியியல்
-பேடிரா|piedra|
-பேட்டா-|peta- |
-பேணு|maintain|
-பேணுதல்|maintenance|
-பேதி|dysentery|
-பேதொ (பேரளவத் தொகையிடல்)|LSI (large-scale integration)
-பேத்தைநச்சுவம்|tetrodotoxin |
-பேத்தைமீன்|tetrodon|
-பேரங்காடி|supermarket|
-பேரம்மை|smallpox|well established, despite the antonymous literal translation
-பேரம்மை|variola|aka smallpox
-பேரம்மை வைரசு|variola virus|
-பேரரசியல்|macropolitics|
-பேரருவி|cataract|
-பேரழிவு|disaster|
-பேரளவத் தொகையிடல் (பேதொ)|large-scale integration (LSI)
-பேரளவு|macroscopic|
-பேரளவுத் தனிமங்கள்|macro elements|
-பேராயக் கட்சி|congress party|
-பேராயம்|congress|
-பேரியம்|barium|
-பேரியன்|baryon|
-பேரினவணு|macrogamete|
-பேருணவு முட்டை|macrolecithal egg|
-பேருண்ணி|macrophage|
-பேருண்ணி ஒற்றையணு|macrophage monocyte
-பேருதடு|labia majora|
-பேரூழி|eon|
-பேரெண்களின் நிலைமம்|inertia of large numbers
-பேரேடு|ledger|
-பேலிடம்|pallidum|
-பேழை|pod|
-பேழைக்கனி|siliqua|pod - பேழை
-பேழையகம்|bureau |
-பேன்|louse|
-பேஸ்|Bayes|சரியான ஆங்கில உச்சரிப்பு
-பை|bladder|
-பை (கிரேக்க எழுத்து)|pi|
-பைசம் சட்டைவம்|pisum sativum|
-பைசாலியா|physalia|
-பைஞ்சுதை|cement|
-பைநோக்கி|cystoscope|
-பைநோக்கியல்|cystoscopy|
-பைப்பூஞ்சை|ascomycete|
-பையடுக்கு|granum|
-பையனினைல்|cysteinyl|
-பையனின்|cysteine|
-பையனையம் (இலைக் கட்டமைப்பு)|thylakoid|
-பையனையம் (பூஞ்சையியல்)|ascus|
-பையனைன்|cystine|
-பையுடைய இதழ்|saccate petal|
-பையுள்நோக்கி|ureterorenoscopy|
-பையூரதக் கூட்டுமம்|Biuret complex|
-பைரித்திரம் கிரசால்|pyrethrum cresol|
-பைருவேட்டு|pyruvate|
-பைரூவிக அமிலம்|pyruvic acid|
-பைரோல்|pyrrole|
-பைவாலநோய்|cysticercosis|
-பைவாலன்|cysticercus|
-பொக்களம்|cyst|
-பொசலானா|pozzolana|
-பொசு பந்துகள்|puff balls|
-பொடுகு|dandruff|
-பொட்டாசியம்|potassium|
-பொட்டியமிட்ட பட்டியல்|bullet list|
-பொட்டியம்|bullet |
-பொட்டுத்தசை|temporalis|
-பொதி நரம்பணு|schwann cell|
-பொதிக்கட்டல்|packaging|
-பொதிக்கட்டு|package|packet - பொதியல்
-பொதிப்பரிசு நச்சுநிரல்|trojan horse virus|
-பொதியலிடல்|packing|
-பொதியலிடு|pack|
-பொதியல்|packet|package - பொதிக்கட்டு
-பொதியல் மாற்ற வலையம்|packet-switching network
-பொதியல் மாற்றம்|packet-switching|
-பொதியல்நீக்கு|unpack|
-பொதியவிங்கள்|sarcinae|
-பொதிவு|packing|
-பொதிவுத் துண்டு|packing strip|
-பொது அடிவயிற்றுச் சிரை|common iliac vein|
-பொது உணர்மறைப்பி|general anaesthetic|
-பொது நுழைவி இடைமுகம் (பொநுவி)|Common Gateway Interface (CGI)
-பொது வணிகத்துறை|public sector|
-பொதுக் கீறலிடுதல்|general crossing (of checks)
-பொதுக்கூட்டவச்சம்|agoraphobia|
-பொதுக்கூவல் அமைப்பு|public address system|
-பொதுச் சுமப்பி|common carrier|
-பொதுத் தீர்வு|general solution|
-பொதுத்தொடக்கத் திசையன்கள்|co-initial vectors|
-பொதுநிதிக் கொள்விதி|fiscal policy|
-பொதுப்பட்ட ஒப்புமைக் கோட்பாடு|general theory of relativity
-பொதுப்புள்ளிக்கோடுகள்|concurrent lines|
-பொதுப்பொருள் கடை|general shop|
-பொதுமன்னிப்பு|amnesty|
-பொதுவணி|tensor|
-பொதுவமாக்கல்|generalization|
-பொதுவமாக்கிய|generalized|
-பொதுவுடைமைக் கட்சி|communist party|
-பொதுவுடைமையிசம்|communism|
-பொத்தன்|bouton|
-பொத்தான்|button|
-பொநுவி (பொது நுழைவி இடைமுகம்)|CGI (Common Gateway Interface)
-பொய்|false|true - மெய்; wrong - தவறு
-பொய்க் கூற்று|false statement|
-பொய்க்கனி|false fruit|
-பொய்மை|falsity|
-பொரிப்பகம்|hatchery|
-பொருட்காட்சி|exhibition|
-பொருண்மம்|material|
-பொருத்தி (மின்சாரம்)|plug (electricity)|socket - பொருந்தி; fastener - மாட்டி
-பொருத்தி ஒவ்வுமையான உற்பத்தியாளர் (பொவுவு)|plug compatible manufacturer (PCM)
-பொருத்து|match|
-பொருந்தி (மின்சாரம்)|socket (electricity)|plug - பொருத்தி; fastener - மாட்டி
-பொருந்தொட்டு|splice|
-பொருளருகு ஒளிவில்லை|objective lens|
-பொருளருகு சுருளி|objective coil|
-பொருளியல்|economics|
-பொருளியல் சிந்தனை|economic thought|
-பொருளியல் திட்டமிடல்|economic planning|
-பொருளியல் பெ.உ|economic (economics)|
-பொருளியல் வளர்ச்சி|economic growth|
-பொருளியற் செயல்கள்|economic activity|
-பொருளுணரியல்|semantics|
-பொருளுணர்|interpret|
-பொருளுணர்வு|interpretation|
-பொருளுமை|significance|
-பொருளுமை இலக்கங்கள்|significant figures |
-பொருளுமை சோதனை|test of significance|
-பொருளுமை மட்டம்|level of significance|
-பொருள் (மொழியியல்)|meaning|
-பொருள் தழுவிய அசைவூட்டல்|object based animation
-பொருள் மூலதனம்|physical capital|
-பொருள்நோக்கு|object oriented|
-பொருள்மயக்கநீக்கம்|disambiguate|
-பொருள்மயக்கம்|ambiguity|
-பொரெல்லியங்கள்|borellia|
-பொலஞ்சுகியின் எண்|Polenske number|
-பொலோனியம்|polonium|
-பொவுவு (பொருத்தி ஒவ்வுமையான உற்பத்தியாளர்)|PCM (plug compatible manufacturer)
-பொழிவு|shower|
-பொழிவுரை|seminar|
-பொறி|engine|
-பொறிக்கதவு|trap door|
-பொறியியலர்|engineer|
-பொறியியல்|engineering|
-பொறியியல் வரைவு|engineering drawing|
-பொறுப்புமாற்றம்|consignment|
-பொறுப்புறுதி|warranty|indemnity - ஈட்டுறுதி; guarantee - செயலுறுதி
-பொன்விழா ஆண்டு தன்பணியாக்கத் திட்டம்|Swarna Jayanti Shahari Rozgar Yojana (SJSRY)
-பொன்னுக்குவீங்கி|mumps|
-போகுமங்கல்|fade out|
-போகூழ்|unfortunate|
-போக்கலசல்|flushing|
-போக்கிடுதல்|amortization|
-போக்கு|trend |
-போக்குவரத்து|transport (in commerce)
-போட்டி|competition|
-போட்டி மறிப்பு|competitive inhibition|
-போட்டியம்|rivalry|
-போட்டியர்|rival|competitor - போட்டியாளர்
-போட்டியற்ற மறிப்பு|uncompetitive inhibition|noncompetitive inhibition - போட்டியில்லா மறிப்பு
-போட்டியாளர்|competitor|rival - போட்டியர்
-போட்டியில்லா மறிப்பு|noncompetitive inhibition|uncompetitive inhibition - போட்டியற்ற மறிப்பு
-போதகாத|inadequate|
-போதகுமான|adequate|
-போதகுமை|adequacy|sufficiency - போதுமை
-போதுமை|sufficiency|adequacy - போதகுமை
-போதைப்பொருள்|drug (narcotic)|
-போராச்சு|borax|
-போராச்சு பரல்|borax bead|
-போரான்|boron|
-போரிக அமிலம்|boric acid|
-போரியம்|bohrium|
-போரின் அணு ஒப்புரு|Bohr's atom model|
-போரோடைன்|Borodine|
-போர்ட்டிரான்|FORTRAN|
-போர்ட்டிலாந்து|Portland|
-போர்த்தல்|cladding|
-போலந்து குறியீடு|Polish notation|
-போலராயிடு|Polaroid|
-போலி (வியாபாரம்)|duplicate (trade)|
-போலி நேர்ந்தவாறான எண்|pseudo random number
-போலி மகரந்தத்தாள்|staminode|aka sterile stamen
-போலி மகரந்தத்தாள்|sterile stamen|aka staminode
-போலி மறைவுமை|phyletic extinction|
-போலி முதல் முறைமை வினை|pseudo first order reaction
-போலிக அமிலம்|folic acid|
-போலிக் குறி|pseudo-code|
-போலிக்கால்|pseudopod|
-போலிநோக்கார்டியங்கள்|pseudonocardia|
-போலிப்பக்கிய|pseudophakic|
-போலிப்புரதைச்சர்க்கரைடு|pseudomurein|
-போலியலகியம்|pseudomonas|
-போலியலகியனையன|pseudomonadaceae|
-போலியுடற்குழி |pseudocoelom |
-போலியுடற்குழியுள்ளவை|pseudocoelomata|
-போன்மையாக்கம்|emulation|
-போன்மையாக்கு|emulate|
-போன்ற|et cetera (etc.)|
-போன்ற|etc. (et cetera)|
-பௌமன் பெட்டகம்|Bowman's capsule|
-ப்ரிக்ஸ்|Briggs|
-ம- (ஆல்க்கீன்)|E- (alkene)|
-மகசூல்|yield n (agriculture)|
-மகரந்த மடல்|anther lobe|
-மகரந்த வட்டம்|androecium|
-மகரந்தக் குழல்|pollen tube|
-மகரந்தக்கூடை|pollen basket|
-மகரந்தச் சேர்க்கை|pollination|
-மகரந்தத் துகள்|pollen grain|
-மகரந்தத்தாள்|stamen|
-மகரந்தத்தாள்களின் ஒட்டிணைவு|adhesion of stamens|
-மகரந்தத்தாள்களின் கூட்டிணைவு|cohesion of stamens|
-மகரந்தப் பிணைப்பு|fixation of anther|
-மகரந்தப் பை|anther|aka pollen sac
-மகரந்தப்பை|pollen sac|aka anther
-மகரந்தப்பையனையம்|antheridium|
-மகரந்தமடல்|antherlobe|
-மகரந்தமுன்முதிர்வு|protandry|
-மகரந்தம்|pollen|
-மகரந்தவியல்|palynology|
-மகரந்தனையம்|antherozoid|
-மகராட்டியம்|Maharastra|
-மகனீசியம்|magnesium|மக்னீசியம் மெய்மயக்க விதியை மீறும் - தொல்காப்பியம் 30
-மகனீசியா|magnesia|
-மகிழுலா|tour|picnic - உலாவூண்
-மகிழ்க்குச்சி|joystick|
-மக்கள் கட்சி|janatha party|
-மக்கள் கணக்கெடுப்பு|census|
-மக்கள் தொகை|human population|population - இனத்தொகை
-மக்கள் தளம்|janata dal|
-மக்கள் தொகையிய|demographic |
-மக்கள் தொகையிய நிலைமாற்றம்|demographic transition
-மக்கள் தொகையியல்|demography|
-மக்களவை|Lok Sabha|
-மக்களவைத் தலைவர்|speaker (of LokSabha)
-மக்களவைத் துணைத்தலைவர்|deputy speaker  (of LokSabha)
-மக்கள்நல அரசு|welfare state|
-மக்காடம்|macadam|
-மக்காத|non-bio-degradable|
-மக்கார்த்தி|McCarthy|
-மக்கும்|bio-degradable|
-மங்கல்|fading|
-மசகுடைய மூட்டு|synovial joint|
-மசுக் கண்டு|mush winding|
-மஞ்சட்காமாலை|jaundice|
-மஞ்சட்புள்ளி நோய்|yellow spot disease|
-மஞ்சரி|inflorescence|
-மஞ்சளூன்|yellow marrow|
-மஞ்சள்மெய்யக் கட்டம்|luteal phase|
-மஞ்சள்மெய்யம்|corpus luteum|
-மஞ்சள்மெய்யாக்க இயக்குநீர்|luteinizing hormone|
-மடக்கு|loop (computer)|logarithm - மடக்கை
-மடக்குக் கதவு|collapsible door|
-மடக்குத் தசை|flexor muscle|
-மடக்கை|logarithm|loop - மடக்கு
-மடக்கைக் கட்டம்|log phase|
-மடக்கைக்கூறு|mantissa|
-மடலுறை|sheathing leaf base|
-மடல்|lobe|
-மடவை|grey mullet|
-மடற்கூர்முனை|spadix|
-மடி (உரை)|wrap (text)|
-மடிக்கணினி|laptop|
-மடிக்கணினி|laptop computer|
-மடிசுரங்கள்|overtones|
-மடியழற்சி|mastitis|
-மட்குச்சுருளியம்|saprospira|
-மட்குண்தாவரம்|saprophyte|
-மட்குவிலங்கின்வருநோய்|saprozoonosis|
-மட்ட நிலமளப்பு|leveling (surveying)|
-மட்டக் கம்பு|leveling staff|
-மட்டக் கோடு|level line|
-மட்டச் சட்டம்|T-square|
-மட்டத் தளம்|level surface|
-மட்டத் தாழ்|flush bolt|
-மட்டத்தண்டு|rhizome|
-மட்டமஞ்சரி|corymb|
-மட்டமஞ்சரிய|corymbose|
-மட்டம்|level|
-மட்டம்மை|vaccinia|
-மட்டி|mussel|
-மட்டியம்|tablet|
-மட்டு|modulus (complex number)
-மட்டு மதிப்பு|absolute value (opp signed value)
-மட்டுச் சார்பு|absolute function|
-மட்டுச் செயலம்|modulo operation|
-மட்டை|peduncle|
-மட்டைய ஓட்டுச்சிப்பி|lepas|
-மண மடல்|olfactory lobe|
-மணப் பெறுவி|olfactory receptor|
-மணமுறி|divorce (marriage)|
-மணல் ஈ|sand fly|
-மணல் திணிதல்|bulking of sand|
-மணற்கரை|beach|
-மணற்பாறை|sandstone|
-மணிக்கட்டு|wrist|
-மணிக்கட்டுக் கால்வாய்|carpal tunnel|
-மணிக்கட்டெலும்பு|carpal|
-மணிச்சட்டம்|abacus|
-மணித்துகளணு|granulocyte|aka polymorphonuclear leucocyte
-மணித்துகளணு|polymorphonuclear leucocyte|aka granulocyte
-மணித்துகளாதல்|granulation|
-மணித்துகள்|granule|
-மணித்துகள் அடுக்கம்|stratum granulosum|
-மணித்துளி|minute (time)|
-மணிப்பொதி|ball bearing|
-மணியம்|coccus|
--மணியம்|-coccus|
--மணியன|-cocci|
-மணிவடிவ|companulate|
-மண்|soil |
-மண் அரிமானம்|soil erosion|
-மண்டை|cranium|
-மண்டைமுகத் தசை|craniofacial muscle|
-மண்டையற்றவை|acrania|
-மண்டையுள்ளவை|craniata|
-மண்டையோடு|skull|
-மண்டையோட்டுப் பெருந்துளை|foramen magnum|
-மண்ணிய|edaphic|
-மண்ணீரல்|spleen|
-மண்ணீரல் பேருண்ணி|splinic macrophage|
-மண்ணீரல் வீக்கம்|splenomegaly|
-மண்ணெண்ணெய்|kerosene|petroleum - புவியெண்ணெய்
-மண்புழு|earthworm|
-மண்புழுவளர்த்தல்|vermiculture|
-மதசார்பற்ற|secular|
-மதிப்பறிதல்|evaluation|estimation - மதிப்பிடல்
-மதிப்பறிதல் முறைமை|order of evaluation|
-மதிப்பாய்வு|assay|
-மதிப்பிடல்|estimation|evaluation - மதிப்பறிதல்
-மதிப்பிடு|estimate v|
-மதிப்பீடு|estimate n|
-மதிப்பீட்டளவை|estimator|
-மதிப்பு மூலம் விளித்தல்|call by value|
-மதிப்புக் குறைப்பு முறை|diminishing balance method|aka written down value method
-மதிப்புக் குறைப்பு முறை|written down value method|aka diminishing balance method
-மதிப்புமிக்கவை|valuables|
-மதுசாரம்|tincture|
-மத்திய சுற்றுச்சூழல் மற்றும் வனங்கள் அமைச்சகம்|Union Ministry of Environment and Forests
-மத்தியதரைக் கடல்|mediterranean sea|
-மநோவை (மனித நோயெதிர்ப்புக்குறை வைரசு)|HIV (Human Immunodeficiency Virus
-மந்த இணை விளைவு|inert pair effect|
-மந்த முனைப்பொறி|dumb terminal|
-மந்த வளிமம்|inert gas|
-மயலின் உறையிடப்பட்ட|medullated|
-மயலின் சூழுறை|Myelin sheath|
-மயில்|peocock|
-மயில்நீலம்|cyan|
-மயோகுளோபின்|myoglobin|
-மரச் சுத்தியல்|mallet|
-மரச்சாறு|sap|
-மரண விறைப்பு|rigor mortis|
-மரபணு|gene|
-மரபணு சிகிச்சை|gene therapy|
-மரபணு நிகழ்வெண்|gene frequency|
-மரபணு நுழைப்பு முறை|gene gun method|
-மரபணு வங்கி|gene bank|
-மரபணு விகாரம்|gene mutation|
-மரபணு வெளிப்பாடு|gene expression|
-மரபணுக் குழுமம்|gene pool|
-மரபணுமாற்ற|transgenic|
-மரபணுவகை|genotype|
-மரபணுவகை விகிதம்|genotypic ratio|
-மரபமைப்பியல்|genomics|
-மரபமைப்பு|genome|
-மரபமைப்புக் கணிப்புத் தொடரிகள்|genome survey sequence
-மரபமைப்புத் தரவுத்தளம்|genome database|
-மரபிய நகர்வு|genetic drift|
-மரபியச் சமன்செய் இயங்குமுறை|genic balance mechanism
-மரபியர்|geneticist|
-மரபியல்|genetics|
-மரபியல் இனத்தொகை|genetic population|
-மரபியல் தொழிலகம்|genetic industry|
-மரபியல்வழி மாற்றப்பட்ட உயிரி (மமாவு)|genetically modified organism (GMO)
-மரபியற் குறி|genetic code|
-மரபு (சமூகவியல்)|tradition|
-மரபு (மரபியல்)|trait|
-மரபு நீரிழிவு|diabetes mellitus|
-மரபு மாறுபாடு|genetic variation|
-மரபுக்குண முறை|phenetic method|
-மரபுக்குண விகிதம்|phenotypic ratio|
-மரபுக்குணவகை|phenotype|
-மரபுக்கொழுந்து|offspring|
-மரபுசாரா|nontraditional|
-மரபுசார்|traditional|
-மரபுசார் அதிகாரம்|traditional authority|
-மரபுபெறல்|inheritance|
-மரபுபெறு|inherit |
-மரபுப் பொறியியல்|genetic engineering|
-மரபுப்படம்|genetic map|
-மரபுப்பொருள்|chromatin|
-மரபுப்பொருள் இழை|chromatic fiber|
-மரபுமெய்யம்|chromosome|நிறமி - pigment
-மரபுமெய்யம் புடைப்பு|chromosomal puff|
-மரபுமெய்யலசல்|karyotyping|
-மரபுமெய்யவரைவு|idiogram|aka karyogram
-மரபுமெய்யவரைவு|karyogram|aka idiogram
-மரபுமெய்யிளம்|chromatid|
-மரபுரு|allele|aka allelomorph
-மரபுரு|allelomorph|aka allele
-மரபுருவியம்|allelism|
-மரபுவகை|strain (biology)|
-மரபுவழி|pedigree|
-மரபுவழியாதி|propositus|
-மரபுறு மாறுபாடுகள்|heritable variations|
-மரபெண்|ploidy|
-மரபேற்பு|convention|
-மரபேற்புசாரா|nonconventional|
-மரபேற்புசார்|conventional|
-மரபேற்பெதிர்|unconventional|
-மரப்பாய்|sail|
-மரப்பால்|gutta percha|
-மரமெழுகு அமிலம்|lignoceric acid|
-மரம் (கட்டுமானவியல்)|timber|
-மரம் வளர்த்தல்|arboriculture|
-மரம்வாழ்|arboreal|
-மரவகம்|arboretum|
-மரவாணி|dowell|
-மரவாணியிணைப்பு|dowelled joint|
-மரவுருக் கட்டமைப்பு|tree structure|
-மராசுமம்|marasmus|
-மருத்துவக் காப்பீடு|medical insurance|
-மருத்துவத் தாவரம்|medicinal plant|
-மருத்துவமனை|hospital|
-மருத்துவமனை கிருமியேற்றம்|nosocomial infection|
-மருத்துவம்|medicine (the field of)|
-மருத்துவர்|doctor (medicine)|
-மருந்தியல்|pharmacology|
-மருந்து|medicine |
-மருந்து உயிர்வேதியியல்|pharmacological biochemistry
-மருந்து வேதியியல்|medicinal chemistry|
-மருந்துவேதி வடிவமைப்பு|drug design|
-மருந்துவேதியம்|drug (medicinal)|
-மர்மக் கணக்கு|suspense account|
-மலக்கால்வாய்|anal canal|
-மலக்குடல்|rectum|
-மலக்குடல்நோக்கல்|proctoscopy|
-மலக்குடற் புற்று|rectal cancer|
-மலங்கழி|defecate|
-மலங்கழித்தல்|defecation|
-மலச்சிக்கல்|constipation|
-மலடாக்கல்|sterilization (zoology)|
-மலடாக்கு|sterilize (zoology)|
-மலடு|sterility|
-மலட்டுயிரி|sterile organism|
-மலப்பாதை|coprodaeum|
-மலப்புழை|proctodaeum|
-மலப்போக்கி|cathartics|
-மலமிளக்கி|laxative|
-மலம்|feces|
-மலரம்|rosette|
-மலருறை|perianth|
-மலரேந்தி|anthophore|
-மலர்|flower|
-மலர்க்காம்பு|pedicel |
-மலர்த் தேனீ|Apis florea|
-மலிவான|cheap|
-மலினம்|abundance|
-மலேரியக் காய்ச்சல்|malarial fever|
-மலேரியம் கூ.|P. malariae|
-மலேரியவெதிர்ப்ப|antimalarial|
-மலேரியா|malaria|
-மலையிறக்க|downhill|
-மலையேற்ற|uphill|
-மலோனிக அமிலம்|malonic acid|
-மலோனைல் துணையூக்கிப்புரதம்|malonyl CoA|
-மல்லன் அக்கி|herpes gladiatorum|
-மல்லிக்கனின் அளவம்|Mulliken's scale|
-மவசு (மனித வளராக்கச் சுட்டெண்)|HDI (Human Development Index)
-மழைநீர்ச் சேகரிப்பு|rainwater harvesting|
-மழைவன நட்புமை|Rainforest Alliance|
-மழைவனச் செயல் வலையம்|Rainforest Action Network
-மறிப்பி|inhibitor|
-மறிப்பு|inhibition|
-மறிய முக்கோணம்|impedance triangle|
-மறியம்|impedance|
-மறு-|trans-|
-மறு ஏற்றுமதி|reexport|
-மறு விசை|alt key|
-மறுகட்டமைப்பு|restructure|
-மறுகட்டுமானம்|reconstruction|
-மறுகிருமியேற்றம்|reinfection|
-மறுக்காததால் பங்காளி|partner by holding out|
-மறுசுருள் பெ|iteration|
-மறுசுருள் பெ.அ|iterative|
-மறுசுழற்சி|recycle|
-மறுசுழற்சிப் பெட்டி|recycle bin|
-மறுசேரி|recon (biology)|recombinant - மீள்சேர்
-மறுதிசையமை|reorient|
-மறுதிசையமைவு|reorientation|
-மறுதொடங்கு|reboot|
-மறுபயன்|second hand|reuse - மீள்பயன்
-மறுபயன் பொருட்கள்|second hand goods|
-மறுபெயர்|alias|
-மறுபொதியலிடு|repack |
-மறுபொதியல்|repacking|
-மறுப்பம்|reluctance|
-மறுப்பாணை|countermand|
-மறுப்பு|negation|
-மறுப்பு (காசோலை)|dishonor (of check)|
-மறுமதிப்பறிதல்|revaluation|
-மறுமாற்றம்|transversion|
-மறுமுறைமையாக்கு|reorder (list)|
-மறுமொழிப்பொறுப்பு|accountability|
-மறுவருகோள்|reorder (merchandise)|
-மறுவழி|alternative|
-மறுவழி கருதுகோள்|alternative hypothesis|
-மறுவாழ்வு|rehabilitation|
-மறுவொப்புருவாக்கம்|remodelling|
-மறைக்காலி|caecilian|
-மறைப்பி|mask n|
-மறைப்பிடு|mask v |
-மறைப்புக் காரணி|masking agent|
-மறைமுக|indirect|
-மறையீக்கம்|decypher|
-மறையீடு|cypher|
-மறையுறை|cache|
-மறையுறை கிருமியேற்றம்|latent infection|
-மறையுறை வெப்பம்|latent heat|
-மறைவுக்கோடு|hidden line|
-மறைவுமை|extinction|
-மற்றவர்களும்|et al. (et alia)|
-மற்றவர்களும்|et alia (et al.)|
-மற்றவை சமமாயின்|ceteris paribus|
-மற்றெங்கும்|elsewhere|
-மன முன்னிலை|presence of mind|
-மனங்காண்|visualize|
-மனவியத் தனிமையாதல்|psychological isolation
-மனவியல்|psychology|உளவியல் - espionage
-மனவிழப்பு|dementia|
-மனவொருமை|concentration|
-மனித உடலமைப்பு|human anatomy|
-மனித கீமோகுளோபின் (மகீகு)|hemoglobin A (HbA)|
-மனித சேப்பியன்|Homo Sapien|
-மனித நோயெதிர்ப்புக்குறை வைரசு (மநோவை)|Human Immunodeficiency Virus (HIV)
-மனித மரபமைப்புத் திட்டப்பணி|human genome project
-மனித முன்னோடி|hominid|
-மனித வளம்|human resource|
-மனித வளராக்கச் சுட்டெண் (மவசு)|Human Development Index (HDI)
-மனித வெள்ளையணு நோயெதிர்ப்பூட்டிக் (மவெநோ) கூட்டுமம்|human leukocyte antigen (HLA) complex
-மனிதக்குரங்கு|ape|
-மனிதச்சிறுமம்|homunculus|
-மனிதத்திறன்|manpower|
-மனிதமாக்கல்|anthropomorphism|
-மனிதவரு நோய்|anthroponosis|
-மனிதவனையம்|humanoid|அனைய means 'like'
-மனிதவியல்|anthropology|
-மனிதவிலங்கின்வருநோய்|anthropozoonosis|
-மனிதன்|man|
-மனையியல்|home science|psychology - மனவியல்
-மன்றம்|council|
-மாக்ஸ் ப்ளாங்க்|Max Planck|
-மாங்கனிக அமிலம்|manganic acid|
-மாங்கனீசு|manganese|
-மாங்கனேட்டு|manganate|
-மாசுறுதல்|pollution|doping - மாசூட்டல்
-மாசுறுத்த|pollutant adj|
-மாசுறுத்தி|pollutant n |
-மாசுற்ற|polluted |
-மாசூட்டல்|doping|pollution - மாசுறுதல்
-மாசூட்டி|dopant|
-மாச்சரீட்டு உடன்படிக்கை|Maastricht Treaty|
-மாட்டி|fastener|
-மாண்டு வழிமுறை|Mond process|
-மாதவிடாய்|menstruation|
-மாதவிடாய் முன்பான|premenstrual|
-மாதவிடாய்ச் சுழற்சி|menstrual cycle|
-மாதிரிக்கூறு|sample|
-மாதிரிக்கூறு ஆய்வறிதல்|case study|
-மாதிரிக்கூறு வெளி|sample space|
-மாதிரிக்கூறெடுப்பு|sampling|
-மாதிரிக்கூறெடுப்பு அலகு|sampling unit|
-மாதிரிக்கூறெடுப்பு சாராப் பிழை|non-sampling error|
-மாதிரிக்கூறெடுப்புச் சட்டம்|sampling frame|
-மாதிரிக்கூறெடுப்புப் பிழை|sampling error|
-மாதிரியம்|prototype|
-மாதிரியனேற்றல்|mounting of specimen|
-மாதிரியன்|specimen|
-மாநில ஆணையம்|State Commission|
-மாநில இருப்பகக் கூட்டகம்|State Warehousing Corporation
-மாநில நெடுஞ்சாலை|state highway|
-மாநில மன்றம்|State Council|
-மாநிலப் பூங்கா|state park|
-மாநிலம்|state (administrative)|
-மாநிலவை|Rajya Sabha|
-மாநிலவைத் தலைவர்|chairman of Rajya Sabha
-மாநிலவைத் துணைத்தலைவர்|deputy chairman of Rajya Sabha
-மாந்திரியால்|Montreal|
-மாந்திரியால் விதிமுறை|Montreal Protocol|
-மாபெரும் தட்டிப் பவளப்பாறை|Great Barrier Reef|
-மாயாவி|wizard (computer)|
-மாயொளிப்படம்|halogram|
-மாயொளிப்படவியல்|halography|
-மாரடைப்பு|heart attack|
-மார்கனின் தேற்றங்கள்|DeMorgan's theorems|
-மார்க்கிசக் கட்சி|marxist party|
-மார்க்கிசம்|Marxism|
-மார்பகப் புற்று|breast cancer|
-மார்பகம்|breast|thoracic region - மார்புப் பகுதி
-மார்பு நெறிப்புவலி|angina pectoris|
-மார்பு வளையம் (எலும்புக்கூடமைப்பு)|pectoral girdle|மார்பகம் - breast
-மார்புக் குழி|thoracic cavity|
-மார்புக்கழுத்துமெல்லுதசை|sternocleidomastoid|
-மார்புக்கூடு|thorax|
-மார்புக்கூடுநோக்கி|thoracoscopy|
-மார்புக்கூட்டு|thoracic|
-மார்புக்கூட்டுத் தமனி|thoracic artery|
-மார்புச் சிரை|pectoral vein|
-மார்புச்சுவர்|thoracic wall|
-மார்புத் தமனி|pectoral artery|
-மார்புத்தசை|pectoralis|
-மார்புநாளம்|thoracic duct|
-மார்புநோக்கி|stethoscope|
-மார்புப் பகுதி|thoracic region|மார்பகம் - breast
-மார்பெலும்பு|sternum|
-மார்ஸெல்லா மால்ப்பீகி|Marcello Malpighi|
-மாலக்கி|malachite|
-மாலக்கிப் பச்சை|malachite green|
-மாலத்தையான்|malathion|
-மாலிக அமிலம்|malic acid|
-மாலிசுச் சோதனை|Molisch test|
-மாலித்தினம்|molybdenum|
-மாலுமி|sailor|
-மால்தஸ்|Malthus|
-மால்ப்பிகப் பெட்டகம்|Malpighian capsule|
-மாவட்ட நடுவர்|district judge|
-மாவட்டம்|district|
-மாவுரை|aleurone|
-மாவுரைப் படலம்|aleurone layer|
-மாவோசு|maltose|
-மாவோசூக்கி|maltase|
-மாறா|fixed|
-மாறா ஆக்கவிலை|fixed cost|
-மாறா வைப்பு|fixed deposit|
-மாறாச் சொத்து|fixed asset|
-மாறாத|constant adj|
-மாறாத் தவணை முறை|fixed installment method
-மாறாத் துண்டு|fc fragment|
-மாறாத் துண்டுப் பகுதி|fc region|
-மாறாப்புள்ளி|fixed point|
-மாறாவியற்றி|dynamo|திசைமாறா மின்னியற்றி என்பதன் சுருக்கம்
-மாறி|variable|
-மாறி மாறி வா|alternate vi|
-மாறி மாறிச் செய்|alternate vt|
-மாறிமாறி|toggle|
-மாறிமாறி எழுவிழு|T (toggle) flip flop|
-மாறியமைதல்|conversion (of itself)|
-மாறியற்றி|AC generator|திசைமாறு மின்னியற்றி என்பதன் சுருக்கம்
-மாறிருமம்|varbinary|
-மாறிலி|constant n|
-மாறிலிப் பிழை|constant error|
-மாறிழையம்|cambium|
-மாறு பகுதி|variable region|
-மாறுகட்ட|out of phase|
-மாறுதகா|nonconvertible|
-மாறுதகு|convertible|transferable - மாற்றத்தகு
-மாறுபக்கனைய|transoid|
-மாறுபடும் தடையம்|vairable resistance|
-மாறுபாடு|variation|
-மாறுபாட்டு இயக்கம்|movement of variation|
-மாறுமுக்கோணச் சட்டம்|clinograph|
-மாறும் ஆக்கவிலை|variable cost|
-மாறுவடிவ|pleomorphic|
-மாறெழு|varchar|
-மாற்ற- (வெளியிட வேதியியல்)|iso- (stereochemistry)|
-மாற்ற ஊக்கிப்புரதங்கள்|isoenzymes|
-மாற்ற நிலையம்|switching station|
-மாற்ற மின்சுற்று|switching circuit|
-மாற்றக் குருதியனின்|isoleucine|
-மாற்றச்சயனலி|isonitrile|
-மாற்றடுக்கம்|rearragement|
-மாற்றடுக்கு|rearrange|
-மாற்றடையன்|transistor|trans(fer) + (res)istor - மாற்(றத்) + (த)டையன்
-மாற்றடையன் கோடல்|transistor bias|
-மாற்றத்தகா|nontransferable|
-மாற்றத்தகு|transferable|convertible -மாறுதகு
-மாற்றநான்கவேன்|isobutane|
-மாற்றநான்கவைல்|isobutyl|
-மாற்றப்புரோப்பேன்|isopropane|
-மாற்றப்புரோப்பைல்|isopropyl|
-மாற்றமாவோசூக்கி|isomaltase|
-மாற்றமை மரபணுக்கள்|modifying genes|
-மாற்றமைவு|modification|
-மாற்றலகு|module|
-மாற்றலனரி|transfer RNA|
-மாற்றலனரி|tRNA|
-மாற்றலூக்கி|transferase|
-மாற்றல்|transfer|
-மாற்றல் பதிகை|transfer entry|
-மாற்றவூக்கி|convertase|isomerase - மாற்றியமூக்கி
-மாற்றி (மின்சுற்று)|switch (electric circuit)|transformer - உருமாற்றி; converter - மாற்றியமைப்பி
-மாற்றியமாதல்|isomerization|
-மாற்றியமான|isomeric|மாற்றிய would mean 'changed' or 'exchanged' in the general sense; here we want to use a specific technical word.
-மாற்றியமூக்கி|isomerase|convertase - மாற்றவூக்கி
-மாற்றியமை|modify|
-மாற்றியமைத்தல்|conversion (of something)
-மாற்றியமைப்பி|converter|மாற்றி - switch; transformer - உருமாற்றி
-மாற்றியம்|isomerism|
-மாற்றியன்|isomer |
-மாற்றுக் காரணி|conversion factor|
-மாற்றுச்சேர்க்கை|oogamy|anisogamy - ஒப்புச்சேர்க்கை
-மாற்றுநடவு|transplant n|
-மாற்றுநடு|transplant v|
-மாற்றுப்பாலினவியம்|parasexuality|
-மாற்றுப்புள்ளி (நிலமளப்பு)|change point (surveying)
-மாற்றுமதி|entrepot|
-மாற்றுரிமை|subrogation|
-மாற்றுரு|morph|
-மாற்றுருவாதல்|morphing|
-மாற்றுவைரசு|retrovirus|
-மாற்றேற்றல்|transfection|transduction - அனடேற்றல்
-மாற்றொழுங்க|anomalous|
-மாற்றொழுங்கு|anomaly|
-மானியத்தள்ளுபடி|subsidy|
-மானிற்றால்|mannitol|
-மானோசு|mannose|
-மிகச்சிறு முழுவெண்|tiny integer|
-மிகத்தாழடர்வு கொழுமியப்புரதம்|very low density lipoprotein
-மிகப்பெருக்க|prolific|
-மிகப்பெருக்கம்|proliferation|
-மிகப்பெருக்கு|proliferate|
-மிகப்பேரளவத் தொகையிடல் (மிபேதொ)|super-large-scale integration (SLSI)
-மிகுதி|surplus|
-மிகுத்த|augmented|extended - நீட்டிய; prolonged - நீடித்த
-மிகுத்த தளவணி|augmented matrix|
-மிகுத்த வறுமைக் கோடு|Augmented Poverty Line
-மிகுப்பு|increment|
-மிகைகுளுக்கோகுருதி|hyperglycemia|
-மிகைக் குருதியழுத்தம்|hypertension|
-மிகைக்கடத்தி|superconductor|
-மிகைக்கடத்துமை|superconductivity|
-மிகைக்கணம்|superset|
-மிகைக்கணினி|supercomputer|
-மிகைக்கிளர்ச்சியடைமை|hyperexcitability|
-மிகைக்கிளை (அனரி)|extra arm (RNA)|
-மிகைக்குடும்பம்|superfamily|
-மிகைக்குளிர்நிலை|supercooling|
-மிகைக்கொதிநிலை|superheating|
-மிகைக்கொழுகுருதி|hyperlipidemia|
-மிகைசாலுணர்|hypersensitive|
-மிகைச்சவ்வூடு|hyperosmotic|
-மிகைச்சவ்வூடு|hypertonic|turgor pressure - வீப்பழுத்தம்
-மிகைச்சாலுணர்வு|hypersensitivity|
-மிகைச்சிறுநீர்|polyurea|
-மிகைச்சுருளி|supercoil|
-மிகைச்சுழல்வீழ்த்தி|ultracentrifuge|
-மிகைச்சூடடை|overheat vi|
-மிகைச்சூடாக்கு|overheat vt|
-மிகைத்தல்|amplification|
-மிகைத்தனித்துவமாக்கல்|overspecialization|
-மிகைத்தைராயிடு|hyperthyroidism|
-மிகைநிரப்புக் கோணங்கள்|supplementary anges|
-மிகைநிறமியாதல்|hyperpigmentation|
-மிகைநெகிழ்மமாக்கி|superplasticizer|
-மிகைநோய்த்தடுப்பு|anaphylaxis|
-மிகைப்படி|premium|
-மிகைப்பயனுகர்ந்த|overexploited|
-மிகைப்பாலினம்|supersex|
-மிகைப்பி|amplifier|
-மிகைப்பூச்சி|superbug|
-மிகைப்பெண்|metafemale|aka poly X female
-மிகைப்பெண்|poly X female|aka metafemale
-மிகைப்பெண்|superfemale|aka metafemale
-மிகைப்பொதுவமாக்கல்|overgeneralization|
-மிகைம|redundant|
-மிகைமம்|redundancy|
-மிகைமாறு பகுதி|hypervariable region|
-மிகைமுறைமை|superorder|
-மிகைமூச்சு|hyperventilation|
-மிகைமெய்யம்|hyperploidy|
-மிகையாக்கி|enhancer|
-மிகையாண்|supermale|
-மிகையிணைத்தைராயிடு|hyperparathyroidism|
-மிகையுணர்தல்|telepathy|
-மிகையுணவு முட்டை|megalecithal egg|
-மிகையுயர்வு|superelevation|
-மிகையெடுப்பு|overdraft|withdrawal - வெளியெடுப்பு
-மிகையொலிய|supersonic|
-மிகைவடிகட்டல்|ultrafiltration|
-மிகைவடிமம்|ultrafiltrate|
-மிகைவளர்ச்சி|hypertrophy|மெகலவளர்ச்சி - acromegaly; அதிவளர்ச்சி - gigantism
-மிகைவிழுங்கல்|polyphagia|
-மிகைவேற்றுத்திறன் பெறுவி|superheterodyne receiver
-மிசயீலஸ், லியோனார்|Michalis, Leonor|
-மிசல்|micelle|
-மிசேலமென்றனின் சமன்பாடு|Michaelis -Menten equation
-மித வனம்|temperate forest|
-மிதக்கும் கருவிப்பட்டை|floating toolbar|
-மிதக்கும் நெற்று|cypsela|
-மிதத்தொடக்கம்|warm start|
-மிதப் புல்வெளி|temperate grassland|
-மிதமாக்கி (அணுக்கரு வினை)|moderator (nuclear reaction)
-மிதவ (மின்னிதயவரைவு)|EGC (electrocardiogram)
-மிதவக் கம்பி|EGC lead|
-மிதவளர்வீத வரி|digressive tax|
-மிதவுணவு முட்டை|mesolecithal egg|
-மிதவை ஆல்கா|macrocystis|
-மிதவைப் பொக்களம்|pneumatocyst|
-மிதவைப்புள்ளி|floating point|
-மிதவைப்புள்ளி எண்|floating point number|
-மிதவைப்பூஞ்சையம்|blastocaulis|aka planctomyces
-மிதவைப்பூஞ்சையம்|planctomyces|aka blastocaulis
-மிதி கட்டை|pedal|
-மிதியகலம்|going (stair)|
-மிதியம்|tread|
-மிதிவண்டி|bicycle|
-மிதுன|gem (chemistry, geminal)
-மிதுன|geminal|
-மிநிமா (மின் நிதி மாற்றல்)|EFT (Electronic Funds Transfer)
-மிநிமா (மின் நிதி மாற்றல்)|EFT (electronic funds transfer)
-மிபேதொ (மிகப்பேரளவத் தொகையிடல்)|SLSI (super-large-scale integration)
-மியூ|mu|
-மியூக்கர்|mucor|
-மியூக்கர் மியுசிடோ|mucor mucedo|
-மியூசின்|mucin|
-மியூயிக அமிலம்|mucic acid|
-மிரிகளம்|Mrigal|
-மிருகம்|beast|
-மிர்பேன் எண்ணெய்|oil of mirbane|
-மில்லரின் எண்|Miller index|
-மில்லனின் சோதனை|Millon's test|
-மில்லி-|milli-|
-மில்லிக்கனின் எண்ணெய்த் துளி பரிசோதனை|Millikan's oil drop experiment
-மில்லிக்கன்|Millikan|
-மினுக்க நினைவகம்|flash memory|
-மினுக்க விளக்கு|flash light|
-மினுக்கச் சுட்டுக்குறி|flashing cursor|
-மினுக்கம்|flashing|
-மின் ஆற்றநிலை|electric potential|
-மின் ஆற்றநிலை வேறுபாடு|electric potential difference
-மின் உற்பத்தி நிலையம்|power house|
-மின் கடத்தல்|electrical conductance|
-மின் தரவு இடைமாற்றம்|EDI - Electronic Data Interchange
-மின் நிதி மாற்றல் (மிநிமா)|electronic fund transfer (EFT)
-மின் நிதி மாற்றல் (மிநிமா)|Electronic Funds Transfer (EFT)
-மின் பாயம்|electric flux|
-மின்கடத்தா|dielectric|
-மின்கடத்தாமை மாறிலி|dielectric constant|
-மின்கடத்தி|electrical conductor|
-மின்கல அடுக்கு|battery|
-மின்கலம்|electric cell|
-மின்காந்த|electromagnetic|
-மின்காந்தச் சுருளி|electromagnetic coil|
-மின்குமிழம்|electric bulb|
-மின்சவ்வூடல்|electroosmosis|
-மின்சாய்வு|electric gradient|
-மின்சார அடுப்பு|electric stove|
-மின்சாரக் கணப்பு|electric oven|
-மின்சாரப் பாகை|electrical degree|
-மின்சாரம்|electricity|
-மின்சுற்றட்டை|circuit card|
-மின்சுற்றமைப்பு|circuitry|
-மின்சுற்று|electric circuit|
-மின்சுற்றுப் படவரைவு|circuit diagram|
-மின்சுற்றுப் பலகை|circuit board|
-மின்சுற்றுப் பலகை|circuit board|
-மின்தடை மாற்றி|rheostat|
-மின்திறனளிப்பு|power supply|
-மின்திறன் அனுப்பீடு|electrical power transmission
-மின்துளையாக்கம்|electroporation|
-மின்தேக்கம்|capacitance|
-மின்தேக்கி|capacitor|aka condenser
-மின்தேக்கி|condenser (electricity)|aka capacitor
-மின்தேக்கி எதிர்வினையம்|capacitive reactance|
-மின்தேக்கிக் குழல்|capacitance vessel|
-மின்தேக்கித் திரள்|ganged capacitor|
-மின்பணம்|e-cash|
-மின்புலம்|electric field|
-மின்முத்திரை|e-stamp|
-மின்முலாம் பூசுதல்|electroplating|
-மின்மூளைவரைவு|electroencephalography
-மின்வணிகம்|e-commerce|
-மின்வாய்|electrode|
-மின்வாய்க்கவர்ச்சி|electrophoresis|
-மின்விசிறி|electric fan|
-மின்வில்|arc (electricity)|
-மின்வேதி|electrochemical|
-மின்வேதிச் சமானி|electrochemical equivalent
-மின்வேதியியல்|electrochemistry|
-மின்னஞ்சல்|e-mail|
-மின்னஞ்சல் முகவரி|e-mail address|
-மின்னதிர்ச்சி|electrical shock|
-மின்னழி நிபநி (மின்னாலழியும் நிரலாக்கத்தகு படிக்கவே நினைவகம்)|EEPROM (electrical erasable programmable read only memory)
-மின்னாலழியும் நிரலாக்கத்தகு படிக்கவே நினைவகம் (மின்னழி நிபநி)|electrical erasable programmable read only memory (EEPROM)
-மின்னாற்பகுப்பிய|electrolytic|
-மின்னாற்பகுப்பு|electrolysis|
-மின்னாற்பகுளி|electrolyte|
-மின்னிணைப்பு முனைகள்|connecting leads|
-மின்னிதயவரைவி|electrocardiograph|
-மின்னிதயவரைவு (மிதவ)|electrocardiogram (EGC)
-மின்னியக்க விசை|electromotive force|
-மின்னியல்|electronics|
-மின்னியல் பணிப்பலகை|electronic workbench|
-மின்னியற்றி|generator (electrical)|
-மின்னிலையம்|power plant|
-மின்னிறக்கம்|discharging (electricity)
-மின்னிறக்கு|discharge (electricity)|
-மின்னூடுபகுப்பு|electrodialysis|
-மின்னூட்ட அடர்வு|charge density|
-மின்னூட்டம்|charge|
-மின்னேற்றம்|charging|
-மின்னொளிர்வு|scintillation|
-மின்னோட்ட அடர்வு|current density|
-மின்னோட்டப் பொறியியல்|electrical engineering|
-மின்னோட்டம்|current (electric)|
-மின்னோட்டம்|electric current|
-மின்னோட்டவியல்|electricity (study of)|
-மின்னோட்டளவி|ammeter|galvanometer - கால்வனளவி
-மீகிநொ (மீட்டர் கிலோகிராம் நொடி)|mks (meter kilogram second)
-மீகுமொ (மீயுரை குறியிடு மொழி)|Hypertext Markup Language (HTML)
-மீகுமொ தொங்கி|HTML tag|
-மீகோளேவுவண்டி|ASLV (Augmented Satellite Launch Vehicle)
-மீக்கடு|extreme|
-மீக்கடு உப்புவிரும்பி|extreme holophile|
-மீக்கடு சுற்றுச்சூழல் நிலைகள்|extreme environmental conditions
-மீக்கடு வெப்பவிரும்பி|extreme thermophile|
-மீக்கருவி|equipment|
-மீக்குறும் பணி முதலில்|shortest job first|
-மீசன்|meson|
-மீச்சரியான|exact|
-மீச்சிறு பொது மடங்கு|least common multiple|
-மீச்சிறு பொருளுமை இணு|least significant bit|
-மீச்சிறு முழுவெண் சார்பு|least integer function|
-மீச்சிறு வர்க்கக் கொள்கை|least squares principle|
-மீச்சிறு வர்க்கங்கள்|least squares|
-மீச்சிறு விலக்கக் கோணம்|angle of minimum deviation
-மீச்சிறுமம்|minimum|
-மீச்சுமை|overload|
-மீட்கவர்|reposses|
-மீட்கவர்தல்|repossession|
-மீட்கொள்|revoke|
-மீட்சுழல்|turnover|
-மீட்சுற்றல்|rewinding|
-மீட்டமை|reinstate|
-மீட்டமைப்பு|reinstatement|
-மீட்டமைப்புக் காப்பிதழ்|reinstatement policy|
-மீட்டர்|meter|
-மீட்டர் பாலம்|metre bridge|
-மீட்டெடுத்தல்|reclamation|
-மீட்டெடுத்தல் நோய்|reclamation disease|
-மீட்டெழுப்பல்|resuscitation|
-மீட்புக்கோளம்|troposphere|
-மீட்பெறல்|recovery|reversibility - மீள்திருப்புமை
-மீட்பெறு|recover|
-மீட்பெறு|retrieve|
-மீண்டும் கூறு|reiterate|
-மீண்டும் செய்|repeat t.v|
-மீண்டும் வா|repeat i.v|
-மீண்மை|resilience|
-மீத்தமூச்சிய|methoxy|
-மீத்தயனின்|methionine|
-மீத்தனால்|methanol|
-மீத்தனோபாட்டீரியம்|methanobacterium|
-மீத்து- (மீத்தேன்)|meth- (methane)|
-மீத்தேனாக்க|methanogenic|
-மீத்தேனாக்கத் தொல்பாட்டீரியம்|methanogenic archeobacteria
-மீத்தேனாக்கவெப்பவிரும்பி|methanothermus|
-மீத்தேனாக்கவெப்பவிரும்பியனையன|methanothermaceae|
-மீத்தேனாக்கியம்|methanogenium|
-மீத்தேனோசுருக்கப்பாட்டீரியம்|methenobrevibacter|
-மீத்தேனோநுண்பாட்டீரியம்|methanomicrobium|
-மீத்தேனோநுண்பாட்டீரியனையன|methanomicobiaceae|
-மீத்தேனோநுண்பாட்டீரியைகள்|methanomicrobiales|
-மீத்தேனோபாட்டீரியம்|methanobacterium|
-மீத்தேனோபாட்டீரியனையன|methanobacteriaaceae
-மீத்தேனோபாட்டீரியைகள்|methanobacteriales|
-மீத்தேனோபொதியனையன|methanosarcinaceae|
-மீத்தேனோமணியம்|methanococcus|
-மீத்தேனோமணியனையன|methanococcaceae|
-மீத்தேனோமணியைகள்|methanococcales|
-மீத்தேன்|methane|
-மீத்தைலலகியம்|methylomonas|
-மீத்தைல்|methyl|
-மீத்தைல் ஆரஞ்சு|methyl orange|
-மீத்தைல் சிவப்பு|merhyl red|
-மீத்தைல்பென்சீன்|toluene|
-மீத்தைல்மணியம்|methylococcus|
-மீத்தைல்மணியனையன|methylococcaceae|
-மீத்தைல்மாற்றமூக்கி|transmethylase|
-மீத்தைல்மாற்றம்|transmethylation|
-மீத்தொடுப்பு|hyperlink|
-மீபேதொ (மீப்பேரளவத் தொகையிடல்)|ULSI (ultra-large-scale integration) 
-மீப்பண்|hyperfine|
-மீப்பண் மட்டங்கள்|hyperfine levels|
-மீப்பெரு பொதுக் காரணி|greatest common divisor
-மீப்பெரு முழுவெண் சார்பு|greatest integer function
-மீப்பெருமம்|maximum|
-மீப்பேரளவத் தொகையிடல் (மீபேதொ)|ultra-large-scale integration (ULSI) 
-மீப்பொருளுமை இணு|most significant bit|
-மீமாவி (மீயுரை மாற்றல் விதிமுறை)|HTTP (Hypertext Transfer Protocol)
-மீயளவம்|extremum|
-மீயுரை|hypertext|மீவுரை தவறு. இ ஈ ஐ வழி யவ்வும் - நன்னூல் 162
-மீயுரை குறியீ்ட்டு மொழி (மீகுமொ)|HTML (Hypertext Markup Language)
-மீயுரை மாற்றல் விதிமுறை (மீமாவி)|Hypertext Transfer Protocol (HTTP)
-மீழெழு|resilient|
-மீளமை|restore|
-மீளாக்கு|reset|
-மீளுட்கவர்தல்|reabsorption|
-மீளுப்பியமாக்கம்|denitrification|
-மீளுருவாக்கம்|regeneration|
-மீளுருவாக்கு|regenerate|
-மீளுற்பத்தி|reproduction (physics)|
-மீளூட்டு|refresh|renew - புதுப்பி
-மீளெழுது|rewrite|
-மீளோடு|rerun|
-மீள்சிகிச்சை|therapy|
-மீள்சீராக்கம்|remediation|
-மீள்சேர்|recombinant|recon - மறுசேரி
-மீள்சேர்வு|recombination|
-மீள்சேர்வு அனடி|recombinant DNA|
-மீள்திருத்து|revise|
-மீள்திருப்ப நகலெழுதூக்கி|reverse transcriptase|
-மீள்திருப்ப விதி|reversal law|
-மீள்திருப்பக் கோடல்|reverse bias|
-மீள்திருப்பச் சவ்வூடல்|reverse osmosis|
-மீள்திருப்பத் தடுப்புத்தடை|reverse herkogamy|
-மீள்திருப்பத் திசை|reverse direction|
-மீள்திருப்பத்தகா|irreversible|
-மீள்திருப்பத்தகு|reversible |
-மீள்திருப்பத்தகு மின்கலம்|reversible cell|
-மீள்திருப்பம்|reversal|
-மீள்திருப்புமை|reversibility|மீட்பெறல் - recovery
-மீள்துவங்கு|restart|
-மீள்தொடரா|non-recurring|
-மீள்தொடர்|recurring|
-மீள்தொடர் வைப்பு|recurring deposit|
-மீள்நுழை|reentrant|
-மீள்படிகமாக்கல்|recrystallization|
-மீள்படிகமாக்கு|recrystallize|
-மீள்பயன்|reuse|second hand - மறுபயன்
-மீள்பார்வை|review|
-மீள்பூசு|repaint|
-மீள்வீழ்|regressive|
-மீள்வீழ் வரி|regressive tax|
-மீள்வீழ்வு|regression|
-மீள்வீழ்வுக் கோடு|regression line|
-மீள்வேறுபடல்|redifferentiation|
-மீள்வை|replace|
-மீள்வைப்பிலா மாதிரிக்கூறெடுப்பு|sampling without replacement
-மீள்வைப்பு|replacement|
-மீள்வைப்புடன் எளிய நேர்ந்தவாறு மாதிரிக்கூறெடுப்பு|simple random sampling with replacement
-மீள்வைப்புடன் மாதிரிக்கூறெடுப்பு|sampling with replacement
-மீள்வைப்புரை|replace with (text)|search for - தேடுரை
-மீனகம்|aquarium|
-மீனியல்|ichthyology|
-மீனீரல் எண்ணெய்|fish liver oil|
-மீன்கூரை|ichthyostega|
-மீன்பசைக்கூழ்|isinglass|
-மீன்பண்ணை|fishery|
-மீன்பிடித்தல்|fishing|
-மீன்வளர்ப்பு|pisciculture|
-மு தொவி நிலை (முதல் தொடுவிகித நிலை)|tan A position|
-முகடி|reference (computer)|முகவரி காட்டி
-முகடி மூலம் விளித்தல்|call by reference|
-முகடிடை வெளி|intracristae space|
-முகடு (அலை)|crista|
-முகடு (கட்டிடம்)|ceiling|
-முகடு (மலை)|ridge|
-முகடுக்குறி|caret|
-முகட்டு விசிறி|ceiling fan|
-முகநிலை|phase (of matter)|
-முகநிலை முரண் நுண்ணோக்கவியல்|phase contrast microscopy
-முகநிலைமாற்றம்|phase transition|
-முகபாவத் தசைகள்|facial expression muscles
-முகபாவத் தசைகள்|muscles of facial expression
-முகப்படம்|portrait|landscape - நிலப்படம்
-முகப்பு|home (computer)|
-முகப்பு விசை|home key|
-முகப்புப் பக்கம்|home page|
-முகப்புப் பக்கம்|home page|
-முகப்புப் பொத்தான்|home button|
-முகப்புரை|preamble|preface - முகவுரை
-முகமதிப்பு|face value |
-முகமனைய அல்லிவட்டம்|personate corolla|
-முகமையக் கனச்சதுரம்|face-centered cube|
-முகம் (படிகவியல்)|face (crystallography)|
-முகம் (வடிவியல்)|face (geometry)|
-முகர்வு|smell|consumption - நுகர்வு
-முகவம்|agency|
-முகவரி மூலம் விளித்தல்|call by address|
-முகவரி வெளி|address space|
-முகவர்|agent|
-முகவுரை|preface|preamble - முகப்புரை
-முகவை|beaker|
-முகுள நாற்கூம்பு|conus medullaris|
-முகுளக் கதிர்கள்|medullary rays|
-முகுளக் குழி|medullary cavity|
-முகுளம்|medulla|
-முகுளம்|medulla oblongata|
-முகுளருகு சிறுநீர்ப்பிரிப்பி|juxtamedullary nephron
-முகுளவாக்கத்திசு|ground meristem|
-முக்கரியமில அமிலச் (முகவச்) சுழற்சி|tricarboxylic acid (TCA) cycle
-முக்கரியமில அமிலச் சுழற்சி|TCA cycle (Tricarboxylic acid cycle)
-முக்காற்கட்டி|three quarter bat|
-முக்கிளிசரைடு|triglyceride|
-முக்குமிழ் தடுக்கிதழ்|tricuspid valve|
-முக்குளோரைடு|trichloride|
-முக்குறையமிலக்கிளிசரால்|triacylglycerol|
-முக்கொம்பலி|triceratops|
-முக்கோண இருநாற்கூம்பு|trigonal bipyramid|
-முக்கோணச் சட்டம்|set square|
-முக்கோணத் தசை|deltoid muscle|
-முக்கோணத்தின் நடுக்கோடு|median of a triangle|
-முக்கோணமயமாக்கல்|triangulation|
-முக்கோணவியல்|trigonometry|
-முக்கோணவியல் விகிதங்கள்|trigonometric ratios|
-முக்கோல்|Altair|
-முசேப (முனைவுச் சேவையர் பக்கங்கள்)|ASP (Active Server Pages)
-முச்சரிவு|triclinic|
-முச்சூலிலை|tricarpellary|
-முடக்கம்|paralysis|
-முடவாத்து|lame duck|
-முடி|hair|
-முடிக் கசையிழை|pantonematic flagellum
-முடிக்குமிழ்|hair bulb|
-முடிச்சச்சிறுநீரகவழற்சி|glomerulonephritis|
-முடிச்சம்|glomerule|
-முடிச்சிழையம்|brochothrix|
-முடிச்சு|knot|
-முடிச்சு (உயிரியல்)|chiasma|
-முடிச்சுநீக்கல்|knotting (painting)|
-முடிபு|conclusion|
-முடியடி|hair follicle|
-முடியனைய|trichome|
-முடியாக்காலம்|eternity|
-முடியாட்சி|monarchy|
-முடியிழை|pilus|
-முடியிழைகள்|pili|
-முடியுலர்த்தி|hairdrier|
-முடியொருவி|trichomonad|
-முடியொருவியநோய்|trichomoniasis|
-முடியொருவியம்|trichomonas|
-முடிவளவை|criterion|
-முடிவாதல் (அனரி)|termination (rna)|
-முடிவாதல் தொடரி|termination sequence|
-முடிவாதல் நிமிண்டல்|termination signal|
-முடிவிலாக் குலம்|infinite group|
-முடிவிலி|infinity|
-முடிவில்லா|infinite|
-முடிவில்லாக் கூட்டல்|infinite sum|
-முடிவில்லாப் பெரும|infinitely large|infinitesimally small - சுழியெல்லைச் சிறும
-முடிவுறா இயக்கம்|perpetual motion|
-முடிவுறு|finite|
-முடிவுறு குலம்|finite group|
-முடிவுறு நிலை பெயர்ப்பி|finite state transducer|
-முடிவுறு நிலைத் தானேசெயலி|finite state automaton|
-முடிவுறு வேறுபாடுகள்|finite differences|
-முடிவெடுத்தல்|decision|determination - தீர்மானம்
-முடிவெடுத்தல் கோட்பாடு|decision theory|
-முடுக்கம்|accelleration|
-முடுக்காத சட்டங்கள்|unaccelerated frames|
-முடுக்கி|accelerator|machine - எந்திரம்
-முடுக்கிய சட்டங்கள்|accelerated frames|
-முட்டிணைப்பு|butt joint|
-முட்டுக் கீல்|butt hinge|
-முட்டை (சமையற்கலை)|egg|
-முட்டை (விலங்கியல்)|ovum |அண்டம் - universe
-முட்டை நாளம்|oviduct|
-முட்டைக் கருவூண்|ovalbumin|
-முட்டைக்கொழு|lecithin|
-முட்டைக்கொழுவூக்கி|lecithinase|
-முட்டைச் செங்கருவி|egg apparatus|
-முட்டைத்தாயணு|oogonium|
-முட்டைநாள வடிப்பி|oviducal funnel|
-முட்டைப்பந்து|oocyst|
-முட்டைப்புரதச் சவ்வு|vitelline membrane|
-முட்டையக மேற்சவ்வு|ovarian surface epithelium
-முட்டையகக் குழிப்பை|ovarian follicle|
-முட்டையகச் சிரை|ovarian vein|
-முட்டையகத் திரளம்|cumulus ovaricus|
-முட்டையகப்பைச் சவ்வு|membrana granulosa|
-முட்டையகப்பையணு|granulosa cell|
-முட்டையகம்|ovary (zoology)|
-முட்டையடிப்பி|egg beater|
-முட்டையணுவாக்கம்|oogenesis|
-முட்டையாக்கல்|ovulation|
-முட்டையாக்கவணு|oocyte|
-முட்தலைப்புழு|acanthocephalan|
-முட்தோலி|echinoderm|
-முணுமுணுப்பு|whisper|
-முணுமுணுப்புக் கூடம்|whispering gallery|
-முண்டு வேர்கள்|stilt roots|
-முதலணுவிகள்|protista|
-முதலமைச்சர்|chief minister|தலமையமைச்சர் - prime minister
-முதலாம் கூட்டுமம் (கூ1)|complex I|
-முதலிடுவோர்|investor|
-முதலிரைப்பை|rumen|
-முதலீடு|investment|capital - மூலதனம்
-முதலீடு விலகல்|disinvestment|
-முதலீட்டுத் திருப்பம்|return on investment|
-முதலுதவி|first aid|
-முதலூக்கிப்புரதம்|apoenzyme|
-முதலெண்|cardinal number|
-முதலை|crocodile|
-முதல் இகோவ|EcoRI|E coli restriction enzyme - இ கோலை வரையரையூக்கி
-முதல் இடைக் கட்டம்|metaphase I|
-முதல் இடைவெளிக் கட்டம்|gap-1 phase|
-முதல் இறுதிக் கட்டம்|telophase I|
-முதல் துணைவர்|first mate|
-முதல் தொடக்கக் கட்டம்|prophase I|
-முதல் தொடுவிகித நிலை (மு தொவி நிலை)|tan A position|
-முதல் நகர்வுக் கட்டம்|anaphase I|
-முதல் புறவூதா|UVA|
-முதல் முறைமை வகையீட்டுச் சமன்பாடு|first order differential equation
-முதல் முறைமை வினை|first order reaction|
-முதல் வகை நீரிழிவு|insulin dependent diabetes mellitus (IDDM)|aka type I diabetes
-முதல் வகை நீரிழிவு|type I diabetes|aka insulin dependent diabetes
-முதல் வூசுவார்|springer (architecture)
-முதல்விரல்|pollex|
-முதற் பதிகை யேடுகள்|books of original entry
-முதற்கட்ட சோதித்தல்|alpha testing|
-முதற்கால|primeval|
-முதற்குருத்தெலும்பு வளையம்|cricoid cartilage|
-முதற்கொள்|procure |
-முதற்கொள் ஆக்கவிலை|procurement cost|
-முதற்கொள்ளல்|procurement|
-முதற்சிறுநீர |pronephric|
-முதற்சிறுநீரம்|pronephros|
-முதற்தொடக்க|ab initio|
-முதற்பசுமியம்|prochloron|
-முதற்பசுமியனையன|prochloraceae|
-முதற்பசுமியைகள்|prochlorales|
-முதற்பசுமுடியம்|prochlorothrix|
-முதன்மியூக்கி|primase|
-முதன்மை |primary  |
-முதன்மி அடிமை அமைப்பு|master slave system|
-முதன்மை உப்பாக்கைடு|primary halide|
-முதன்மை ஐந்தவேன்|primary pentane|
-முதன்மை ஒடுக்கம்|primary constriction|
-முதன்மை குழிப்பை|primary follicle|
-முதன்மை தொகுதித் தனிமங்கள்|main group elements|
-முதன்மை நினைவகம்|main memory|aka primary memory
-முதன்மை நினைவகம்|primary memory|aka main memory
-முதன்மை நுகர்வோர்|primary consumer|
-முதன்மை நுண்குழல வலையம்|primary capillary network
-முதன்மை பாலினப் பண்பு|primary sexual character
-முதன்மை மதிப்பு|principal value|
-முதன்மை மாற்றி|main switch|
-முதன்மை மின்கலம்|primary electric cell|
-முதன்மை வேர்|primary root|
-முதன்மைக் கடிகாரம்|master clock|
-முதன்மைக் கட்டமைப்பு|primary structure|
-முதன்மைக் கரிமம்|primary carbon|
-முதன்மைக் கல்வி|primary education|
-முதன்மைக் கோர்வை|main chain|
-முதன்மைச் செயற்பாடு|primary function|
-முதன்மைச்சிறுகுழல்|primary bronchus|
-முதன்மைத் துணுக்க எண்|principal qunatum number
-முதன்மைப் படிநகல்|primary transcript|
-முதன்மையகவை|main component|
-முதியர்|elderly|adult - முதுவர்
-முதியர்|senior n|
-முதிருமுன்|premature|
-முதிருமுன் பிறந்த குழந்தை|premature infant|
-முதிர்ச்சி|maturity|
-முதிர்ச்சியடை|mature v|
-முதிர்ச்சியடைதல்|maturation|
-முதிர்ச்சியடைந்த|mature adj|
-முதிர்வுத்தடை|dichogamy|
-முதுகுத்தண்டு|backbone|
-முதுகுத்தண்டு|spine|
-முதுகுத்தண்டு கால்வாய்|spinal canal|
-முதுகுத்தண்டு தசை|spinalis|
-முதுகுநாண்|notochord|
-முதுகுநிமிர்த்தித் தசை|erector spinae|
-முதுகுப் பெருந்தமனி|dorsal aorta|
-முதுகுப்பக்க|dorsal|
-முதுகுப்பக்க உதடு|dorsal lip|
-முதுகுப்பக்க நரம்பணுத்திரள்|dorsal ganglion|
-முதுகுப்பக்க வேர்|dorsal root|
-முதுகுப்பக்கத் தசை|dorsi|
-முதுகுப்பக்கப் பிளவு|dorsal fissure|
-முதுகுப்பிணைப்பு மகரந்தம்|dorsifixed anther|
-முதுகுவோடு|carapace|
-முதுகெலும்பற்றது|invertebrate|
-முதுகெலும்பி|vertebrate|
-முதுகெலும்பிகள்|vertebrata |
-முதுகெலும்பு |vertebra |
-முதுகெலும்பு வளைவு|vertebral arch|
-முதுகெலும்புத் தசை|vertebral muscle|
-முதுகெலும்புத் துளை|vertebral foramen|
-முதுகெலும்புத் தொடர்|vertebral column|
-முதுகேறல்|piggyback|
-முதுநிலை|senior adj|
-முதுவர்|adult|elderly - முதியர்
-முதுவர்|major (person)|
-முத்தமிடும் கொரமி|kissing gourami|
-முத்தலைக் கைத்தசை|triceps brachii|
-முத்தலைத் தசை|triceps|
-முத்திரை|stamp|
-முத்திரையிடல்|imprinting|
-முத்து|pearl|
-முத்துச் சிப்பி|pearl oyster|
-முந்நிலை ஏரணம்|tristate logic|
-முந்நீர்மூச்சிய|trihydric|
-முந்நீர்மூச்சிய|trihydroxy|
-முபமா (மும்பை பங்கு மாற்றகம்)|BSE (Bombay Stock Exchange)
-முப்படிப் பல்லுறுப்புக்கோவை|cubic polynomial|
-முப்பட்டகம்|triangular prism|
-முப்பதவேன்|triacontane|
-முப்பிரிப்பு விதி|law of trichotomy|
-முப்புளோரோமீத்தைல் கந்தக ஐம்புளோரைடு|trifluoromethyl sulfur pentafluoride
-முப்பெருக்கல்|triple product|
-மும்பை இணையவழி வியாபாரம் (முவிவி)|Bombay Online Trading (BOLT)
-மும்பை பங்கு மாற்றகம் (முபமா)|Bombay Stock Exchange (BSE)
-மும்ம|triple|
-மும்மக் கூட்டுமம்|ternary complex|
-மும்மச் செயலி|ternary operator|
-மும்மடங்கல்|triplication|
-மும்மடி இலையடுக்கம்|ternary phyllotaxy|
-மும்மடிச் சம ஆற்றல் அலைமண்டலங்கள்|triply degenerate orbitals
-மும்மடியாயிரம்|billion (short scale)|
-மும்மப் பிணைப்பு|triple bond|
-மும்மப்புள்ளி|triple point|
-மும்மம்|trimer|
-மும்மை (நிறமாலையியல்)|triplet (spectroscopy)|
-மும்மை (வேதியியல்)|triad (chemistry)|
-முயன்மை|trial|
-முரட்டுவிசை|brute force|
-முரண்|contrast|contradiction - முரண்பாடு
-முரண்தடை|estoppel|
-முரண்தடையால் பங்காளி|partner by estoppel|
-முரண்தோற்றம்|paradox|
-முரண்படு|contradict |
-முரண்பாடு|contradiction|contrast - முரண்
-முரண்பாடு தருவித்தல்|Reductio ad Absurdum
-முரண்பாட்டால் நிரூபணம்|proof by contradiction|
-முருட்டெண்|surd|
-முல்லர்|Muller|
-முவிய (முழுப்புவி இடங்குறிப்பு அமைப்பு)|GPS (global positioning system)
-முவிவி (மும்பை இணையவழி வியாபாரம்)|BOLT (Bombay Online Trading)
-முழக்குலி|brontosaurus|
-முழங்காற்சில்லு|patella|
-முழு அக எதிரொளிப்பு|total internal reflection
-முழு ஆயுட் காப்பிதழ்|whole life policy|
-முழு இருவழி நிலமம்|full duplex mode|
-முழு வகையீட்டுச் சமன்பாடுகள்|ordinary differential equations
-முழுக்கரும்பொருள்|perfect black body|
-முழுக்கழிப்பி|full subtractor|
-முழுக்குள்ளன்|homunculus|
-முழுக்கூட்டி|full adder|
-முழுச்சரிவு சுருள்|full pitch coil|
-முழுச்சுருள் கண்டு|whole coil winding|
-முழுச்சுற்றோட்டம்|systemic circulation|
-முழுச்செப்பன்|overhaul|
-முழுத் தர மேலாண்மை|Total Quality Management
-முழுநிறுத்தம்|dead halt|
-முழுநீக்கு|purge|
-முழுப்பிணைப்பு மகரந்தம்|adnate anther|
-முழுப்புவி இடங்குறிப்பு அமைப்பு (முவிய)|global positioning system (GPS)
-முழும|global|
-முழும நேரமைத்தல்|global alignment|
-முழும மாற்றம்|global change|
-முழும மீயளவம்|global extremum|
-முழும வெப்பமடைதல்|global warming|
-முழுமக் கிராமம்|global village|
-முழுமமாக்கல்|globalization|
-முழுமீட்சி மோதல்|elastic collision|
-முழுமைப் பகுதி|integral part|
-முழுமைப்பணி அமைப்பு|turnkey system|
-முழுமைப்பிளவுறல்|holoblastic cleavage|aka total cleavage
-முழுமைப்பிளவுறல்|total cleavage|aka holoblastic cleavage
-முழுமையற்ற ஓங்கல்|incomplete dominance|
-முழுவடிவரைவு|hologram|
-முழுவலை நேராக்கி|full wave rectifier|
-முழுவறுமை|destitution|
-முழுவன்மை|totipotency|
-முழுவன்மைய|totipotent|
-முழுவூக்கிப்புரதம்|holoenzyme|
-முழுவெண்|integer|aka whole number
-முழுவெண்|whole number|aka integer
-முளை|peg|
-முளைக்கரு|embryo|
-முளைக்கரு மூல உயிரணு|embryonic stem cell|
-முளைக்கருமுன்னோடி|preembryo|
-முளைக்கருவனையங்கள்|embryoids|
-முளைக்கருவாக்கம்|embryogenesis|
-முளைக்குருத்து|plumule|
-முளைக்குருத்துறை|coleoptile|
-முளைத்தல்|germination|
-முளைப்பூஞ்சைநோய்|blastomycosis|
-முளைய உயிரணு|germ cell|
-முளையக்குழைமக் கோட்பாடு|germplasm theory|
-முளையக்குழைமம்|germplasm|
-முளையவரிசை|germ line|
-முளையவரிசை மரபணு சிகிச்சை|germ line gene therapy
-முளைவேருறை|coleorhiza|
-முளைவேர்|radicle|
-முள்|thorn|
-முள் நீட்சி (முள்ளெலும்பு)|spinous process (vertebra)
-முள்ளற்ற ஓட்டுச்சிப்பி|balanus|
-முள்ளெலும்பிடையுடல்|intervertebral body|
-முறி|break|
-முறிகதிர்|refracted ray|
-முறிப்பிடம்|breakpoint|
-முறிவூக்கி|trypsin|
-முறிவூக்கியாக்கி|trypsinogen|
-முறுக்கக் கோணம்|torsion angle|
-முறுக்கம்|torsion|
-முறுக்கிழை|twisted fiber|
-முறை|method|
-முறைமை|order n|
-முறைமை உறவு|order relation|
-முறைமைமாற்றி|commutator (math)|
-முறைமைமாற்றுப் பண்பு|commutative property|
-முறைமைமாற்றுமை|commutativity|
-முறைமையாக்கக் குறி|sort key|
-முறைமையாக்கல்|sorting|
-முறைமையாக்கு|sort|வரிசை - queue
-முறைமையிடாத பட்டியல்|unordered list|
-முறைமையிடு|order v|
-முறைமையிட்ட இணைகள்|ordered pairs|
-முறைமையிட்ட பட்டியல்|ordered list|
-முறைமையின்மை|disorder|entropy - சீர்குலைவு; chaos - ஒழுங்கின்மை
-முறையடுக்கத் தொடரி|collating sequence|
-முறையடுக்கி|collator|
-முறையடுக்கு|collate|
-முறையான அளவுரு|formal parameter|
-முறையான மின்னூட்டம்|formal charge|
-முறையிடு|plead|
-முறையியல்|methodology|
-முறைவழிக் கப்பல்|liner (ship)|
-முற்கூடம்|anterior chamber|
-முற்கோள்|a priori|
-முற்கோள் சாத்தியக்கூறு|prior probability|
-முற்சுமத்திய|preloaded|
-முற்பக்கம்|FrontPage|
-முற்பேறுகால|prenatal|
-முற்றழி|master clear|
-முற்றழிதல்|annihilation|
-முற்றாத தொகையீடு|indefinite integral|
-முற்றிய தொகையீடு|definite integral|வரையறுத்த - defined
-முற்றிழைந்த மகரந்தத்தாள்கள்|synandrous|
-முற்றுநுனி மஞ்சரி|cymose inflorescence|
-முற்றுநுனியன்|cyme|
-முற்றுப்பெறா|non-terminating|
-முற்றுமெய்மை|tautology|
-முனை மஞ்சரி|terminal inflorescence|
-முனை விதி|end rule |
-முனைக்கிளை|terminal branch|
-முனைச்சிறுகுடல்|terminal ileum|
-முனைதிரள்|telomere|
-முனைத் தனி முற்றுநுனியன்|terminal solitary cyme|
-முனைத் திருத்தம்|end correction|
-முனைநோக்கு நிலை|end-on position|
-முனைப்பொறி|terminal|
-முனைமம்|innovation|polarity - முனையம்
-முனைமொட்டு|terminal bud|
-முனைய அணுக்கருக்கள்|polar nuclei|
-முனைய விளைவுகள்|polar effects|
-முனையணுவி|polar body|
-முனையம்|polarity|முனைமம் - innovation
-முனையற்ற கரைப்பான்|nonpolar solvent|
-முனையற்ற பிணைப்பு|nonpolar bond|
-முனையற்றது|nonpolar|
-முனையாக்கம்|terminalization|
-முனையுள்ள|polar|
-முனையுள்ள கரைப்பான்|polar solvent|
-முனையுள்ள பிணைப்பு|polar bond|
-முனையுறா|nonpolarizable|
-முனையுறு|polarizable|முனைவுறு தவறு; முனைவு - முயற்சி
-முனையுறு கோணம்|polarizing angle|
-முனையுறுதல்|polarization|
-முனையுறுத்தி|polarizer|
-முனையுறுமை|polarizability|
-முனையுறை|acrosome|
-முனையுற்ற|polarized|
-முனைவச் சேவையர் பக்கங்கள் (முசேப) |Active Server Pages (ASP)
-முனைவர் பட்ட|doctoral |
-முனைவளி|offer|
-முனைவற்ற உட்கவர்தல்|passive absorption|
-முனைவற்ற கடத்தல்|passive transport|
-முனைவற்ற நோயெதிர்ப்பு|passive immunity|
-முனைவு|active (opp passive)|
-முனைவு உட்கவர்கல்|active absorption|
-முனைவு சிகிச்சைப் பிரிவு|intensive care unit|
-முனைவு நோயெதிர்ப்பு|active immunity|
-முனைவுக் கடத்தல்|active transport|
-முனைவுப் பகுதி|active region|
-முன் தடுப்பறை|anterior compartment|
-முன்கடைவாய்ப் பல்|premolar|
-முன்கட்டைத்திசு|protoxylem|
-முன்கண் பாய்மம்|aqueous humour|கண் நீர் - tears
-முன்காலெலும்பு|tibia|
-முன்காற் சிரை|tibial vein|
-முன்குதிரை|eohippus|
-முன்கோடல்|forward bias|
-முன்சிறுகுடல்|duodenum|
-முன்சிறுகுடற்புண்|duodenal ulcer|
-முன்செலுத்திய|prepaid|
-முன்செல் பொத்தான்|forward button|
-முன்தசை|anterior muscle|
-முன்தட்டச்சு|type ahead|
-முன்தலைத் தசை|pars frontalis|
-முன்திறப்புச் சலவை எந்திரம்|front loading washing machine
-முன்தொகுப்பிடு|precompile|
-முன்தோல்|foreskin|
-முன்தோல்|prepuce|
-முன்தோற் சுரப்பி|preputial gland|
-முன்தோற்செட்டை|prepatagium|
-முன்தோனீர்|smegma|
-முன்நடப்பு மூலைவிட்டம்|leading diagonal|
-முன்நடப்புக் கிடையிழை|leading strand|
-முன்நடப்புக் கெழு|leading coefficient|
-முன்நடப்புக்கோடு|leader line|
-முன்பக்க மடல்|frontal lobe|
-முன்பக்க மூளை|fore brain|
-முன்பக்க மேடு|frontal gyrus|
-முன்பக்க மைய மேடு|anterior central gyrus|
-முன்பக்கவாட்டு|anteriolateral|
-முன்பணம்|advance (finance)|
-முன்பணம்|imprest|
-முன்பதி|reserve v|
-முன்பதிவு|reservation|
-முன்பார்வை|preview|
-முன்பிட்டூட்டரி|adenohypophysis|
-முன்பின்னான அச்சு|anteroposterior axis|
-முன்பெற்ற வருமானம்|income received in advanced
-முன்மடிக் கீல்|counter flap hinge|
-முன்மதி|prudence|
-முன்மூளை|forebrain|
-முன்மூளை|prosencephalon|
-முன்மொழி|propose|
-முன்மொழிதல்|proposition|
-முன்மொழிவு|proposal|
-முன்வரை|sketch|
-முன்வரை தாட்கொத்து|sketch pad|
-முன்வரையறு|predefined|
-முன்விருப்பப் பங்கு|preferred share|
-முன்விருப்பம்|preference|
-முன்விரை|fast forward|
-முன்வைப்பி|precursor|
-முன்னச்சிட்ட|preprinted|
-முன்னட|lead v|
-முன்னடத்தி|leader|
-முன்னடவிளிம்பு|leading edge|
-முன்னலசி|preprocessor|
-முன்னலசி நெறியுறுத்தம்|preprocessor directive|
-முன்னறி|predict|forecast - முன்னறிவி
-முன்னறிதல்|prediction|
-முன்னறிவி|forecast|predict - முன்னறி
-முன்னனுப்பு|forward v|
-முன்னனுப்பு முகவர்|forwarding agent|
-முன்னிகழ்வு|precedence|
-முன்னிகழ்வு விதிகள்|precedence rules|
-முன்னிரைப்பை|proventriculus|
-முன்னிலைம|prostate|
-முன்னிலைம சிறுநீர்ப்புறவழி|prostatic urethra|
-முன்னிலைம நாளம்|prostate duct|
-முன்னிலைமச் சுரப்பி|prostate gland|
-முன்னிலையில்|in presence of|
-முன்னுதிரி|caducous|
-முன்னுந்தி|impeller|
-முன்னுந்துவப் பகுதி|premotor area|
-முன்னுரிமை |priority|
-முன்னுரிமை விதி|law of priority|
-முன்னுரிமை விதிகள்|priority rules|
-முன்னுருவாக்கக் கோட்பாடு|preformation theory|
-முன்னுருவாக்கம்|preformation|
-முன்னுரைப்பான்|oracle|
-முன்னுளதாக்கிய|preset|
-முன்னெச்சரிக்கை|precaution|
-முன்னெளிய|preliminary|
-முன்னொட்டு|prefix|
-முன்னொத்துழைப்பு|protocooperation|
-முன்னோக்கம்|foresight|
-முன்னோக்கிய|forward adj|
-முன்னோக்கிய கொண்டளிப்பு|forward delivery|
-முன்னோக்கு வேறுபாட்டுச் செயலி|forward difference operator
-முன்னோக்குத் திசை|forward direction|
-முன்னோடி|pioneer|
-முன்னோர்|ancestor|
-மூக்கக்கோடு|line of nosing|
-மூக்கடியெலும்பு|ethmoid|
-மூக்கம்|nosing|
-மூக்கிய|nasal|
-மூக்குக்கண்ணாடி|spectacles|
-மூக்குக்கண்ணாடியன்|binocellate|
-மூக்குக்கண்ணீர் நாளம்|nasolacrimal duct|
-மூக்குக்குழி|nasal cavity|
-மூக்குத்தொண்டை|nasopharynx|
-மூக்குத்தொண்டை தசைப்புற்று|nasopharyngeal carcinoma
-மூக்குப்பள்ளம்|nasal cavity|
-மூக்குவண்டு|weevil|
-மூக்கெலும்பு|nasal bone|
-மூச்சமைப்பு|respiratory system|
-மூச்சிய எதிர்மயனி|oxoanion|
-மூச்சியக்கீமோகுளோபின்|oxyhemoglobin|
-மூச்சியநீக்க-|deoxy-|
-மூச்சியநீக்கப்பித்த அமிலம்|deoxycholic acid|
-மூச்சியநீக்கல்|deoxygenation|
-மூச்சியப்புரோலின்|oxoproline|
-மூச்சியமாக்கல்|oxygenation|
-மூச்சியமிறக்க ஆற்றநிலை|reduction potential|
-மூச்சியமிறக்கம்|reduction|குறுக்கம் - contraction
-மூச்சியமிறக்கி|reducing agent|
-மூச்சியமேற்ற ஊக்கிப்புரதம்|oxidative enzyme|
-மூச்சியமேற்ற எண்|oxidation number|
-மூச்சியமேற்ற நிலை|oxidation state|
-மூச்சியமேற்றக் கரிமமிலநீக்கம்|oxidative decarboxylation
-மூச்சியமேற்றப் பாசுவேட்டேற்றம்|oxidative phosphorylation
-மூச்சியமேற்றப் பிளவுறல்|oxidative cleavage|
-மூச்சியமேற்றம்|oxidation|
-மூச்சியமேற்றவிறக்க ஆற்றநிலை|redox potential|
-மூச்சியமேற்றவிறக்க இரட்டை|redox couple|
-மூச்சியமேற்றவிறக்கம்|redox|
-மூச்சியமேற்றவிறக்கவூக்கி|oxidoreductase|
-மூச்சியமேற்றவெதிர்ப்பி|antioxidant|
-மூச்சியமேற்றி|oxidizing agent|
-மூச்சியம்|oxygen|உயிரிய - bio; மூச்சிய - oxy
-மூச்சியவசிற்றலீன் தீவட்டி|oxyacetylene torch|
-மூச்சியவமிலம்|oxyacid|
-மூச்சியவுடலம்|oxysome|
-மூச்சியைடு|oxide|
-மூச்சியைடூக்கி|oxidase|
-மூச்சியோ-|oxo-|
-மூச்சியோனியம்|oxonium|
-மூச்சு|respiration|
-மூச்சு ஒழுங்கமைத்தல்|respiratory regulation|
-மூச்சுக் கோர்வை|respiratory chain|
-மூச்சுக்கீழ்ச்சுவடு|lower respiratory tract|
-மூச்சுக்குழல்|trachea|
-மூச்சுக்குழல்|wind pipe|
-மூச்சுச் சிறுகுழல்|bronchus|
-மூச்சுச்சிறுகுழலழற்சி|bronchitis|
-மூச்சுச்சிறுகுழலின் நிணவனைய திசு (மூநிதி)|bronchus associated lymphoid tissue (BALT)
-மூச்சுச்சிறுகுழல்நோக்கல்|bronchoscopy|
-மூச்சுச்சீராக்க மையம்|pneumotaxic center|
-மூச்சுச்சுவடு|respiratory tract|
-மூச்சுநுண்குழல்|branchiole|
-மூச்சுநோக்கி|respiroscope|
-மூச்சுப்பாதை|respiratory passage|
-மூச்சுமுனைநுண்குழல்|terminal bronchiole|
-மூச்சுமேற்சுவடு|upper respiratory tract
-மூச்சுவாங்கு மையம்|apneustic center|
-மூச்சுவிடல் விகிதம்|respiratory quotient|
-மூச்சுவிடு தசைகள்|muscles of expiration|
-மூச்சுவிடுதல்|expiration (respiration)
-மூச்சுவிடும் வேர்கள்|respiratory roots|
-மூச்செடு தசைகள்|muscles of inspiration|
-மூச்செடுத்தல்|inspiration (respiration)
-மூடடுக்கு|coping|
-மூடிய அமைப்பு|closed system|
-மூடிய இடைவெளி|closed interval|
-மூடிய இறக்கிடை|closed indent|
-மூடிய எலும்புமுறிவு|closed fracture|
-மூடு|close|
-மூடு தொங்கி|closing tag|
-மூடுகண்ணாடி|goggle|
-மூடுகல்|closer (masonry)|
-மூடுசவ்வு|hymen |
-மூடுசேர்க்கை|cleistogamy|
-மூடுபனி|mist|
-மூடுவ முட்டை|cleidoic egg|
-மூடுறை|envelope|sheath - சூழுறை
-மூடுறை|tunic|
-மூடுறைகள்|tunica|
-மூடுறைக் குமிழம்|tunicated bulb|
-மூடுறையன்|tunicate|
-மூட்டழற்சி|arthritis|
-மூட்டு மசகு|synovia|
-மூட்டுக் குருத்தெலும்பு|articular cartilage|
-மூட்டுக் குழியம்|glenoid fossa|
-மூட்டுசூழ்|periarticular|
-மூட்டுச் சவ்வு|synovial membrane|
-மூட்டுச்சவ்வழற்சி|synovitis|
-மூட்டுநோக்கி|arthroscopy|
-மூட்டுநோய்|gout|
-மூட்டுப் பாய்மம்|synovial fluid|
-மூட்டுப் பிறழ்வு|dislocation of joint|
-மூட்டுவலி|arthralgia|
-மூதாதையரிசம்|atavism|
-மூதிரை|Betelgeus|
-மூ-நான்கவைல்|t-butyl|
-மூப்பியல்|gerontology|
-மூப்பு|senescence|
-மூப்புப்பார்வை|presbyopia|
-மூமீவு (மூல மீக்கருவி உற்பத்தியாளர்)|OEM (original equipment manufacturer)
-மூல ஆக்கவிலையின் மாறாவிழுக்காட்டு முறை|fixed percentage on original cost method
-மூல ஆவணங்கள்|source documents|
-மூல உயிரணு|stem cell|
-மூல மீக்கருவி உற்பத்தியாளர் (மூமீவு)|original equipment manufacturer (OEM)
-மூல வரிநிரல்|source code|
-மூலக்குறி|radical|
-மூலக்கூறிடை|intermolecular|
-மூலக்கூறின் அணுவுமை எண்|atomicity of a molecule
-மூலக்கூறு|molecule|
-மூலக்கூறு உயிரியல்|molecular biology|
-மூலக்கூறு எடை|molecular weight|
-மூலக்கூறு எண்|molecularity|
-மூலக்கூறு கற்றை|molecular beam|
-மூலக்கூறுள் |intramolecular|
-மூலதன வணிமாற்றம்|capital transaction|
-மூலதனச் செலவு|capital expense|
-மூலதனத்தின் உற்பத்திவீதம்|marginal productivity of capital
-மூலதனத்துவ|capitalistic|
-மூலதனத்துவம்|capitalism|
-மூலதனப் பெறுமம்|capital gain|
-மூலதனப் பொருட்கள்|capital goods|
-மூலதனம்|capital|investment - முதலீடு
-மூலநாண்முதுகிகள்|protochordates|
-மூலப் பயனர்|root user|
-மூலம்|source|
-மூலம் (கணிதம்)|root (math)|
-மூலிகை|herb  |
-மூலிகை நிலை|herb stage|
-மூலை மட்டம்|try square|
-மூலைக்கல்|corner stone|
-மூலைக்கோணம்|quoin|
-மூலைச் சாளரம்|corner window|
-மூலைவிட்டத் தளவணி|diagonal matrix|
-மூலைவிட்டம்|diagonal |
-மூவங்க மலர்|trimerous flower|
-மூவங்கை|trifoliate|
-மூவடுக்கு விலங்கு|triploblastic animal|
-மூவணு|triatomic|
-மூவறைப் பிளவுக் கனி|regma|
-மூவால்க்கைல்|trialkyl|
-மூவிறகன|tripinnate|
-மூவீன்|triene|
-மூவுப்பாக்கியமீத்தேன்|trihalomethane|
-மூவுப்பாக்கைடு|trihalide|
-மூழ்கு வெந்நீராக்கி|immersion water heater
-மூளை உள்ளறை|ventricle (brain)|
-மூளை நீர்நாளம்|cerebral aqueduct|
-மூளைக் கழலை|brain tumor|
-மூளைக் குருதிகட்டித்தல்|cerebral thrombosis|
-மூளைக் குருதிக்கசிவு|cerebral hemorrhage|
-மூளைத்தண்டு|brain stem|
-மூளைத்தண்டுவடப் பாய்மம்|cerebrospinal fluid|
-மூளைப் பவளம்|brain coral|
-மூளைப்புரணி|cerebral cortex|
-மூளைமட்டை|cerebellar peduncle|
-மூளைமெல்லுறை|leptomeninges|
-மூளையழற்சி|encephalitis|
-மூளையுமுறையுமழற்சி|meningoencephalitis|
-மூளையுள்ளறையாடை|ependyma|
-மூளையுள்ளறையாடையணு|ependymal cell|
-மூளையுள்ளறையிடை|interventricular|
-மூளையுள்ளறையிடை பெருந்துளை|interventricular foramen
-மூளையுறை அழற்சி|meningitis|
-மூளையுறைகள்|meninges|
-மூளையுறைமணியம்|meningococcus|
-மூளையோசைடு|cerebroside|
-மூன்றாந் தரப்பினர்|third party|
-மூன்றாமை|tertiary|
-மூன்றாமை உப்பாக்கைடு|tertiary halide|
-மூன்றாமை ஐந்தவேன்|tertiary pentane|
-மூன்றாமை நான்கவைல்|terriary butyl|
-மூன்றாமை நுகர்வோர்|tertiary consumer|
-மூன்றாமை வேர்|tertiary root|
-மூன்றாமைக் கட்டமைப்பு|tertiary structure|
-மூன்றாமைக் கரிமம்|tertiary carbon|
-மூன்றாமைச் சிறுகுழல்|tertiary bronchus|
-மூன்றாம் உலகம்|Third World|
-மூன்றாம் கூட்டுமம் (கூ3)|complex III|
-மூன்றாம் புறவூதா|UVC|
-மூன்றாம் முறைமை வினை|third order reaction|
-மூன்றாய காலம்|Triassic period|
-மூன்றாயிக அமிலம்|propionic acid|
-மூன்றாயிகபாட்டீரியம்|propionibacterium|
-மூன்று கட்டக் கண்டு|three phase winding|
-மூன்று நெடுக்கை|triple column|பத்தி - paragraph; முப்பத்தி - colloq. thirty-
-மூன்றுக்கொரு காய்ச்சல்|tertian fever|
-மூன்றுக்கொரு மலேரியா|tertian malaria|
-மூன்றோசு|triose|
-மூன்றோசு பாசுவேட்டு மாற்றியவூக்கி|triose phosphate isomerase
-மெகலவளர்ச்சி|acromegaly|hypertrophy - மிகைவளர்ச்சி; gigantism - அதிவளர்ச்சி
-மெகா-|mega-|
-மெகாவெணு|megabyte|
-மெக்கர்|Megger|
-மெக்களவி|megger|
-மெசாஞ்சியப் பேருண்ணி|mesangial cell|
-மெசாஞ்சியம்|mesangium|
-மெசிற்றலீன்|mesilylene|
-மெசிற்றைல் மூச்சியைடு|mesityl oxide|
-மெஞ்சலீவியம்|mendelevium|
-மெஞ்சலீவின் ஆவர்த்தன அட்டவணை|Mendeleev's periodic table
-மெடவார்|Medawar|
-மெடூசா|medusa|
-மெட்டிரிக அமைப்பு|metric system|மெட்ரிக் தவறு; ட தன்னுடன் தானே மயங்கும்; வல்லின ஒற்றுக்கள் மொழியீற்றில் வாரா.
-மெண்டலிசம்|mendelism|
-மெண்டலிய இனத்தொகை|Mendelian population|
-மெண்டலியர்|mendelian|
-மெண்டலின் விதிகள்|Mendel's laws|
-மெதுநடையன்|tardigrade|
-மெதுப்பு|pulvinus|
-மெதுவணை|cushion|pillow - தலையணை
-மெதுவலை உறக்கம்|slow wave sleep|
-மெத்தணி|stroma|
-மெத்தணி மென்தட்டு|stroma lamella|
-மெத்திலீன்|methylene|
-மெத்திலீன் நீலம்|methylene blue|
-மெந்தாமைக்கா|micanite|மென்தாளிட்ட மைக்கா
-மெயினரியம்|meitnerium|
-மெய்|true|false - பொய்; correct - சரி
-மெய்க்கனி|true fruit|
-மெய்க்கூற்று|true statement|
-மெய்போமியச் சுரப்பி|Meibomian gland|
-மெய்மை|truth|
-மெய்மை அட்டவணை|truth table|
-மெய்யெண்கள்|real numbers|
-மெரிக்கம்பம்|meristele|
-மெருகெண்ணெய்|varnish|
-மெலனிக அமிலம்|melanic acid|
-மெலனின்|melanin|
-மெலனின்குறைவு|hypomelanosis|
-மெலிந்த தசை|gracilis muscle|
-மெலியிக அமிலம்|maleic acid|
-மெலியிக நீரிலி|maleic anhydride|
-மெல்லிய ஒளிவில்லை|thin lens|
-மெல்லியச்சுருளியம்|leptospira|
-மெல்லியச்சுருளியனையன|leptospiraceae|
-மெல்லிழை நிலை|leptotene stage|
-மெல்லிழையிறகு|down feather|
-மெல்லுடலி|mollusk|
-மெல்லுடலிகள்|mollusca|
-மெல்லுதசை|masseter |
-மெல்லுருகற் கண்ணாடி|sintered glass|
-மெல்லுருகு|sinter|
-மெல்லோட்டம்|parade|
-மெவலானிக அமிலம்|mevalonic acid|
-மெழுகம்|sebum|
-மெழுகிக அமிலம்|linoleic acid|
-மெழுகினிக அமிலம்|linolenic acid|
-மெழுகு|wax|
-மெழுகுக் காட்சியகம்|wax museum|
-மெழுகுச் சுரப்பி|sebaceous gland|
-மெழுகுப்பாய்|linoleum|
-மெழுகுப்பூச்சு|cuticle|
-மெழுகுப்பூச்சுவம்|cutin|
-மென் செயலிழப்பு|soft failure|
-மென்கடத்தற்காப்பி|soft insulator|
-மென்காந்தம்|diamagnetism|
-மென்காமம்|softcore sex|
-மென்காமவூடகம்|softcore pornography|
-மென்காலிகள்|malacopoda|aka onychophora
-மென்காலிகள்|onychophora|aka malacopoda, protracheata
-மென்காலிகள்|protracheata|aka onychophora and malacopoda
-மென்சாம்பல்|fly ash|
-மென்தசைச்சுருக்கி|prostaglandin|
-மென்தட்டு|lamella|compact disc - குறுவட்டு
-மென்தாளிட்ட|laminated|
-மென்தாளிட்ட பலகை|laminated board|
-மென்தாள்|lamina|
-மென்தோலிகள்|gracilicutes|
-மென்படல நிறப்பிரிகை|thin layer chromatography
-மென்பனி|snow|
-மென்பாறைக்கோளம்|asthenosphere|
-மென்பிணைப்பு மகரந்தம்|versatile anther|
-மென்பொருள்|software|
-மென்விசைகள்|soft keys|
-மென்றரைத்தல் தசை|masticatory muscle|
-மென்றன், மாட் லியனோரா|Menten, Maud Leonora
-மென்றோல்|thin skin|
-மென்னகல்|soft copy|
-மென்னமிலம்|weak acid|
-மென்னூடுகதிர்|soft x-ray|
-மென்னெலும்பு|cancellous bone|
-மேகத் தொட்டி|cloud chamber|
-மேகத்தூவல்|seeding clouds|
-மேகப்படிதல்|flocculation|
-மேக்குவலின் விதி|Maxwell law|சரியான ஆங்கில உச்சரிப்பின் மிக அருகான மேக்ஸ்வெல் என்பதன் தமிழியலாக்கம்
-மேக்ஸ்வெல்|Maxwell|
-மேசை|table (furniture)|
-மேசை விசிறி|table fan|
-மேடை|stage (arts)|auditorium - அரங்கம்
-மேட்டுவளைவு|camber|
-மேம்பட்ட|improved|
-மேயரின் உறவு|Meyer's relation|
-மேயர்ஹாஃப்|Meyerhof|
-மேய்ச்சல் உணவுக் கோர்வை|grazing food chain|
-மேரி கியூரி|Mary Curie|
-மேலமை-|meta-|
-மேலமைத் தசை|superficialis muscle|
-மேலமைத் தொங்கி|meta tag|
-மேலமைத்தரவு|metadata|
-மேலமைவு|superposition|overlap - மேற்பொருந்தல்
-மேலாண்மை|management|
-மேலாண்மை இயக்குனர்|managing director|
-மேலாளர்|manager|
-மேலாள்|manage|
-மேலானிக்கியம்|eponychium|
-மேலி|numerator|goup - தொகுதி
-மேலிணைப்பு எலும்புக்கூடு|appendicular skeleton|
-மேலிருந்து கீழ்|top down|
-மேலுதடு|prostomium|
-மேலுயரத்து|promote|
-மேலுயர்த்த விளம்பரம்|promotional advertising
-மேலுயர்த்தல்|promotion|
-மேலுயர்த்தி|promoter|
-மேலூட்ட வேர்ப்பூஞ்சை|ectotrophic mycorrhiza
-மேலெதிரமை|superposed opposite |
-மேலெழு|take off|
-மேலெழுது|overwrite|
-மேலெழுது நிலமம்|overwrite mode|
-மேலெழுத்து|uppercase|
-மேலொட்டு|superscript|
-மேலோடி|browser|
-மேலோடு|browse|
-மேலோட்டப் பிளவுறல்|superficial cleavage|
-மேலோட்டமான|superficial|shallow - ஆழமற்ற
-மேல் (குவார்க்கு)|up (quark)|
-மேல் இரைப்பைச் சிரை|epigastric vein|
-மேல் தட்டச்சு|type over|
-மேல் தாடையெலும்பு|maxilla|
-மேல் முன்பக்க மேடு|superior frontal gyrus|
-மேல் முன்பக்கப் பள்ளம்|superior frontal sulcus|
-மேல்கீழ் எண்ணி|up-down counter|
-மேல்நாவடி|hyomental|
-மேல்நாவடி|suprahyoid|
-மேல்நிலைம|epistatic|
-மேல்நிலைமம்|epistasis|
-மேல்நோக்கி ஒவ்வுமையான|upward compatible|
-மேல்மட்டத்தினம்|aristocracy|
-மேல்மட்டத்தினர்|aristocrat|
-மேல்மறைப்பு|occlusion|
-மேல்முடிநீக்கம்|depilation|
-மேல்முழுச் சார்பு|onto function|
-மேல்முறையிடு|appeal|
-மேல்வரம்பு|upper bound|
-மேல்வரம்பு திரட்டு அலைவெண் அட்டவணை|less than cumulative frequency table
-மேல்வழிதல்|overflow|
-மேல்விலங்கின்வருநோய்|metazoonosis|
-மேற் குடற்றாங்கி தமனி|anterior mesenteric artery
-மேற்கத்திய ஒற்றல் சோதனை|western blot test|
-மேற்கத்திய ஒற்று|western blot|
-மேற்கவர்தல்|adsorption|absorption - உட்கவர்தல்
-மேற்கவர்தல் நிறப்பிரிகை|adsorption chromatography
-மேற்கவர்பொருள்|adsorbate|
-மேற்கவர்வி|adsorbent|
-மேற்காட்டு|highlight|
-மேற்கிடைப்பட்டை|top rail|
-மேற்கீழறைக் கணு|atrioventricular node|
-மேற்குளோரேட்டு|perchlorate|
-மேற்கையெலும்பு|humerus|
-மேற்கோள் குறி|quotation mark|
-மேற்சவ்வு|epithelium|
-மேற்சவ்வு உள்வேர் சூழுறை|internal epithelial root sheath
-மேற்சவ்வு வெளிவேர் சூழுறை|external epithelial root sheath
-மேற்செலவு|overhead (expense)|
-மேற்பகுதி (தாவரவியல்)|posterior (botany)|
-மேற்படர்தல்|epiboly|
-மேற்படி|bonus|
-மேற்பட்ட|additional|
-மேற்பட்ட செயலர்|additional secretary|
-மேற்பட்ட மாவட்ட நடுவர்|additional district judge
-மேற்பரப்பு|surface (physics)|
-மேற்பரப்பு இழுவிசை|surface tension|
-மேற்பரப்பு பெறுவி|surface receptor|
-மேற்பரப்பு வேதியியல்|surface chemistry|
-மேற்பரப்பு வேதிவினை|surface reaction|
-மேற்பரப்புப் பட்டியடைத்தல்|surface impoundment|
-மேற்பாசுவரிக அமிலம்|metaphosphoric acid|
-மேற்பார்வை |supervision|
-மேற்பார்வையாளர்|supervisor|
-மேற்புற முதலணு|epibasal cell|
-மேற்புறவளைவு|epinasty|
-மேற்பெருஞ்சிரை|precava|aka superior vena cava
-மேற்பெருஞ்சிரை|superior vena cava|aka precava
-மேற்பொருந்தல்|overlap|superposition - மேலமைவு
-மேற்பொருந்தாமை|nonoverlap|
-மேற்றிறப்புச் சலவையெந்திரம்|top loading washing machine
-மேற்றோலாக்கத்திசு|protoderm|
-மேற்றோல்|epidermis|
-மேற்றோல் முடிகள்|epidermal hairs|
-மைக்கல்சனின் முறை|Michelson's method|
-மைக்கனசோல்|miconazole|
-மைக்கா|mica|
-மைக்கானசால் பூச்சு|miconazole cream|
-மைக்குரோ-|micro-|
-மைக்குரோசாட்டு|Microsoft|
-மைக்குரோசாட்டு அக்கசு|Microsoft Access|
-மைக்குரோசாட்டு எக்குசல்|Microsoft Excel|
-மைக்குரோசாட்டு வேர்டு|Microsoft Word|
-மைய|central|
-மைய அலசல் அலகு (மையல)|central processing unit (cpu)
-மைய அழுகல்|heart-rot|
-மைய இருப்பகக் கூட்டகம்|Central Warehousing Corporation
-மைய ஊழி|Mesozoic era|
-மைய எல்லைத் தேற்றம்|central limit theorem|
-மைய நரம்பமைப்பு|central nervous system
-மைய நேர்த்தியாக்கு|center justify|
-மைய மன்றம்|The Central Council|
-மைய மூளை உள்ளறை|central ventricle|
-மைய வங்கி|central bank|
-மையக் கடல் மீன்பண்ணை ஆய்வுப் பயிலகம்|The Central Fisheries Research Institute
-மையக் கால்வாய்|central canal|
-மையக்கால்|king post|
-மையத் திட்டமிடல்|centralized planning|
-மையத்திரள்|centromere|
-மையநீங்குமை|eccentricity|centrifugal - மையம்விலகு
-மையப் புடைப்பு|central protuberance |
-மையப்போக்கு|central tendency|
-மையமாக்கி (வளைவு)|centering (arch)|
-மையமெய்யம்|centrosome|
-மையமொன்றிய|concentric|
-மையமொன்றிய கண்டு|concentric winding|
-மையம்|center|
-மையம்நோக்கிய|centripetal|
-மையம்நோக்கிய விசை|centripetal force|
-மையம்விலகு  |centrifugal  |eccentricity - மையநீங்குமை
-மையம்விலகு ஏற்றி|centrifugal pump|
-மையம்விலகு விசை|centrifugal force|
-மையல (மைய அலசல் அலகு)|cpu (central processing unit)
-மையவிடக் கோட்பாடு|central place theory|
-மையுமிழ அச்சிடுவான்|inkjet printer|உமிழம் - jet
-மைரிசில்|myricyl|
-மைரிட்டிக அமிலம்|myristic acid|
-மொட்டிற்சேர்க்கை|bud pollination|
-மொட்டு|bud|
-மொட்டுக் கரோனா|corona glandis|
-மொட்டைமாடி|terrace|
-மொத்த உள்நாட்டு உற்பத்தி (மொவுவு)|Gross Domestic Product (GDP)
-மொத்த சாத்தியக்கூறு|total probability|
-மொத்த நாட்டு உற்பத்தி (மொநாவு)|Gross National Product (GNP)
-மொத்த நாட்டு வருமானம் (மொநாவ)|Gross National Income (GNI)
-மொத்த விற்பவர்|wholesaler|
-மொத்த விற்பனை|wholesale|
-மொநாவ (மொத்த நாட்டு வருமானம்)|GNI (Gross National Income)
-மொநாவு (மொத்த நாட்டு உற்பத்தி)|GNP (Gross National Product)
-மொய்ப்பி|swarm|
-மொவுவு (மொத்த உள்நாட்டு உற்பத்தி)|GDP (Gross Domestic Product)
-மொழி ஓம்புனர்|host language|
-மொழிபெயர்|translate (language)|
-மொழிபெயர்ப்பு|translation (language)|
-மொழியியலாளர்|linguist|
-மொழியியல்|liguistics|
-மொழிவுரை|suggestion|
-மொனிரன்கள்|monera|
-மோசடி|fraud|
-மோதல்|collision|
-மோதல் விட்டம்|collision diameter|
-மோதல், ஓடல், அஞ்சல்|fight, flight, and fright|
-மோபியசுப் பட்டை|mobius strip|
-மோரல்|morel|
-மோலிர|molar (chemistry)|
-மோலிர நிறை|molar mass|
-மோலிரப் பருமன்|molar volume|
-மோலிரம்|molarity|
-மோலில உயர்வு மாறிலி|molal elevation constant
-மோலிலத் தாழ்வு மாறிலி|molal depression constant
-மோலிலம்|molality|
-மோல்|mole |
-மோல் விகிதம்|mole fraction|
-மோவாய்த் தசை|mentalis|
-மோனசைட்டு|monazite|
-மோனரின் சோதனை|Morner's test|
-மோஸ்லீ|Moseley|
-யங்கின் குணகம்|Young's modulus|
-யாகி அலைவுணரி|yagi antenna|
-யாவூ|yahoo|
-யானைக்கால் நோய்|elephantiasis|
-யுகம்|age (geology)|
-யுராசில்|uracil|
-யுரிடின்|uridine|
-யுருபா (யுரிடின் இருபாசுவேட்டு)|UDP (uridine diphosphate)
-யுரேனசு|Uranus|
-யுரேனசு|Uranus|
-யுரேனியம்|uranium|
-யுரேனியம் கடந்த|transuranium|
-யூக்கிரேன்|Ukraine|
-யூக்கிளிட|Euclidean|
-யூக்ளிட்|Euclid|
-யூசினால்|eugenol|
-யூசு|lux|
-யூமன்|lumen (optics)|
-யூரிக அமிலம்|uric acid|
-யூரிமில்லரின் கருதுகோள்|Urey-Miller hypothesis
-யூரியவூக்கி|urease|
-யூரியா|urea|
-யூரியேட்டு|ureate|
-யூரியேட்டு மூச்சியைடூக்கி|ureate oxidase|
-யூலின் கெழு|yule's coefficient|
-யூனிசு செயற்பாடமைப்பு|Unix operating system|
-யூனியன் கார்பைடு|Union Carbide|
-யூனிலீவர் வரம்பம்|Unilever Limited|
-யெர்சினியம்|yersinia|
-யேட்டின் திருத்தம்|Yate's correction|
-யோட்டா-|yotta-|
-யோட்டோ-|yocto-|
-ரதர்ஃபர்ட்|Rutherford|
-ராபர்ட் கேலோ|Robert Gallo|
-ராபர்ட் கோச்|Robert Koch|
-ராபர்ட் மல்லிக்கன்|Robert Mulliken|
-ராபர்ட் ஹுக்|Robert Hooke|
-ராபர்ட்டு காக்|Robert Coch|
-ராபர்ட்ஸன்|Robertson|
-ராம்சி|Ramsay|
-ராலி|Raleigh|
-ரிக்கெட்ஸ்|Ricketts|
-ரினே டேகார்ட் |René Descartes|சரியான கிரேக்க உச்சரிப்பு
-ரென்ட்கன்|Roentgen|
-ரைட்|Wright|
-லமார்க்|Lamarck|
-லாசான்யா|Lassaigne|
-லாப்பிளாசு|Laplace|
-லாரன்ஸ் பிரேக்|Lawrence Bragg|
-லீபிக்|Liebig|
-லூக் மான்றான்யே|Luc Montagnier|
-லூயி பாஸ்சர்|Louis Pasteur|
-லேவன்ஹூக்|Leeuwenhoek|
-லேனிங்கர்|Lehninger|
-லைன்வீவர், ஹான்ஸ்|Lineweaver, Hans|
-வ- (வலத்திருப்பு)|D- (dextrorotatory)|
-வ- (வெளியிட மாற்றியம்)|R- (stereoisomerism)|
-வ-அமினோ அமில மூச்சியைடூக்கி|D-amino acid oxidase|
-வ-அமினோ அமிலம்|D-amino acid|
-வகிர்|partition|
-வகிர்வு|partitioning|
-வகிர்வு அட்டவணை|partition table|
-வகிர்வு நிறப்பிரிகை|partition chromatography
-வகுத்தல் விதி|quotient law|
-வகுத்தி|divisor|
-வகுப்பு|class|
-வகுமீதி|modulus (division)|
-வகை (பாகுபாட்டியல்)|variety (taxonomy)|
-வகை மாதிரியன்|type specimen|
-வகைக் கருத்துரு|type concept|
-வகைக்கெழு|differential|
-வகைக்கெழு (கணிதம்)|derivative (math)|
-வகைப்படுத்தாத|unclassified|
-வகைப்படுத்திய|classified|
-வகைப்பாடு|classification|
-வகையிடத்தகு|differentiable|
-வகையிடல்|differentiation (math)|
-வகையிடுமை|differentiability|
-வகையியல்|typology|
-வகையியல் இனக் கருத்துரு|typological species concept
-வகையீட்டு |differential|
-வகையீட்டு நுண்கணிதம்|differential calculus|
-வகையீட்டு மிகைச்சுழல்வீழ்த்தி|differential ultracentrifuge
-வகையீட்டுச் சமன்பாடு|differential equation|
-வங்காளச் சிவப்பு|rose bengal|
-வங்கி|bank|
-வங்கி ஒழுங்கமைத்தல் சட்டம்|Banking Regulation Act
-வங்கி வீதம்|bank rate|
-வங்கியம்|banking|
-வங்கியர்|banker|
-வசதிகள்|amenities|
-வசதியம்|facility|
-வசந்தநீக்கல்|devernalization|
-வசந்தமாக்கல்|vernalization|
-வசிப்பறை|living room|
-வசிப்பிடம்|dwelling|
-வசூலி|collect (bill)|
-வசூல்|collection (bill)|
-வஞ்சிரம்|seer fish|
-வட அட்டிலாண்டிக நீரோட்டம்|north atlantic drift|
-வட அமெரிக்கத் தடங்கலற்ற வியாபார உடன்பாடு (வமேதவி)|North American Free Trade Agreement (NAFTA)
-வட துருவம்|north pole|
-வடம்|cable|
-வடிகட்டல்|filtration|
-வடிகட்டி|filter|வடிப்பி - funnel
-வடிகட்டுச் சவ்வு|filtration membrane|
-வடிகால்|drain|
-வடிகுழாய்|syphon n|
-வடிதாள்|filter paper|
-வடிநீர்|broth|
-வடிப்பி|funnel|filter - வடிகட்டி
-வடிப்பிக் குழாய்|funnel tube|
-வடிமம்|filtrate|
-வடிமாற்றம்|transfusion|
-வடிவ மாற்றியம்|goemetric isomerism|
-வடிவக் காரணி|form factor|
-வடிவச்சு|template|
-வடிவடுக்கு|mosaic|
-வடிவடுக்கு ஓடு|mosaic tile|
-வடிவமை|design|
-வடிவமைப்புக் காட்சி|design view|
-வடிவமையம்|centroid|
-வடிவம்|form (shape)|
-வடிவவிகிதம்|aspect ratio|
-வடிவியல் மாற்றியம்|geometric isomerism|
-வடிவியல் வரைவு|geometrical drawing|
-வடிவியற் படிக்கட்டு|geometrical stair|
-வடிவூட்டம்|format n|
-வடிவூட்டு|format v|
-வடிவூட்டு வரியுரு|formatting character|
-வடிவூட்டுச் சரம்|formatting string|
-வடிவொத்த முக்கோணங்கள்|similar triangles|
-வட்ட இலையடுக்கம்|whorled phyllotaxy|
-வட்ட வரிசை|round robin|
-வட்ட வரிசை மாற்றம்|circular permutation|
-வட்ட வரிவரைவு|pie chart|
-வட்ட வளையம்|circular ring|
-வட்டச்சமச்சீர்|actinomorphic|
-வட்டத் திறப்பு|round window|
-வட்டத்தாள் நிறப்பிரிகை|circular paper chromatography
-வட்டத்தாள் நிறப்பிரிகை|radial paper chromatography
-வட்டப் படிக்கட்டு|circular stair|
-வட்டப் பொத்தான்|radio button|
-வட்டம்|circle|
-வட்டயிறக|circumpennate|
-வட்டனையம்|cycloid|
-வட்டார |regional|
-வட்டாரக் கிராம வங்கி|regional rural banks|
-வட்டாரம்|region|
-வட்டி|interest (finance)|
-வட்டி வீதம்|interest rate|
-வட்டு செயற்பாடமைப்பு|DOS operating system|
-வட்டுத்தடுப்பி|disc brake|
-வட்டொளி|aureole|corona -கரோனா
-வணிக|commercial|
-வணிக நோக்கில் தயாரிப்பு|commercial preparation
-வணிக மற்றும் தொழிலகக் கழகம்|chamber of commerce and industry
-வணிக முகவர்|mercantile agent|
-வணிக வங்கி|commercial bank|
-வணிகக் கழகம்|chamber of commerce|
-வணிகச் சக்கரம்|wheel of commerce|
-வணிகத்துறை|sector (commerce)|
-வணிகப்பொருள்|commodity|
-வணிகம்|commerce|trade - வியாபாரம்
-வணிகவிசம்|mercantilism|
-வணிகவியல்|commerce (study of)|
-வணிமாற்றம்|transaction|நடவடிக்கை means legal or military operation
-வண்டலாகல்|siltation|
-வண்டல்|silt|
-வண்டு|beetle|
-வண்டுனம்|coleoptera|
-வண்ண அச்சிடுவான்|color printer|
-வண்ண முரண்|color contrast|
-வண்ணக் குறியிடல்|color coding|
-வண்ணத் தட்டகம்|color palette|
-வண்ணப்புள்ளி|mottle|
-வண்ணப்பூச்சு|paint n|
-வண்ணம்பூசிய காட்சியம்|painted display|
-வண்ணம்பூசு|paint v|
-வதப (வலையம் தழுவிய பயிற்சி)|WBT (web based training)
-வந்த வரிசை|FIFO|
-வமேதவி (வட அமெரிக்கத் தடங்கலற்ற வியாபார உடன்பாடு)|NAFTA (North American Free Trade Agreement)
-வயண்டோடு|Wyandotte|
-வயதுத் தொகுதி|age group|
-வயிடை (வலைய இடைமுக அட்டை)|NIC (Network Interface Card)
-வயிற்றக|visceral|
-வயிற்றக உறுப்பு|visceral organ|
-வயிற்றக உறுப்பு|viscus|
-வயிற்றக உறுப்புக்கள்|viscera|
-வயிற்றகத் தசை|visceral muscle|
-வயிற்றகப் படலம்|visceral layer|
-வயிற்றறை|venter|
-வயிற்றுக் குடற்பிதுக்கம்|abdominal hernia|
-வயிற்றுக்குமைச்சல்|nausea|
-வயிற்றுப்பக்க|ventral|
-வயிற்றுப்பக்க உதடு|ventral lip|
-வயிற்றுப்பக்க வேர்|ventral root|
-வயிற்றுப்பக்கப் பிளவு|ventral fissure|
-வயிற்றுப்போக்கு|diarrhea|
-வயிற்றுறை|peritonium|
-வயிற்றுறை பேருண்ணி|peritoneal macrophage
-வயிற்றுறையழற்சி|peritonitis|
-வயிற்றுறையூடுபகுப்பு|peritoneal dialysis|
-வரக்கூடிய பெறுமம்|unrealized gain|
-வரட்சி|drought|
-வரட்சி எதிர்க்கும்|drought resistant|
-வரட்சி தவிர்க்கும்|drought escaping|
-வரட்சி தாங்கும்|drought enduring|
-வரத்தக்க|potential (prospective)|
-வரத்தக்க|prospective|
-வரத்தக்க பெறுமம்|potential gain|
-வரப்பு|boundary|
-வரப்பு நிபந்தனை|boundary condition|
-வரம்பம்|limited (company)|
-வரம்பற்ற|unlimited|
-வரம்பி|limiter|
-வரம்பிடு|delimit|
-வரம்பிழப்பு வருகோள்|stop loss order|
-வரம்பு|bound|
-வரம்பு வருகோள்|limit order|
-வரம்புட்பட்ட|bounded|
-வரம்புள்ள|limited|
-வரம்புள்ள கடப்பாடு|limited liability|
-வரம்பெல்லை|delimitor|
-வரலாற்று எண்ணக்குழு|historical school|
-வரவு நெடுக்கை|credit column|
-வரவும் பற்றும்|credit and debit|
-வரி (நிதியியல்)|tax|
-வரி அச்சிடுவான்|line printer|
-வரி நிறமாலை|line spectrum|
-வரிசை|queue|sort - முறைமையாக்கு
-வரிசைமாற்றம்|permutation|
-வரிசையற்ற சீரற்ற கற்கட்டு|uncoursed rubble masonry
-வரிசையான சீரற்ற கற்கட்டு|coursed rubble masonry
-வரிச்சுருள்|solenoid|
-வரித் தொகுப்பம்|line editing |
-வரிநிரல்|code (software)|
-வரியற்ற தசை|nonstriped muscle|
-வரியால் அழகுறுத்தல்|furrowed dressing|
-வரியிடை|line spacing|
-வரியியல்|syntax|
-வரியிறுதி|end of line|
-வரியுடைத் தசை|striped muscle|
-வரியுரு|character (computer)|
-வரியுள்|inline|
-வரியேடு|cadastre|
-வரியேட்டு|cadastral|
-வரிவருடல்|scanning|
-வரிவருடல் எலட்டிரான் நுண்ணோக்கி|scanning electron microscope
-வரிவருடி|scanner|
-வரிவருடு|scan|
-வரிவரைவு|chart|diagram - படவரைவு
-வரிவிதிப்பு|taxation|
-வருகொள்|order v (merchandise)|
-வருகோள்|order n (merchandise)|
-வருங்காலத்துக்கான வளங்கள் (வவ)|Resource for the Future (RFF)
-வருதி|derivative (chemistry)|
-வருநிலை|prospect|
-வருமங்கல்|fade in|
-வருமானம்|income|revenue - வருவாய்
-வரும்போதே இறப்பு|dead on arrival|
-வருவாயின வணிமாற்றம்|revenue transaction|
-வருவாய்|revenue|income - வருமானம்
-வருவி|derive|deduce - தருவி
-வருவித்த|derived|
-வருவித்த அலகுகள்|derived units|
-வருவித்த தரவு வகை|derived data type|
-வருவித்த புரதம்|derived protein|
-வருவித்தல்|derivation|
-வருவிளைவு|outcome|
-வரைதிட்டம்|scheme|
-வரைந்துரை|delineate|
-வரைபடம்|graph|
-வரையச்சு|stencil|
-வரையறு|define|
-வரையறை|definition|
-வரையறை அகவனவூக்கி|restriction endonuclease
-வரையறைப் பட்டியல்|definition list|
-வரையறையூக்கி|restriction enzyme|
-வரைவி|plotter|
-வரைவு|drawing|
-வரைவு ஆவணம்|draft document|
-வரைவுக் கருவிகள்|drawing instruments|
-வரைவுப் பலகை|drawing board|
-வரைவுப் பென்சில்|drawing pencil|
-வரைவோலை|draft (finance)|check - காசோலை
-வரோலி பாலம்|pons varolii|
-வர்க்கச் சராசரி மூலம்|root mean square|
-வர்க்கத்தை முழுமையாக்கல்|completing square|
-வர்க்கமூலம்|square root|
-வலக்கிளை (அனரி)|D arm (RNA)|
-வலக்கை அமைப்பு|right-handed system|
-வலச்சொடுக்கு|right click|
-வலஞ்சுழி|clockwise|
-வலது நேர்த்தியாக்கு|right justify|
-வலத்திருப்பு|dextrorotatory|
-வலத்திருப்போசு|dextrose|
-வலப்பக்க எல்லை|right hand limit|
-வலவன்|pilot|
-வலிகுறைப்பி|analgesic|
-வலிக்குறுக்கம்|cramp|
-வலிப்பு|convulsion|
-வலிமை|strength|
-வலிமையூட்டு|reinforce|
-வலியன்|lepton|
-வலியில்லாத் தசையிறப்பு|silent infarction|
-வலியுரை|assert|
-வலியுறுத்தல்|emphasis|
-வலியுறுத்தல்நீக்கம்|deemphasis|
-வலியுறுத்து|emphasize|
-வலுகுறை அணுக்கரு விசை|weak nuclear force|
-வலுகுன்றிய|attenuated|
-வலுகுன்று|attenuate|
-வலுமிகு அணுக்கரு விசை|strong nuclear force|
-வலுவாக இணைக்கப்பட்டது|strongly connected|
-வலுவாக்கல்|tempering (construction)
-வலேமின்|velamen|
-வலை (உடலமைப்பியல்)|reticulum|
-வலை இணைப்பு|delta connection|
-வலை நரம்பமைப்பு|reticulate venation|
-வலைக்கம்பம்|dictyostele|
-வலைபாணி|web style|
-வலைப் படைப்பாக்கம்|web authoring|
-வலைப்பக்கம்|web page|
-வலைப்பதிவு|blog|
-வலைப்பாடு|labyrinth|
-வலைய இடவியல்|network topology|
-வலைய இடைமுக அட்டை (வயிடை)|Network Interface Card (NIC)
-வலைய இணைப்புமை|network connectivity|
-வலைய விளம்பரம்|web advertising|
-வலையக அகச்சவ்வணு|reticuloendothelial cell
-வலையகச்சவ்வு|reticuloendothelial|
-வலையகப் படலம்|reticular layer|
-வலையச் சந்தையிடல்|web marketing|
-வலையடுக்கு|dictyosome|
-வலையப் பயனர்|net user|
-வலையம்|network|
-வலையம் தழுவிய பயிற்சி (வதப)|web based training (WBT)
-வலையவணுக்கள்|reticular cells|
-வலையனையமிடை வெளி|subarachnoid space|
-வலையனையம்|arachnoid|
-வலையோடுடையன|articulata|
-வல்வம்|vulva|
-வவி (வளைவிகிதம்)|sine|
-வழக்கமுறை|formality|
-வழக்குத் தொடு|file a lawsuit|
-வழக்குத்தடுப்பு|immunity (diplomacy)|
-வழக்குரைஞர்|attorney|
-வழக்கொழிதல்|absolescence|
-வழங்கி|donor|
-வழவழப்பான|glabrous|
-வழி (இனத்தின்)|line (of a species)|
-வழிகாட்டி|guide|
-வழிகாண்|navigate|
-வழிச்சீட்டு|way bill|
-வழித்தடமம்|routing|
-வழித்தடமி|router|
-வழித்தடம்|route|track - தடம்
-வழிநடத்து|direct|
-வழிப்படுத்தல்|canalization|
-வழிப்பாதை|pathway|
-வழிமுறை|process (method)|
-வழியளவி|odometer|
-வழியுரை|guideline|
-வழிவளமும் விளைகோளும்|means and ends|
-வழுமம்|slime|
-வழுவு|smooth|
-வழுவு திரையுருட்டல்|smooth scrolling|
-வழுவுதசை|smooth tissue|
-வளம்|resource|
-வளரணு|vegetative cell|
-வளராக்க உயிரியல்|developmental biology|
-வளராக்கங்குறைந்த நாடுகள்|underdeveloped countries
-வளராக்கம்|development|வளர்ச்சி - growth
-வளராக்கம் குன்றிய|underdeveloped|
-வளரி|outgrowth|
-வளரிய (உயிரியல்)|ontogenic|
-வளரியக்க அமிலம்|gibberellic acid|
-வளரியக்கம்|growth movement|
-வளரியக்கி|gibberellin|
-வளருயிரி|merozoite|
-வளருருமாற்றப் பாறை|metamorphic rock|
-வளருருமாற்றம்|metamorphosis|
-வளரொழுங்காற்றி|auxin|
-வளர்கரு|fetus|
-வளர்கரு செங்குமிழம்|erythroblastosis fetalis|
-வளர்கருவழி|congenital|
-வளர்சிதைமாறி|metabolite|
-வளர்சிதைமாற்ற இடைப்பொருள்|metabolic intermediate
-வளர்சிதைமாற்ற மூட்டழற்சி|metabolic arthritis|
-வளர்சிதைமாற்றம்|metabolism|
-வளர்ச்சி|growth|development - வளராக்கம்
-வளர்ச்சி இயக்குநீர்|growth hormone|
-வளர்ச்சி இயக்குநீர்|somatotropic hormone|
-வளர்ச்சியளவி|auxanometer|
-வளர்ப்பு|cultivation|
-வளர்ப்பூட்டணு|mast cell|
-வளர்மாற்றம்|anabolism|
-வளர்வீத|progressive|
-வளர்வீத வரி|progressive tax|
-வளிக்குளிர்வி|aircondition|
-வளிக்கூழ்த்திசு|aerenchyma|
-வளிப்பரவல்|anemochory|
-வளிப்பூட்டறை|airlock|
-வளிம மாறிலி|gas constant|
-வளிம மின்னிலையம்|gas power plant|
-வளிமக் கடத்தி|gas conductor|
-வளிமக் கரி|gas carbon|
-வளிமங்களின் இயக்கவியற் கோட்பாடு|kinetic theory of gases|
-வளிமநீக்கி|carminative|
-வளிமப்போக்கு|flatulence|
-வளிமம்|gas|air - காற்று
-வளியழுத்த|pneumatic|
-வளியழுத்தக் கேசியன்|pneumatic caisson|
-வளை தேர்வி|free-form selector|
-வளைகுடா|gulf|
-வளைகுடா நீரோட்டம்|gulf stream|
-வளைக்குழைமம்|toxoplasma|
-வளைதசையுடலிகள்|Annelida|
-வளைநெரி அலை|peristaltic wave|
-வளைநெரிதல்|peristalsis|
-வளைந்த கால்கள்|bowed legs|
-வளைபரப்பு|curved surface|
-வளைபவளப்பாறைகள்|atoll|
-வளைபாட்டர்|campylobacter|
-வளைமேடு|gyrus|
-வளைய |annular|
-வளைய வலையம்|ring network|
-வளைய விரிசல்|ring shake|
-வளையப் பரிசோதனை|ringing experiment|
-வளையப்புழு|ringworm|
-வளையல்|annulus|
-வளைவ இயக்கம்|curvature movement|
-வளைவ வளரியக்கம்|nastic growth movement
-வளைவம்|curvature|
-வளைவரிசை|arcade|
-வளைவிகிதம் (வவி)|sine|
-வளைவு|curve|
-வளைவு (கட்டிடவியல்)|arch|
-வளைவு அடைப்புக்குறி|curly braces|
-வளைவுக்குச்சியம்|flectobacillus|
-வளைவுடலி|annelid|
-வளைவுப்பெருங்குடல்|sigmoid colon|
-வளைவுள்|intrados|
-வளைவுற்ற சூல்|campylotropous ovule|
-வளைவெளி|extrados|
-வறுத்தல்|roasting|
-வறுமை|poverty|
-வறுமை நிவாரணத் திட்டம்|poverty alleviation programme
-வறுமைக் கோடு|poverty line|
-வறுமையொழிப்பு|Garibi Hatao|
-வற்றா வளங்கள்|inexhaustible resources
-வற்றும் வளங்கள்|exhaustible resources|
-வன நிலை|forest stage|
-வனத் திணை|forest biome|
-வனத்துறை|forestry|
-வனமழிதல்|deforestation|
-வனம்|forest|
-வனவுயிரி|wildlife|
-வனேடியம்|vanadium|
-வன்காந்தம்|paramagnetism|
-வன்காமம்|hardcore sex|
-வன்காமவூடகம்|harcore pornography|
-வன்பிடி|holdfast|
-வன்புகு|invasive|
-வன்புகுதல்|invasion|intrusion - உட்புகல்
-வன்பொருள்|hardware|
-வன்வட்டு|hard disk|
-வன்வட்டோடி|hard drive|
-வன்வளையம்|sput|
-வன்னகல்|hard copy|
-வன்னமிலம்|strong acid|
-வன்னூடுகதிர்|hard x-ray|
-வாக்களி|vote v|
-வாக்களிப்பு|vote n|
-வாக்கீடளி|assure|
-வாக்கீடு|assurance|promise - வாக்குறுதி
-வாக்குமூலம்|testimony|
-வாக்குரிமை|franchise|
-வாக்குரிமையளி|enfranchise|
-வாக்குரிமையிழந்த|disenfranchised|
-வாக்குறுதி|promise|assurance - வாக்கீடு
-வாக்கெடு|poll v|
-வாக்கெடுப்பு|poll n |
-வாங்கல்|buying|
-வாங்கல்|shopping|
-வாங்குபவர்|buyer|
-வாசனைச் சுரப்பி|scent gland|
-வாசி (இசை)|play (music)|
-வாசித்தளி|playback|
-வாடகையால் வாங்கல்|hire purchase|
-வாடிக்கையாளர்|customer|
-வாட்சனும் கிரிக்கும்|Watson and Crick|
-வாட்சன்|Watson|
-வாட்டு|toast|
-வாட்டு|watt (SI units)|
-வாட்டுச் சட்டகம்|grill|
-வாட்டுவி|toaster|
-வாண்டர் வால்ஸ்|van der Waals|
-வாண்டர்வால்சின் சமன்பாடு|van der Waals equation
-வாண்டி கிராபின் மின்னியற்றி|van de Graaff generator
-வாத்துமூச்சியநீக்கப்பித்த அமிலம்|chenodeoxycholic acid
-வாந்தாபுவின் விதி|van't Hoff rule|
-வாந்தியூட்டி|emetics|
-வாந்தியெதிர்ப்பி|antiemetics|
-வாயசைத் தசை|zygomaticus muscles|
-வாயடக்கி|tetanus|
-வாயழற்சி|stomatitis|
-வாயூக்கிப்புரதம்|ptyalin|
-வாய் வாக்களிப்பு|voice voting|
-வாய்க்கு வாய் மீட்டெழுப்பல்|mouth to mouth resuscitation
-வாய்க்குழி|buccal cavity|
-வாய்க்கோழைச்சவ்வு|buccal mucosa|
-வாய்சார்|buccal|
-வாய்சூழ்|peristome|
-வாய்சூழ்|peristomium|
-வாய்சூழ்த் தசை|orbicularis oris|
-வாய்ச்சுரப்பி|buccal gland|
-வாய்த் தெளிவநோய்|oral candidiasis|
-வாய்த்துளை|stoma (zoology)|
-வாய்த்தொண்டை|oropharynx|
-வாய்நீர்|saliva|
-வாய்நீர் தரசவூக்கி|salivary amylase|
-வாய்நீர்ச் சுரப்பி|salivary gland|
-வாய்ப்பாடு|formula |
-வாய்ப்பாட்டு எடை|formula weight|
-வாய்ப்பிழப்பின் விலை|opportunity cost|
-வாய்ப்பிழப்பு|opportunity loss|
-வாய்ப்புக்கூறு|odds|
-வாய்ப்புசார்|stochastic|
-வாய்ப்பூட்டு நோய்|foot and mouth disease
-வாரடுக்கு|belt course|
-வாரடுக்கு|stringcourse|
-வாராக் கடன்|bad debt|
-வாரிடல்|belting|
-வாரியம்|board|
-வார்க்கீல்|strap hinge|
-வார்ப்பிரும்பு|pig iron|
-வார்ப்புரு|mold|
-வார்ப்பெடுத்தல்|molding|
-வாலம்|pygidium|
-வாலிழைகள்|tail fibers|
-வாலிறகுகள்|rectrices|
-வாலுடைய இதழ்|spurred petal|
-வாலுள்ள மடல்|caudate lobe|
-வாலெலும்பு|coccyx|
-வாலெலும்புப் பகுதி|coccygeal region|
-வால்நாணிகள்|urochordata|
-வால்பக்க|caudal|
-வால்மீன்கள்|comets|
-வால்வாசு|volvox|
-வாவல்|pomfret|
-வாழிடம்|habitat|
-வாழிடவகை|ecotype|
-வாழிடவமைப்பு|ecosystem|
-வாழிடவியத் தனிமையாதல்|ecological isolation|
-வாழிடவியல்|ecology|
-வாழிடவியல் அறிவியல் மையம்|Center for Ecological Sciences
-வாழிடவியல் தொடர்முறை|ecological succession|
-வாழிடவியல் நாற்கூம்பு|ecological pyramid|
-வாழிடவினம்|ecospecies|
-வாழும் உயிரி|living organism|
-வாழையனையன|musaceae|
-வாழையின் உச்சிக்குவி நோய்|banana bunchy top disease
-வாழ்க்கை முறை|lifestyle|
-வாழ்க்கை வரலாறு|biography|
-வாழ்க்கைச் சுழற்சி|life cycle|
-வாழ்க்கைத் தரம்|standard of living|
-வாழ்நாள்|lifetime|
-வாழ்வு ஆக்கவிலை|cost of living|
-வாழ்வு ஆக்கவிலைச் சுட்டெண்|cost of living index|
-வாளுருவ நீட்சி|xiphoid process|
-வாள்|blade|
-வாற்சிரை|caudal vein|
-வாற்றமனி|caudal artery|
-வானக்கதிர்கள்|aurora|
-வானம்|sky|
-வானலை|radio|இது ஒலியலை அல்லாததால் வானொலி என்பது பொருந்தவில்லை; இவ்வலை வானொலிபரப்புக்காக பயன்பட்டதால் வானலை என்பது பொருத்தம்.
-வானலை எதிரொளிப்பு|radio echo|
-வானலை பெறுதல்|radio reception |
-வானலை பெறுவி|radio receiver|
-வானலையுணரி|radar|
-வானலைவரைவி|radiography|
-வானவில்|rainbow|
-வானியல்|astronomy|
-வானியல் தொலைவு|astronomical distance|
-வானியற்பியல்|astrophysics|
-வானிலை|weather|
-வானிலை முன்னறிவிப்பு|weather forecast|
-வானிலையாய்கோள்|METSAT|
-வானிலையியல்|meteorology|
-வானூர்தி|plane (aeroplane)|
-வானூர்தியியல்|aeronautics|
-வான் டி கிராஃப்|van de Graaff|
-வான் விளம்பரம்|sky advertising|
-வான்கீர்கின் நோய்|Von-Gierke's disease|
-வான்கோழி|turkey|
-வான்சார்|celestial|
-வான்பொருள்|celestial object|
-வான்பொருள்|heavenly body|
-வான்வெளி|aerospace|
-வான்ற் ஹாஃப்|van't Hoff|
-விகப்பொவு (வியாபாரத்துக்கும் கட்டணவீதங்களுக்குமான பொது உடன்பாடு)|GATT (General Agreement on Tariffs and Trade)
-விகலை|second (angle)|
-விகவு (விரைவுக்கண்ணசைவுறக்கம்)|REM (rapid eye movement) sleep
-விகாரமாக்க|mutagenic|
-விகாரமாக்கிகள்|mutation agents|
-விகாரம்|mutation|
-விகாரி|muton|
-விகித வாய்ப்பாடு|empirical formula|
-விகிதப் பகுப்பாய்வு|ratio analysis|
-விகிதமுறா எண்கள்|irrational numbers|
-விகிதமுறு எண்கள்|rational numbers|
-விகிதமுறு கோவை|rational expression|
-விகிதமுறு சார்பு|rational function|
-விகிதம்|ratio|
-விகிதவீத மாறிலி|proportionality constant
-விகிதவீத வரி|proportional tax|
-விகிதவீதத் தேற்றம்|proportionality theorem
-விக்டர் கிரின்யா|Victor Grignard|பிரான்சு மொழியில் சரியான உச்சரிப்பு
-விசப்பர் (பிணைதிறன் ஓட்டின் எலட்டிரான் இணை விலக்கல்) கோட்பாடு|VSEPR (Valence Shell Electron Pair Repulsion) theory
-விசும்ப|aerial|
-விசும்ப மாற்றமைவு|aerial modification|
-விசும்ப வேர்|aerial root|
-விசும்பக் காட்சி|aerial view|
-விசும்படி|subaerial|
-விசும்படி மாற்றமைவு|subaerial modification|
-விசை|force|
-விசைக் கோட்பாடு|force theory|
-விசைக்கோடு|line of force|
-விசைச்சுழலி|turbine|
-விசைப்பலகை|keyboard|
-விசைப்பலகைக் குறுக்குவழி|keyboard shortcut|
-விசையடுக்கு|keypad|
-விசையியல்|kinetics|
-விசையின் திருப்புதிறன்|moment of force|
-விசையூட்டு அலைவு|forced oscillation|
-விடுதாள்|loose-leaf|
-விடுதி|lodge|
-விடுபடு|escape|
-விடுபடு தொடரி|escape sequence|
-விடுபடு விசை|esc key|
-விடுபடு விசை|escape key|
-விடுபடு வேகம்|escape speed|
-விடுபிழை|error of omission|
-விடுபுள்ளி|yield point|
-விடை|result|
-விட்டம்|diameter|
-விட்டம் (கட்டுமானம்)|joist|
-விட்டர் மேயரின் சோதனை|Victor Meyer test|
-விட்டிற்பூச்சி|moth|
-விட்டோரியாக் கல்|victoria stones|
-விண்கற்கள்|meteorites|
-விண்டோசு ஊடக வாசிப்பி|Windows Media Player
-விண்டோசு எசுப்பி|Wondows XP|
-விண்டோசு எசுப்பி தொழிலர்|Windows XP Professional
-விண்டோசு எண்டி|Windows NT|
-விண்டோசு எம்மீ|Windows ME|
-விண்ணகம்|cosmos|
-விண்ணகவுயிர்க் கோட்பாடு|cosmozoic theory|
-விண்ணப்பதாரர்|applicant|
-விண்ணப்பப் படிவம்|application form|
-விண்மீனாமை|star turtle|
-விண்மீனிடை|interstallar|
-விண்மீனியன|asterales|
-விண்மீன்|star|
-விண்மீன் இணைப்பு|star connection|
-விண்மீன் இணைப்பு|Y connection|
-விண்மீன் உடன்கூழ்த்திசு|stellate parenchyma|
-விண்மீன் வலையம்|star network|
-விண்மீன் விரிசல்|star shake|
-விண்மீன்குழு|constellation|
-விண்மீன்திரள்|galaxy|
-விண்வெளி அறிவியல்|space science|
-விண்வெளி நிலையம்|space station|
-விண்வெளிக்கல்|meteoroid|
-விதிமுறை|protocol|
-விதியீன்|atropine|
-விதை|seed|spore - வித்து
-விதை புதைந்த சதைக்கனி|baccate|
-விதைக் கூடுள்ள சதைக்கனி|pome|
-விதைத்தாவரம்|spermatophyte|
-விதைத்துளை|micropyle|
-விதைநடுவுறை|sclerotesta|
-விதைமேற்கோளம்|spermosphere|
-விதையள்|nucellus|
-விதையிலை|cotyledon|sporophyll - வித்திலை
-விதையுள்|kernel|
-விதையுள்ளுறை|tegmen|
-விதையுறை|testa|
-விதையுறை (தாவரவியல்)|seed coat|
-விதைவெளியுறை|sarcotesta|
-வித்தன|sporozoa|
-வித்தாக்ககம்|archesporium|
-வித்தாக்கி|sporocarp|
-வித்திலை|sporophyll|விதையிலை - cotyledon
-வித்திலை மேற்றண்டு|epicotyl|
-வித்திலைக் கீழ்த்தண்டு|hypocotyl|
-வித்து|spore|seed - விதை; semen - விந்து
-வித்துக்காம்பு|sporangiophore|
-வித்துக்கூடு|sorus|
-வித்துக்கூறு|sporozoite|
-வித்துட்படலம்|endospore (botany, mycology)|வித்து + உள் + படலம்
-வித்துத்தாய்|sporemother|
-வித்துத்தாவரம்|sporophyte|
-வித்துப்பெருக்கம்|sporogony|
-வித்துப்பை|sporangium|
-வித்துப்பொதியங்கள்|sporosarcina|
-வித்துமுளை|protonema|
-வித்துறையுண்ணியங்கள்|sporocytophaga|
-விந்தகங்கள்|testes|
-விந்தகச் சிரை|testicular vein|
-விந்தகப்பை|scrotum|
-விந்தகப்பைத்திசு|scrotal tissue|
-விந்தகப்பையுறை|scrotal sac|
-விந்தகம்|testicle|
-விந்தகம்|testis|
-விந்தணு|sperm|semen - விந்து
-விந்தணு வலையம்|rete testis|
-விந்தணுக் குழலம்|seminiferous tubule|
-விந்தணுக்கொடி|spermatic cord|
-விந்தணுக்கொல்லி|spermicide|
-விந்தணுசேமகப்பை|epididymis|
-விந்தணுசேமகப்பைகள்|epididymides|
-விந்தணுச்சேமகம்|spermatheca|
-விந்தணுநாளம்|ductus deferens|
-விந்தணுநாளம்|vas deferens|
-விந்தணுவாக்கம்|spermatogenesis|
-விந்தணுவி|spermatozoon|
-விந்தணுவிகள்|spermatozoa|
-விந்தணுவியகம்|spermatophore|
-விந்தாக்கவணு|spermatocyte|
-விந்து|semen|sperm - விந்தணு
-விந்து துவக்கவணு|spermatid|
-விந்து வடிப்பி|seminal funnel|
-விந்துத்தாயணு|spermatogonium|
-விந்துநாளவறுவை|vasectomy|
-விந்துப்பை|seminal vesicle|
-விந்தேற்றம்|insemination|
-விபத்து|accident|
-விபத்துக் காப்பீடு|accident insurance|
-விமான வடிவமைப்பு|aircraft design|
-விமானப் பயணம்|air travel|
-விமானம்|aircraft|
-விம்மல்கள்|beats|
-வியப்புமை|surprisal|
-வியர்|sweat v|
-வியர்த்தல்|perspiration|
-வியர்வை|sweat n|
-வியர்வைச் சுரப்பி|eccrine gland|
-வியர்வைச் சுரப்பி|sweat gland|
-வியர்வைமிகைப்பி|diaphoretic|
-வியர்வையெதிர்ப்பி|antiperspirant|
-வியனின் விதி|Wien's law|
-வியாதா|Sirius|
-வியாபாரச் சுழற்சி|trade cycle|
-வியாபாரத்துக்கும் கட்டணவீதங்களுக்குமான பொது உடன்பாடு (விகப்பொவு)|General Agreement on Tariffs and Trade (GATT)
-வியாபாரம் |trade|வணிகம் - commerce
-வியாபாரி|trader|
-வியாழக்கிழமை|Thursday|
-வியாழன் (கோள்)|Jupiter|
-வியாழன் (கோள்)|Jupiter|
-விரலழற்சி|whitlow|
-விரலி|villus|
-விரலெலும்பு|phalange|
-விரவத்தகு|distributive|
-விரவல்|diffusion|distribution - பரவல்
-விரவல் அழுத்தக் குறைவு|diffusion pressure deficit
-விரவல் விதி|law of diffusion|
-விரவி பெ|blender|
-விரவுமை|distributivity|
-விரவுமைப் பண்பு|distributive property|
-விரால்|murrel|
-விரிகுடா|bay|
-விரிகுழாய்|stent|
-விரிகை|dispersion|
-விரிகை இரட்டித்தல்|dispersive replication|
-விரிகை ஊடகம்|dispersion medium|
-விரிகை திறன்|dispersive power|
-விரிகை முகநிலை|dispersed phase|
-விரிகோணம்|obtuse angle|
-விரிசல் (கட்டுமான மரம்)|shake (timber)|
-விரிதாள்|spreadsheet|
-விரிதுடிப்பழுத்தம்|diastolic pressure|
-விரிதுடிப்பு|diastole|
-விரிநோக்கு|zoom|
-விரிபோகும்|divergent|
-விரிபோகும் வரப்புகள்|divergent boundaries|
-விரிபோதல்|divergence|
-விரியன்|viper|
-விரிவாகு|expand (oneself)|
-விரிவாக்கு|expand (something)|
-விரிவு|expansion|
-விரிவுரை|lecture|
-விரிவுறு|dilate (oneself)|expand - விரிவாகு
-விரிவுறுதல்|dilation|
-விரிவுறுத்து|dilate (something)|expand - விரிவாக்கு
-விருப்ப ஓய்வுறுதல்|voluntary retirement|
-விருப்பத்தேர்|choose|
-விருப்பத்தேர்வு|choice|
-விருப்புசாரா|objective|
-விருப்புசார்|subjective|
-விருப்புமை|option|
-விருப்புமையான|optional|
-விரும்பியவாறு|at will|
-விரைப்பு வலிமை|tensile strength|
-விரைவுக்கண்ணசைவுறக்கம் (விகவு)|repid eye movement (REM) sleep
-விலகலுறு|deflect|
-விலகல்|deflection|
-விலகல் காந்தளவி|deflection magnetometer
-விலகியிரு|abstain|
-விலகியிருத்தல்|abstinence|
-விலகும் தொகுதி|leaving group|
-விலக்கம்|deviation|repulsion - விலக்கல்
-விலக்கல்|repulsion|deviation - விலக்கம்
-விலக்கும் அமைப்பு|deflection system|
-விலங்கரசு|animalia|
-விலங்கியலர்|zoologist|
-விலங்கியல் பெயரிடுமுறையின் பன்னாட்டு  ஆணையம்|International Commission of Zoological Nomenclature
-விலங்கியல் பெயரிடுமுறையின் பன்னாட்டு விதிமுறை (விபவி)|International Code of Zoological Nomenclature
-விலங்கின்வரு|zoonotic|
-விலங்கின்வருநோய்|zoonosis|
-விலங்கின்வருநோய்|zoonotic disease|
-விலங்கு காணிடம்|safari|
-விலங்கு நடத்தையியல்|ethology|
-விலங்கு நுண்ணலைவன்|zooplankton|
-விலங்கு மேய்த்தல்|pastoralism|
-விலங்கு வீட்டுப்பழக்கல்|animal domestication|
-விலங்குக் காட்சியகம்|zoo|
-விலங்குக் காப்பகம்|vivarium|
-விலங்குச்சேர்க்கை|zoophily|
-விலங்குண்ணி|carnivore|
-விலங்குப் பேரரசு|animal kingdom|
-விலங்குப்பரவல்|zoochory|
-விலங்குப்பற்றிகள்|epizoics|
-விலங்குமனிதவரு நோய்|zooanthroponosis|
-விலங்குமுனை|animal pole|
-விலங்குலகம்|metazoa|
-விலங்குவளம்|fauna|
-விலங்கொட்டிகள்|zooglea|
-விலாவிடை|intercostal|
-விலாவெலும்பு|rib|
-விலாவெலும்பு பெ.உ|costal|
-விலாவெலும்புக் கூடு|rib cage|
-விலை|price|
-விலைச் சுட்டெண்|price index|
-விலைபேசல்|bargaining|
-விலைபேசு|bargain|
-விலைபேசு திறன்|bargaining power|
-விலையிடல்|pricing|
-விலைவாட்டம்|deflation (commerce)|
-விலைவீக்கம்|inflation (commerce)|
-வில் நீளம்|arc length|
-வில்லியம் பிரேக்|William Bragg|
-வில்லியன்சனின் தொகுத்தாக்கம்|williamson's synthesis|
-வில்லையற்ற (கண்)|aphakic|
-வில்லையுடைய (கண்)|phakic|
-வில்வலை|arc net|
-விவரப்பட்டியல்|catalogue|
-விவரம|descriptive|
-விவரமக் கருவளரியல்|descriptive embryology
-விவரித்தல்|description |
-விவரிப்பி|descriptor|
-விவாசு கூ.|P. vivax|
-விவாசு மலேரியா|vivax malaria|
-விவாதம்|argument|
-விழி நரம்பு முடிச்சு|optic chiasma|
-விழி மடல்|optic lobe|
-விழிச்செவ்வூதா|rhodopsin|
-விழிச்செவ்வூதா|visual purple|
-விழிதம்|optin|
-விழித்திரை|retina|
-விழித்திரை பிரிதல்|retinal detachment|
-விழித்திரைநோய்|retinopathy|
-விழித்திரையல்|retinene|
-விழித்திரையல் மாற்றியமூக்கி|retinene isomerase|
-விழிநரம்பு|optic nerve|
-விழிப்பலறி|alarm|
-விழிப்புணர்வு|awareness|
-விழிப்பூட்டல்|alert|
-விழிய|optic (physiology)|
-விழுங்கற்பதமாக்கல்|opsonization|
-விழுங்கற்பதமி|opsonin|
-விழுங்குண்ணி|holozoic|
-விழுவிண்கல்|meteorite|
-விளக்குக் கரி|lampblack|
-விளக்குச் சாளரம்|lantern window|
-விளக்குத்துளை|lamp hole|
-விளம்பம்|publicity|
-விளம்பரப் பலகை|billboard|
-விளம்பரம்|advertisement|
-விளம்பரி|advertise |
-விளி|call|
-விளி விருப்புமை|call option|
-விளிக்காத மூலதனம்|uncalled capital|
-விளிக்கும் சார்பு|calling function|
-விளித்த மூலதனம்|called-up capital|
-விளிப்புறும் சார்பு|called function|
-விளிம்பு|edge|
-விளிம்புப்பூட்டு|rim lock|
-விளிம்புமுனை|arris|
-விளிம்புவளைவு|diffraction|விளிம்பு விளைவு - edge effect
-விளைபயன்|yield n (chemistry, finance)
-விளைபொருள்|product (chemistry)|
-விறைப்பு|tension|
-விற்கம்பம்|bowsprit|
-விற்கவராயம்|bow campus|
-விற்பவர்|seller|விற்போர் - வில் + போர்
-விற்பவர் (கணினி)|vendor (computer)|
-விற்பனை இடைமனிதர்|merchant middleman|
-விற்பனைக் கடிதம்|sales letter|
-விற்பனைச்சீட்டு|invoice|
-விற்பனைத் திறமை|salesmanship|
-விற்பனைமுகம்|point of sale|
-விற்பனையாளர்|salesperson|
-விற்பனையிடம்|point of sale|
-விற்பனையும் சந்தையிடலும்|sales and marketing|
-விற்பிடி|bow handle|
-விற்பொருட் பட்டியல்|product catalog|
-விற்பொருள்|merchandise|
-விற்பொருள் விற்பனையாளர்|merchandise salesperson
-விற்றல்|selling|
-வினகிராச்சியின் குழல்|Winogradsky column|
-வினக்ராட்ஸ்கி|Winogradsky|
-வினவல்|query|
-வினவல் மாயாவி|query wizard|
-வினவல் மொழி|query language|
-வினவுதல்|querying|
-வினாப்பட்டியல்|questionnaire|
-வினிகர்|vinegar|புளிக்காடி வேண்டாம், புளியுடன் தொடர்பில்லாததால்
-வினை முறைமை|order of reaction|
-வினைபொருள்|reactant|
-வினைமுறை|reaction mechanism|
-வினையாகி|substrate (biochemistry)
-வினையாக்கி|reagent|catalyst - வினையூக்கி
-வினையிடைப் பொருள்|reaction intermediate|
-வினையூக்க நச்சு|catalytic poison|
-வினையூக்க மாற்றியமைப்பி|catalytic converter|
-வினையூக்க மூச்சியமிறக்கம்|catalytic reduction|
-வினையூக்கம்|catalysis|
-வினையூக்கி|catalyst|reagent - வினையாக்கி
-வினைவழி|reaction path |
-வினைவேக மாறிலி|rate constant|
-வினைவேக விதி|rate law|
-வினைவேகச் சமன்பாடு|rate equation|
-வினைவேகத் தீர்மானப் படி|rate determining step|
-வினைவேகம்|rate of reaction|
-வினோதம் (குவார்க்கு)|strange (quark)|
-வின்விசை|winkey|
-வீசுபாதை|trajectory|
-வீச்சகல இணக்கேற்றம்|amplitude modulation|
-வீச்சகலம்|amplitude|
-வீச்சள|span v|
-வீச்சளவு|span n|
-வீச்சளவு மரம்|spanning tree|
-வீச்சு|range|
-வீச்சு வரிவரைவு|range chart|
-வீடிகான்|vidicon|
-வீட்டமை|household|
-வீட்டமை இருப்பகம்|household warehouse|
-வீட்டமை சேவைகள்|household services|
-வீட்டு ஈ|house fly|
-வீட்டுக் கணினி|home computer|
-வீட்டுசனின் பாலம்|Wheatstone bridge|
-வீட்டுப்பழக்கல்|domestication|
-வீதி|avenue|
-வீப்பம்|turgidity|
-வீப்பழுத்தம்|turgor pressure|
-வீப்பிய|turgid|
-வீப்பிய வளர்ச்சி|turgor growth|
-வீரிய|virulent|
-வீரியமற்ற|avirulent|
-வீரியம்|virulence|
-வீழ்ச்சரிவு|avalanche|
-வீழ்ச்சிச் சோதனை|drop test|
-வீழ்படிதம்|precipitin|
-வீழ்படிதல்|precipitation|
-வீழ்படிவிப்பி|precipitator|
-வீழ்படிவு|precipitate|
-வீழ்ப்பி|projector|
-வீழ்ப்பிச் சுருள்|projector coil|
-வீழ்ப்பு|projection|
-வீழ்ப்பு வாய்ப்பாடு|projection formula|
-வீழ்ப்புக்கோடு|projection line|
-வீழ்வு|slump|
-வுருட்டசின் வினை|Wurtz reaction|
-வுருட்டசு பிட்டிக்கின் வினை|Wurtz-Fittig reaction|
-வுல்பு கிசனரின் மூச்சியமிறக்கம்|Wolff-Kishner reduction
-வூசுவார்|voussoir|
-வெடிப்புக் காற்றுத்திறப்பு|explotion vent|
-வெட்டறுப்பி|hack saw|
-வெட்டன்|secant (geometry)|
-வெட்டா|disjoint|
-வெட்டாக் கணங்கள்|disjoint sets|
-வெட்டி ஒட்டல்|cut and paste n|
-வெட்டி ஒட்டு|cut and paste v|
-வெட்டிக்கொள்ளும் கோடுகள்|intersecting lines|
-வெட்டிடுக்கி|cutting plier|
-வெட்டு|cut|
-வெட்டு (கணம்)|intersection (set theory)
-வெட்டுக்கிளி|grasshopper|
-வெட்டுத்தளம்|cutting plane|
-வெட்டுத்துண்டு|intercept n|
-வெட்டுத்தோற்றக் கோடு|sectional line|
-வெட்டுப்பல்|incisor|
-வெட்டுவிகிதம் (வெவி)|secant (trigonometry)|
-வெட்டெச்சம்|stub|
-வெட்டொளி|flicker|
-வெண் பொருள்|white matter|
-வெண்கலம்|bronze|
-வெண்குறுமீன்கள்|White dwarfs|
-வெண்சவ்வு மூடுறை|tunica albuginea|
-வெண்சுடர்|incandescent|
-வெண்டி|kettle|
-வெண்ணிடம்|white space|
-வெண்மெய்யம்|corpus albican|
-வெண்மையன்|albican|
-வெந்நீர் ஊற்று|thermal spring|
-வெபர்|weber|
-வெப்ப அச்சிடுவான்|thermal printer|
-வெப்ப இடைமாற்றம்|heat exchange|
-வெப்ப ஏற்புமை|heat capacity|
-வெப்ப நிலைப்பாக்கி|thermostat|
-வெப்ப நிலைப்புமை|thermal stability|
-வெப்ப மின்னிழை|heating element|
-வெப்ப வேதியியல்|thermochemistry|
-வெப்பக் கடத்தல்|heat conductance|
-வெப்பக் கடத்தி|heat conductor|
-வெப்பக் காப்புருகி|thermal fuse|
-வெப்பக் குடுவை|thermos flask|
-வெப்பக்கதிர்ப்பூஞ்சையம்|thermoactinomyces|
-வெப்பக்குவியல்|thermopile|
-வெப்பக்கோளம்|thermosphere|
-வெப்பங்கொள்|endothermic|
-வெப்பச் சமநிலை|thermal equilibrium|
-வெப்பச்சலனக் கணப்பு|convection oven|
-வெப்பச்சலனம்|convection|
-வெப்பச்சிதைவு|pyrolysis|
-வெப்படுக்கல்|hot stacking|
-வெப்பத்திணுங்கு|thermosetting|
-வெப்பத்தூண்டல்|thermotactic|
-வெப்பநிலை வேறுபாடு|differential temperature
-வெப்பநிலை வேறுபாட்டளவி|differential thermometer
-வெப்பநிலையளவி|thermometer |calorimeter - வெப்பளவி
-வெப்பநெகிழ்ம|thermoplastic|
-வெப்பப் பிளவுறுதல்|thermal fission|
-வெப்பப் புல்வெளி|savanna|
-வெப்பப் பெறுவி|thrmoreceptors|
-வெப்பப்குழைமம்|thermoplasma|
-வெப்பப்பலவடிவியம்|thermoproteus|
-வெப்பப்பலவடிவியனையன|thermoproteaceae|
-வெப்பப்பலவடிவியைகள்|thermaproteales|
-வெப்பமணியம்|thermococcus|
-வெப்பமணியனையன|thermococcaceae|
-வெப்பமணியைகள்|thermococcales|
-வெப்பமண்டல|tropical  |
-வெப்பமண்டல மழை வனம்|tropical rain forest|
-வெப்பமண்டல வனம்|tropical forest|
-வெப்பமண்டலப் பாலை|tropical desert|
-வெப்பமண்டலப்பெரணிகள்|Nephrolepis|
-வெப்பமாறா|adiabatic|
-வெப்பமுமிழ்|exothermic|
-வெப்பமேற்றி|heat pump|
-வெப்பம்|heat|
-வெப்பவமிலவிரும்பி|themoacidophiles|
-வெப்பவளைவு|thermonasty|
-வெப்பவியக்கத்தின் இரண்டாம் விதி|second law of thermodynamics
-வெப்பவியக்கத்தின் சுழியாவது விதி|zeroeth law of thermodynamics
-வெப்பவியக்கத்தின் முதல் விதி|first law of thermodynamics
-வெப்பவியக்கத்தின் மூன்றாம் விதி|third law of thermodynamics
-வெப்பவியக்கம்|thermodynamics|
-வெப்பவிரட்டை|thermocouple|
-வெப்பவிரும்பி|thermophile|
-வெப்பவீசி|radiator|
-வெப்பவொற்றைவித்தியம்|thermomonospora|
-வெப்பளவி|calorimeter|thermometer - வெப்பநிலையளவி
-வெப்பொட்டல்|soldering|வெப்பத்தினால் ஒட்டுதல்
-வெப்பொட்டு|solder|
-வெர்னரின் கோட்பாடு|Werner's theory|
-வெளி|space|
-வெளி மடக்கு|outer loop|
-வெளி மூளையுரை|dura mater|
-வெளி மூளையுரை|pachymeninx|
-வெளிக்கலம்|spacecraft|
-வெளிக்கலம்|spaceship|
-வெளிக்கவர்தல்|desorption|
-வெளிக்கிடக்கை|outlier|
-வெளிக்கோடு|outline|
-வெளிக்கோட்டுரு|silhouette|
-வெளிக்கோளம்|exosphere|
-வெளிச்சவ்வூடல்|exosmosis|
-வெளிச்சுரப்பி|exocrine|
-வெளித்தள்ளு|eject|
-வெளித்தூண்டு|paratonic|
-வெளிநாட்டுறை இந்தியன்|Nonresident Indian|
-வெளிநேர|Space-time|
-வெளிநோக்கிய|exarch|
-வெளிநோக்கிய மகரந்தத்தாள்|exerted stamens|
-வெளிப்படு தொடரி தொங்கிகள்|expressed sequence tag
-வெளிப்படு பேரூழி|Phanerozoic eon|
-வெளிப்படுத்தல்|disclosure|வெளியீடு - output
-வெளிப்படை|obvious|
-வெளிப்பாய்|ejaculate v|
-வெளிப்பாய் நாளம்|ejaculatory duct|
-வெளிப்பாய்தல்|ejaculation|
-வெளிப்பாய்மம்|ejaculate n|
-வெளிப்பாய்வு|outflow|
-வெளிப்பெருக்கல்|outer product|
-வெளிப்பொக்களம்|exanthema|
-வெளிப்போக்கி|purgative|
-வெளிமூச்சிடு|exhale v|
-வெளிமூச்சு|exhale n|
-வெளிமூடுறை|tunica adventitia|
-வெளிமூடுறை|tunica externa|
-வெளியன்|intron|தூதனரியில் இல்லாமல் வெளியேற்றப்படுவதால்
-வெளியார்ந்த|external|
-வெளியார்ந்த தசை|extrinsic muscle|
-வெளியார்ந்த புரதம்|extrinsic protein|
-வெளியிட|stereo |
-வெளியிட மாற்றியம்|stereoisomerism|
-வெளியிட வேதியியல்|stereochemistry|
-வெளியிடவுணர்|stereoscopic|
-வெளியிட்ட மூலதனம்|issued capital|
-வெளியினவளர்ப்பு|outbreeding|
-வெளியீடு|output|
-வெளியீட்டுச் சாதனங்கள்|output devices|
-வெளியுடல|extracorporeal|
-வெளியெடுத்தல்|apheresis|
-வெளியெடுப்பு|withdrawal|
-வெளியேறு|exit|
-வெளியேற்றக் கெழு|coefficient of discharge
-வெளியேற்றல்|discharge|
-வெளியேற்று விசிறி|exhaust fan|
-வெளியொட்டு|outer join|
-வெளிரிய|albino adj|
-வெளிரியர்|albino n|
-வெளிர்தோல்|leucoderma|
-வெளிர்தோல்|vitiligo|
-வெளிர்மை|albinism|
-வெளிவடிவ மாற்றம்|conformational change
-வெளிவடிவம்|conformation|
-வெளிவடிவன்|conformer|
-வெளிவலை|extranet|
-வெளிவளம்பெறல்|outsourcing|
-வெளிவாய்|outlet|
-வெளிவித்துறை|exine|
-வெளுத்தல்|leaching|
-வெளுப்பான்|bleach|
-வெளுப்புத் தூள் |bleaching powder |
-வெள்ள ஆபத்துகூறு|flood risk|
-வெள்ள விளக்கு|flood lamp|
-வெள்ளி (கோள்)|Venus|
-வெள்ளி (வானியல்)|Venus|
-வெள்ளி (வேதியியல்)|silver|
-வெள்ளி உப்பியைட்டு|silver nitrate|
-வெள்ளிக்கிழமை|Friday|
-வெள்ளிநீக்கம்|desilverization|
-வெள்ளிமீன்|silver fish|
-வெள்ளைச் சக்கை|white pulp|
-வெள்ளையடி|whitewash v|
-வெள்ளையணு|leucocyte|
-வெள்ளையணு|white blood cell|
-வெள்ளையணு|white blood corpuscle|
-வெள்ளையணு தேர்விணைவி|L-selectin|
-வெள்ளையணுசிதைப்பி|leukocidin|
-வெள்ளோசை|white noise|
-வெறிப்பு|depletion|
-வெறி்யூட்டு|intoxicate|
-வெறும்புரதம்|apoprotein|
-வெற்றிடக் குழல்|vacuum tube|
-வெற்றிடத் துப்புரவி|vacuum cleaner|
-வெற்றிடம்|vacuum|
-வெற்று|null|
-வெற்று மையம்|centriole|
-வெற்றுக் கடனோலை|unsecured debenture|
-வெற்றுக் கணம்|empty set|
-வெற்றுக் கணம்|null set|
-வெற்றுக் கருதுகோள்|null hypothesis|
-வெற்றுக்குமிழ்|vacuole|
-வெற்றுக்குழியுறை|tonoplast|
-வெற்றுச் சரம்|null string|
-வெற்றுச் சுழற்சி|null cycle|
-வெற்றுடல்|cadaver|
-வெனிசுவேலா|Venezuela|
-வென்னின் படவரைவு|Venn diagram|
-வேகங்குறை ஆற்றநிலை|retarding potential|
-வேகமளவி|speedometer|tachometer – சுழலளவி
-வேகமிழப்பு|deceleration|
-வேட்டையாடல்|hunting|
-வேட்டையாடு|hunt|
-வேண்டல் (பொருளியல்)|demand  |
-வேண்டல் வரைவோலை|demand draft|
-வேண்டற் சார்பு|demand function|
-வேண்டின் அறிக்கை|demand report|
-வேண்டின் பக்கமிடல்|demand paging|
-வேண்டுமளவு நெருக்கமாக|arbitrarily closely|
-வேதனை|trauma|
-வேதனைவழி|traumatic|
-வேதி நகர்வு|chemical shift|
-வேதி நிமிண்டல்|chemical signal|
-வேதி வினை|chemical reaction|
-வேதிக்கவர்கல்|chemisorption|
-வேதிச்சவ்வூடல்|chemiosmosis|
-வேதிச்சிகிச்சை|chemotherapy|
-வேதிச்சிகிச்சைக்கான|chemotherapeutic|
-வேதித் தனிமம்|chemical element|
-வேதித் தானூட்டி|chemo autotroph|
-வேதித்தகவலியல்|cheminformatics|
-வேதித்தூண்டல்|chemotactic|
-வேதித்தூண்டல் ஈர்ப்பு|positive chemotaxis|
-வேதித்தூண்டல் நகர்வு|chemotaxis|
-வேதித்தூண்டல் விலகல்|negative chemotaxis|
-வேதித்தொகுத்தாக்கம்|chemosynthesis|
-வேதிநாடு|chemotropic|
-வேதிப் பண்புகள்|chemical properties|
-வேதிப் பாகுபாட்டியல்|chemotaxomony|
-வேதிப் பெறுவி|chemoreceptors|
-வேதிப்பொறியியல்|chemical engineering|
-வேதிய|chemical  |
-வேதியக் கருவளரியல்|chemical embryology|
-வேதியம்|chemical n|
-வேதியர்|chemist|
-வேதியியல்|chemistry|
-வேதியுண்ணி|chemotrophs|
-வேதிவிகிதக் கெழு|stoichiometric coefficient
-வேதிவிகிதச் சமன்பாடு|stoichiometric equation
-வேதிவிகிதம்|stoichiometry|
-வேதிவினை|reaction (chemistry)|
-வேதிவினை வேகவியல்|chemical kinetics|
-வேரமைப்பு|root system|
-வேரனையம்|rhizoid|
-வேர்|root|
-வேர்|root|
-வேர் முடிச்சு|root nodule|
-வேர்க் கால்வாய்|root canal|
-வேர்க்காலி|rhizopod|
-வேர்க்கோளம்|rhizosphere|
-வேர்த் தூவி|root hair|
-வேர்த்தோல்|epiblem|
-வேர்த்தோல்|rhizodermis|
-வேர்ப்பூஞ்சை|mycorrhiza|
-வேர்மூடி|root cap|
-வேலியிழையம்|phragmoplast|
-வேலின்|valine|
-வேலை|work|
-வேளாண்பாட்டீரியம்|agrobacterium|
-வேளாண்பூஞ்சையம்|agromyces|
-வேளாண்பொருள்|crop|
-வேளாண்மை|agriculture|
-வேளாண்மை உயிரியவேதியியல்|agricultural biochemistry
-வேறு (கணினியி்யல்)|alt|
-வேறு விசை (கணினியி்யல்)|alt key|
-வேறுபடல் (உயிரியல்)|differentiation (biology)
-வேறுபாடுநீங்கல்|dedifferentiation|
-வேறுபாட்டுக் கணம்|difference set|
-வேறுபாட்டுப் பொறி|difference engine|
-வேற்றணு|heteroatom|
-வேற்றணு மூலக்கூறு|hetero atomic molecule
-வேற்றாக்க|allogenic|
-வேற்றாக்கப் பதியம்|allogenic graft|
-வேற்றிட|adventitious|
-வேற்றிடக் கிளைகள்|adventitious branches|
-வேற்றினவணு|heterogamete|
-வேற்றினவணுவ|heterogametic|
-வேற்றினவணுவப் பாலினம்|heterogametic sex|
-வேற்று ஈரணு மூலக்கூறு|heteronuclear diatomic molecule
-வேற்றுக்கசையிழை|heterokont|
-வேற்றுக்கருவுடைமை|heterokaryosis|
-வேற்றுக்கலவி|heterothallic|
-வேற்றுக்கால|asynchronous|
-வேற்றுக்கொள்வெளி  |allosteric  |
-வேற்றுக்கொள்வெளி ஊக்கிப்புரதம்|allosteric enzyme|
-வேற்றுக்கொள்வெளி மறிப்பு|allosteric inhibition|
-வேற்றுச்சூலகம்|heterostyly|
-வேற்றுச்சூலிலையன|heteromerae|
-வேற்றுச்சேர்க்கை|allogamy|
-வேற்றுண்ணி|heterotroph|
-வேற்றுண்ணிய|heterotrophic|
-வேற்றுத்தந்தைய|allopatric|
-வேற்றுத்தந்தைய இனம்|allopatric species|
-வேற்றுத்திறன்|heterodyne|
-வேற்றுநிலை|case|
-வேற்றுநிலை 1, 2, 3…|case 1, 2, 3…|
-வேற்றுநிலை மாற்றிக் கூற்று|switch-case statement|
-வேற்றுநுழைவ|parenteral|
-வேற்றுப் பலசர்க்கரைடு|heteropolysaccharide|
-வேற்றுப் பலவணு|heteronuclear polyatomic
-வேற்றுப்பகு பிளவுறுதல்|heterolytic fission|
-வேற்றுப்பதியம்|heterograft|aka xenograft
-வேற்றுப்பதியம்|xenograft|aka heterograft
-வேற்றுப்பல்|heterodont|
-வேற்றுப்பல்லுடைய|heterodontic|
-வேற்றுப்பன்மைமரபெண்|allopolyploidy|
-வேற்றுப்பாலின|heterosexual|bisexual - இருபாலின
-வேற்றுப்பாலினவியம்|heterosexuality|
-வேற்றுப்பாலினவியர்|heterosexuals|
-வேற்றுமரபணுவுள்ள|heterozygous|
-வேற்றுமைகாணல்|discrimination|
-வேற்றுமைகாணி|discriminator|
-வேற்றுமைகாண்|discriminate|
-வேற்றுமைக் கூடல் (வேகூ)|cluster of differentiation (CD)
-வேற்றுரு|heteromorphic|
-வேற்றுவகைச் சிரமஞ்சரி|heterogamous capitulum
-வேற்றுவகைய|heterotypic|
-வேற்றுவளைய|heterocyclic  adj|
-வேற்றுவளையச் சேர்மம்|heterocyclic compound
-வேற்றுவளையம்|heterocyclic  n|
-வேற்றுவித்தி|heterospory|
-வேற்றொளிமாற்றியன்|diastereomer|
-வைசுவின் எண்|Weiss index|
-வைட்டமிப்புரதம்|flavoprotein|
-வைட்டமினாகி|provitamin|
-வைட்டமின்|vitamin|
-வைட்டமின் அடினீன் இருபாசுவேட்டு (வைனனி)|flavin adenine dinucleotide (FAD)
-வைட்டமின்பாசுவேட்டு (வைபா)|flavin mononucleotide (FMN)
-வைபா (வைட்டமின்பாசுவேட்டு)|FMN (flavin mononucleotide)
-வைப்பிடு|deposit v|
-வைப்பு|deposit n|
-வைய விரி வலை (வைவிவ)|World Wide Web (WWW)
-வைரசனையங்கள்|viroids|
-வைரசன்|virion|விரியன் - ஒரு வகைப் பாம்பு
-வைரசியல்|virology|
-வைரசு|virus|நச்சுவம் - toxin
-வைரம்|diamond|
-வைவிவ (வைய விரி வலை)|WWW (World Wide Web)
-வைனனி (வைட்டமின் அடினீன் இருபாசுவேட்டு)|FAD (flavin adenine dinucleotide)
-வைனில்|vinyl|
-வைனில்சயனலி|acrylonitrile|
-வோல்டளவி|voltmeter|
-வோல்டிக மின்கலம்|voltaic cell|
-வோல்டு|Volt|
-வோல்டு சோதிப்பி|voltage tester|
-வௌவாற்சேர்க்கை|chiropterophily|
-னெர்ன்ஸ்ட்|Nernst|
-ஜார்ஜ் பெந்தம்|George Bentham|
-ஜார்ஜ் லக்லாஞ்சி|George Leclanche|
-ஜான்|John|
-ஜூலியஸ் ப்ளக்கர்|Julius Plucker|
-ஜூல்|Joule|
-ஜேம்ஸ் சாட்விக்|James Chadwick|
-ஜோசஃப் டால்ற்றன் ஹுக்கர்|Joseph Dalton Hooker|
-ஜோஸஃப் லிஸ்டர்|Joseph Lister|
-ஸ்டான்ஃபர்ட் பல்கலைக்கழகம்|Stanford University|
-ஸ்டான்லி கோஹன்|Stanley Cohen|
-ஸ்டெப்பின்ஸ்|Stebbins|
-ஸ்லேற்றர்|Slater|
-ஸ்றானீஸ்லாவ் கான்னிஸ்ஸாரோ|Stanislao Cannizzaro|
-ஷாகியாஃப்|Chargaff|
-ஷாக்கரியாஸ் ஜேன்ஸன்|Zacharias Janssen|
-ஷ்ரோடிங்ஙர்|Schrödinger|
-ஷ்னைடர்|Schneider|
-ஹக்ஸ்லி|Huxley|
-ஹர்ட்ஸ்|Hertz|
-ஹன்டிங்க்டன்|Huntington|
-ஹன்ஸ்டீக்கர்|Hunsdiecker|
-ஹாக்கின்ஸ்|Hawkins|
-ஹாலரித்தின் பட்டியல் எந்திரம்|Hollerith tabulating machine
-ஹாஸல்பால்க்|Hasselbalch|
-ஹிப்பாக்ரட்டீஸ்|Hippocrates|
-ஹூன்ட்|Hund|
-ஹெண்டர்ஸன்|Henderson|
-ஹெர்பர்ட் பேயர்|Herbert Bayer|
-ஹெல்ம்ஹோல்ட்ஸ்|Helmholtz|
-ஹென்ரி க்வென்-ஜெஃப்ரீஸ் மோஸ்லீ|Henry Gwyn-Jeffreys Moseley
-ஹைடக்கி யூகாவா|Hideki Yukawa|
+a posteriori|பிற்கோள்|
+a priori|முற்கோள்|
+ab initio|முதற்தொடக்க|
+ABA problem|கசக சிக்கல்|
+abacus|மணிச்சட்டம்|
+abbreviation|குறுங்குறி|
+abdomen|அடிவயிறு|
+abdominal cavity|அடிவயிற்றுக் குழி|
+abdominal hernia|வயிற்றுக் குடற்பிதுக்கம்|
+aberration|பிறழ்ச்சி|
+ability|இயன்மை|
+abiogenesis|உயிரின்மைக் கோட்பாடு|
+abiotic agents|உயிரற்ற முகவர்கள்|
+abiotic factors|உயிரற்ற காரணிகள்|
+abnormal|இயல்பற்ற|
+abnormality|இயல்பின்மை|
+abort|செயன்முறி|
+abscess|சீழ்க்கட்டி|
+abscisic acid|உதிர்ம அமிலம்|
+abscissa|கிடையச்சு|
+abscission|உதிர்தல்|
+absolescence|வழக்கொழிதல்|
+absolute|ஒப்பிலா|
+absolute error|ஒப்பிலாப் பிழை|
+absolute function|மட்டுச் சார்பு|
+absolute liquid assets|துல்லிய நீர்மை சொத்துகள்|
+absolute liquid ratio|துல்லிய நீர்மை விகிதம்|
+absolute path|ஒப்பிலாப் பாதை|relative path - ஒப்புமைப் பாதை
+absolute poverty|ஒப்பிலா வறுமை|
+absolute temperature|ஒப்பிலா வெப்பநிலை|
+absolute value (opp relative value)|ஒப்பிலா மதிப்பு|
+absolute value (opp signed value)|மட்டு மதிப்பு|
+absolute zero|ஒப்பிலாச் சுழி|
+absorbate|உட்கவர்பொருள்|
+absorbent|உட்கவர்வி|
+absorption|உட்கவர்தல்|adsorption - மேற்கவர்தல்
+absorptive power|உட்கவர்திறன்|
+abstain|விலகியிரு|
+abstinence|விலகியிருத்தல்|
+abstract|உருவிலா|concrete - திண்ணுருவ
+abundance|மலினம்|
+abutment|தொடுமுட்டல்|
+AC generator|மாறியற்றி|திசைமாறு மின்னியற்றி என்பதன் சுருக்கம்
+AC motor|திசைமாறு உந்துவி|
+academic|அறிவக|
+academy|அறிவகம்|
+acanthocephalan|முட்தலைப்புழு|
+accelerated frames|முடுக்கிய சட்டங்கள்|
+accelerator|முடுக்கி|machine - எந்திரம்
+accelleration|முடுக்கம்|
+accept|ஏல்|
+acceptable|ஏற்புடைய|
+acceptance|ஏற்றல்|
+acceptor|ஏற்பி|
+acceptor arm|ஏற்பிக் கிளை|
+acceptor circuit|ஏற்பி மின்சுற்று|
+access|அணுகு|
+access time|அணுகு நேரம்|
+accessibility|அணுகுமை|
+accessible|அணுகக் கூடியது|
+accessory|துணைக்கருவி|
+accident|விபத்து|
+accident insurance|விபத்துக் காப்பீடு|
+accommodation (anatomy)|ஏற்பமைவு|
+account balance|கணக்கின் இருப்பு|
+account holder|கணக்குடையார்|
+account statement|கணக்குப் பட்டியல்|
+accountability|மறுமொழிப்பொறுப்பு|
+accountancy|கணக்குப் பதிவியல்|
+accountant|கணக்கியர்|bookkeeper - கணக்கர்
+accounting |கணக்கியல்|
+accounts payable|செலுத்தற்குறிய கணக்குகள்|
+accounts receivable|பெறுதற்குறிய கணக்குகள்|
+accresent|கனிமூடிய|
+accretion|அடுக்குத்திரள்தல்|
+accrued interest|கூடியுள்ள வட்டி|
+accumulated reserve|திரண்ட இருப்புவைப்பு|
+accumulator|திரட்டி|
+accuracy|சரியளவு|correctness - சரி்யுடைமை
+-aceae|-அனையன|
+acelylation|அசிற்றைலேற்றம்|
+acetabulum|பந்துக்கும்பா|
+acetaldehyde|அசிற்றால்டிகைடு|
+acetate|அசிற்றேட்டு|
+acetic acid|அசிற்றிக அமிலம்|
+acetoacitic acid|அசிற்றோவசிற்றிக அமிலம்|
+acetobacter|அசிற்றோபாட்டர்|
+acetobacteraceae|அசிற்றோபாட்டனையன|
+acetogenic|அசிற்றாக்க|
+acetone|அசிற்றோன்|
+acetyl|அசிற்றைல்|
+acetyl CoA|அசிற்றைல் துணையூக்கி|
+acetyl coenzyme A|அசிற்றைல் துணையூக்கி|
+acetylene|அசிற்றலீன்|
+acetylide|அசிற்றலைடு|
+achene|நெற்று|
+achlamydeous|உறையற்ற|
+achromatium|நிறமற்றவம்|
+acid anhydride|அமில நீரிலி|
+acid Bessemer process|அமில பெசிமர் வழிமுறை|
+acid halide|குறையமில உப்பாக்கைடு|
+acid hydrolysis|அமில நீராற்பகுப்பு|
+acid resisting|அமிலத்தடைய|
+acidaminococcus|அமிலமினமணியம்|
+acidity |அமிலத்துவம்|
+acidosis|அமிலமிகைப்பு|
+acids and bases|அமிலங்களும் காரங்களும்|
+acini|அசினங்கள்|
+acinus|அசினம்|
+acknowledge|ஏலறிவி|
+acknowledgement|ஏலறிவிப்பு|
+acoelomata|உடற்குழியற்றவை|
+acoelomate|உடற்குழியற்ற|
+aconitase|அகானிடூக்கி|
+aconitate|அகானிடேட்டு|
+aconitic acid|அகானிடிக அமிலம்|
+acoustic plaster|ஒலியுறிஞ்சு சாந்து|
+acoustic tiles|ஒலியுறிஞ்சு ஓடு|
+acoustics|ஒலியியல்|phonetics - பேச்சொலியியல்
+Acquired Immune Deficiency Syndrome (AIDS)|தகவமை நோயெதிர்ப்புப் பற்றாக்குறைக் குறித்தொகுப்பு (தநோபகு)
+acquired immunity|தகவமை நோயெதிர்ப்பு|aka adaptive immunity
+acrania|மண்டையற்றவை|
+acridine|அக்கிரிடின்|
+acridine orange|அக்கிரிடின் ஆரஞ்சு|
+acrocentric|உயரமைய|
+acrolein|அக்கிரோலீன்|
+acromegaly|மெகலவளர்ச்சி|hypertrophy - மிகைவளர்ச்சி; gigantism - அதிவளர்ச்சி
+acromion process|தோள்ப்பட்டை நீட்சி|
+acronematic flagellum|சாட்டைக் கசையிழை|
+acronym|குறுஞ்சொல்|
+acropetal|உச்சிநோக்கிய|
+acrophobia|உயரவச்சம்|
+acropora|கொம்புப்பவளங்கள்|
+acrosome|முனையுறை|
+acrylonitrile|வைனில்சயனலி|
+actin|செயற்புரதம்|
+actinide|அட்டினவன்ன|
+actinium|அட்டினியம்|
+actinobacillus|கதிர்க்குச்சியம்|
+actinomadura|கதிர்மதுரம்|
+actinomorphic|வட்டச்சமச்சீர்|
+actinomyces|கதிர்ப்பூஞ்சைகள்|
+actinomycete|கதிர்ப்பூஞ்சை|கிரேக்கம்; aktis - கதிர், mykes - பூஞ்சை
+actinoplanes|கதிர்வெளியம்|
+actinopolyspora|பலவித்துக்கதிர்ப்பூஞ்சையம்|
+actinosynnema|கதிரிழையம்|
+actino-uranium|அட்டினோயுரேனியம்|
+action plan|செயல் திட்டம்|
+activate|செயலாக்கு|
+activated complex|செயலாக்கக் கூட்டுமம்|
+activation|செயலாக்கம்|
+activation energy|செயலாக்க ஆற்றல்|
+active (opp inactive)|செயலிலுள்ள|
+active (opp passive)|முனைவு|
+active absorption|முனைவு உட்கவர்கல்|
+active center|செயல்மையம்|
+active immunity|முனைவு நோயெதிர்ப்பு|
+active partner|செயற் பங்காளி|
+active region|முனைவுப் பகுதி|
+Active Server Pages (ASP)|முனைவச் சேவையர் பக்கங்கள் (முசேப) 
+active site|செயல் தலம்|
+active transport|முனைவுக் கடத்தல்|
+active window|செயற் சாளரம்|
+activism|செயல்முனைவு|
+activity|செயன்மம்|
+activity ratio|செயற்றிறன் விகிதம்|
+actual parameter|உண்மையான அளவுரு|
+acuminate|கூர்ம (தாவரவியல்)|
+acute (medicine)|குறுங்கடு|
+acute angle|குறுங்கோணம்|
+acute glomerulonephritis|குறுங்கடு முடிச்சச்சிறுநீரகவழற்சி
+acute T cell leukemia|குறுங்கடு தைமநிணவணு குருதிப்புற்று
+acyclic|சுழலற்ற|
+acyl  |குறையமில|
+acyl halide|குறையமில உப்பாக்கைடு|
+acylase|அமைடூக்கி|
+acyltransferase|குறையமில மாற்றலூக்கி|
+ad hoc|தனிக்கோள்|
+Adam Smith|ஆடம் ஸ்மித்|
+adamantane|பிடிவாதவேன்|
+Adam's apple|கழுத்துச் சங்கு|
+adaptation|தகவமைவு|
+adaptive immunity|தகவமை நோயெதிர்ப்பு|aka acquired immunity
+adaptor|தகவமைப்பி|
+adder|கூட்டி|
+addition|கூட்டல்|
+addition reaction|சேர்த்தல் வினை|
+additional|மேற்பட்ட|
+additional district judge|மேற்பட்ட மாவட்ட நடுவர்|
+additional secretary|மேற்பட்ட செயலர்|
+additive identity|கூட்டல் சமனி|
+address space|முகவரி வெளி|
+adenine|அடினீன்|
+adenohypophysis|முன்பிட்டூட்டரி|
+adenoid|சுரப்பனையம்|
+adenoma|சுரப்பிப்புற்று|
+adenosine|அடினசீன்|
+adenosine diphosphate (ADP)|அடினசீன் இருபாசுவேட்டு (அருபா)
+adenosine monophosphate (AMP)|அடினசீன் ஒற்றைப்பாசுவேட்டு (அறைபா)
+adenosine triphosphate (ATP)|அடினசீன் முப்பாசுவேட்டு (அமுபா)
+adenosyl|அடினசில்|
+adenovirus|சுரப்பி வைரசு|
+adequacy|போதகுமை|sufficiency - போதுமை
+adequate|போதகுமான|
+adhesion|ஒட்டிணைவு|
+adhesion of stamens|மகரந்தத்தாள்களின் ஒட்டிணைவு|
+adhesive|ஒட்டிணை|
+adhesive forces|ஒட்டிணை விசைகள்|
+adiabatic|வெப்பமாறா|
+adipic acid|அடிப்பிக அமிலம்|
+adipose tissue|கொழுப்புத் திசு|
+adjacent angles|அண்டைக் கோணங்கள்|
+adjoint|அடுமம்|
+adjoint matrix|அடுமத் தளவணி|
+adjustment|சரிக்கட்டல்|
+adjuvant|துணையம்|
+administer (medicine)|உட்கொடு|
+administration|நிர்வாகம்|
+administrator|நிர்வாகி|
+admission|நுழைசேர்ப்பு|
+admixture|துணைச்சேர்ப்பு|
+adnate anther|முழுப்பிணைப்பு மகரந்தம்|
+ADP (adenosine diphosphate)|அருபா (அடினசீன் இருபாசுவேட்டு)
+adrenal gland|அண்ணீரகச் சுரப்பி|
+adrenaline|அண்ணீரலின்|aka epinephrine
+adrenocorticotropic hormone|அண்ணீரப்புரணிய இயக்குநீர்|
+adsorbate|மேற்கவர்பொருள்|
+adsorbent|மேற்கவர்வி|
+adsorption|மேற்கவர்தல்|absorption - உட்கவர்தல்
+adsorption chromatography|மேற்கவர்தல் நிறப்பிரிகை|
+adult|முதுவர்|elderly - முதியர்
+adulteration|கலப்படம்|
+advance (finance)|முன்பணம்|
+advanced|உயர்நிலை|
+advantage|நன்மை|நிறை - mass
+adventitious|வேற்றிட|
+adventitious branches|வேற்றிடக் கிளைகள்|
+adverse effect|தீய விளைவு|
+advertise |விளம்பரி|
+advertisement|விளம்பரம்|
+advice|அறிவுரை|
+aerenchyma|வளிக்கூழ்த்திசு|
+aerial|விசும்ப|
+aerial modification|விசும்ப மாற்றமைவு|
+aerial root|விசும்ப வேர்|
+aerial view|விசும்பக் காட்சி|
+aerobe|காற்றுவாழ்வன|
+aerobic|காற்றும|
+aerobic exercise|காற்றும உடற்பயிற்சி|
+aeromonas|காற்றலகியம்|
+aeronautics|வானூர்தியியல்|
+aerosol|காற்றுக்கரை|
+aerosol propellant|காற்றுக்கரை உமிழுந்தம்|
+aerospace|வான்வெளி|
+aesthetic|நயமுணர்|
+aesthetics|நயமுணர்வு|
+aestivation|இதழடுக்கம்|phyllotaxy - இலையடுக்கம்
+afferent|கொண்டுவரும்|
+afferent blood vessel|கொண்டுவரும் குருதிக்குழல்|
+affinity|நாட்டம்|
+affinity chromatography|நாட்ட நிறப்பிரிகை|
+African sleeping sickness|ஆப்பிரிக்க உறக்கநோய்|aka African trypanosomiasis
+African trypanosomiasis|ஆப்பிரிக்க உறக்கநோய்|aka African sleeping sicknesss
+African Wildlife Foundation|ஆப்பிரிக்க வனவுயிரி தளவகம்|
+aftershaft|பின்தண்டு|
+agammaglobulinemia|காம்மாகோளப்புரதமின்மை|
+agar|அகர்|
+agar plate technique|அகர்த்தட்டு செய்நுட்பம்|
+age (geology)|யுகம்|
+age group|வயதுத் தொகுதி|
+agency|முகவம்|
+agenda|செய்நிரல்|
+agent|முகவர்|
+agglutination|பசையொட்டல்|
+agglutinative language|பசையொட்டு மொழி|
+agglutinin|பசையொட்டி|
+agglutinize|திரளச்செய்|
+agglutinogen|பசையூட்டி|
+aggregate|திரள்மம்|
+aggregate crushing test|திரள்மம் நொறுக்குச் சோதனை|
+aggregate expenditure method|திரள்மச் செலவின முறை|
+aggregate fruit|திரள்கனி|
+aggregate impact test|திரள்மத் தாக்கச் சோதனை|
+aggregative index number|திரள்மச் சுட்டெண்ணளவி|
+aggressive|தீவீரமான|conservative - தீவிரமற்ற
+agitate|அலைவசை|அலைவு + அசை
+agnatha|தாடையற்றவை|
+agoraphobia|பொதுக்கூட்டவச்சம்|
+agorose gel|அகரோசுக் களி|
+agreement|உடன்பாடு|
+agricultural biochemistry|வேளாண்மை உயிரியவேதியியல்
+agriculture|வேளாண்மை|
+agrobacterium|வேளாண்பாட்டீரியம்|
+agromyces|வேளாண்பூஞ்சையம்|
+&alpha;-helix|&alpha;-திருகம்|
+AIDS (Acquired Immune Deficiency Syndrome)|தநோபகு (தகவமை நோயெதிர்ப்புப் பற்றாக்குறைக் குறித்தொகுப்பு)
+AIFF (Audio Interchange File Format)|கேவிகோவ (கேட்பொலி இடைமாற்றக் கோப்பு வடிவூட்டம்)
+aim|குறிக்கோள்|
+air|காற்று|gas - வளிமம்
+air brush|தெளிதூரிகை|
+air sac|காற்றுப்பை|
+air travel|விமானப் பயணம்|
+aircondition|வளிக்குளிர்வி|
+aircraft|விமானம்|
+aircraft design|விமான வடிவமைப்பு|
+airlock|வளிப்பூட்டறை|
+aka (also known as)|எவப (எனவும் அழைக்கப் படும்)
+Akali Dal|அகாலி தளம்|
+akinete|இயங்காவித்து|
+-al|-அல்|
+-al (aldehyde)|-அல் (ஆல்டிகைடு)|
+alanine|அலனின்|
+alanine aminotrasferase (ALT)|அலனின் அமினமாற்றமூக்கி|aka alanine transaminase
+alanine transaminase|அலனின் அமினமாற்றமூக்கி|aka glutamate pyruvate transaminase
+alar membrane|அலர்ச் சவ்வு|
+alarm|விழிப்பலறி|
+Albert Einstein|ஆல்பர்ட் ஐன்ஸ்டைன்|
+albican|வெண்மையன்|
+albinism|வெளிர்மை|
+albino adj|வெளிரிய|
+albino n|வெளிரியர்|
+albumen|கருவூண்|
+albumin|கருவூண்புரதம்|
+albuminous|கருவூணுடைய|
+alcohol|ஆல்ககால்|
+alcoholysis|ஆல்ககாற்பகுப்பு|
+Aldebaran|உரோகிணி|
+aldehyde|ஆல்டிகைடு|
+aldimine|ஆல்டிமீன்|
+aldo-|ஆல்டோ-|
+aldohexose|ஆல்டோவாறோசு|
+aldol |ஆல்டால்|
+aldol condensation|ஆல்டால் ஒருக்கமாதல்|
+aldolase|ஆல்டாலூக்கி|
+aldose|ஆல்டோசு|
+aldosterone|ஆல்டோவியக்குநீர்|
+aldotriose|ஆல்டோமூன்றோசு|
+aldrop bolt|ஆல்டிரத் தாழ்|
+alecithal egg|உணவற்ற முட்டை|
+alert|விழிப்பூட்டல்|
+-ales|-ஐகள்|
+aleurone|மாவுரை|
+aleurone layer|மாவுரைப் படலம்|
+Alexander Flemming|அலெக்ஸாண்டர் ஃப்ளெம்மிங்|
+algae|ஆல்காக்கள்|பாசி - moss
+algebra|இயற்கணிதம்|
+algebraic sum|இயற்கூட்டுத்தொகை|
+algology|ஆல்கவியல்|aka phycology
+algorithm|படிமுறை|
+alias|மறுபெயர்|
+alicyclic|சுழல் கொழுப்பார்ந்த|
+align|நேரமை|
+aligned dimensioning|நேரமை பரிமாணமிடுதல்|
+aligning|நேரமைத்தல்|
+alignment|நேரமைவு|
+alimentary canal|உணவுப்பாதை|
+aliphatic|அலிபாட்டிக|
+aliquot|சமக்கூறு|
+alkadiene|ஆல்க்கவீரீன்|
+alkali metals|கார உலோகங்கள்|
+alkaline earth metals|கார மண் உலோகங்கள்|
+alkaline phosphatase|காரப் பாசுவேட்டூக்கி|
+alkaloid|காரமனையம்|
+alkane|ஆல்க்கேன்|
+alkapton|படிசென்றிக அமிலம்|aka homogentisic acid
+alkaptonuria|படிசென்றிகச்சிறுநீர்|
+alkene|ஆல்க்கீன்|
+alkoxide|காரமூச்சியைடு|
+alkoxy|காரமூச்சிய|
+alkoxy-|ஆல்க்கமூச்சிய-|
+alkyl|ஆல்க்கைல்|
+alkyl dihalide|ஆல்க்கைல் ஈருப்பாக்கைடு|
+alkyl halide|ஆல்க்கைல் உப்பாக்கைடு|
+alkylation|ஆல்க்கைலேற்றம்|
+alkyne|ஆல்க்கைன்|
+All India Anna Dravida Munnetra Kazhagam|அகில இந்திய அண்ணா திராவிட முன்னேற்றக் கழகம்
+All Programs|எல்லா நிரல்களும்|
+all risks policy|அனைத்து ஆபத்துக்கூறு காப்பிதழ்
+allantois|அலந்தாயிசு|
+allele|மரபுரு|aka allelomorph
+allelism|மரபுருவியம்|
+allelomorph|மரபுரு|aka allele
+allene|அல்லீன்|
+allergen|ஒவ்வாமையாக்கி|
+allergic conjunctivitis|ஒவ்வாமைக் கண்படலவழற்சி|
+allergy|ஒவ்வாமை (மருத்துவம்)|
+alleviation|நிவாரணம்|
+alliance|நட்புமை|
+alligator|பெருமுதலை|
+allocation|ஒதுக்கீடு|
+allogamy|வேற்றுச்சேர்க்கை|
+allogenic|வேற்றாக்க|
+allogenic graft|வேற்றாக்கப் பதியம்|
+allograft|ஒப்புப்பதியம்|aka homograft
+allopatric|வேற்றுத்தந்தைய|
+allopatric species|வேற்றுத்தந்தைய இனம்|
+allopolyploidy|வேற்றுப்பன்மைமரபெண்|
+allosteric  |வேற்றுக்கொள்வெளி  |
+allosteric enzyme|வேற்றுக்கொள்வெளி ஊக்கிப்புரதம்
+allosteric inhibition|வேற்றுக்கொள்வெளி மறிப்பு|
+allotrope|புறவேற்றியன்|
+allotropy|புறவேற்றுமை|
+alloy|உலோகக் கலவை|
+allyl|அல்லைல்|
+allylide|அல்லிலைடு|
+alpha|ஆல்பா|
+alpha cell|ஆல்பா கணையவணு|
+Alpha Centauri|ஆல்பா சென்றாரசுகள்|
+alpha helix|ஆல்பா திருகம்|
+alpha particle|ஆல்பா துகள்|
+alpha testing|முதற்கட்ட சோதித்தல்|
+alphabetical|அகரவரிசை|dictionary - அகராதி
+alphanumeric|எழுத்தெண்|
+also known as (aka)|எனவும் அழைக்கப்படும் (எவப)|
+alt|வேறு (கணினியி்யல்)|
+alt key|மறு விசை|
+alt key|வேறு விசை (கணினியி்யல்)|
+Altair|முக்கோல்|
+alternate adj|ஒன்றுவிட்ட|
+alternate bay method|ஒன்றுவிட்ட பாத்தி முறை|
+alternate phyllotaxy|ஒன்றுவிட்ட இலையடுக்கம்|
+alternate vi|மாறி மாறி வா|
+alternate vt|மாறி மாறிச் செய்|
+alternating current|திசைமாறு மின்னோட்டம்|
+alternative|மறுவழி|
+alternative hypothesis|மறுவழி கருதுகோள்|
+alternator|திசைமாறு மின்னியற்றி|aka AC generator
+altitude|உயரமட்டம்|
+alumina|அலுமினா|
+aluminum|அலுமினியம்|
+alveolar foam theory|நுரைச்சிற்றரைக் கோட்பாடு|
+alveolar macrophage|சிற்றறைப் பேருண்ணி|
+alveoli|சிற்றறைகள்|
+alveolus|சிற்றறை|
+Alzheimer's disease|அல்சைமரின் நோய்|
+Amadeo Avogadro|அமாடியா அவகாடிரோ|
+amantadine|அமவாதேன்|
+amastigote|துணையடியவுடல்|aka leishman-donovan body
+amber|பிசினப்படிவம்|
+ambiguity|பொருள்மயக்கம்|
+ameba|அமீபா|
+amebiasis|அமீபநோய்|
+amebic dysentery|சீதபேதி|
+amenities|வசதிகள்|
+amensalism|உடனுண்ணாமை|
+American National Standards Institute (ANSI)|அமெரிக்க நாட்டுச் செந்தரப் பயிலகம் (அநாசெப)
+American Standard Code for Information Interchenge (ASCII)|தகவல் இடைமாற்றத்துக்கான அமெரிக்கச் செந்தரக்குறி (தவியசெ)
+americium|அமெரீசியம்|
+ametropia|பிழையளவுப்பார்வை|
+amidase|அமைடூக்கி|
+amide|அமைடு|
+-amide|-அமைடு|
+amidine|அமிடின்|
+amido-|அமிடோ-|
+amine|அமீன்|
+-amine|-அமீன்|
+amino|அமினோ|
+amino-|அமினோ-|
+amino acid acceptor arm (RNA)|அமினோ அமிலம் பெறும் கிளை
+amino acid activation|அமினோ அமிலச் செயலாக்கல்|
+amino acid site|அமினோ அமிலத் தலம்|
+amino terminus|அமினோ நுனி|
+aminoacyl tRNA complex|அமினோகுறையமில மாற்றலனரி கூட்டுமம்
+aminotransferase|அமினமாற்றலூக்கி|
+amitosis|இருசமப் பிரிவு|
+ammeter|மின்னோட்டளவி|galvanometer - கால்வனளவி
+ammine|அம்மீன்|
+ammonia|அம்மோனியா|
+ammoniacal cupric sulfate|அம்மோனியமேற்ற தாமிரகக் கந்தகேட்டு
+ammonification|அம்மோனியவாக்கம்|
+ammonium|அம்மோனியம்|
+ammonolysis|அம்மோனாற்பகுப்பு|
+amnesia|நினைவிழப்பு|
+amnesty|பொதுமன்னிப்பு|
+amniocentesis|பனிக்குடத்துளையிடல்|
+amnion|பனிக்குடம்|
+amniota|பனிக்குடவன|
+amniotic fluid|பனிக்குடப் பாய்மம்|
+amorphous|படிகமற்ற|
+amortization|போக்கிடுதல்|
+AMP (adenosine monophosphate)|அறைபா (அடினசீன் ஒற்றைப்பாசுவேட்டு)
+Ampere|ஆம்பியர்|
+Ampere's circuital law|ஆம்பியரின் மின்சுற்று விதி|
+ampersand|உம் குறி|
+amphibia|நீர்நிலவாழ்வன|
+amphibian|நீர்நிலவாழ்வன்|
+amphibious|நீர்நிலவாழ்|
+amphibolism|இருவழிமாற்றம்|
+amphicribral|சல்லடைசூழ்|
+amphioxus|இருகூரன்|
+amphipathic|ஈரிரக்க|
+amphithecium|புறவித்துப்படலம்|
+amphitrichous|இருமுனைக் கசையிழை|
+amphitropous ovule|இருபக்கச் சூல்|
+amphivasal|கட்டைசூழ்|
+amphoteric|இருமிர|
+ampicillin|ஆம்பிசிலின்|
+amplification|மிகைத்தல்|
+amplifier|மிகைப்பி|
+amplitude|வீச்சகலம்|
+amplitude modulation|வீச்சகல இணக்கேற்றம்|
+ampulla|குடுவம்|
+ampullariella|குடுவையம்|
+amputation|உறுப்புநீக்கம்|
+Amritmahal|அமிர்தமகால்|
+amu (atomic mass unit)|அநிய (அணு நிறை அலகு)|
+amylase|தரசவூக்கி|
+amyloplast|தரசக்கணிகம்|
+amyloprotein|தரசப்புரதம்|
+anabolism|வளர்மாற்றம்|
+anachronism|காலப்பிழை|
+anaerobe|காற்றின்றிவாழ்வன|
+anaerobic|காற்றில்லா|
+anaerovibrio|காற்றில்லாவதிரியம்|
+anal canal|மலக்கால்வாய்|
+analgesic|வலிகுறைப்பி|
+analog|அளவியல்|
+analog computer|அளவியல் கணினி|
+analogy|உவமை|
+analysis|பகுப்பாய்வு|
+analyst|பகுப்பாய்வர்|
+analytical geometry|பகுமுறை வடிவியல்|
+analytical ultracentrifuge|பகுப்பாய்வு மிகைச்சுழல்வீழ்த்தி|
+Anand Chakrabarthy|ஆனந்த் சக்ரபர்த்தி|
+anaphase I|முதல் நகர்வுக் கட்டம்|
+anaphase II|இரண்டாம் நகர்வுக் கட்டம்|
+anaphoresis|எதிர்மவாய்க்கவர்ச்சி|
+anaphylaxis|மிகைநோய்த்தடுப்பு|
+anastomosis|குறுக்கிணைப்பு|
+anatomical barrier|உடலமைப்புத் தட்டி|
+anatomist|உடலமைப்பியலார்|
+anatomy|உடலமைப்பு|
+anatomy (study of)|உடலமைப்பியல்|
+anatropous ovule|கவிழ்ந்த சூல்|
+ancestor|முன்னோர்|
+anchor tag|நங்கூரத் தொங்கி|
+AND (boolean)|உம்மை (கணிதம்)|
+AND gate|உம்மை வாயில்|
+Anderson|ஆண்டர்சன்|
+Andhra Pradesh|ஆந்திரப்பிரதேசம்|
+androecium|மகரந்த வட்டம்|
+androgen|ஆண்மையாக்கி|
+androgynophore|ஆண்பெண்ணேந்தி|aka gynandrophore
+androphore|ஆணேந்தி|
+androsterone|ஆண்மைத்திரால் இயக்குநீர்|
+-ane (alkane)|-ஏன் (ஆல்க்கேன்)|
+anecdote|கதைவிளக்கம்|
+anemia|குருதிச்சோகை|
+anemochory|வளிப்பரவல்|
+anemophily|காற்றுச்சேர்க்கை|
+anesthesia|உணர்மறைத்தல்|
+anesthetic|உணர்மறைப்பி|
+anesthetize|உணர்மறை|
+aneuploidy|உறாமரபெண்|
+aneurism|குழல்விரிதல்|
+angel fish|தேவதை மீன்|
+angina|நெரிப்புவலி|
+angina pectoris|மார்பு நெறிப்புவலி|
+angiogram|நெரிப்பளவி|
+angiography|நெரிப்பளவியல்|
+angioplasty|நெரிப்பகற்றல்|நெரிப்பு + அகற்றல்
+angiosperms|அகவிதையன்கள்|
+angiotensin|குருதிக் குழற் சுருக்கி|
+angle of contact|தொடுகோணம்|
+angle of minimum deviation|மீச்சிறு விலக்கக் கோணம்|
+anglesite|அங்கல்சைட்டு|
+angstrom|ஆங்கிதம்|
+Angstrom pyrheliometer|ஆங்கிதமின் கதிரவவெப்பளவி|
+angular bracket|கோண அடைப்புக்குறி|
+angular collenchyma|கோண அடித்தோல் திசு|
+angular frequency|கோண அலைவெண்|
+angular harmonic oscillator|கோண ஒத்திசை அலைவி|
+angular momentum|கோண உந்தம்|
+anharmonic oscillator|ஒத்திசைவிலா அலைவி|
+anhydrase|நீர்நீக்கவூக்கி|
+anhydride|நீரிலி|
+anhydrite|சாக்கநீரிலி|
+aniline|அனிலீன்|
+animal domestication|விலங்கு வீட்டுப்பழக்கல்|
+animal husbandry|கால்நடை பராமரிப்பு|
+animal kingdom|விலங்குப் பேரரசு|
+animal pole|விலங்குமுனை|
+animalia|விலங்கரசு|
+animate|அசைவூட்டு|
+animation|அசைவூட்டல்|mobilization - அசைவாக்கல்
+anion|எதிர்மவயனி|
+anisogamy|ஒப்புச்சேர்க்கை|oogamy - மாற்றுச்சேர்க்கை
+anisole|அனிசோல்|
+anisoltropic properties|சமதிசையாப் பண்புகள்|
+anisotropy|சமதிசையாமை|
+anitigen presentation|நோயெதிர்ப்பூட்டி தோன்றளித்தல்
+ankle|கணுக்கால்|
+Anna Dravida Munnetra Kazhagam|அண்ணா திராவிட முன்னேற்றக் கழகம்
+annelid|வளைவுடலி|
+Annelida|வளைதசையுடலிகள்|
+annex|பின்னிணைப்பு|
+annihilation|முற்றழிதல்|
+annotate|உரைசேர்|
+announce|அறிவி|communicate - தெரிவி
+announcement|அறிவிப்பு|
+annuity|காலப்படி|
+annuity method|காலப்படி முறை|
+annular|வளைய |
+annulus|வளையல்|
+anode|எதிர்மவாய்|
+anode compartment|எதிர்மவாய்த் தடுப்பறை|
+anomalous|மாற்றொழுங்க|
+anomaly|மாற்றொழுங்கு|
+anomer|ஒற்றைமாற்றியன்|
+anomeric carbon|ஒற்றைமாற்றியக் கரிமம்|
+anopheles|அனாபிலசு|
+anova|பரவகலப் பகுப்பாய்வு|analysis of variance
+ANSI (American National Standards Institute)|அநாசெப (அமெரிக்க நாட்டுச் செந்தரப் பயிலகம்)
+antacid|அமிலவெதிர்ப்பி|
+antarctic|அண்டார்ட்டிக|
+Antares|கேட்டை|
+anteater|எறும்புண்ணி|
+antenna|அலைவுணரி|
+anteriolateral|முன்பக்கவாட்டு|
+anterior (botany)|கீழ்ப்பகுதி (தாவரவியல்)|
+anterior central gyrus|முன்பக்க மைய மேடு|
+anterior chamber|முற்கூடம்|
+anterior compartment|முன் தடுப்பறை|
+anterior mesenteric artery|மேற் குடற்றாங்கி தமனி|
+anterior muscle|முன்தசை|
+anterior serratus|தோளெலும்புத் திருப்பத் தசை|
+anteroposterior axis|முன்பின்னான அச்சு|
+anthelmintics|புழுவெதிர்ப்பிகள்|
+anther|மகரந்தப் பை|aka pollen sac
+anther lobe|மகரந்த மடல்|
+antheridium|மகரந்தப்பையனையம்|
+antherlobe|மகரந்தமடல்|
+antherozoid|மகரந்தனையம்|
+anthocerotae|கொம்புவடிவன|
+anthophore|மலரேந்தி|
+anthozoa|ஆந்தோசோவா|
+anthracene|அந்திரசீன்|
+anthranilic acid|அந்திரனிலிக அமிலம்|
+anthrax|அந்திராசு|
+anthrax bacillus|அந்திராசுக் குச்சியம்|
+anthrone test|அந்திரோன் சோதனை|
+anthropology|மனிதவியல்|
+anthropomorphism|மனிதமாக்கல்|
+anthroponosis|மனிதவரு நோய்|
+anthropozoonosis|மனிதவிலங்கின்வருநோய்|
+anti-|எதிர-|
+antialiasing|கோடுநேராக்கம்|
+antiatom|எதிரிய அணு|
+antibiosis|உயிரியெதிர்ப்பு|
+antibiotic|உயிரியெதிர்ப்பி|
+antibiotic resistance|உயிரியெதிர்ப்பித் தடையம்|
+antibody|நோயெதிர்ப்பி|
+antibody mediated immunity|உடற்பாய்ம நோயெதிர்ப்பு|aka humoral immunity
+antibonding oribital|பிணைப்பெதிர் அலைமண்டலம்
+anticlinal division|அச்சொட்டிய பிரிவு|
+anticlockwise|இடஞ்சுழி|
+anticoagulant|திரள்படிதடுப்பி|
+anticodon|எதிரியக்குறிப்பி|
+anticodon arm|எதிரியக்குறிப்பிக் கிளை|
+anticodon loop|எதிரியக்குறிப்பிக் கழல்|
+anticodon shaft|எதிரியக்குறிப்பித் தண்டு|
+antidiuretic|சிறுநீர்க்குறை|
+antidiuretic hormone|சிறுநீர்க்குறை இயக்குநீர்|
+antidote|எதி்ரியமருந்து|
+antielectron|எதிரிய எலட்டிரான்|
+antiemetics|வாந்தியெதிர்ப்பி|
+antiferromagnetism|எதிரிரும்பக்காந்தம்|
+antifreeze|உறைதல் எதிர்ப்பி|
+antigen|நோயெதிர்ப்பூட்டி|
+antigen blocking|நோயெதிர்ப்பூட்டி தடுத்தல்|
+antigen presenting cell (APC)|நோயெதிர்ப்பூட்டி வழங்கணு (நோயெவ)
+antigen-antibody complex|நோயெதிர்ப்புக் கூட்டுமம்|aka immune complex
+antigenic determinant|நோயெதிர்ப்புத் தீர்மானி|aka epitope
+antihistamine|திசுவமீனெதிர்ப்பி|
+antilogarithm|எதிரியமடக்கை|negative logarithm - எதிர்ம மடக்கை
+antimalarial|மலேரியவெதிர்ப்ப|
+antimatter|எதிரியப் பொருள்|
+antimicrobial|நுண்ணுயிரெதிர்ப்ப|
+antimony|ஆந்திமனி|
+antioxidant|மூச்சியமேற்றவெதிர்ப்பி|
+antiparallel|எதிரிணையான|
+antiperspirant|வியர்வையெதிர்ப்பி|
+antipodal|எதிரமை|
+antiporter|எதிரியச் சுமப்பி|
+antiproton|எதிரியப் புரோட்டான்|
+antiprotozoal|ஒற்றையணுவியெதிர்ப்பி|
+antipyretic|காய்ச்சலெதிர்ப்பி|
+antique|பழங்கலை|
+antisense|எதிரியத்திசை|
+antisense strand|எதிரியத்திசைக் கிடையிழை|
+antiseptic|கிருமியெதிர்ப்பி|
+antispasmodic|தசைநிவர்த்தி|
+anti-Stokes line|எதிரியத்தோக்கசின் கோடு|Stoke's is wrong; the scientist's name is Stokes, not Stoke.
+anti-telescopic|தடம்புரளா|
+antitoxin|நச்செதிர்ப்பி|
+antivirus|நச்செதிர்நிரல்|
+Anton von Leeuwenhoek|ஆன்றன் வான் லேவன்ஹுக்|
+anus|குதம்|
+aorta|பெருந்தமனி|
+aortic arch|பெருந்தமனிய வளைவு|
+apartment|பிரிவீடு|
+ape|மனிதக்குரங்கு|
+aperture|திறப்பு|
+aperture (photography)|திறப்பகலம்|
+apex|உச்சி|
+aphakic|வில்லையற்ற (கண்)|
+aphelion|கதிரவச்சேய்மை|
+apheresis|வெளியெடுத்தல்|
+apical|உச்சிப்பக்க|
+apical bud|உச்சிமொட்டு|
+apical foramen|உச்சித்துளை|
+apical meristem|உச்சி ஆக்கத்திசு|
+apiculture|தேனீ வளர்த்தல்|aka bee keeping
+Apis|தேனீ|
+Apis dorsata|பாறைத் தேனீ|
+Apis florea|மலர்த் தேனீ|
+Apis indica|இந்தியத் தேனீ|
+aplanogamete|தனிச்சுவர் இனவணு|
+aplanogamy|தனிச்சுவர்ச் சேர்க்கை|
+aplanospore|தனிச்சுவர்வித்து|
+apneustic center|மூச்சுவாங்கு மையம்|
+apocarpous|ஒன்றாசூலிலை|
+apocrine|புறச்சுரப்பி|
+apoenzyme|முதலூக்கிப்புரதம்|
+apogeotropism|புவிநாடியக்கமின்மை|
+aponeurosis|தசைச்சவ்வு|
+apoprotein|வெறும்புரதம்|
+apoptosis|அணுவிறப்பு|
+apparatus|செங்கருவி|
+appeal|மேல்முறையிடு|
+append|பின்சேர்|
+appendicitis|குடல்வாலழற்சி|
+appendicular skeleton|மேலிணைப்பு எலும்புக்கூடு|
+appendix|பிற்சேர்க்கை|
+appendix (anatomy)|குடல்வால்|
+APPLE (Ariane Passenger Payload Experiment)|ஆப்பல் (ஆர்யன் பயணிகள் பயன்சுமை பரிசோதனை)
+applet|பயன்துளி|
+appliance|பயன்கருவி|
+applicant|விண்ணப்பதாரர்|
+application (computer)|பயன்பாடு (கணினியி்யல்)|
+application form|விண்ணப்பப் படிவம்|
+application programming|பயன்பாட்டு நிரலாக்கம்|
+application service|பயன்பாட்டுச் சேவை|
+application software|பயன்பாட்டு மென்பெருள்|
+apply|பயனாக்கு|
+appoint|நியமிறுத்து|
+appointment|நியமிறுத்தல்|
+apposition|அடுக்குப்படிதல்|
+apprentice|பயிலர்|
+approach herkogamy|அணுகு தடுப்புத்தடை|
+approximate|தோராய|
+aptera|இறகற்றவை|
+apteria|இறகற்ற சுவடுகள்|
+aqua regia|அரச நீர்மம்|
+aquaculture|நீர்வளர்ப்பு|
+aquarium|மீனகம்|
+aquaspirillum|நீர்ச்சுருளியம்|
+aqueduct|நீர்நாளம்|
+aqueous|நீரிய|
+aqueous humour|முன்கண் பாய்மம்|கண் நீர் - tears
+aquifer|நிலநீர்நிலை|
+arabinose|அரபினோசு|
+arachidic|அரக்கிடிக அமிலம்|
+arachidonic acid|அரக்கிடானிக அமிலம்|
+arachnid |சிலந்தனையம்|
+arachnida|சிலந்தனையங்கள்|
+arachnoid|வலையனையம்|
+arachnoid membrane|நடு மூளையுரை|
+aralkyl|அரால்க்கைல்|
+arbitrarily|காரணமில்லாமல்|
+arbitrarily closely|வேண்டுமளவு நெருக்கமாக|
+arbitrary|காரணமில்லாத|
+arbitrary (math)|குறிப்பற்ற|
+arboreal|மரம்வாழ்|
+arboretum|மரவகம்|
+arboriculture|மரம் வளர்த்தல்|
+arc (electricity)|மின்வில்|
+arc length|வில் நீளம்|
+arc net|வில்வலை|
+arcade|வளைவரிசை|
+arch|வளைவு (கட்டிடவியல்)|
+archaea|ஆர்க்கரசு|
+archaea|தொன்பாட்டீரியங்கள்|
+archaebacterium|தொன்பாட்டீரியம்|
+archaeglobaceae|தொன்கோளியனையன|
+archaeoglobales|தொன்கோளியைகள்|
+archaeoglobus|தொன்கோளியம்|
+archaeon|தொன்பாட்டீரியம்|
+Archean eon|தொன்பாட்டீரியப் பேரூழி|
+archegonium|சூலனையம்|
+archenteron|குடற்குழியம்|
+archeopteryx|இறகுத்தண்டுவாலி|
+archesporium|வித்தாக்ககம்|
+archiobacterial sulfate reducers|தொன்பாட்டீரியக் கந்தக மூச்சியமிறக்கிகள்
+archipelago|தீவுத்தொகுதி|
+architect|கட்டிடர்|
+architecture|கட்டிடவியல்|
+archive|பரணிடு|
+Arctic|ஆர்ட்டிக|
+Arcturus|சுவாதி|
+area|பரப்பு|
+Arenicola|அரனிக்கோலா|
+arenium|அரீனியம்|
+areola|பால்வட்டம்|
+argentite|ஆர்சென்றைட்டு|
+argillaceous|களிமண் பெ.உ|
+arginase|ஆர்சினூக்கி|
+arginine|ஆர்சினின்|
+argininosuccinase|ஆர்சினினோசக்கினூக்கி|
+argininosuccinate|ஆர்சினினோசக்கினேட்டு|
+argininosuccinate synthetase|ஆர்சினினோசக்கினேட்டு தொகுத்தாக்கவூக்கி
+argon|ஆர்கான்|
+argument|விவாதம்|
+argument (of a complex number)|கோணம் (கலப்பெண்)|
+argument (of a function)|செயலுருபு|
+Ariane Passenger Payload Experiment (APPLE)|ஆரியன் பயணிகள் பயன்சுமை பரிசோதனை (ஆப்பல்)
+aristocracy|மேல்மட்டத்தினம்|
+aristocrat|மேல்மட்டத்தினர்|
+Aristotle|அரிஸ்டாட்டில்|
+arithmetic|கணக்கீடு|
+arithmetic and logic unit|கணக்கீட்டலகு|
+arithmetic mean|கூட்டுச் சராசரி|
+arithmetic operation|கணக்கீட்டுச் செயலம்|
+arithmetic progression|கூட்டல் உறவுத்தொடர்|
+arithmetic series|கூட்டல் தொடர்|
+armature (electricity)|சுருள்சட்டம்|
+aromatic |அரோமாட்டிய|
+aromatic ring|அரோமாட்டிய வளையம்|
+aromaticity|அரோமாட்டியம்|
+aromatize vi|அரோமாட்டியமாகு|
+aromatize vt|அரோமாட்டியமாக்கு|
+array|அணி|
+arrears|நிலுவை|
+arrector pili|சிலிர்த்தசை|
+Arrhenius|அரீனியஸ்|
+Arrhenius equation|அரீனியசின் சமன்பாடு|
+Arrhenius parameter|அரீனியசின் அளவுரு|
+arrhenotokous parthenogenesis|கருவுறா ஆண்பிறப்பு|
+arrhythmia|தாளக்கேடு|
+arris|விளிம்புமுனை|
+arrow (computer)|அம்புக்குறி|
+arrow head|அம்புத்தலை|
+arsenic|ஆர்சனிக்கு|
+art drawing|கலை வரைவு|
+arterenol|ஆர்த்தரினால்|
+arterial pulse|தமனித் துடிப்பு|
+arterial system|தமனியமைப்பு|
+arteriole|சிறுதமனி|
+arteriosclerosis|தமனித்தடிப்பு|
+artery|தமனி|
+arthralgia|மூட்டுவலி|
+arthritis|மூட்டழற்சி|
+arthrobacter|கணுப்பாட்டீரியம்|
+arthropod|கணுக்காலி|
+Arthropoda|கணுக்காலிகள்|
+arthroscopy|மூட்டுநோக்கி|
+article (law)|சட்டவிதி|
+article (science)|ஆய்வுரை|
+articles of association|சேர்வகச் சட்டவிதிகள்|
+articular cartilage|மூட்டுக் குருத்தெலும்பு|
+articulata|வலையோடுடையன|
+artificial insemination|செயற்கை விந்தேற்றம்|
+artificial intelligence|செயற்கை அறிவாற்றல்|
+artificial respiration|செயற்கை மூச்சு|
+Aryabhatta|ஆரியபட்டா|
+asbestos|கல்நார்|
+Ascartis|நீளுருளைப்புழு|
+ascending colon|ஏறுபெருங்குடல்|
+ascending paper chromatography|ஏறுதாள் நிறப்பிரிகை|
+ascendingly imbricate aestivation|ஏறுதழுவு இதழடுக்கம்|
+ascent of sap|சாறேற்றம்|
+ascidian|அசிடியன்|
+ASCII (American Standard Code for Information Interchenge)|தவியசெ (தகவல் இடைமாற்றத்துக்கான அமெரிக்கச் செந்தரக்குறி)
+ascomycete|பைப்பூஞ்சை|
+ascorbic acid|C வைட்டமின்|aka vitamin C
+ascus|பையனையம் (பூஞ்சையியல்)|
+Aseel|அசீல்|
+aseptate|இடைச்சவ்வற்ற|
+aseptic|சீழில்லா|
+asexual reproduction|பாலினமிலா இனப்பெருக்கம்|
+ashlar block in course masonry|அசுலார் பெருங் கற்கட்டு|
+ashlar chamfered masonry|அசுலார் சரியோரக் கற்கட்டு|
+ashlar fine masonry|அசுலார் நுண்கற்கட்டு|
+ashlar masonry|அசுலார் கற்கட்டு|
+ashlar rock masonry|அசுலார் பாறைக் கற்கட்டு|
+ashlar rough tooled masonry|அசுலார் சொரக் கற்கட்டு|
+ASLV (Augmented Satellite Launch Vehicle)|மீகோளேவுவண்டி|
+ASP (Active Server Pages)|முசேப (முனைவுச் சேவையர் பக்கங்கள்)
+asparagine|அசுப்பரசின்|
+aspartate aminotransferase (AST)|அசுப்பரேட்டு அமினமாற்றலூக்கி
+aspartic acid|அசுப்பரிக அமிலம்|
+aspect ratio|வடிவவிகிதம்|
+aspergillosis|தெளிப்பூஞ்சைநோய்|
+aspergillum|ஆசித்தெளிப்பி|
+aspergillus|தெளிப்பூஞ்சை|
+asphalt|தார்க்கல்|
+aspirator|உறிஞ்சுகுழல்|
+assay|மதிப்பாய்வு|
+assembler|தொகுவிணைப்பி|
+assembling|தொகுவிணைத்தல்|
+assembling industries|தொகுவிணைத் தொழிலகம்|
+assembly|தொகுவிணைப்பு|
+assert|வலியுரை|
+assets|சொத்துகள்|
+assign|ஒப்படை|
+assignable cause|குறித்தற்குறிய காரணம்|
+assignment|ஒப்படைத்தல்|
+assignment operator|ஒப்படைத்தல் செயலி|
+assimilation|தன்மயமாதல்|
+assimilatory roots|தன்மயமாக்கு வேர்கள்|
+assistance |உதவி|
+assistant|உதவியர்|
+assistant secretary|உதவிச் செயலர்|
+assistant section officer|உதவிப் பிரிவு அலுவலர்|
+associated|சேர்க்கையுற்றது|
+association (physical sciences)|சேர்க்கை (இயற்பு அறிவியல்)|
+association (social)|சேர்வகம்|
+association areas (of brain)|சேர்க்கைப் பகுதிகள்  (மூளையின்)
+associative|சேர்க்கத்தகு|
+associative axiom|சேர்க்கை அடிகோள்|
+associative property|சேர்க்கைப் பண்பு|
+associativity|சேர்க்கை|
+assumption|எடுகோள்|அனுமானம் - conjecture
+assurance|வாக்கீடு|promise - வாக்குறுதி
+assure|வாக்கீடளி|
+astable|நிலைப்பில்லா|
+astatine|அசிதாதீன்|
+asteraceae|சூரியகாந்தியனையன|
+asterales|விண்மீனியன|
+asterisk|உடுக்குறி|
+asteroid|சிறுகோள்|
+asthenosphere|மென்பாறைக்கோளம்|
+astigmatism|புள்ளிக்குவியமின்மை|
+astronomical distance|வானியல் தொலைவு|
+astronomy|வானியல்|
+astrophysics|வானியற்பியல்|
+asymmetric|சீரொருமையற்ற|
+asymptote|தொலைதொடுவி|
+asymptotic|தொலைதொடு|
+asymptotically|தொலைதொடுவகையில்|
+asynchronous|வேற்றுக்கால|
+at par|சம விலையில்|
+at random|நேர்ந்தவாறு|
+at will|விரும்பியவாறு|
+Atabrin|அட்டபிரின்|
+atavism|மூதாதையரிசம்|
+-ate (ester)|-ஏட்டு (எசுத்தர்)|
+atheroma|குழைமக்கரடு|
+atherosclerosis|குழைமத்தடிப்பு|
+athetosis|அதிற்றாசவலிப்பு|
+athletes' foot|சேற்றுப்புண்|
+Atlantic|அட்டிலாண்டிக|
+atlas (vertebra)|அச்செலும்பு|
+ATM|பண எந்திரம்|
+ATM card|பண எந்திர அட்டை|
+atmosphere|காற்றுக்கோளம்|
+atoll|வளைபவளப்பாறைகள்|
+atom|அணு|
+atom model|அணு ஒப்புரு|
+atomic|அணுவும|
+atomic mass unit (amu)|அணு நிறை அலகு (அநிய)|
+atomic number|அணு எண்|
+atomic power plant|அணு மின்னிலையம்|
+atomic radius|அணு ஆரம்|
+atomic structure|அணுக் கட்டமைப்பு|
+atomic weight|அணு எடை|
+atomicity|அணுவுமை|
+atomicity of a molecule|மூலக்கூறின் அணுவுமை எண்|
+ATP (adenosine triphosphate)|அடினசீன் முப்பாசுவேட்டு (அமுபா)
+atractyloside|கவருடனி|
+atrichous|கசையிழையற்ற|
+atrioventricular node|மேற்கீழறைக் கணு|
+atrium (heart)|இதய மேலறை|aka auricle
+atrophy|நலிவு|
+atropine|விதியீன்|
+atropous ovule|நேர்நிலைச் சூல்|aka orthotropous ovule
+attached house|ஒட்டிய வீடு|
+attention|கவனம்|
+attenuate|வலுகுன்று|
+attenuated|வலுகுன்றிய|
+atto-|அட்டோ-|
+attorney|வழக்குரைஞர்|
+attorney general|அரசு வழக்குரைஞர்|
+attraction|கவர்ச்சி|
+attribute|பண்படை|பண்பு + அடை
+attrition|தேய்மானம்|
+attrition test|தேய்மானச் சோதனை|
+auctioneer|ஏலகர்|
+audio|கேட்பொலி|
+audio clip|கேட்பொலித் துண்டு|
+Audio Interchange File Format (AIFF)|கேட்பொலி இடைமாற்றக் கோப்பு வடிவூட்டம் (கேவிகோவ)
+audio video|கேட்பொலியும் காணொளியும்|
+Audio Video Interleave (AVI)|கேட்பொலி காணொளி இடைச்செருகல் (கேகாவி)
+audiophile|கேட்பொலிசுவைஞர்|
+audiovisual|கேள்காண்|
+audit |கணிக்கை|censor - தணிக்கை
+audit trail|கணிக்கைச் சுவடு|
+auditor|கணிக்கையர்|
+auditorium|அரங்கம்|stage - மேடை
+auditory nerve|செவி நரம்பு|
+aufbau principle|கட்டுமுறைக் கொள்கை|
+augmented|மிகுத்த|extended - நீட்டிய; prolonged - நீடித்த
+augmented matrix|மிகுத்த தளவணி|
+Augmented Poverty Line|மிகுத்த வறுமைக் கோடு|
+aurelia|ஆரீலியா|
+aureole|வட்டொளி|corona -கரோனா
+aureomycin|ஆரியோமைசின்|
+auricle (heart)|இதய மேலறை|aka atrium
+auricular muscle|செவித்தசை|
+aurora|வானக்கதிர்கள்|
+Australorp|ஆத்திரலார்ப்பு|
+authigenic|தன்னாக்க|
+author|எழுதியவர்|
+authoring system|எழுதுவோர் அமைப்பு|
+authority|அதிகாரம்|
+authorize|அதிகாரமூட்டு|
+authorized|அதிகாரமூட்டிய|
+authorship|எழுத்தாக்கம்|
+auto spell checker|தானே எழுத்துக்கூட்டல் சரிகாணி
+autoanalyser|தானேபகுப்பாய்வி|
+autobiography|தன்வாழ்க்கை வரலாறு|
+autocatalysis|தன்வினையூக்கம்|
+autochory|தற்பரவல்|
+autoclave|அழுத்தக்கணப்பு|
+autocorrect|தானே திருத்து|
+autocracy|தனியாட்சி|autonomy - தன்னாட்சி
+auto-dial|தானேசுழற்று|
+autofill|தானேநிரப்பு|
+autoformat|தானே வடிவூட்டு|
+autogamy|தற்சேர்க்கை|
+autograft|தற்பதியம்|
+autoimmunity|தன்னோயெதிர்ப்பு|
+auto-index|தானேசுட்டெண்ணிடு|
+autolysis|தற்சிதைவு|
+automatic|தானியங்கி|
+automation|தானியக்கமாக்கல்|
+automaton|தானேசெயலி|
+automotive|தானுந்து|
+autonomic nervous system|தன்விருப்ப நரம்பமைப்பு|
+autonomous|தன்னாட்சிய|
+autonomous nervous system|தன்விருப்ப நரம்பமைப்பு|
+autonomy|தன்னாட்சி|autocracy - தனியாட்சி
+autopilot|தானேவலவன்|
+autoplay|தானே வாசி|
+autopolyploidy|தற்பன்மைமெய்யம்|
+autosome|உடல்மெய்யம்|
+autotroph|தானூட்டி|
+auxanometer|வளர்ச்சியளவி|
+auxilliary equation|துணைச் சமன்பாடு|
+auxin|வளரொழுங்காற்றி|
+auxochrome|நிறமிகைப்பி|
+avalanche|வீழ்ச்சரிவு|
+avenue|வீதி|
+average|சராசரி|
+Avery Macleod|ஏவரி மக்ளௌடு|
+aves|பறவைகள்|
+AVI (Audio Video Interleave)|கேகாவி (கேட்பொலி காணொளி இடைச்செருகல்)
+aviary|பறவையகம்|
+avidin|அவிடின்|
+avidity|ஆர்வமம்|
+avifauna|பறவைவளம்|
+avirulent|வீரியமற்ற|
+Avogadro|அவகாடிரோ|
+awareness|விழிப்புணர்வு|
+axial|அச்சிய|
+axial filament|அச்சியச் சிற்றிழை|
+axial skeleton|அச்சிய எலும்புக்கூடு|
+axil|கக்கம் (தாவரவியல்)|aka axilla
+axile placentation|அச்சுச் சூலொட்டுமுறை|
+axilla|கக்கம்|
+axillary bud|கக்க மொட்டு|
+axillary inflorescence|கக்க மஞ்சரி|
+axillary node|கக்க நிணக்கணு|
+axillary solitary cyme|கக்கத் தனி முற்றுநுனியன்|
+axiom|அடிகோள்|postulate - உரைகோள்
+axis|அச்சு|
+axis of rotation|சுழல் அச்சு|
+axon|ஆச்சான்|
+axoneme|அச்சிழை|
+ayurveda|ஆயுள்வேதம்|
+azelaic acid|அசீலிக அமிலம்|
+azidothymidine|அசிடோதைமிடின்|
+azimuth|சாய்வுக்கோணம்|
+azimuthal quantum number|சாய்வுக்கோணத் துணுக்க எண்|
+azo compoud|அசோ சேர்மம்|
+azoic era|உயிர்தோன்றா ஊழி|
+azole|அசோல்|
+azolla|அசோலா|
+azospirillum|அசோச்சுருளியம்|
+azotobacter|அசோற்றோபாட்டர்|
+azotobacteraceae|அசோற்றோபாட்டனையன|
+azygospore|ஓரினவித்து|
+B cell|எலும்பு நிணவணு|aka beta cell, B lymphocyte
+B lymphocyte|எலும்பு நிணவணு|aka B cell, beta cell
+B memory cell|எலும்பு நினைவணு|
+baccate|விதை புதைந்த சதைக்கனி|
+bacillaceae|குச்சியனையன|
+Bacillariophyceae|இருவெட்டியால்கவை|
+bacillary dysentery|குச்சியப்பேதி|
+-bacilli|-குச்சியன|
+bacillus|குச்சியம்|
+-bacillus|-குச்சியம்|
+bacillus acidi lacti|பாலமிலக் குச்சியம்|
+back button|பின்செல் பொத்தான்|
+back cross|பிற்கலப்பு|
+back flap hinge|பின்மடிக் கீல்|
+back office computer system|பின்னணிக் கணினி அமைப்பு|
+backbone|முதுகுத்தண்டு|
+background|பின்களம்|
+backsight|பின்னோக்கு (நிலமளப்பு)|
+backslash|பின்சாய்கோடு|
+backspace|பின்துடைப்பி|
+backup (computer)|காப்புநகல்|
+backward|பின்னோக்கிய|
+Backward Class (BC)|பின்தங்கிய வகுப்பினர் (பிவ)|
+backward difference operator|பின்னோக்கு வேறுபாட்டுச் செயலி
+backwardness|பின்னோக்குமை|
+bacteremia|பாட்டீரியக்குருதி|
+bacteria|பாட்டரசு|
+bacteria|பாட்டீரியங்கள்|
+bacteriaphage|பாட்டீரியவைரசு|பாட்டீரியவிழுங்கி would be a literal translation; but we use பூஞ்சைவைரசு for mycovirus
+bactericide|பாட்டீரியக்கொல்லி|
+bacteriology|பாட்டீரியவியல்|
+bacteriolysis|பாட்டீரியத்தாற்பகுப்பு|
+bacteriolytic enzyme|பாட்டீரியத்தாற்பகுப்பு ஊக்கிப்புரதம்
+bacteriostasis|பாட்டீரியநிலைபெறல்|
+bacteriostatic|பாட்டீரியநிலைநிறுத்தி|
+bacterium|பாட்டீரியம்|பாக்டீரியம் என்ற சொல் இடைநிலை மெய்மயக்கம் என்ற இலக்கண விதியை மீறுகிறது.
+bacteroid|பாட்டீரியனையம்|
+bacteroidaceae|பாட்டீரனையனையன|
+bad debt|வாராக் கடன்|
+bad sector|கெட்ட சுளை|
+bad segment|கெட்ட துண்டம்|
+Bafoed's test|பார்போடின் சோதனை|
+bail|பிணைமீட்பு|
+Bainbridge|பெய்ன்ப்ரிட்ஜ்|
+bainbridge mass spectrometer|பெயின்பிரிசு நிறை நிறமாலையளவி
+bakanae|கோமாளிநாற்று|
+bakelite|பேக்கலைட்டு|
+baking soda|சமையல் சோடா|
+balance n|சமனம்|
+balance sheet|இருப்புத் தாள்|
+balance v|சமனமாக்கு|
+balanced diet|சரிவிகித உணவு|
+balanced forces|சமமான விசைகள்|
+balanced load|சமனச் சுமை|
+balancing|சமனமாக்கல்|
+balancing an account|கணக்கைச் சமனமாக்கல்|
+balanoglossus|பலனோகிளாசு|
+balanus|முள்ளற்ற ஓட்டுச்சிப்பி|
+Balfour's law|பால்பரின் விதி|
+ball bearing|மணிப்பொதி|
+ball pane hammer|பந்துப்பாளச் சுத்தியல்|
+ballismus|பலிசுமவலிப்பு|
+balloon|ஊதுபை|
+balloon catheter|ஊதுபை செருகுகுழல்|
+Balmer series|பாமரின் தொடர்|
+baluster|கந்து|
+banana bunchy top disease|வாழையின் உச்சிக்குவி நோய்|
+band spectrum|பட்டை நிறமாலை|
+banded krait|கட்டுவிரியன்|
+banding|பட்டையிடுதல்|
+bandwidth|பட்டையகலம்|
+Bangalore|பெங்களூரு|
+bank|வங்கி|
+bank rate|வங்கி வீதம்|
+banker|வங்கியர்|
+banking|வங்கியம்|
+Banking Regulation Act|வங்கி ஒழுங்கமைத்தல் சட்டம்|
+bar diagram|பட்டைப் படவரைவு|
+bar magnet|பட்டைக் காந்தம்|
+barb|பின்னி|
+Barbara McClintock|பார்பரா மக்லின்றாக்|
+barbiturate|பார்பிட்டுரேட்டு|
+barbituric acid|பார்பிட்டுரிக அமிலம்|
+barbule|குறும்பின்னி|
+barcode|பட்டைக்குறி|
+barcode reader|பட்டைக்குறி படிப்பி|
+bargain|விலைபேசு|
+bargaining|விலைபேசல்|
+bargaining power|விலைபேசு திறன்|
+barium|பேரியம்|
+Barkhausen condition|பர்கௌசனின் நிபந்தனை|
+barnacle|ஓட்டுச்சிப்பி|
+Barnard's star|பார்னடின் விண்மீன்|
+Baroda|பரோடா|
+barracuda|ஊலாமீன்|
+barrel|பீப்பாய்|
+barrel bolt|பீப்பாய்த் தாழ்|
+barrier|தட்டி|
+barrier reef|தட்டிப் பவளப்பாறைகள்|
+barter|பண்டமாற்று|
+bartonella|பார்ட்டனியம்|
+bartonellaceae|பார்ட்டனியனையன|
+baryon|பேரியன்|
+basal cell|அடியணு|
+basal placentation|அடிச் சூலொட்டுமுறை|
+basalt|பசாற்றுக்கல்|
+base|அடிமானம்|
+base hydrolysis|கார நீராற்பகுப்பு|
+base pair|கார இணை|
+basement membrane|அடித்தளச் சவ்வு|
+basic Bessemer process|கார பெசிமர் வழிமுறை|
+Basic Telecommunication Access Method (BTAM)|அடிப்படை தொலைத்தகவற்றொடர்பு அணுகல் முறை (அதொவமு)
+basicity|காரத்துவம்|
+basidiomycete|பேசிடியப்பூஞ்சை|
+basidium|பேசிடியம்|
+basifixed anther|அடிப்பிணைப்பு மகரந்தம்|
+basilar membrane|அடிமானச் சவ்வு|
+basipetal|அடிநோக்கிய|acropetal - உச்சிநோக்கிய
+basophil|காரச்சாயவிரும்பி|
+basophilic|காரச்சாயவிருப்ப|
+batch|இடுதொகுதி|
+batten|கிடைச்சட்டம்|
+battery|மின்கல அடுக்கு|
+baud|நொடிக்கு … இணு|
+bay|விரிகுடா|
+bay window|துருத்துச் சாளரம்|
+Bayes|பேஸ்|சரியான ஆங்கில உச்சரிப்பு
+Bayes' theorem|பேசின் தேற்றம்|
+bazaar|கடைத்தெரு|
+BC (Backward Class)|பிவ (பின்தங்கிய வகுப்பினர்)|
+bdellovibrio|பிடல்லதிரியம்|
+beach|மணற்கரை|
+bead|பரல்|
+beak|அலகு (பறவையியல்)|
+beaker|முகவை|
+beam (construction)|உத்தரம்|
+beam of light|ஒளிக்கற்றை|
+bear|கரடி|bull - காளை
+bearer check|கொள்வார் காசோலை|
+bearing (mechanical)|தாங்கம் (எந்திரவியல்)|
+beast|மிருகம்|
+beats|விம்மல்கள்|
+Beckmann method|பெக்குமனின் முறை|
+Beckmann thermometer|பெக்குமனின் வெப்பநிலையளவி
+becquerel|பெக்கரல்|
+bed (river)|படுகை|
+bed joint|படுகை இணைப்பு|
+bee keeping|தேனீ வளர்த்தல்|aka apiculture
+beech|பீசம்|
+Beer-Lambert law|பீர்லாம்பர்ட்டின் விதி|
+beeswax|தேனீமெழுகு|
+beetle|வண்டு|
+behavior|நடத்தை|
+behavioural character|நடத்தைப் பண்பு|
+behenic acid|பெயனிக அமிலம்|
+belt course|வாரடுக்கு|
+belting|வாரிடல்|
+bench|பலகை|
+bench cetriguge|பலகைச் சுழல்வீழ்த்தி|
+Benda|பெண்டா|
+Benedict's reagent|பெனடிக்கின் வினையாக்கி|
+Benedict's test|பெனடிக்கின் சோதனை|
+beneficial|பயன்தரு|
+beneficial insects|பயன்தரு பூச்சிகள்|
+benefit|பெறுபயன்|
+benevolent|தீங்கிழையா|
+benign|தீங்கற்ற|
+benign tumor|தீங்கற்ற கழலை|
+Bentham and Hooker classification|பெந்தங்குக்கரின் வகைப்பாடு|
+benthic|நீரடி|
+-benzaldehyde|-பென்சால்டிகைடு|
+benzene|பென்சீன்|
+benzenoid|பென்சீனனையம்|
+benzhydrol|இருபினைல் கரிமனால்|
+benzo-|பென்சோ-|
+benzoic acid|பென்சாயிக அமிலம்|
+benzoin|பென்சாயின்|
+benzoyl chloride|பென்சாயில் குளோரைடு|
+benzyl|பென்சைல்|
+Bergius process|பெர்கியசின் வழிமுறை|
+beriberi|பெரிபெரி|
+berkelium|பெருக்கிலியம்|
+Berkley-Hartley|பெர்க்கிலி-ஹார்ட்லி|
+berm|ஓரத்தடுப்பு|
+Bernoulli|பெர்னூலி|
+Bernoulli's theorem|பெர்னூலியின் தேற்றம்|
+beryllium|பெரிலியம்|pyrylium - பிரிலியம்
+Bessemer |பெசமர் |
+Bessemer process|பெசமரின் வழிமுறை|
+bessemerization|பெசமராக்கல்|
+beta|பீற்றா|
+beta cell|எலும்பு நிணவணு|aka B cell, B lymphocyte
+beta particle|பீற்றா துகள்|
+beta sheet|பீற்றா தகடு|
+beta turn|பீற்றா திருப்பம்|
+beta version|பீற்றா பதிப்பு|
+betalactamase|பீற்றாபாலமைடூக்கி|
+Betelgeus|மூதிரை|
+bevel|சாய்விளிம்பு|
+beveled closer|சாய்விளிம்பு மூடுகல்|
+Bharatiya Janata Party (BJP)|இந்திய மக்கள் கட்சி (இமக)|
+Bhaskara|பாஸ்கரா|
+&beta;-hydroxybutyric acid|&beta;-நீர்மூச்சியநான்கவாயிக அமிலம்
+bi-|இரும-|
+bias|கோடல்|
+bicameralism|ஈரவையம்|இரு + அவையம்
+bicarbonate|இருகரியமிலேட்டு|
+bicarpellary|இருசூலிலை|
+bicarpellatae|இருசூலிலையன|
+biceps|இருதலைத் தசை|
+biceps brachii|கையிருதலைத் தசை|
+biceps femoris|காலிருதலைத் தசை|
+bicollateral|ஈரிணைக்கிளை|
+biconcave|இருகுழிந்த|
+bi-conditional|இருநிபந்தனை|
+bicuspid valve|இருகுமிழ் தடுக்கிதழ்|aka mitral valve
+bicycle|மிதிவண்டி|
+bicyclic|இருசுழலி|
+bicyclic compound|இருசுழல் சேர்மம்|
+bifidobacterium|இருபிரிவுப்பாட்டீரியம்|
+bifoliate|ஈரங்கை|
+bifurcate|இருபிரி|
+bifurcated stair|இருபிரி படிக்கட்டு|
+big bang theory|பெருவெடிப்புக் கோட்பாடு|
+big integer|பெரு முழுவெண்|
+big toe|கட்டைவிரல்|
+bigram|இருசொற்றுகள்|
+bijective function|இருபுறச் சார்பு|
+bilabiate|ஈருதடுள்ள|
+bilateral|இருபக்க|
+bilayer|இருபடலம்|
+bile duct|பித்த நாளம்|
+bilharzia|குருதிக்கொக்கியம்|
+bilirubin|பித்தச்செம்மை|
+bill of exchange|இடைமாற்றச்சீட்டு|
+bill of landing|இறங்கற்சீட்டு|
+billboard|விளம்பரப் பலகை|
+billion (short scale)|மும்மடியாயிரம்|
+bilobed|இரட்டைமடலுடைய|
+bimetallic strip|ஈருலோகப் பட்டை|
+bimolecular elimination reaction|இரட்டை மூலக்கூறு நீக்க வினை|
+bimolecular nucleophilic substitution reaction|இரட்டைமூலக்கூறு அணுக்கருவிருப்பப் பதிலீட்டு வினை
+binary|இருமம் (கணிதம்)|
+binary addition|இருமக் கூட்டல்|
+binary arithmetic|இருமக் கணக்கீடுகள்|
+binary digit|இரும இலக்கம்|
+binary fission|இருமப் பிளவுறுதல்|
+binary operation|இருமச் செயலம்|
+binary operator |இருமச் செயலி|
+binary search|இருமத் தேடல்|
+binary solution|இருமக் கரைசல்|
+Binary synchronous Communication (BSC)|இவுத (இரும உடன்கால தகவற்றொடர்பு)
+binaural|இருகாது|
+binding energy|கட்டிணை ஆற்றல்|பிணைப்பு ஆற்றல் - bond energy
+binocellate|மூக்குக்கண்ணாடியன்|
+binocular|இருகண்ணோக்கி|இரு கண் + நோக்கி
+binocular vision|இருகண் பார்வை|
+binomial|ஈருறுப்பு|
+binomial (expression)|ஈருறுப்புக்கோவை|
+binomial nomenclature|ஈருறுப்புப் பெயரிடுமுறை|
+binomial theorem|ஈருறுப்புத் தேற்றம்|
+binucleate|இரட்டைக்கருவின|
+biocatalysis|உயிரியவினையூக்கம்|
+biochemistry|உயிரியவேதியியல்|
+biochip|உயிரியச்சில்லு|
+biocontrol|உயிரியக் கட்டுப்பாடு|
+bioconversion|உயிரியமாற்றியமைத்தல்|
+bio-degradable|மக்கும்|
+biodiversity|உயிர்மப் பன்மயம்|
+Biodiversity Support Program (BSP)|உயிர்மப் பன்மய ஆதரவு திட்டம்|
+bioengineering|உயிர்ப்பொறியியல்|
+biofertilizer|உயிரிய உரம்|
+biofuel|உயிரிய எரிபொருள்|
+biogas|உயிரியவளிமம்|
+biogenesis|உயிருடைமைக் கோட்பாடு|
+biogeocycle|புவியுயிரியச்சுழற்சி|
+biogeography|உயிரியப்புவியியல்|
+biography|வாழ்க்கை வரலாறு|
+bioinformatics|உயிரியத்தகவலியல்|
+biological |உயிரிய|
+biological classification|உயிரிய வகைப்பாடு|
+biological membranes|உயிரியச் சவ்வுகள்|
+biological pathway|உயிரிய வழித்தடம்|
+biological species concept|உயிரிய இனக் கருத்துரு|
+biological warfare|உயிரிய போர்க்கருவிகள்|
+biological weapon|உயிரிய ஆயுதம்|
+biologist|உயிரியர்|
+biology|உயிரியல்|
+biomass|உயிரியத்திரள்|
+biome|உயிரியத்திணை|
+biomedicine|உயிரிய மருந்து|
+biometrician|உயிரிய அளவீட்டார்|
+biometrics|உயிரிய அளவீடுகள்|
+biomolecule|உயிரியமூலக்கூறு|
+biopatent|உயிரிய புனைவுரிமம்|
+biopesticide|உயிரிய தீங்குயிரிக்கொல்லி|
+biophysics|உயிரிய இயற்பியல்|
+biopiracy|உயிரியக் கொள்ளை|
+biopsy|தசைச்செதுக்கு|
+bioremediation|உயிரியமீள்சீராக்கம்|
+bioresource|உயிரிய வளம்|
+biosensor|உயிரியவுணரி|
+biosphere|உயிர்க்கோளம்|
+biosystematics|உயிரிய அமைப்புமுறை|
+biosysthesis|உயிரியத்தொகுத்தாக்கம்|
+biotechnology|உயிரியத் தொழில்நுட்பம்|
+biotic agents|உயிருள்ள முகவர்கள்|
+biotin|பயோட்டின்|
+Biot-Savart law|பயட்டு சாவர்ட்டின் விதி|
+bipennate|இறகுத்தசைய|
+bipinnate|இரட்டையிறக|
+bipyramid|இருநாற்கூம்பு|
+bipyramidal|இருநாற்கூம்ப|
+birth control|பிறப்புக் கட்டுப்பாடு|
+birth fracture|பிறப்பு எலும்புமுறிவு|
+birth rate|பிறப்பு வீதம்|
+bis-|இரும-|
+bisect|இருசமவெட்டு|
+bisector|இருசமவெட்டி|
+bisexual|இருபாலின|heterosexual - வேற்றுப்பாலின
+bismuth|பிசுமத்து|
+bistable|இருநிலைப்பு|
+bit (computer)|இணு|
+bitmap|இணுப்படம்|
+Bitot's spot|கண்புள்ளி|
+bitumen|பித்துமன்|
+bituminous|பித்துமன|
+Biuret complex|பையூரதக் கூட்டுமம்|
+bivalve|இருவோடன்|
+bivalvia|இருவோடன்கள்|aka pelecypoda
+bivariate|இருநேர்வுமாறி|
+BJP (Bharatiya Janata Party)|இமக (இந்திய மக்கள் கட்சி)|
+black body|கரும்பொருள்|
+black molly|கருப்பு மோலி|
+black money|கருப்புப் பணம்|
+black water fever|கருநீர்க் காய்ச்சல்|
+bladder|பை|
+bladder (anatomy)|சிறுநீர்ப்பை|
+blade|வாள்|
+blade (fan)|இறக்கை (விசிறி)|
+blank|இடைவெளி|
+BLAST (basic local alignment search tool)|தல நேரமைத்தல் தேடு கருவி (தநதக)
+blast furnace|ஊதுலை|
+blast furnace slag|ஊதுலைக் கசடு|
+blastocaulis|மிதவைப்பூஞ்சையம்|aka planctomyces
+blastocoel|கருக்குழியம்|
+blastoderm|கருக்கோளவுறை|
+blastomere|பிளவணு|
+blastomycosis|முளைப்பூஞ்சைநோய்|
+blastopore|கருக்கோளத்துளை|
+blastula|கருக்கோளம்|
+bleach|வெளுப்பான்|
+bleaching powder |வெளுப்புத் தூள் |
+bleeding|குருதிப்போக்கு|
+blender|விரவி பெ|
+blending inheritance|கலவை மரபுபெறல்|
+blending theory|கலவை கோட்பாடு|
+blepharoplast|இமைக்குழைமம்|
+blind spot|குருட்டுமையம்|
+blister|கொப்புளம்|
+blistering|கொப்புளித்தல்|
+bloc|கூட்டவை|
+block (solid)|கட்டி|
+block diagram|கட்டப் படவரைவு|
+block leader|கட்ட முன்னடத்தி|
+blog|வலைப்பதிவு|
+blood cell|குருதி அணு|
+blood clotting factor|குருதியுறை காரணி|
+blood group|குருதித் தொகுதி|
+blood plasma|குருதிக் குழைமம்|
+blood pressure|குருதியழுத்தம்|
+blood reservoir|குருதித் தேக்கி|
+blood vessel|குருதிக்குழல்|
+blooming|பூத்தல்|
+blotting paper|ஒற்றுத்தாள்|
+blue green alga|நீலப்பசும் ஆல்கா|
+blue whale|நீலத்திமிங்கிலம்|
+bluetongue|நீலநாக்கு|
+board|வாரியம்|
+board of directors|இயக்குனரவை|
+boat conformation|படகு வெளிவடிவம்|
+body circulation|உடற்சுற்றோட்டம்|
+Body Mass Index|உடலெடைச் சுட்டெண்|
+body-centered cube|கூடுமையக் கனச்சதுரம்|
+bog|சேற்றுநிலம்|
+bohrium|போரியம்|
+Bohr's atom model|போரின் அணு ஒப்புரு|
+boiling point|கொதிநிலை |
+bold (word processing)|தடிமன் (உரையலசல்)|
+bollworm|பருத்திப்புழு|
+bolt|தாழ்ப்பாள்|
+BOLT (Bombay Online Trading)|முவிவி (மும்பை இணையவழி வியாபாரம்)
+bolting (botany)|திடீர்வளர்ச்சி|
+bolus|கவளியம்|
+bombard|தொடர்தாக்கு|
+bombardment|தொடர்தாக்குதல்|
+Bombay Online Trading (BOLT)|மும்பை இணையவழி வியாபாரம் (முவிவி)
+Bombay Stock Exchange (BSE)|மும்பை பங்கு மாற்றகம் (முபமா)
+Bon Frankston|பான் ஃப்ராங்க்ஸ்ற்றன்|
+bond (chemistry)|பிணைப்பு|
+bond (finance)|பிணையம்|
+bond energy|பிணைப்பு ஆற்றல்|binding energy - கூட்டிணை ஆற்றல்
+bond length|பிணைப்பு நீளம்|
+bond order|பிணைப்பு முறைமை|
+bonded warehouse|பிணைய இருப்பகம்|
+bonding orbital|பிணைப்புறும் அலைமண்டலம்|
+bone black|எலுங்கரி|
+bone marrow|எலும்பு ஊன்|
+bonnet|தொப்பி|
+bonus|மேற்படி|
+bony labyrinth|எலும்புப் பின்னல்|
+booking|பதிவுசெய்தல்|
+bookkeeper|கணக்கர்|accountant - கணக்கியர்; mathematician - கணிதர்
+bookkeeping|கணக்குவைத்தல்|
+booklet|குறுநூல்|
+books of original entry|முதற் பதிகை யேடுகள்|
+boolean|பூலிய|
+boolean algebra|பூலிய இயற்கணிதம்|
+boolean operator|பூலியச் செயலி|
+boot sector virus|தொடக்கச் சுளை நச்சுநிரல்|
+borax|போராச்சு|
+borax bead|போராச்சு பரல்|
+border|கரை|
+bordered pit|கரையுடைகுழி|
+bore well|துளை கிணறு|
+borellia|பொரெல்லியங்கள்|
+boric acid|போரிக அமிலம்|
+boring|துளைப்பு|meatus - துளையம்
+Borodine|போரோடைன்|
+boron|போரான்|
+borrower|கடன்பெறுவோர்|
+BOS (Basic Operating System)|அடிப்படை செயற்பாடமைப்பு|
+bos (zoology)|அசைபோடுவன|
+bos buffalo|எருதனையம்|
+bos indicus|திமிலுள்ளவை|
+bos taurus|திமிலற்றவை|
+Bosch's process|பாசுவின் வழிமுறை|
+botanical gardens|தாவரவியில் தோட்டம்|
+Botanical Survey of India|இந்தியத் தாவரவியல் கணிப்பு|
+botanist|தாவரவியலர்|
+bottleneck|குறுங்கழுத்து|
+bottleneck effect|குறுங்கழுத்து விளைவு|
+bottom (quark)|அடி (குவார்க்கு)|
+bottom rail|கீழ்க்கிடைப்பட்டை|
+bottom up|கீழிருந்து மேல்|
+botulin|பாச்சுலின்|
+botulinum|பாச்சுலியம்|
+botulism|பாச்சுலிசம்|
+boulevard|நிழல்வீதி|
+bound|வரம்பு|
+boundary|வரப்பு|
+boundary condition|வரப்பு நிபந்தனை|
+bounded|வரம்புட்பட்ட|
+bouton|பொத்தன்|
+Bouveault-Blanc reduction|பூவால்டு பிளாங்கின் மூச்சியமிறக்கம்
+bow campus|விற்கவராயம்|
+bow handle|விற்பிடி|
+bowed legs|வளைந்த கால்கள்|
+Bowman's capsule|பௌமன் பெட்டகம்|
+bowsprit|விற்கம்பம்|
+Boyle's law|பாயிலின் விதி|
+brace n|பிடிப்பம்|
+brace v|பிடிப்பி|
+braced door|பிடிப்பக் கதவு|
+brachial artery|கைகால் தமனி|
+brachial vein|கைகால் சிரை|
+brachialis muscle|கையுருட்டுத் தசை|
+brachii|கைத்தசை|
+brachio cephalic artery|கைத்தலைத் தமனி|
+bracket|அடைப்புக்குறி|
+bracket fungi|சிப்பிப்பூஞ்சை|
+bracketed key|அடைப்புண்ட திறப்பி|
+Brackett series|பிராக்கெட்டின் தொடர்|
+brackish water|கழிமுகநீர்|
+bract|பூவடிச்செதில்|
+bracteate|பூவடிச்செதிலுள்ளது|
+bracteolate|பூக்காம்புச்செதிலுள்ளது|
+bracteole|பூக்காம்புச்செதில்|
+bradyrhizobium|பிராடிகிழங்கியம்|
+Bragg|பிரேகு|
+Brahma|பிரம்மா|
+brain coral|மூளைப் பவளம்|
+brain stem|மூளைத்தண்டு|
+brain tumor|மூளைக் கழலை|
+brake|தடுப்பி|
+brake oil|தடுப்பி எண்ணெய்|
+branched chain|கிளையுள்ள கோர்வை|
+branching|கிளைத்தல்|
+branchio cephalic vein|கைத்தலைச் சிரை|
+branchiole|மூச்சுநுண்குழல்|
+brass|பித்தளை|
+brazing|பித்தளையேற்றல்|
+break|முறி|
+breakdown|பழுதடைதல்|
+breakdown value|பழுதடை மதிப்பு|
+breakpoint|முறிப்பிடம்|
+breast|மார்பகம்|thoracic region - மார்புப் பகுதி
+breast cancer|மார்பகப் புற்று|
+Bredig's arc method|பிரடிக்கின் மின்வில் முறை|
+breed n|இனவகை|
+breed v|இனவளர்|
+breeder|இனவளர்ப்பாளர்|
+breeding|இனவளர்ப்பு|reproduction - இனப்பெருக்கம்
+brevibacterium|சுருக்கப்பாட்டீரியம்|
+brevity|சுருக்கம்|
+Brewster's law|புரூட்டரின் விதி|
+brick|செங்கல்|
+brick bat|கற்கட்டி|
+brick on edge bond|குத்துக்கல் பிணைப்பு|
+bridge|பாலம்|
+Briggs|ப்ரிக்ஸ்|
+bright field microscope|ஒளிர்க்கள நுண்ணோக்கி|
+brightness|ஒளிர்மை|
+brinjal shoot and fruit borer|கத்தரிக்காய்த் துளைப்பான்|
+Brittish|பிரித்தானிய|
+broad side on positon|பக்க நோக்குநிலை|
+broad spectrum antibiotic|அகற்பயன் உயிரியெதிர்ப்பி|
+broadcast|அகற்பரப்பல்|
+brochothrix|முடிச்சிழையம்|
+broker |தரகர்|
+brokerage|தரகு|
+bromine|புரோமின்|
+bromo-|புரோமோ-|
+bromo-|புரோமோ-|
+bronchitis|மூச்சுச்சிறுகுழலழற்சி|
+bronchoscopy|மூச்சுச்சிறுகுழல்நோக்கல்|
+bronchus|மூச்சுச் சிறுகுழல்|
+bronchus associated lymphoid tissue (BALT)|மூச்சுச்சிறுகுழலின் நிணவனைய திசு (மூநிதி)
+brontosaurus|முழக்குலி|
+bronze|வெண்கலம்|
+brooding (chicks)|குஞ்சுகாத்தல்|
+brooding (eggs)|அடைகாத்தல்|
+broth|வடிநீர்|
+Brownian motion|பிரௌனின் இயக்கம்|
+browse|மேலோடு|
+browser|மேலோடி|
+brucella|புருசெல்லியம்|
+brucellosis|புருசெல்லியநோய்|
+bruise|சிராய்ப்பு|
+brush|தூரிகை|
+brute force|முரட்டுவிசை|
+bryophyte|பாசித்தாவரம்|
+BSC (Binary synchronous Communication)|இரும உடன்கால தகவற்றொடர்பு (இவுத)
+BSE (Bombay Stock Exchange)|முபமா (மும்பை பங்கு மாற்றகம்)
+&beta;-sheet|&beta;-தகடு|
+BTAM (Basic Telecommunication Access Method)|அதொவமு (அடிப்படை தொலைத்தகவற்றொடர்பு அணுகல் முறை)
+&beta;-turn|&beta;-திருப்பம்|
+bubble boy syndrome|குமிழ்ச் சிறுவன் குறித்தொகுப்பு|
+bubble sort|குமிழி முறைமையாக்கல்|
+bubbled AND gate|குமிழ உம்ம வாயில்|
+bubbled OR gate|குமிழ அல்லது வாயில்|
+bubonic plague|நிணச்சுரப்பிக் கொள்ளைநோய்|
+buccal|வாய்சார்|
+buccal cavity|வாய்க்குழி|
+buccal gland|வாய்ச்சுரப்பி|
+buccal mucosa|வாய்க்கோழைச்சவ்வு|
+buccinator muscle|கன்னத்தசை|
+Buckminster Fuller|பக்மின்ஸ்டர் ஃபுல்லர்|
+buckyball|பக்கிப்பந்து|
+bud|மொட்டு|
+bud pollination|மொட்டிற்சேர்க்கை|
+budget|நிதித்திட்டம்|
+buffer|தாங்கம்|
+buffer action|தாங்கம் வினை|
+buffer solution|தாங்கக் கரைசல்|
+buffer system|தாங்கமமைப்பு|
+buffering|தாங்கவைப்பு|
+bug (computer)|நிரற்பிழை|
+builder|கட்டுவோர்|
+building|கட்டிடம்|
+building block|கட்டமானக் கட்டி|
+built-in|உட்கட்டு|
+built-in check|உட்கட்டுச் சரிகாணல்|
+bulb|குமிழம்|
+bulbil|சிறுகுமிழம்|aka bulblet
+bulblet|சிறுகுமிழம்|aka bulbil
+bulbourethral gland|புறவழிக்குமிழச் சுரப்பி|
+bulk carrier|பெருஞ் சுமப்பி|
+bulk modulus|பருமக் குணகம்|
+bulking of sand|மணல் திணிதல்|
+bull|காளை|bear - கரடி
+bull nose|எருதுமூக்கு|
+bulldozer|நிலச்சமமாக்கி|
+bullet |பொட்டியம்|
+bullet list|பொட்டியமிட்ட பட்டியல்|
+bulletin board|அறிவிப்புப் பலகை|
+buna rubber|நாசோ தேய்ப்பி|நான்கவைல் சோடியம் தேய்ப்பி
+buna-n rubber|நாசோவை தேய்ப்பி|நான்கவைல் சோடியம் வைனில்சயனலி தேய்ப்பி
+buna-s rubber|நாசோபி தேய்ப்பி|நான்கவைல் சோடியம் பினித்தீன் தேய்ப்பி
+bunch|கொத்து|bundle - கட்டு
+bundle|கட்டு|bunch - கொத்து
+bundle of His|கிசுக்கட்டு|
+Bunsen burner|புன்சன் எரிப்பி|
+bureau |பேழையகம்|
+burette|சொட்டளவி|
+burglary insurance|கொள்ளைக் காப்பீடு|
+Burk, Dean|பர்க், டீன்|
+burl|திரளை|
+burner|எரிப்பி|
+burning CD |குறுவட்டு எழுதுதல்|
+burnt brick|சுட்ட செங்கல்|
+bursa of Fabricius|பாபிரிசியரின் பை|
+burst|துள்ளல்|
+bus (computer)|பாட்டை (கணினியி்யல்)|
+bus network (computer)|பாட்டை வலையம் (கணினியி்யல்)
+bushing|உள்ளாழி|
+business|செயன்மை|
+business premise|செயன்மை நடப்பிடம்|
+business to business|செயன்மை செயன்மையிடை|
+business to consumer|செயன்மை நுகர்வோரிடை|
+businessperson|செயன்மையாளர்|
+Busra|பசுரா|
+but-2-yne|நான்க-2-ஐன்|
+buta-|நான்க-|
+butadiene|நான்கவீரீன்|
+butane|நான்கவேன்|
+butanol|நான்கவால்|
+butarate|நான்கவாயிகேட்டு|
+butt hinge|முட்டுக் கீல்|
+butt joint|முட்டிணைப்பு|
+butterfly|பட்டாம்பூச்சி|silik moth - பட்டுப்பூச்சி
+buttocks|குண்டி|
+button|பொத்தான்|
+butyl|நான்கவைல்|
+butyl rubber|நான்கவைல் தேய்ப்பி|
+butyne|நான்கவைன்|
+butyric acid|நான்கவாயிக அமிலம்|
+buyer|வாங்குபவர்|
+buying|வாங்கல்|
+buzzer|கீச்சன்|
+bypass|புறவழி|
+bypass surgery|புறவழி அறுவைசிகிச்சை|
+byte|எணு|
+byte stream file|எணுத்தாரைக் கோப்பு|
+C|உசி|
+C arm (RNA)|இடக்கிளை (அனரி)|
+C language|உசி மொழி|
+C programming language|உசி நிரல்மொழி|
+C++|உசிமிகை|
+cabbage|இலைக்கோசு|cauliflower - பூக்கோசு
+cabinet|அமைச்சவை|
+cable|வடம்|
+cable television|கம்பித் தொலைக்காட்சி|
+cache|மறையுறை|
+cache memory|அண்மை நினைவகம்|
+CAD (computer-aided design)|கவுவ (கணினி உதவிய வடிவமைப்பு)
+cadastral|வரியேட்டு|
+cadastre|வரியேடு|
+cadaver|வெற்றுடல்|
+cadmium|கடமியம்|
+caducous|முன்னுதிரி|
+CAE (computer-aided engineering)|கவுபொ (கணினி உதவிய பொறியியல்)
+caecilian|மறைக்காலி|
+caecum|பெருங்குடல்வாய்|
+Cahn-Ingold-Prelog convention|கான் இங்கோல்டு பிரிலாகின் மரபேற்பு
+CAI (computer-aided instruction)|கவுறி (கணினி உதவிய அறிவுறுத்தல்)
+caisson foundation|கேசிய அடிப்படை|
+calamus|குழற்றண்டு|
+calcareous|சுண்ணாம்பு பெ.எ|
+calcination|நீற்றுதல்|நீர்த்தல் - dilution
+calcitonin|கால்சிடோனின்|
+calcium|கால்சியம்|
+calcium hypoclorite|கால்சியம் கீழ்க்குளோரைட்டு|
+calculation|கணக்கிடல்|
+calculator|கணிப்பான்|computer - கணினி
+calculus|நுண்கணிதம்|
+calculus (health)|உள்ளுறுப்புக்கல்|
+calendar|நாட்காட்டி|
+calibration|அளசுரமாக்கல்|
+californium|கலிபோர்னியம்|
+call|விளி|
+call by address|முகவரி மூலம் விளித்தல்|
+call by reference|முகடி மூலம் விளித்தல்|
+call by value|மதிப்பு மூலம் விளித்தல்|
+call option|விளி விருப்புமை|
+called function|விளிப்புறும் சார்பு|
+called-up capital|விளித்த மூலதனம்|
+calling function|விளிக்கும் சார்பு|
+callus|காய்ப்பு|
+calorimeter|வெப்பளவி|thermometer - வெப்பநிலையளவி
+calyciflorae|பூக்கோப்பையன|
+calyptra|பெட்டகமூடி|
+calyx|புல்லிவட்டம்|
+CAM (computer-aided manufacturing)|கவுவு (கணினி உதவிய உற்பத்தி)|
+camber|மேட்டுவளைவு|
+cambium|மாறிழையம்|
+Cambrian period|கேம்பிரியக் காலம்|
+Cambridge|கேம்பிரிடிசு|
+camera|படக்கருவி|
+Camillo Golgi|கமீல்லா கால்ஜீ|
+Camoquin|கேமோகுவின்|
+camphor|சூடம்|
+campylobacter|வளைபாட்டர்|
+campylotropous ovule|வளைவுற்ற சூல்|
+canal|கால்வாய்|
+canal rays|துளைக் கதிர்கள்|
+canaliculus|சிறுகால்வாய்|
+canalization|வழிப்படுத்தல்|
+Canaries current|கனேரிய நீரோட்டம்|
+cancel|களைவி|
+cancellation|களைவம்|
+cancellation law|களைவ விதி|
+cancellous bone|மென்னெலும்பு|
+cancer|புற்றுநோய்|
+candela|காண்டலா|
+candida|தெளிவம்|
+candida albicans|அல்பிக்கத் தெளியம்|
+candidiasis|தெளிவநோய்|
+canine (teeth)|கோரைப்பல்|
+Cannizzaro reaction|கன்னிசாரோவின் வினை|
+canteen|சிற்றுண்டிச்சாலை|
+capacitance|மின்தேக்கம்|
+capacitance vessel|மின்தேக்கிக் குழல்|
+capacitive reactance|மின்தேக்கி எதிர்வினையம்|
+capacitor|மின்தேக்கி|aka condenser
+capacity|கொள்ளளவு|volume - பருமன்
+capillarity|நுண்புழைவு|
+capillary|நுண்புழை|
+capillary rise|நுண்புழையேற்றம்|
+capital|மூலதனம்|investment - முதலீடு
+capital expense|மூலதனச் செலவு|
+capital gain|மூலதனப் பெறுமம்|
+capital goods|மூலதனப் பொருட்கள்|
+capital transaction|மூலதன வணிமாற்றம்|
+capitalism|மூலதனத்துவம்|
+capitalistic|மூலதனத்துவ|
+capitulum|சிரமஞ்சரி|
+capnocytophaga|புகையுறையுண்ணியங்கள்|
+capnophile|புகைவிரும்பி|கிரேக்கம்; capno - புகை
+caproic acid|கப்பிராயிக அமிலம்|
+caprylic acid|கப்பிரிலிக அமிலம்|
+caps lock key|உயர்நிறுத்தி விசை|
+capsid|புரதக்கூடு|
+capsomere|புரதக்கூடலகு|
+capsule|பெட்டகம்|
+captain|கலத்தலைவன்|
+caption|குறிப்புரை|
+car|சிற்றுந்து|
+car dealer|சிற்றுந்துப் பகிரர்|
+caramel|கூப்பனி|
+carapace|முதுகுவோடு|
+-carbaldehyde|-கரிமால்டிகைடு|
+carbamic acid|கரிமமூச்சியமினிக அமிலம்|
+carbamoyl|கரிமமூச்சியமின|
+carbamoyl-|கரிமமாயில்-|
+carbamoyl phosphate synthetase|கரிமமூச்சியமின பாசுவேட்டு தொகுத்தாக்கவூக்கி
+carbanion|கரிம எதிர்மயனி|
+carbazide|கரிமசைடு|
+carbide|கரிமைடு|
+carbinol|கரிமனால்|
+carbohydrate|சர்க்கரேட்டு|
+carbon|கரிமம்|
+carbon black|கருப்புக்கரி|
+carbon dioxide|கரிம இருமூச்சியைடு|
+carbon monoxide|கரிம ஒற்றைமூச்சியைடு|
+carbon sequestration|கரிமத் தனியமிழ்த்தல்|
+carbonate|கரியமிலேட்டு|
+carbonic|கரியமில|carboxyl - கரிமமில
+carbonic anhydrase|கரியமில நீர்நீக்கவூக்கி|
+Carboniferous periods|கரிமயக் காலங்கள்|
+carbonium|கரிமோனியம்|
+carbonyl|கரிமமூச்சிய|
+carboselenoic acid|கரிமச்செலினாயிக அமிலம்|
+carbothionic acid|கரிமக்கந்தக அமிலம்|
+carboxyl|கரிமமில|carbonic - கரியமில; carbonyl - கரிமமூச்சிய
+carboxyl terminus|கரிமமில நுனி|
+carboxylate|கரிமமிலேட்டு|
+carboxylic acid|கரிமமிலம்|
+carboxypepsidase|கரிமமிலப் புரதையூக்கி|
+carburetor|எரிகலப்பி|
+carbylamine|கரிமவமீன்|aka isocyanide
+carcinogenesis|புற்றாக்கம்|
+carcinogenic|புற்றாக்கி|
+carcinoma|தசைப்புற்று|
+card|அட்டை|
+card dealer|சீட்டுப் பகிரர்|
+card deck|அட்டைக் கட்டு|
+card punching|அட்டைத் துளையிடல்|
+card reader|அட்டைப் படிப்பி|
+card sorting|அட்டை முறைமையாக்கல்|
+cardiac arrest|இதயம் நின்றுவிடல்|
+cardiac cycle|இதயச் சுழற்சி|
+cardiac muscle|இதயத் தசை|
+cardiac opening|உணவுக்குழலின் இரைப்பைத் திறப்பு|aka gastroesophageal opening
+cardiac stomach|இதயப்பக்க இரைப்பை|
+cardiac tissue|இதயத் திசு|
+cardinal number|முதலெண்|
+cardinality|கண எண்|
+cardiography|இதயவரைவு|
+cardiopulmonary resuscitation|இதயநுரையீரல் மீட்டெழுப்பல்|
+caret|முகடுக்குறி|
+cargo|சரக்கு |
+cargo insurance|சரக்குக் காப்பீடு|
+carina|கடைக்குறுத்தெலும்பு வளையம்|
+carinate|படகிய|
+Carius method|காரியசின் முறை|
+carminative|வளிமநீக்கி|
+carnitine|கார்னிடின்|
+carnivore|விலங்குண்ணி|
+Carnot engine|கார்னாட்டின் பொறி|
+Carolus Linnaeus|கேரலஸ் லினியஸ்|
+carotene|கேரட்டீன்|
+carotenoid|கேரட்டீனனையம்|
+carotid artery|தலைத் தமனி|
+carp|கெண்டை|
+carpal|மணிக்கட்டெலும்பு|
+carpal tunnel|மணிக்கட்டுக் கால்வாய்|
+carpel|சூலிலை|
+carpenter|தச்சர்|
+carperntry|தச்சு|
+carpophore|கனியேந்தி|
+carpora quadrigemina|நான்மடியுடலங்கள்|
+carriage|ஏந்தி|
+carriage control|ஏந்திக் கட்டுப்பாடு|
+carriage return|ஏந்தித்திருப்பம்|
+carrier|சுமப்பி|
+carrier concept|சுமப்பிக் கருத்துரு|
+carrier protein|சுமப்பிப் புரதம்|
+carrot|கேரட்டு|
+carry bit|தூக்கிணு|
+carry digit|தூக்கிலக்கம்|
+carry forward |தூக்கியெழுது|
+Cartesian|கார்ட்டீசிய|
+cartilage|குருத்தெலும்பு|
+cartilage ring|குருத்தெலும்பு வளையம்|
+cartilaginous joint|குருத்தெலும்பு மூட்டு|
+cartography|தரைப்படவியல்|
+cartoon|சித்திரக்கதை|
+cartridge|கடினவுறை|
+cartridge fuse|கடினவுறை காப்புருகி|
+caruncle|தசைத்துருத்தம்|
+caryophanon|தெளிக்குருத்தியம்|
+caryophyllaceous|தடிக்காம்புள்ள|
+caryopsis|தானியம்|
+cascade|அடுக்குச்சரிவு|
+cascade window|அடுக்குச் சாளரம்|
+case|வேற்றுநிலை|
+case (character)|எழுத்துயர்நிலை|
+case 1, 2, 3…|வேற்றுநிலை 1, 2, 3…|
+case sensitive|எழுத்துயர்நிலை உணர்வுடைய|
+case sensitivity|எழுத்துயர்நிலையுணர்வு|
+case study|மாதிரிக்கூறு ஆய்வறிதல்|
+casein|கேசீன்|
+caseinate|கேசீனேட்டு|
+caseinogen|கேசீனாக்கி|
+cash|கைப்பணம்|
+cash budget|கைப்பண நிதித்திட்டம்|
+cashing|பணமாக்கல்|
+cassette|நாடாவுறை|
+caste|சாதி|
+casual entry|அவ்வப்போதான பதிகை|
+CAT (computerized axial tomography)|கவவு (கணினிமய அச்சிய உட்டளவரைவு)
+CAT scan|கவவு வரிநோக்கல்|
+catabolism|சிதைமாற்றம்|
+catalase|அதிமூச்சியைடூக்கி|
+catalogue|விவரப்பட்டியல்|
+catalysis|வினையூக்கம்|
+catalyst|வினையூக்கி|reagent - வினையாக்கி
+catalytic converter|வினையூக்க மாற்றியமைப்பி|
+catalytic poison|வினையூக்க நச்சு|
+catalytic reduction|வினையூக்க மூச்சியமிறக்கம்|
+catamaran|கட்டுமரம்|
+cataphoresis|நேர்மவாய்க்கவர்ச்சி|
+cataract|பேரருவி|
+cataract (ophthalmology)|கண்புரை|
+catch basin|பிடிதட்டு|
+catch pit|பிடிபள்ளம்|
+catechol|பாக்கால்|
+catecholamine|பாக்காலமீன்|
+catechu|பாக்கு|
+catenation|கோர்வையாக்கம்|
+catfish|கெளுத்தி|
+cathartics|மலப்போக்கி|
+cathelicidin|கதலிசப்புரதை|
+catheter|செருகுகுழல்|
+cathod shield|நேர்மவாய்க் கேடயம்|
+cathode|நேர்மவாய்|
+cathode compartment|நேர்மவாய்த் தடுப்பறை|
+cathode ray oscilloscope|நேர்மவாய்க் கதிர் அலைவுநோக்கி
+cathode rays|நேர்மவாய்க் கதிர்கள்|
+cation|நேர்மயனி|
+catla|கடுலா|
+cauda equina|குதிரைவால் நரம்பு|
+caudal|வால்பக்க|
+caudal artery|வாற்றமனி|
+caudal vein|வாற்சிரை|
+caudate lobe|வாலுள்ள மடல்|
+caulerpa|காலெர்ப்பா|
+cauliflower|பூக்கோசு|cabbage - இலைக்கோசு
+caulobacter|தண்டுபாட்டர்|
+cause and effect|காரணமும் விளைவும்|
+caution|எச்சரிக்கை|
+CBT (computer based training)|கதப (கணினி தழுவிய பயிற்சி)|
+CD burner|குறுவட்டெழுதி|
+CD drive|குறுவட்டோட்டி|
+ceiling|முகடு (கட்டிடம்)|
+ceiling fan|முகட்டு விசிறி|
+cel|செல்லுத்தாள்|
+cel based animation|செல்லுத் தழுவிய அசைவூட்டல்|
+celestial|வான்சார்|
+celestial object|வான்பொருள்|
+cell (biology)|உயிரணு|
+cell (crystallography)|கூடு|
+cell (of a table)|சிற்றறை (அட்டவணை)|
+cell biology|அணு உயிரியல்|
+cell differentiation|உயிரணு வேறுபடல்|
+cell division|உயிரணு பிரிதல்|
+cell mediated immunity|உயிரணு மூலம் நோயெதிர்ப்பு|
+cell membrane|உயிரணுச் சவ்வு|
+cell phone|கைப்பேசி|
+cell physiology|உயிரணு உடற்செயலியல்|
+cell plate|அணுத்தட்டு|
+cell theory|உயிரணுக் கோட்பாடு|
+cell wall|அணுச்சுவர்|உயிரணுச்சுவர் என்று சொல்லத் தேவையில்லை; வேறெந்த அணுவுக்கும் சுவர் கிடையாது.
+cellophane|செலப்பேன்|
+cellophane tape|பசை நாடா|
+cellulase|செல்லுலூக்கி|
+cellulation|உயிரணுவாதல்|
+cellulite|கொழுப்புத்திட்டு|
+cellulitis|உயிரணுவழற்சி|
+celluloid|செல்லுவனையம்|
+cellulomonas|செல்லுலோவலகியம்|
+cellulose|செல்லுலோசு|xylulose - சைலுலோசு
+cement|பைஞ்சுதை|
+cement v|ஒட்டுக்கட்டு|
+cementum|பற்காரை|
+cenospecies|கூட்டினம்|
+Cenozoic eras|புதிய ஊழி|
+censor |தணிக்கை|audit - கணிக்கை
+census|மக்கள் கணக்கெடுப்பு|
+Centauri|சென்றாரசுகள்|
+Centaurus|சென்றாரசு|சென்டாரசு என எழுதுவது இடைநிலை மெய்மயக்க விதியை மீறும் (நன்னூல் 114)
+center|மையம்|
+Center for Ecological Sciences|வாழிடவியல் அறிவியல் மையம்|
+Center for Health, Environment, and Justice|உடல்நலம், சுற்றுச்சூழல், நீதி ஆகியவற்றுக்கான மையம்
+center justify|மைய நேர்த்தியாக்கு|
+center of gravity|ஈர்ப்புமையம்|
+center of mass|நிறைமையம்|
+center of rotation |சுழல் மையம்|
+centering (arch)|மையமாக்கி (வளைவு)|
+centesis|துளைமம்|
+centi-|சென்றி-|
+centillion (short scale)|நூற்றொருமடியாயிரம்|
+centimeter|சென்றிமீட்டர்|
+centipede|நூறுகாலி|
+central|மைய|
+central bank|மைய வங்கி|
+central canal|மையக் கால்வாய்|
+central limit theorem|மைய எல்லைத் தேற்றம்|
+central nervous system|மைய நரம்பமைப்பு|
+central place theory|மையவிடக் கோட்பாடு|
+central processing unit (cpu)|மைய அலசல் அலகு (மையல)|
+central protuberance |மையப் புடைப்பு|
+central tendency|மையப்போக்கு|
+central ventricle|மைய மூளை உள்ளறை|
+Central Warehousing Corporation|மைய இருப்பகக் கூட்டகம்|
+centralized planning|மையத் திட்டமிடல்|
+centrifugal  |மையம்விலகு  |eccentricity - மையநீங்குமை
+centrifugal force|மையம்விலகு விசை|
+centrifugal pump|மையம்விலகு ஏற்றி|
+centrifuge|சுழல்வீழ்த்தி|
+centriole|வெற்று மையம்|
+centripetal|மையம்நோக்கிய|
+centripetal force|மையம்நோக்கிய விசை|
+centroid|வடிவமையம்|
+centrolecithal egg|நடுசீருமையுணவு முட்டை|
+centromere|மையத்திரள்|
+centrosome|மையமெய்யம்|
+centrum (vertebra)|உடல் (முள்ளெலும்பு)|
+cephalin|செபலின்|
+cephalization|தலையாக்கம்|
+cephalochordata|தலைநாணிகள்|
+cephalopod|தலைக்காலி|
+ceramic|களிமண் ஓடு|
+ceramide|செரமைடு|
+cere|அலகுப்பூ|
+cerebellar peduncle|மூளைமட்டை|
+cerebellum|சிறுமூளை|
+cerebral aqueduct|மூளை நீர்நாளம்|
+cerebral cortex|மூளைப்புரணி|
+cerebral hemorrhage|மூளைக் குருதிக்கசிவு|
+cerebral thrombosis|மூளைக் குருதிகட்டித்தல்|
+cerebroside|மூளையோசைடு|
+cerebrospinal fluid|மூளைத்தண்டுவடப் பாய்மம்|
+cerebrum|பெருமூளை|
+cerevisiae|நொதியம்|
+cerium|சீரியம்|
+cerrusite|செருசைட்டு|
+certainty|நிச்சயம்|
+certificate  |சான்றிதழ்|
+certificate of origin|ஆதிச் சான்றிதழ்|
+certification|சான்றிதழளித்தல்|
+certify|சான்றிதழளி|
+certiorari|ஆவணங்கோர்|
+ceruloplasmin|தாமிரக்கடத்தி|
+cerumen|காதுமெழுகு|
+ceruminous gland|காதுமெழுகுச் சுரப்பி|
+cervical |கழுத்து பெ.உ|
+cervical cap|பெண்ணுறை|
+cervical enlargement|கழுத்துப் புடைப்பு|
+cervical node|கழுத்து நிணக்கணு|
+cervical plexus|கழுத்து நரம்புப்பின்னல்|
+cervical region|கழுத்துப் பகுதி|
+cervix|கழுத்து|
+cesarian|சிசேரிய|
+cesarian section|சிசேரிய வெட்டு|
+cesium|சீசியம்|
+cestoda|தட்டைப் புழுவகை|
+cestode|தட்டைப் புழு|
+ceteris paribus|மற்றவை சமமாயின்|
+cetyl|பதினாறவைல்|
+CFD (computational fluid dynamics)|கபாவி (கணக்கீட்டுப் பாய்ம இயக்கவியல்)
+CGI (Common Gateway Interface)|பொநுவி (பொது நுழைவி இடைமுகம்)
+cgs|செகிவி|
+chaetopoda|சுணைக்காலிகள்|
+chain isomerism|கோர்வை மாற்றியம்|
+chain rule|கோர்வை விதி|
+chain store|கோர்வைக் கடை|
+chain surveying|சங்கிலி நிலமளப்பு|
+chain winding|கோர்வைக் கண்டு|
+chair conformation|நாற்காலி வெளிவடிவம்|
+chairman of Rajya Sabha|மாநிலவைத் தலைவர்|
+chalaza|கட்டிழை|
+chalazogamy|இழைவழிச்சேர்க்கை|
+chalcogen|கந்தகாதி|
+chalcogens|செம்பாக்கிகள்|
+challan|செலுத்துச் சீட்டு|
+challenge|சவால்|
+chamber of commerce|வணிகக் கழகம்|
+chamber of commerce and industry|வணிக மற்றும் தொழிலகக் கழகம்
+chamfering|அரைச்சீவல்|
+chance cause|தற்செயல் காரணம்|
+chancroid|கிரந்திப்புண்|
+change all|எல்லாம் மாற்று|
+change point (surveying)|மாற்றுப்புள்ளி (நிலமளப்பு)|
+channel|கால்வாய்|
+chaos|ஒழுங்கின்மை|entropy - சீர்குலைவு; disorder - முறைமையின்மை
+chapter|அத்தியாயம்|part (or volume) - பாகம்; section - பகுதி; அதிகாரம் - authority
+character (computer)|வரியுரு|
+character recognition|எழுத்துணரி|
+characteristic adj|தனிப்பண்பான|
+characteristic equation|தனிப்பண்புச் சமன்பாடு|
+characteristic n|தனிப்பண்பு|
+characterize|தனிப்பண்புவிவரி|
+charcoal|எரிகரி|
+Chargaff|ஷாகியாஃப்|
+Chargaff rule|சாகியாப்பின் விதி|
+charge|மின்னூட்டம்|
+charge density|மின்னூட்ட அடர்வு|
+charging|மின்னேற்றம்|
+charisma|தலைமைத்துவம்|
+charismatic authority|தலைமைத்துவ அதிகாரம்|
+charity|அறம்|
+Charles' law|சார்லசின் விதி|
+Charles Wheatstone|சார்லஸ் வீட்ஸ்டோன்|
+charm (quark)|அழகு (குவார்க்கு)|
+chart|வரிவரைவு|diagram - படவரைவு
+charter|ஒப்பாவணம்|
+charter party|கப்பல் ஒப்பந்தம்|
+chartered company|ஒப்பாவண நிறுமம்|
+chassis|அடிக்கட்டகம்|
+chat|அரட்டை|converse - உரையாடு
+cheap|மலிவான|
+cheap Jack|புன்விற்பவர்|
+check (Brit. cheque)|காசோலை|draft - வரைவோலை
+check bit|சரிகாணிணு|
+check box (computer)|குறிப்பெட்டி|
+checkpoint|சரிகாணிடம்|
+checksum|சரிகாண்தொகை|
+cheek bone|கன்னவெலும்பு|
+cheek muscle|கன்னத்தசை|
+chelate|கடிப்பி (வேதியியல்)|
+chemical  |வேதிய|
+chemical element|வேதித் தனிமம்|
+chemical embryology|வேதியக் கருவளரியல்|
+chemical engineering|வேதிப்பொறியியல்|
+chemical kinetics|வேதிவினை வேகவியல்|
+chemical n|வேதியம்|
+chemical properties|வேதிப் பண்புகள்|
+chemical reaction|வேதி வினை|
+chemical shift|வேதி நகர்வு|
+chemical signal|வேதி நிமிண்டல்|
+cheminformatics|வேதித்தகவலியல்|
+chemiosmosis|வேதிச்சவ்வூடல்|
+chemisorption|வேதிக்கவர்கல்|
+chemist|வேதியர்|
+chemistry|வேதியியல்|
+chemo autotroph|வேதித் தானூட்டி|
+chemoreceptors|வேதிப் பெறுவி|
+chemosynthesis|வேதித்தொகுத்தாக்கம்|
+chemotactic|வேதித்தூண்டல்|
+chemotaxis|வேதித்தூண்டல் நகர்வு|
+chemotaxomony|வேதிப் பாகுபாட்டியல்|
+chemotherapeutic|வேதிச்சிகிச்சைக்கான|
+chemotherapy|வேதிச்சிகிச்சை|
+chemotrophs|வேதியுண்ணி|
+chemotropic|வேதிநாடு|
+chenodeoxycholic acid|வாத்துமூச்சியநீக்கப்பித்த அமிலம்
+chi|கை (கிரேக்க எழுத்து)|
+chi square|கைவர்க்கம்|
+chiasma|முடிச்சு (உயிரியல்)|
+chicken embryo technique|கோழி முளைக்கரு செய்நுட்பம்|
+chicken pox|சிற்றம்மை|
+chief minister|முதலமைச்சர்|தலமையமைச்சர் - prime minister
+child care|சிறுவர் பராமரிப்பு|
+children|சிறுவர்|infant - குழந்தை
+Children's Deferred Assurance|குழந்தைகளின் ஒத்திய வாக்கீடு|
+chimpanzee|சிம்பன்சி|
+chip|சில்லு|
+chiral|கையும|
+chirality|கையுமை|
+chiropterophily|வௌவாற்சேர்க்கை|
+chisel|உளி|
+chisel dressing|உளியால் அழகுறுத்தல்|
+Chitagong|சிட்டகாங்கு|
+chitin|கைட்டின்|
+chitosan|கைட்டோசன்|
+chlamydia|உறையுடையன|
+chlamydiaceae|உறையனையன|
+chlamydial disease|உறைய நோய்|
+chlamydiales|உறையைகள்|
+chlamydomonas|உறையலகியம்|
+chlamydospore|உறைவித்து|
+chloragogen cells|குளோரகோச அணுக்கள்|
+chlorate|குளோரேட்டு|
+chlorella|குளோரெல்லா|
+chlorenchyma|பச்சையக்கூழ்த்திசு|
+chloretone|குளோரிற்றோன்|
+chloride|குளோரைடு|
+chlorine|குளோரின்|
+chlorine water|குளோரின் நீர்|
+chlorite|குளோரைட்டு|
+chloro-|குளோரோ-|
+chloro-|குளோரோ-|
+chlorobiaceae|இளம்பச்சையனையன|
+chlorobium|இளம்பச்சையம்|
+chloroflexuaceae|இளம்பச்சைநெளியனையன|
+chloroflexus|இளம்பச்சைநெளியம்|
+chlorofluorocarbon (CFC)|குளோரோபுளோரோகரிமம் (குபுக)
+chloroform|குளோரபாம்|
+chlorohydrin|குளோரோநீர்மூச்சியன்|
+chloromycetin|குளோரோமைசிட்டின்|
+chlorophyceae|பச்சையால்கவை|
+chlorophyll|பச்சையம்|
+chloroplast|பசுங்கணிகம்|
+chloroquine|குளோரோகுவின்|
+chlorosis|பச்சையச் சோகை|
+chlortetracycline|குளோரோநாற்சுழலி|
+choice|விருப்பத்தேர்வு|
+choke|நெரிப்பி|
+cholecalciferol|D-3 வைட்டமின்|
+cholecystokinin (CCK)|கணையவியக்கி|aka pancreozymin
+cholera|காலரா|
+cholesterol|பித்தத்திரால்|
+cholestrol ester|பித்தத்திரால் எசுத்தர்|
+cholic acid|பித்த அமிலம்|
+choline|கோலின்|
+chondrogenesis|குருத்தெலும்பாக்கம்|
+chondroitin sulfate|குருத்தெலும்பிடின் கந்தகேட்டு|
+chondromyces|குருத்தெலும்புப்பூஞ்சையங்கள்|
+chondrosis|குருத்தெலும்பாக்கம்|
+choose|விருப்பத்தேர்|
+chord|நாண்|
+chordata|நாண்முதுகிகள்|
+chorea|குரீயவலிப்பு|
+chorion|கோரியான்|
+choroid coat|கோரியானனைய உறை|
+choroid plexus|கோரியானனைய பின்னல்|
+chromate|குரோமேட்டு|
+chromatiaceae|நிறமாட்டியனையன|
+chromatic fiber|மரபுப்பொருள் இழை|
+chromatid|மரபுமெய்யிளம்|
+chromatin|மரபுப்பொருள்|
+chromatium|நிறமாட்டியம்|
+chromatography|நிறப்பிரிகை|
+chromista|குரோமரசு|
+chromium|குரோமியம்|
+chromobacterium|நிறப்பாட்டீரியம்|
+chromogen|நிறமாக்கி|
+chromophore|நிறமேந்தி|
+chromoplast|நிறக்கணிகம்|
+chromoprotein|நிறப்புரதம்|
+chromosomal puff|மரபுமெய்யம் புடைப்பு|
+chromosome|மரபுமெய்யம்|நிறமி - pigment
+chromosphere|நிறக்கோளம்|
+chromyl|குரோமைல்|
+chron |சிற்றுகம்|
+chronic|நெடுங்கடு|
+chronic brain syndrome|நெடுங்கடு மூளைக் குறித்தொகுப்பு
+chronology|காலவியல்|
+chroococcales|குரூக்கமணியைகள்|
+chrysogenum|கிரிசசனம்|
+Chrysophyceae|தங்கநிறவால்கவை|
+chylomicron|கைலோநுண்மன்|
+chyme|கைம்|
+chymotrypsin|கைமமுறிவூக்கி|
+chymotrypsinogen|கைமமுறிவூக்கியாக்கி|
+cilia|கசைக்குச்சிகள்|flagella - கசையிழைகள்
+ciliary body|கசைக்குச்சியுடலம்|
+ciliary gland|கசைக்குச்சியச் சுரப்பி|
+ciliary muscles|கசைக்குச்சித்தசைகள்|
+ciliata|கசைக்குச்சியன|
+cinchona|சிங்கோனா|
+ciprofloxacin|பிளாக்கசின்|
+circinate|உட்சுருண்ட|
+circinotropous ovule|சுருள்வடிவச் சூல்|
+circle|வட்டம்|
+circuit board|மின்சுற்றுப் பலகை|
+circuit board|மின்சுற்றுப் பலகை|
+circuit card|மின்சுற்றட்டை|
+circuit diagram|மின்சுற்றுப் படவரைவு|
+circuitry|மின்சுற்றமைப்பு|
+circular list|சுழற்பட்டியல்|
+circular n|சுற்றறிக்கை|
+circular paper chromatography|வட்டத்தாள் நிறப்பிரிகை|
+circular permutation|வட்ட வரிசை மாற்றம்|
+circular ring|வட்ட வளையம்|
+circular shift|சுழல் நகர்வு|
+circular stair|வட்டப் படிக்கட்டு|
+circulation|சுற்றோட்டம்|
+circulation (blood)|குருதியோட்டம்|
+circulatory system|குருதியோட்டவமைப்பு|
+circum pharyngeal connective|தொண்டைசூழ் நரம்பிணைப்பு|
+circumcircle|சுற்றுவட்டம்|
+circumference|பரிதி|
+circumnutation|பரிதிச் சுழற்சி|
+circumpennate|வட்டயிறக|
+circumstance|சூழ்நிலை|
+cis-|ஒரே-|
+cisoid|ஒரேபக்கனைய|
+cisternae|தொட்டியங்கள்|
+cis-trans isomerase|பக்க மாற்றியமூக்கி|
+cis-trans isomerism|பக்க மாற்றியம்|
+cistron|கோர்வைக்குறிப்பி|
+citizen|குடிமகர்|
+citizenship|குடிமகர்மை|
+citrate|ஆரஞ்சிகேட்டு|
+citric acid|ஆரஞ்சிக அமிலம்|
+citric acid cycle|ஆரஞ்சிக அமிலச் சுழற்சி|
+citrulline|ஆரஞ்சினமினோ அமிலம்|
+citrus|ஆரஞ்சம்|
+city state|நகர அரசு|
+civil|குடியியல்|
+civil government|குடியியல் அரசாங்கம்|
+civil judge|குடியியல் நடுவர்|
+civilization|நாகரிகம்|
+cladding|போர்த்தல்|
+cladode|ஊசித்தண்டு|
+Claisen ester condensation|கிளெய்சன் எசுத்தர் ஒருக்கமாதல்|
+Claisen reaction|கிளெய்சனின் வினை|
+Claisen Schmidt reaction|கிளெய்சன் சுமிட்டின் வினை|
+clam|கிளிஞ்சல்|
+clamp|கௌவி|
+Clark Maxwell|க்ளார்க் மேக்ஸ்வெல்|
+class|வகுப்பு|
+classical|தொன்மை|
+classical mechanics|தொன்மை எந்திரவியல்|
+classical school|தொன்மை எண்ணக்குழு|
+classification|வகைப்பாடு|
+classified|வகைப்படுத்திய|
+Claude's process|கிளாடு வழிமுறை|
+clause|செப்பெச்சம்|
+Clausius|க்ளாஸியஸ்|
+Clausius statement|கிளாசியசின் கூற்று|
+claustrophobia|குறுகிடவச்சம்|
+clavicle|காரையெலும்பு|
+claw|கீறுநகம்|
+claw hammer|கொக்கிச் சுத்தியல்|
+clawed petal|கொக்கி இதழ்|
+clean receipt|பிழையற்ற பற்றுச்சீட்டு|
+cleaner|துப்புரவி|
+clearing agent|தீர்வு முகவர்|
+clearing function|தீர்வுப் பணி|
+clearing house|தீர்வகம்|
+cleat|பிடிகட்டை|
+cleavage|பிளவுறல்|
+cleidoic egg|மூடுவ முட்டை|
+cleistogamy|மூடுசேர்க்கை|
+Clemmensen reduction|கிளம்மன்சனின் மூச்சியமிறக்கம்|
+clerical error|எழுத்தர் பிழை|
+clerk|எழுத்தர்|
+click|சொடுக்கு|
+click and drag|சொடுக்கியிழு|
+clidinium|கிளினிடியம்|
+client|சேவுறர்|server - சேவையர்
+climate|காலநிலை|
+clinograph|மாறுமுக்கோணச் சட்டம்|
+clip n|கௌவி|
+clip v|கத்தரி|
+clipboard|கௌவிப்பலகை|
+clipbook|கௌவிப்புத்தகம்|
+clitellum|இனச்சேரம்|
+clitoris|கிதாரி|
+cloaca|கழிவுத்திறப்பு|
+clock|கடிகாரம்|
+clockwise|வலஞ்சுழி|
+clone|குளோன்|
+clonic spasm|துடிதசையிழுப்பு|
+cloning|குளோனிடல்|
+clonothrix|துடிமுடியம்|
+close|மூடு|
+close packing|நெருக்கப் பொதிவு|
+closed fracture|மூடிய எலும்புமுறிவு|
+closed indent|மூடிய இறக்கிடை|
+closed interval|மூடிய இடைவெளி|
+closed system|மூடிய அமைப்பு|
+closer (masonry)|மூடுகல்|
+closing tag|மூடு தொங்கி|
+clostridium|கதிராணியம்|
+clostridium botulinum|பாச்சுலியக் கதிராணியம்|
+closure|அடைப்பு|
+closure axiom|அடைப்பு அடிகோள்|
+closure property|அடைப்புப் பண்பு|
+cloud chamber|மேகத் தொட்டி|
+club hammer|கற்சுத்தியல்|
+club moss|குழற்பாசி|
+cluster|கூடல்|
+cluster of differentiation (CD)|வேற்றுமைக் கூடல் (வேகூ)|
+CMOS (Complementary Metal Oxide Semiconductor)|நிவுமூகு (நிரப்ப உலோக மூச்சியைடு குறைகட்டத்தி)
+cnida|கொட்டுப்பை|
+cnidaria|குழியுடலிகள்|
+cnidoblast|கொட்டுப்பையணு|
+cntl|கபா|
+coacervation|உடன்குவியல்|
+coacervation theory|உடன்குவியல் கோட்பாடு|
+coagulant|திரள்படிவூட்டி|
+coagulase|திரள்படிவூக்கி|
+coagulate|திரள்படி|திரள் - accumulate
+coagulation|திரள்படிதல்|
+coagulation factors|திரள்படி காரணிகள்|
+coal|நிலக்கரி|
+coalition|கூட்டணி|
+coarse aggregate|பெருந் திரள்மம்|
+coaxial cable|ஒருங்குமைய வடம்|
+cobalt|கோபாற்று|
+COBOL|கோபால்|
+cobra|நல்ல பாம்பு|
+Coca Cola Corporation|கொக்கக்கோலா கூட்டகம்|
+cocatalyst|துணையூக்கி|
+-cocci|-மணியன|
+coccidiosis|காச்சிடியநோய்|
+coccidium|காச்சிடியம்|
+coccus|மணியம்|
+-coccus|-மணியம்|
+coccygeal region|வாலெலும்புப் பகுதி|
+coccyx|வாலெலும்பு|
+cochlea|சுருளெலும்பு|
+cochlear duct|சுருளெலும்புக் குழி|
+cocoon|புழுக்கூடு|
+code|குறி|
+code (software)|வரிநிரல்|
+co-domain|துணை ஆட்களம்|
+codominance|உடனோங்கல்|
+codon|குறிச்சரம்|
+coefficient|கெழு|
+coefficient matrix|கெழு தளவணி|
+coefficient of contraction|குறுக்கக் கெழு|
+coefficient of discharge|வெளியேற்றக் கெழு|
+coefficient of performance|செயற்றிறன் கெழு|
+coefficient of velocity|திசைவேகக் கெழு|
+coefficient of viscosity|பாகுமைக் கெழு|
+coelenterata|குழியுடலிகள்|
+coeliac artery|உடற்குழி தமனி|
+coeliaco mesenteric artery|உடற்குழி குடற்றாங்கி தமனி|
+coelom|உடற்குழி|
+coelomata|உடற்குழியுள்ளவை|
+coelomate|உடற்குழியுள்ள|
+coelomic cavity|உடற்குழியத் துளை|
+coenanthium|தட்டு மஞ்சரி|
+coenocytic|பலகருவுள்ள|
+coenogamete|பலகருச் சேர்க்கை|
+coenzyme|துணையூக்கிப்புரதம்|
+coenzyme A|A துணையூக்கி|
+coenzyme B|B துணையூக்கி|
+coenzyme B12|B12 துணையூக்கி|
+coenzyme Q|Q துணையூக்கி|
+coenzyme Q10|Q10 துணையூக்கி|
+cofactor|துணைக்காரணி|
+coffee|காப்பி|
+coffeemaker|காப்பியாக்கி|
+coherence|ஒத்திணைவு|
+coherent|ஒந்திணைந்த|
+cohesion|கூட்டிணைவு  |
+cohesion of carpels|சூலிலைகளின் கூட்டிணைவு|
+cohesion of stamens|மகரந்தத்தாள்களின் கூட்டிணைவு
+cohesion-tension theory|கூட்டிணைவு விறைப்புக் கோட்பாடு
+cohesive|கூட்டிணை|
+cohesive forces|கூட்டிணை விசைகள்|
+coil|கம்பிச்சுருள்|
+coil pitch|சுருள் சரிவு|
+coin toss|காசு சுண்டுதல்|சுண்டல் is a snack
+coincidence|தற்செயல்|
+co-initial vectors|பொதுத்தொடக்கத் திசையன்கள்|
+coitus|கலவி|aka intercourse
+coke|கற்கரி|
+colchicine|கால்சிகாரமனையம்|
+colchicum|கால்சிகம்|
+cold (common)|தடுமன்|
+cold desert|குளிர்ப் பாலை|
+cold start|தண்தொடக்கம்|
+cold storage|குளிர் சேமகம்|
+colemanite|கோல்மனைட்டு|
+coleoptera|வண்டுனம்|
+coleoptile|முளைக்குருத்துறை|
+coleorhiza|முளைவேருறை|
+coliform|பெருங்குடற்குச்சியம்|
+coliphage|கோலையுண்ணி|
+colitis|பெருங்குடலழற்சி|
+collagen|காலசன்|
+collapse|சுருக்கு|
+collapsible door|மடக்குக் கதவு|
+collar|கழுத்துப்பட்டை|
+collate|முறையடுக்கு|
+collateral (banking)|ஈட்டுக்காப்பு|
+collateral (biology)|பக்கக் கிளை|
+collateral branch|பக்கக் கிளை|
+collating sequence|முறையடுக்கத் தொடரி|
+collator|முறையடுக்கி|
+collect (bill)|வசூலி|
+collecting tubule|சேமகக் குழலம்|
+collection|தொகுப்பு|group - தொகுதி
+collection (bill)|வசூல்|
+college|கல்லூரி|
+collegiate|குழும|
+collenchyma|அடித்தோற்றிசு|
+colliculus|புடைமேடு|
+colligative properties|தொகுப்புப் பண்புகள்|
+collimation|கோடமைத்தல்|
+collimator|கோடமைப்பி|
+collinear|கோடமைந்த|
+collinearity|கோடமைவு|
+collision|மோதல்|
+collision diameter|மோதல் விட்டம்|
+colloid|கூழ்மம்|
+colloidal theory|கூழ்மக் கோட்பாடு|
+colon|பெருங்குடல்|
+colon cancer|பெருங்குடற் புற்று|
+colonialism|கூட்டுவாழ்விசம்|
+colonoscopy|பெருங்குடல்நோக்கல்|
+colony|கூட்டுவாழ்வு|
+color coding|வண்ணக் குறியிடல்|
+color contrast|வண்ண முரண்|
+color palette|வண்ணத் தட்டகம்|
+color printer|வண்ண அச்சிடுவான்|
+colostrum|சீம்பால்|
+colpitis|பெண்குறியழற்சி|
+Colpitts oscillator|கால்பிட்டுவின் அலைவி|
+colposcopy|பெண்குறியுள்நோக்கல்|
+Columbiform|கொலம்பவடிவி|
+columella|சிறுதூண்|
+column (of liquid)|தம்பம்|
+column (table, matrix)|நெடுக்கை (அட்டவணை, தளவணி)|நிரல் - program (computer)
+column chromatography|குழல் நிறப்பிரிகை|
+coma|ஆழ்மயக்கம்|
+combed dressing|சீப்பால் அழகுறுத்தல்|
+combination|சேர்வு|
+combination law|சேர்வு விதி|
+combinational circuit|சேர்வு மின்சுற்று|
+combined figures|சேர்வு உருவங்கள்|
+combo box|சேர்வுப்பெட்டி|
+combustible|எரியத்தகு|
+combustion|எரிதல்|
+comets|வால்மீன்கள்|
+command|கட்டளை|
+command line interface|கட்டளை வரி இடைமுகம்|
+command prompt|கட்டளைத் தூண்டி|
+commensal |உடனுண்ணி|
+commensalism|உடனுண்ணல்|
+comment|கூற்றுரை|
+commerce|வணிகம்|trade - வியாபாரம்
+commerce (study of)|வணிகவியல்|
+commercial|வணிக|
+commercial bank|வணிக வங்கி|
+commercial preparation|வணிக நோக்கில் தயாரிப்பு|
+commission|ஆணையம்|
+commission (fee)|பிடிப்பு|
+commission agent|பிடிப்பு முகவர்|
+commissural|ஒன்றிணைய (தாவரவியல், விலங்கியல், உடலமைப்பியல்)
+commissure|ஒன்றிணைவு (தாவரவியல், விலங்கியல், உடலமைப்பியல்)
+committee|செயற்குழு|
+commodity|வணிகப்பொருள்|
+common carrier|பொதுச் சுமப்பி|
+common cold|தடுமன்|
+Common Gateway Interface (CGI)|பொது நுழைவி இடைமுகம் (பொநுவி)
+common iliac vein|பொது அடிவயிற்றுச் சிரை|
+communicable diseases|தொற்றுநோய்கள்|
+communicate|தெரிவி|அறிவி - announce
+communication|தகவற்றொடர்பு|
+communication protocol|தகவற்றொடர்பு விதிமுறை|
+communication revolution|தகவற்றொடர்புப் புரட்சி|
+communism|பொதுவுடைமையிசம்|
+communist party|பொதுவுடைமைக் கட்சி|
+commutative property|முறைமைமாற்றுப் பண்பு|
+commutativity|முறைமைமாற்றுமை|
+commutator (electricity)|திசைதிருப்பி (மின்னோட்டம்)|
+commutator (math)|முறைமைமாற்றி|
+compact bone|திண்ணெலும்பு|
+compact disc|குறுவட்டு|
+compaction vi|திணிதல்|
+compaction vt|திணிதாக்கல்|திணித்தல் - cramming
+compactness|குறுந்தன்மை|
+companulate|மணிவடிவ|
+company|நிறுமம்|
+comparative embryology|ஒப்புமைக் கருவளரியல்|
+comparative study|ஒப்பாய்வு|
+compare-and-swap|ஒப்பிட்டு இடைமாற்றல்|
+comparison operator|ஒப்பிடு செயலி|
+comparium|ஒப்பினங்கள்|
+compartment|தடுப்பறை|
+compass (drawing)|கவராயம்|
+compass (navigation)|திசைகாட்டி|
+compatibility|ஒவ்வுமை|
+compatible|ஒவ்வுமையான|
+compensate |ஈடு செய்|
+compensating error|ஈடுசெய் பிழை|
+compensation point|ஈடுசெய்நிலை|
+competition|போட்டி|
+competitive inhibition|போட்டி மறிப்பு|
+competitor|போட்டியாளர்|rival - போட்டியர்
+compilation|தொகுப்பம்|
+compilation error|தொகுப்பப் பிழை|
+compile|தொகுப்பிடு|
+compile time|தொகுப்ப நேரம்|
+compiler|தொகுப்பி|editor - திருத்தி
+complement|நிரப்பி|
+complement system|நிரப்பி அமைப்பு|
+complementary angles|நிரப்புக்கோணங்கள்|
+complementary bases|நிரப்புக் காரங்கள்|
+complementary DNA (cDNA)|நிரப்பு அனடி |
+complementary event|நிரப்பு நிகழ்வு|
+complementary function|நிரப்புச் சார்பு|
+Complementary Metal Oxide Semiconductor (CMOS)|நிரப்ப உலோக மூச்சியைடு குறைகட்டத்தி (நிவுமூகு)
+complementary pit|இணைக்குழி|
+complementary strands|நிரப்பிக் கிடையிழை|
+completing square|வர்க்கத்தை முழுமையாக்கல்|
+complex (chemical)|கூட்டுமம்|
+complex I|முதலாம் கூட்டுமம் (கூ1)|
+complex II |இரண்டாம் கூட்டுமம் (கூ2)|
+complex III|மூன்றாம் கூட்டுமம் (கூ3)|
+complex IV|நான்காம் கூட்டுமம் (கூ4)|
+complex number|கலப்பெண்|
+complex reaction|சிக்கலான வேதிவினை|
+complex tissue|கூட்டுமத் திசு|
+complexometry|கூட்டும அளவுமுறை|
+compliance|உடன்படிதல்|
+compliant|உடன்படிய|
+comply|உடன்படி|
+component|அகை|composite - தொகை
+composite|தொகை|component - அகை
+composite fruit|தொகுகனி|
+composite function |தொகுசார்பு|
+composite material|தொகுப்புப்பொருள்|
+composition|கூறடக்கம்|
+composition of functions|சார்புகளின் கூறடக்கம்|
+compost|கலப்புரம்|
+compound|சேர்மம்|
+compound angles|கூட்டுக் கோணங்கள்|
+compound capitulum|கூட்டுச் சிரமஞ்சரி|
+compound dichasium|கூட்டு இருபிரிவன்|
+compound fruit|கூட்டுக்கனி|
+compound interest|கூட்டு வட்டி|
+compound leaf|கூட்டிலை|
+compound lipid|கூட்டுக் கொழுமியம்|
+compound microscope|கூட்டு நுண்ணோக்கி|
+compound spadix|கூட்டு மடற்கூர்முனை|
+compound spike|கூட்டுக் கூர்முனை|
+compound umbel|கூட்டுக் குடைமஞ்சரி|
+compressibility|அமுங்குமை|
+compression|அமுக்கம்|
+computational fluid dynamics (CFD)|கணக்கீட்டுப் பாய்ம இயக்கவியல் (கபாவி)
+computed tomography (CT)|கணக்கிட்ட உட்டளவரைவு (கத)|
+computer|கணினி|calculator - கணிப்பான்
+computer based training (CBT)|கணினி தழுவிய பயிற்சி (கதப)|
+computer engineering|கணினிப் பொறியியல்|
+computer operator|கணினி செயலாக்கர்|
+computer science|கணினியியல்|
+computer software|கணினி மென்பொருள்|
+computer-aided design (CAD)|கணினி உதவிய வடிவமைப்பு (கவுவ)
+computer-aided engineering (CAE)|கணினி உதவிய பொறியியல் (கவுபொ)
+computer-aided instruction (CAI)|கணினி உதவிய அறிவுறுத்தல் (கவுறி)
+computer-aided manufacturing (CAM)|கணினி உதவிய உற்பத்தி (கவுவு)|
+computerized|கணினிமய|
+computerized axial tomography (CAT)|கணினிமய அச்சிய உட்டளவரைவு (கவவு)
+concatenate|தொடுப்பிணை|
+concave|குழிந்த|
+concave mirror|குழியாடி|
+concavity|குழிவு (இயல் அறிவியல்)|
+concentrated|செறிந்த|
+concentrated acid|செறிவு அமிலம்|
+concentrated winding|செறிவுக் கண்டு|
+concentration|மனவொருமை|
+concentration (chemistry)|செறிவு (வேதியியல்)|
+concentration gradient|செறிவுச் சாய்வு|
+concentric|மையமொன்றிய|
+concentric winding|மையமொன்றிய கண்டு|
+concept|கருத்துரு|கருத்து + உரு
+concession|சலுகை|
+conclusion|முடிபு|
+concrete adj|திண்ணுருவ|abstract - உருவிலா
+concrete n|திண்காரை|
+concurrent|உடன்நடப்பு|
+concurrent lines|பொதுப்புள்ளிக்கோடுகள்|
+concurrent processing|இணையான அலசல்|aka parallel processing
+condensation|ஒருக்கமாதல்|
+condensation reaction|ஒருக்கமாதல் வினை|
+condense |ஒருக்கு|
+condenser|ஒருக்கி|
+condenser (electricity)|மின்தேக்கி|aka capacitor
+condenser lens|ஒருக்கு ஒளிவில்லை|
+condition|நிபந்தனை|
+conditional expression|நிபந்தனைக் கோவை|
+conditional probability|நிபந்தனை சாத்தியக்கூறு|
+conditional statement|நிபந்தனை கூற்று|
+conditioned reflex|நிபந்தனை தன்நிகழ்வு|
+conditioning|பதப்படுத்தல்|
+condom|ஆணுறை|
+conductance (measure)|கடத்தம்|
+conducting vessel|கடத்துக் குழல்|
+conductive hearing loss|கடத்தல் செவி குறைபாடு|
+conductivity|கடத்துமை|transmittance - அனுப்பிடுமை
+conductor (electrical, heat, etc.)|கடத்தி|
+cone (retina)|கூம்பணு|
+cone and rod|கூம்பும் உருளையும்|
+conference|கலந்துரை|
+confidence|நம்புறுதி|
+confidence interval|நம்புறுதி இடைவெளி|
+configuration|அமைவடிவம்|
+confirmatory  |உறுதியாக்கும்  |
+confirmatory indent|உறுதியாக்கும் இறக்கிடை|
+confirmatory test|உறுதியாக்கும் சோதனை|
+conformable|இணக்கமான|
+conformation|வெளிவடிவம்|
+conformational change|வெளிவடிவ மாற்றம்|
+conformer|வெளிவடிவன்|
+congenital|வளர்கருவழி|
+Congo red dye|காங்கோ சிவப்புச் சாயம்|
+congress|பேராயம்|
+congress party|பேராயக் கட்சி|
+congruence|சர்வசமம்|
+congruent|சர்வசம|
+congruent triangles|சர்வசம முக்கோணங்கள்|
+conical flask|கூம்புக் குடுவை|
+conics|கூம்புவளைவு|
+conidia|கொனிடியங்கள்|
+conifer|ஊசியிலையன்|
+coniferae|ஊசியிலையன|
+coniferous forest|ஊசியிலை வனம்|
+conjecture|அனுமானம்|guess - ஊகம்; assumption - எடுகோள்
+conjoint|ஒன்றிணைந்த|coordinate - ஒருங்கிணை
+conjugate|இணைவ|
+conjugate acid|இணைவ அமிலம்|
+conjugate axis|இணைவ அச்சு|
+conjugated double bonds|ஒன்றுவிட்ட இரண்டைப் பிணைப்புகள்
+conjugation|இணைவம்|parity - இணைமம்; internet - இணையம்
+conjugation (in bacterial and fungal reproduction)|இணைவு|
+conjugation tube|இணைவக்குழல்|
+conjunctiva|கண்படலம்|
+conjunctivitis|கண்படலவழற்சி|
+connecting leads|மின்னிணைப்பு முனைகள்|
+connection|இணைப்பு|
+connective|இணைப்ப|
+connective tissue|இணைப்பத் திசு|
+connector|இணைப்பி|
+connoiseur|சுவைஞர்|
+consanguine|குருதியுறவு|
+consecutive|அடுத்தடுத்த|
+consecutive reactions|அடுத்தடுத்த வேதிவினைகள்|
+consequence|பின்விளைவு|
+conservation|அழிவுறாக்காத்தல்|
+conservation (physics)|அழிவின்மை|
+conservation of energy|ஆற்றல் அழிவின்மை|
+conservation of momentum|உந்தம் அழிவின்மை|
+conservative|தீவிரமற்ற|aggressive - தீவிரமான
+conservative force|பாதைசாரா விசை|
+conservative replication|பிரியா இரட்டித்தல்|
+conservatory|அழிவுறாக்காப்பகம்|
+conserve|அழிவுறாக்கா|
+consignment|பொறுப்புமாற்றம்|
+consistency|இயைபுமை|harmony - இசைவு
+consistent|இயைபான|
+consistently|இயைபாக|
+console|கட்டுப்பாட்டுத் திரை|
+consortium|நிதிக்கூட்டவை|
+constant adj|மாறாத|
+constant error|மாறிலிப் பிழை|
+constant n|மாறிலி|
+constellation|விண்மீன்குழு|
+constipation|மலச்சிக்கல்|
+constituency|தேர்தல் தொகுதி|
+constitution|உள்ளமைவு|
+constitution (political science)|அரசியலமைப்பு|
+constitutional isomer|உள்ளமைவு மாற்றியன்|
+constraint|தளையுறவு|
+constriction|ஒடுக்கம்|
+constrictor muscle|ஒடுக்குத் தசை|
+construction |கட்டுமானம்|
+construction industry|கட்டுமானத் தொழிலகம்|
+constructive|கட்டுமான|
+consultant|கலந்தாலோசியர்|
+consultation|கலந்தாலோசனை|
+consumable|நுகர்பொருள்|
+consumer|நுகர்வோர்|
+consumer education|நுகர்வோர் கல்வி|
+consumer price index|நுகர்வோல் விலைச் சுட்டெண்|
+consumer protection|நுகர்வோரைக் காத்தல்|
+consumer resistance|நுகர்வோர் தடையம்|
+consumerism|நுகர்வோரிசம்|
+consumption|நுகர்வு|smell - முகர்வு
+contact|தொடர்பு|
+contact exchange|தொடு இடைமாற்றம்|
+contact force|தொடுவிசை|
+contact process|தொடுதல் வழிமுறை|
+container|கொள்கலன்|
+container ship|கொள்கலன் கப்பல்|
+containerization|கொள்கலனாக்கம்|
+contention|பூசல்|
+contents|உள்ளடக்கம்|
+context|சூழமைவு|
+context sensitive|சூழமைவுணர்|
+context sensitive menu|சூழமைவுணர்ப் பட்டி|
+continent|கண்டம்|
+continental shelf|கண்டநீள்வு|
+continental slope|கண்டச் சரிவு|
+contingency|நிகழ்சாத்தியம்|
+continuity|தொடர்ச்சிமை|
+continuity of a function|சார்பின் தொடர்தன்மை|
+continuity of state|நிலையின் தொடர்தன்மை|
+continuity test|தொடர்ச்சிமைச் சோதனை|
+continuous|தொடர்ந்த|
+continuous bay method|தொடர்ந்த பாத்தி முறை|
+continuous cell line|தொடர் அணு வழி|
+continuous random variable|தொடர்ந்த நேர்வு மாறி|
+continuous variable|தொடர்ந்த மாறி|
+continuum|தொடர்மை|
+continuum of points|புள்ளிகள் தொடர்மை|
+contour|சமன்வரைகோடு|
+contour feather|உருவிறகு|
+contra entry|எதிர்ப்பதிகை|
+contraception|கருத்தடை|
+contraceptive|கருத்தடையி|
+contract|ஒப்பந்தம்|agreement - உடன்பாடு
+contractile protein|குறுக்கப் புரதம்|
+contraction|குறுக்கம்|
+contractualism|ஒப்பந்தவிசம்|
+contractualist|ஒப்பந்தவிசர்|
+contradict |முரண்படு|
+contradiction|முரண்பாடு|contrast - முரண்
+contrast|முரண்|contradiction - முரண்பாடு
+contribute|பங்களி |
+contribution|பங்களிப்பு|
+control chart|கட்டுப்பாட்டு வரிவரைவு|
+control n|கட்டுப்பாடு|
+control panel|கட்டுப்பாட்டுப் பலகம்|
+control rod|கட்டுப்பாட்டுத் தண்டு|
+control signal|கட்டுப்பாட்டு நிமிண்டல்|
+control statements|கட்டுப்பாட்டுக் கூற்றுகள்|
+control unit|கட்டுப்பாட்டலகு|
+control v|கட்டுப்படுத்து|
+controller|கட்டுப்படுத்தி|
+conus medullaris|முகுள நாற்கூம்பு|
+convection|வெப்பச்சலனம்|
+convection oven|வெப்பச்சலனக் கணப்பு|
+convention|மரபேற்பு|
+conventional|மரபேற்புசார்|
+convergence|குவிபோதல்|
+convergent|குவிபோகும்|
+convergent boundaries|குவிபோகும் வரப்புகள்|
+conversation|உரையாடல்|
+converse|உரையாடு|chat - அரட்டை
+converse statement|திருப்புக் கூற்று|
+conversely|திருப்புக்கூற்றாக|
+conversion (of itself)|மாறியமைதல்|
+conversion (of something)|மாற்றியமைத்தல்|
+conversion factor|மாற்றுக் காரணி|
+convertase|மாற்றவூக்கி|isomerase - மாற்றியமூக்கி
+converted timber|அறுத்த மரம்|
+converter|மாற்றியமைப்பி|மாற்றி - switch; transformer - உருமாற்றி
+convertible|மாறுதகு|transferable - மாற்றத்தகு
+convex|குவிந்த|
+convex mirror|குவியாடி|
+convexity|குவிவு|
+convoluted|சிக்கலான|
+convoluted tubule|சிக்கற் குழலம்|
+convulsion|வலிப்பு|
+cool|குளிர்வி|
+coolidge tube|கூலிச்சு குழாய்|
+cooperate|ஒத்துழை|
+cooperation|ஒத்துழைப்பு|
+co-operative|கூட்டுறவு|
+co-operative society|கூட்டுறவுச் சங்கம்|
+co-operative store|கூட்டுறவுக் கடை|
+coordinate (geometry)|ஒருங்களவு|
+coordinate axis|ஒருங்களவு அச்சு|
+coordinate frame|ஒருங்களவுச் சட்டம்|
+coordinate geometry|ஒருங்களவு வடிவியல்|
+coordinate system|ஒருங்களவு அமைப்பு|
+coordinate v|ஒருங்கிணை|conjoint - ஒன்றிணைந்த
+coordination|ஒருங்கிணைவு|
+coordination bond|ஈதல் பிணைப்பு|
+coordination chemistry|ஈதல் வேதியியல்|
+coordination compound|ஈதல் சேர்மம்|
+coordination isomerism|ஈதல் மாற்றியம்|
+coordination number|ஈதல் எண்|
+coordinator|ஒருங்கிணைப்பாளர்|
+copernicium|கோப்பர்நிசியம்|
+coping|மூடடுக்கு|
+coplanar lines|சமதளக் கோடுகள்|
+coplanar vectors|சமதளத் திசையன்கள்|
+copper|தாமிரம்|
+coprodaeum|மலப்பாதை|
+copulate|கலவு|
+copulation|கலவி|aka intercourse
+copulatory organ|இனச்சேர்க்கை யுறுப்பு|
+copy|நகல்|
+copy v|நகலெடு|
+coracobrachialis|கைச்சுழற்சித் தசை|
+coral|பவளம்|
+coral reef|பவளப்பாறை|
+corbel|தண்டயம்|
+core|உள்ளகம்|
+core enzyme|உள்ளக ஊக்கிப்புரதம்|
+Corinsh|காரின்சு|
+cork|தக்கை|
+corkscrew rule|திருகாணி விதி|
+corm|கந்தம்|
+cornea|கண்வெளிப்படலம்|
+corner stone|மூலைக்கல்|
+corner window|மூலைச் சாளரம்|
+cornice|பிதுங்கை|
+cornify|கொம்பமாக்கு|
+corolla|அல்லிவட்டம்|
+corollary|கிளைத்தேற்றம்|
+corolloid|பவளனையம்|
+corona|கரோனா|கொரோனா தவறு; aureole - வட்டொளி
+corona glandis|மொட்டுக் கரோனா|
+corona radiata|ஆரக் கரோனா|
+corona virus|கரோனா வைரசு|
+coronary artery|இதயத் தமனி|
+coronary blood vessel|இதயக் குருதிக்குழல்|
+coronary bypass surgery|இதயப் புறவழி அறுவைசிகிச்சை|
+coronary thrombosis|இதயக் குருதிகட்டித்தல்|
+corpora cavernosa|குகையனையவுடல்கள்|
+corporation|கூட்டகம்|
+corpus (penis)|ஆண்குறியுடல்|
+corpus albican|வெண்மெய்யம்|
+corpus albicans|அல்பிக்க உடலம்|
+corpus callosum|நரம்புப் பொதியல்|
+corpus cavernosum|குகையனையவுடல்|
+corpus luteum|மஞ்சள்மெய்யம்|
+corpus spongiosum|பஞ்சனையவுடல்|
+corpuscle|தனித்துகள்|microparticle - நுண்துகள்
+correct adj|சரியான|
+correct v|சரியாக்கு|சரிபார் - verify
+correction |திருத்தம்|
+correctness|சரியுடைமை|accuracy - சரியளவு
+correlation|உடனுரவு|
+corresponding|நிகரான|
+corrosion|துருவரித்தல்|அரிமானம் - erosion
+corrosive|துருவரிக்கும்|
+corrugated|அலைவடிவ|
+cortesol|கோர்ட்டசால்|
+cortex|புரணி|
+corticoid|புரணித்திரலனையம்|aka corticosteroid
+corticosteroid|புரணித்திரலனையம்|aka corticoid
+cortisone|புரணியியக்குநீர்|
+corundum|குருந்தம்|
+corymb|மட்டமஞ்சரி|
+corymbose|மட்டமஞ்சரிய|
+corynebacterium|தடிப்பாட்டீரியம்|
+cosecant|உடன்வெட்டுவிகிதம் (உவெவி)|
+cosine|உடன்வளைவிகிதம் (உவவி)|
+cosine|உவவி (உடன்வளைவிகிதம்)|
+cosmology|அண்டப் பிறப்பியல்|
+cosmopolitan|உலகப்பொதுமை|
+cosmos|விண்ணகம்|
+cosmozoic theory|விண்ணகவுயிர்க் கோட்பாடு|
+cost|ஆக்கவிலை|
+cost and benefit|ஆக்கவிலையும் பெறுபயனும்|
+cost benefit analysis|ஆக்கவிலை பெறுபயன் பகுப்பாய்வு
+cost effectiveness|ஆக்கவிலைப் பயனுறுமை|
+cost function|ஆக்கவிலைச் சார்பு|
+cost of living|வாழ்வு ஆக்கவிலை|
+cost of living index|வாழ்வு ஆக்கவிலைச் சுட்டெண்|
+costal|விலாவெலும்பு பெ.உ|
+cotangent|உடன்தொடுவிகிதம் (உதொவி)|
+cotton|பருத்தி|
+Cottrell precipitator|காட்டிரலின் வீழ்படிவிப்பி|
+Cottrell's method|காட்டரலின் முறை|
+cotyledon|விதையிலை|sporophyll - வித்திலை
+Coulomb|கூலும்|
+council|மன்றம்|
+counter flap hinge|முன்மடிக் கீல்|
+counterexample|எதிர் எடுத்துக்காட்டு|
+countermand|மறுப்பாணை|
+couple n|இரட்டை (இயற்பியல்)|
+Couple Protection Rate|தம்பதி காப்பு வீதம்|
+couple v|இணைக்கட்டு|
+coupler|இணைக்கட்டி|
+coupling  |இணைக்கட்டல்|சந்தி - junction
+coupling (of genes)|தொடுப்பு (மரபணு)|
+coupling constant|இணைக்கட்டல் மாறிலி|
+course|பாடத்தொகுதி|
+coursed rubble masonry|வரிசையான சீரற்ற கற்கட்டு|
+court (of justice)|நீதிமன்றம்|
+court order|நீதிமன்ற ஆணை|
+Cousteau society|கூசுத்தா சமுதாயம்|
+covalent bond|சகதிறன் பிணைப்பு|
+coverage|களமுழுமை|
+cow pox|பசுவம்மை|
+Cowper's gland|கௌப்பரின் சுரப்பி|
+coxa|இடுப்பெலும்பு|
+cpu (central processing unit)|மையல (மைய அலசல் அலகு)|
+crab|நண்டு|
+craftsman|கைவினைஞர்|
+craftsmanship|கைவினைமை|
+Cramer's rule|கிரேமரின் விதி|
+cramp|வலிக்குறுக்கம்|
+cranial|தலைப்பக்க|
+cranial nerves|தலைப்பக்க நரம்புகள்|
+craniata|மண்டையுள்ளவை|
+craniofacial muscle|மண்டைமுகத் தசை|
+cranium|மண்டை|
+crater|கிண்ணக்குழி|
+CRC (cyclic redundancy check)|சுமிச (சுழல் மிகைமம் சரிகாணல்)
+create new file|புதிய கோப்பு உருவாக்கு|
+creatine|தசையமினோ அமிலம்|
+creation science|படைப்பறிவியல்|
+creative thinking|ஆக்கும எண்ணப்பாடு|
+creativity|ஆக்குமை|
+credit and debit|வரவும் பற்றும்|
+credit card|கடன் அட்டை|
+credit column|வரவு நெடுக்கை|
+creditor  |கடனீந்தவர்  |
+creditor - debtor group|கடனீந்தவர் கடன்பட்டவர் குழு|
+creep|தவழ்|
+creeper|தவழி|
+cremocrop|ஈரறைப் பிளவுக் கனி|
+crenation|சுருங்கல்|
+cresol|கிரசால்|
+Cretaceous period|களிமண்ணாய காலம்|
+cretinism|குறைவிசம்|
+Crick|க்ரிக்|
+cricoid cartilage|முதற்குருத்தெலும்பு வளையம்|
+criminal|குற்றவியல்|
+crisis|இக்கட்டு|
+crista|முகடு (அலை)|
+cristispira|கிரிட்டிச்சுருளியம்|
+criterion|முடிவளவை|
+critical period|உய்யக் காலம்|
+critical phenomenon|உய்யத் தோற்றப்பாடு|
+critical point|உய்யப் புள்ளி|
+critical pressure|உய்ய அழுத்தம்|
+critical region|உய்ய வட்டாரம்|
+critical size|உய்ய அளவு|
+critical temperature|உய்ய வெப்பநிலை|
+critical velocity|உய்யத் திசைவேகம்|
+critical volume|உய்யப் பருமன்|
+criticism|திறனாய்வு|
+crocodile|முதலை|
+crop|வேளாண்பொருள்|
+crore|பத்து இருமடியாயிரம்|அறிவியலில் இலச்சமும் கோடியும் பயன்படுத்த வேண்டாம்.
+cross assembler|குறுக்குத் தொகுவிணைப்பி|
+cross compiler|குறுக்குத் தொகுப்பி|
+cross hair|குறுக்கிழை|
+cross infection|குறுக்குக் கிருமியேற்றம்|
+cross multiplication method|குறுக்குப் பெருக்கல் முறை|
+cross over|குறுக்கே கலத்தல்|
+cross pollination|அயல் மகரந்தச் சேர்க்கை|
+cross product|குறுக்குப் பெருக்கல்|
+cross reference|குறுக்குப் பார்வையம்|
+cross section|குறுக்குவெட்டு|
+cross staff|சிலுவைத் தண்டு|
+cross talk|குறுக்குப் பேச்சு|
+crossbreeding|குறுக்கு இனவளர்ப்பு|
+cross-check|குறுக்குச்சரிகாண்|
+crossed aldol condensation|குறுக்கு ஆல்டால் ஒருக்கமாதல்|
+crossed check |கீறலிட்ட காசோலை|
+crosshatch|குறுக்குக்கோடிடு|
+crossover n|குறுக்குமாற்றம்|
+crossover v|குறுக்குமாற்று|
+crow|காகம்|
+crowd|கூட்டம் (மக்கள்)|
+crown|சிகரம்|
+cruciform|சிலுவைவடிவ|
+crude oil|கச்சா எண்ணெய்|
+crushing strength|நொறுக்கு வலிமை|
+crust (earth)|படலவோடு|
+crustacean|படலவோடுடையது|
+crustation|படலவோடாதல்|
+crustose|தரையொட்டிய|
+cryogenics|உறைவியல்|
+cryogenist|உறைவியலாளர்|
+cryoscopic constant|உறையளவி மாறிலி|
+cryoscopy|உறையளவியல்|
+cryptococcus|கமுக்கமணியம்|
+cryptography|கமுக்கவரைவு|
+cryptology|கமுக்கவியல்|
+cryptomerozoite|கமுக்க வளருயிரி|
+cryptoschizont|கமுக்கப் பிளவி|
+cryptozoite|கமுக்கப் பெருக்கி|
+crystal|படிகம்|
+crystalline|படிக|
+crystallization |படிகமாதல்|
+crystallize|படிகமாக்கு|
+crystallizing|படிகமாக்கல்|
+crystallographic axes|படிகவியல் அச்சுகள்|
+crystallography|படிகவியல்|
+crystalloid|படிகனையம்|
+ctenidium|சீப்புவம்|
+ctenoid|சீப்பனையம்|
+C-terminus|கரிம நுனி|
+ctl key|கபா விசை|control - கட்டுப்பாடு
+ctl-alt-del|கபாவேறழி|
+cubboard|அலமாரி|
+cube|கனச்சதுரம்|
+cube root|கனமூலம்|
+cubic polynomial|முப்படிப் பல்லுறுப்புக்கோவை|
+cuboidal|கனச்சதுரனய|
+cultivation|வளர்ப்பு|
+culture|கலாச்சாரம்|
+culture (microbiology) n|நுண்வளரி|
+culture (microbiology) v|நுண்வளர்|
+culture medium|நுண்வளரூடகம்|
+culturing|பிரைகுத்தல்|
+cumulated double bonds|திரட்டு இரட்டைப் பிணைப்புகள்
+cumulative|திரட்டு|
+cumulative distribution function|திரட்டுப் பரவல் சார்பு|
+cumulative error|திரட்டுப் பிழை|
+cumulative frequency table|திரட்டு அலைவெண் அட்டவணை
+cumulative preference share|திரட்டு முன்விருப்பப் பங்கு|
+cumulus mass|திரண்மெய்யம்|
+cumulus ovaricus|முட்டையகத் திரளம்|
+cunnilingus|பெண்ணில்வாய்|
+cup shake|குப்பி விரிசல்|
+cupboard lock|அலமாரிப் பூட்டு|
+cupric|தாமிரக|
+cuprous|தாமிரச|
+Curie|கியூரி|
+curing|பதனாக்கல்|
+curium|கியூரியம்|
+curly braces|வளைவு அடைப்புக்குறி|
+currency|நடைப்பணம்|
+current (electric)|மின்னோட்டம்|
+current (water)|நீரோட்டம்|
+current adj|நடப்பு|
+current density|மின்னோட்ட அடர்வு|
+current deposit account|நடப்பு வைப்புக் கணக்கு|
+current directory|நடப்புக் கோப்பகம்|
+current liabilities|நடப்புக் கடப்பாடுகள்|
+current ratio|நடப்பு விகிதம்|
+cursor|சுட்டுக்குறி|
+curvature|வளைவம்|
+curvature movement|வளைவ இயக்கம்|
+curve|வளைவு|
+curved surface|வளைபரப்பு|
+cuscuta|பிரேமலதா|
+cushion|மெதுவணை|pillow - தலையணை
+cusp|குவிமேடு|
+custard apple|சீதாப்பழம்|
+custodian|காப்பாளர்|
+custom|தனிப்பயன்|
+Custom-Bonded Warehouse|சுங்கப் பிணைய இருப்பகம்|
+customer|வாடிக்கையாளர்|
+customize|தனிப்பயனாக்கு|
+customs clearance|சுங்கத் தீர்வு|
+cut|வெட்டு|
+cut and paste n|வெட்டி ஒட்டல்|
+cut and paste v|வெட்டி ஒட்டு|
+cuticle|மெழுகுப்பூச்சு|
+cutin|மெழுகுப்பூச்சுவம்|
+cutting plane|வெட்டுத்தளம்|
+cutting plier|வெட்டிடுக்கி|
+Cuvier|குவியர்|
+cyan|மயில்நீலம்|
+cyanide (inorganic)|சயனைடு|
+cyano-|சயனோ-|
+cyano group|சயனோ தொகுதி|
+cyanobacterium|சயனோபாட்டீரியம்|
+cyanophase|சயனோவைரசு|
+cyathium|கிண்ண மஞ்சரி|
+cybernetics|தன்னாள்வியல்|
+cycas|பனைவகை|
+cyclamate|சுழகமோனிகேட்டு|
+cyclamic acid|சுழந்தமின அமிலம்|சுழலாறவைல் கந்தகமின அமிலம்
+cycle |சுழற்சி|
+cycle (computer)|கணிச்சுழல்|
+cycle time|சுழற்சி நேரம்|
+cyclic|சுழல் பெ.உ|
+cyclic order|சுழல் முறைமை|
+cyclic process|சுழல் நிகழ்முறை|
+cyclic redundancy check (CRC)|சுழல் மிகைமம் சரிகாணல் (சுமிச)
+cyclo-|சுழல்- |
+cycloalkane|சுழலால்க்கேன்|
+cyclobutane|சுழல்நான்கவேன்|
+cycloguanosine|சுழல்குவானசின்|
+cyclohexane|சுழலாறவேன்|
+cyclohexatriene|சுழலாறமூவீன்|
+cycloid|வட்டனையம்|
+cyclone|சூறாவளி|
+cyclopentane|சுழலைந்தவேன்|
+cyclopropane|சுழற்புரோப்பேன்|
+cyclosis|சுற்றசைவு|
+cyclosporin|சுழல்வித்தம்|
+cyclotron|சுழல்முடுக்கி|
+cyclozoonosis|சுழல்விலங்கின்வருநோய்|
+cylinder|உருளை|
+cylinder (retina)|உருளையணு|
+cylindrical symmetry|உருளைச் சீரொருமை|
+cyme|முற்றுநுனியன்|
+cymose inflorescence|முற்றுநுனி மஞ்சரி|
+cypher|மறையீடு|
+cypsela|மிதக்கும் நெற்று|
+cyst|பொக்களம்|
+cysteine|பையனின்|
+cysteinyl|பையனினைல்|
+cysticercosis|பைவாலநோய்|
+cysticercus|பைவாலன்|
+cystine|பையனைன்|
+cystoscope|பைநோக்கி|
+cystoscopy|பைநோக்கியல்|
+cystosine|சைற்றோசின்|
+cytochalasin|சைதக்காலிசின்|
+cytochalasin B|பி சைதக்காலிசின்|
+cytochemistry|உயிரணு வேதியியல்|
+cytochrome|உயிரணுநிறமி|
+cytoecology|உயிரணு வாழிடவியல்|
+cytogenetics|உயிரணு மரபியல்|
+cytokine|நிமிண்டல் தாங்கி|
+cytokinesis|அணுக்குழைப் பிரிவு|
+cytokinin|உயிரணுவியக்கி|
+cytology|உயிரணுவியல்|
+cytopathology|உயிரணு நோய்க்குறியியல்|
+cytophaga|உறையுண்ணியங்கள்|
+cytoplasm |அணுக்குழைமம்|protoplasm - அணுநீர்மம்
+cytoplasmic matrix|அணுக்குழைம அடையணி|
+cytosine|சைதசின்|
+cytoskeleton|அணுச்சட்டகம்|
+cytosol|அணுக்கரை|sol - கரைசல்
+cytosolic face|அகவணுப் பக்கம்|
+cytotaxonomy|உயிரணு பாகுபாட்டியல்|
+cytotoxic|அணுநச்சுவ|
+cytotoxic T cell|அணுநச்சுவ தைம நிணவணு|
+cytotoxin|அணுநச்சுவம்|
+D (delay) flip flop|தாமத எழுவிழு|
+D- (dextrorotatory)|வ- (வலத்திருப்பு)|
+D arm (RNA)|வலக்கிளை (அனரி)|
+dacron|தக்கிரான்|
+dairy|பால்பண்ணை|
+dairy breed|கறவைமாடு|
+daisy chain|பூங்கோர்வை|
+daisy wheel|பூஞ்சக்கரம்|
+Dalton|டால்ற்றன்|
+dam|அணைக்கட்டு|
+D-amino acid|வ-அமினோ அமிலம்|
+D-amino acid oxidase|வ-அமினோ அமில மூச்சியைடூக்கி
+damped oscillation|தடைய அலைவு|
+Dan Bricklin|டான் ப்ரிக்ளின்|
+dandruff|பொடுகு|
+danger|ஆபத்து|
+Daniel cell|இடேனியலின் மின்கலம்|
+Danielli-Davson model|தேனியெல்லி தாவுசன் ஒப்புரு|
+dark band|இருட்பட்டை|
+dark field microscope|இருட்கள நுண்ணோக்கி|
+dark reaction|இருள்வினை|
+darmstadtium|ஆருமசுடியம்|
+Darwin|டார்வின்|
+dash (punctuation)|குறுங்கோடு|
+dashed line|இடையிட்ட கோடு|
+data|தரவுகள்|
+data acquisition|தரவீட்டல்|
+data capture|தரவு கவர்தல்|
+data communication equipment|தரவுத் தொடர்பு மீக்கருவி|
+Data Interchange Format (DIF)|தரவு இடைமாற்ற வடிவூட்டம் (தவிவ)
+data mining|தரவுச் சுரங்கல்|
+data processing|தரவினலசல்|தரவு + இன் + அலசல்; இன் சாரியை
+data representation|தரவு குறிப்பிடல்|
+data security|தரவு பாதுகாப்பு|
+data structure|தரவுக் கட்டமைப்பு|
+data terminal equipment|தரவு முனைய மீக்கருவி|
+data transfer|தரவு மாற்றல்|
+data transfer operations|தரவு மாற்றல் செயலங்கள்|
+data transfer rate|தரவு மாற்றல் வீதம்|
+data transmission|தரவு அனுப்பீடு|
+data validation|தரவு ஏற்புடையாக்கல்|
+database|தரவுத்தளம்|
+database management|தரவுத்தள மேலாண்மை|
+Database Management System (DBMS)|தரவுத்தள மேலாண்மை அமைப்பு (தமேவ)
+datatype|தரவுவகை|
+dating|காலங்காணல்|
+datum|தரவு|
+datura metel|ததுரா மிட்டல்|
+daughter cell|சேய் உயிரணு|
+day neutral plants|நாள் நடுநிலைத் தாவரங்கள்|
+d-block|d-கட்டம்|
+d-block elements|d-கட்டத் தனிமங்கள்|
+DBMS (Database Management System)|தமேவ (தரவுத்தள மேலாண்மை அமைப்பு)
+DC generator|திசைமாறா மின்னியற்றி|
+DC motor|திசைமாறா உந்துவி|
+DDBJ (DNA databank of Japan)|சனத (சப்பானிய அனடி தரவுத்தளம்)
+DDT (dichlorodiphenyltrichloroethane)|இவிமு (இருகுளோரோவிருபினைல்முக்குளோரோயீத்தேன்)
+de Broglie|டி பிராக்ளி|
+de Broglie wavelength|தி பிராகிளி அலைநீளம்|
+de Moivre|த மாய்வர்|
+De Morgan's laws|தி மார்கனின் விதிகள்|
+de novo|புதிதாக|
+Deacon's process|தீக்கனின் வழிமுறை|
+dead halt|முழுநிறுத்தம்|
+dead letter|இழப்பு அஞ்சல்|
+dead on arrival|வரும்போதே இறப்பு|
+deadlock|சுழல்நிறுத்தம்|
+deafness|செவிடு|
+dealer |பகிரர்|
+dealer-servicing salesperson|பகிரர் சேவை விற்பனையாளர்|
+deallocation|ஒதுக்கீடுநீக்கம்|
+deamination|அமினநீக்கம்|
+dear money|அருமைப் பணம்|
+death rate|இறப்பு வீதம்|
+debenture|கடனீடு|
+debenture|கடனோலை|
+debit and credit|பற்றும் வரவும்|
+debit card|பண அட்டை|
+debit column|பற்று நெடுக்கை|
+deblock|தடுப்பு்நீக்கு|
+debris|நொறுக்கத்துண்டு|
+debtor|கடன்பட்டவர்|
+debug|பிழையலசு|
+debugger|பிழையலசி|
+debut|அரங்கேற்றம்|
+deca-|தெக்கா-|
+deca- (decane)|பத்த-|
+decade counter|தசம எண்ணி|
+decane|பத்தவேன்|
+decanoic acid|பத்தவாயிக அமிலம்|
+decarboxylase|கரிமமிலநீக்கவூக்கி|
+decarboxylation|கரிமமிலநீக்கம்|
+decatenate|தொடுப்பிணை நீக்கு|
+decay|சிதைவு|
+deceleration|வேகமிழப்பு|
+deci-|தெசி-|
+decibel|தெசிபல்|
+deciduous|இலையுதிரி|
+deciduous forest|இலையுதிர் வனம்|
+decillion (short scale)|பதினொருமடியாயிரம்|
+decimal|பதின்மம்|
+decimal expansion|பதின்ம விரிவு|
+decimal point|பதின்மப் புள்ளி|
+decision|முடிவெடுத்தல்|determination - தீர்மானம்
+decision theory|முடிவெடுத்தல் கோட்பாடு|
+deck of cards|சீட்டுக்கட்டு|
+declaration|அறியுரைத்தல்|
+declare|அறியுரை|
+decode|குறிநீக்கு|
+decoder|குறிநீக்கி|
+decomposers|சிதைப்பவை|
+decomposition|சிதைவுறுதல்|
+decomposition reaction|சிதைவுறுதல் வினை|
+decompound pinnate|பன்மடியிறகன|
+decompression|அமுக்கநீக்கம்|
+decreasing function|இறங்கு சார்பு|
+decrement|குறைப்பு|
+decumbent|நிலம்படர்|
+decussate opposite |குறுக்கெதிரமை|
+decypher|மறையீக்கம்|
+dedicated (computer)|தனிப்பயன்|
+dedifferentiation|வேறுபாடுநீங்கல்|
+deduce|தருவி|derive - வருவி
+deductive|பகுத்தறி|inductive - தொகுத்தறி
+deed (document)|உரிமையாவணம்|
+deemphasis|வலியுறுத்தல்நீக்கம்|
+deep|ஆழமான|
+deep seated|ஆழுறை|
+deep sleep|ஆழுறக்கம்|coma - ஆழ்மயக்கம்
+deep well|ஆழ்கிணறு|
+deep well injection|ஆழ்கிணறு உள்ளேற்றல்|
+default n, adj|செயாநிலை|
+default v|செயாநிலையாக்கு|
+defecate|மலங்கழி|
+defecation|மலங்கழித்தல்|
+defect|பிழைக்குறை|
+defense|காத்தல்|offense - தாக்கல்
+defense (department)|காப்புத்துறை|
+defensin|காப்புப்புரதம்|
+deferred|ஒத்திய|
+deferred address|ஒத்திய முகவரி|
+deferred entry|ஒத்திய பதிகை|
+deferred exit|ஒத்திய வெளியேற்றம்|
+deficiency|பற்றாக்குறை|
+deficit|பற்றாக்குறை (பொருளியல்)|
+define|வரையறு|
+definite integral|முற்றிய தொகையீடு|வரையறுத்த - defined
+definite iteration|எண்ணல் மறுசுருள்|
+definition|வரையறை|
+definition list|வரையறைப் பட்டியல்|
+definitive host|அவசிய ஓம்புனர்|
+deflation (commerce)|விலைவாட்டம்|
+deflect|விலகலுறு|
+deflection|விலகல்|
+deflection magnetometer|விலகல் காந்தளவி|
+deflection system|விலக்கும் அமைப்பு|
+deforestation|வனமழிதல்|
+deformation|உருக்குலைவு|
+deformylase|எறும்பைலநீக்கவூக்கி|
+degausser|காந்தநீக்கி|
+degenerate|பிரிந்தோடு|
+degenerate orbitals|பிரிந்தோடு அலைமண்டலங்கள்|
+degradability|தரந்தாழ்த்துமை|
+degradation (of itself)|தரந்தாழல்|
+degradation (of something)|தரந்தாழ்த்தல்|
+degrade vi|தரந்தாழ்|
+degrade vt|தரந்தாழ்த்து|
+degrease|எண்ணெய்நீக்கு|
+degree (angle)|பாகை|
+degree (differential equation)|அடுக்கெண் (வகையீட்டுச் சமன்பாடு)
+degree (exponent)|அடுக்கெண்|
+degree (of polynomial)|அடுக்கெண் (பல்லுறுப்புக் கோவையின்)
+degree celcius|பாகை செல்சியசு|
+degree of dissociation|பிரிகை விகிதம்|
+degrees of freedom|இயக்க அகையெண்கள்|
+dehydration|நீர்நீக்கம்|
+dehydrogenase|நீரீயநீக்கவூக்கி|
+dehydrogenated|நீரியம்நீ்க்கிய|
+dehydrogenation|நீரியநீக்கம்|
+del|அகற்று|
+del credere|நம்பகர்|
+del credere agent|நம்பக முகவர்|
+del key|அகற்று விசை|
+delay circuit|தாமத மின்சுற்று|
+delete|அகற்று|erase - துடை; remove - நீக்கு
+deletion|அகற்றல்|
+deletion mutation|கெடுதல் விகாரம்|தோன்றல் திரிதல் கெடுதல் விகாரம் - நன்னூல் 154
+delicensing|உரிமமளிப்புத் தளர்த்தல்|
+delimit|வரம்பிடு|
+delimitor|வரம்பெல்லை|
+delineate|வரைந்துரை|
+deliver|கொண்டளி|
+delivery|கொண்டளிப்பு|
+delivery order|கொண்டளி வருகோள்|
+delivery tube|கொண்டளிக் குழாய்|
+delocalized chemical bonding|தலம்விரிந்த வேதிப்பிணைப்பு|
+delta (Greek letter)|தெல்டா|
+delta cell|நான்காம்வகைக் கணையவணு|
+delta connection|வலை இணைப்பு|
+deltoid muscle|முக்கோணத் தசை|
+demagnetization|காந்தநீக்கம்|
+demagnetization|காந்தநீக்கம்|
+demand  |வேண்டல் (பொருளியல்)|
+demand draft|வேண்டல் வரைவோலை|
+demand function|வேண்டற் சார்பு|
+demand paging|வேண்டின் பக்கமிடல்|
+demand report|வேண்டின் அறிக்கை|
+dementia|மனவிழப்பு|
+demineralization|கனிமநீக்கம்|
+democracy|குடியாட்சி|
+democratic|குடியாட்சிய|
+democratic socialism|குடியாட்சிச் சமவுடைமம்|
+Democritus|டெமாக்ரிடஸ்|
+demodulator|இணக்கிறக்கி|
+demographic |மக்கள் தொகையிய|
+demographic transition|மக்கள் தொகையிய நிலைமாற்றம்
+demography|மக்கள் தொகையியல்|
+DeMorgan's theorems|மார்கனின் தேற்றங்கள்|
+demote|கீழிறக்கு|
+demotion|கீழிறக்கல்|
+demultiplexer|பலவழிநீக்கி|
+denationalization|நாட்டுடைமை தளர்த்தல்|
+denaturation|இயல்புநீக்கம்|
+denature|இயல்புநீக்கு|
+dendrite|ஓடிழை|aka dendron
+dendritic cells|சிற்றிழையணுக்கள்|
+dendron|ஓடிழை|aka dendrite
+Dengue fever|தெங்குக் காய்ச்சல்|
+denitrification|மீளுப்பியமாக்கம்|
+denominator|கீழி|
+denseness property|அடர்வுப் பண்பு|
+density|அடர்வு|
+dental caries|பற்சொத்தை|aka tooth decay
+dentine|தந்தினி|
+dentition|பல் வரிசை|
+deoxy-|மூச்சியநீக்க-|
+deoxycholic acid|மூச்சியநீக்கப்பித்த அமிலம்|
+deoxygenation|மூச்சியநீக்கல்|
+deoxyribonuclease|அனடியூக்கி|
+deoxyribonucleic acid|அனடி|aka DNA
+Department of Atomic Energy|அணு ஆற்றல் துறை|
+Department of Biotechnology|உயிரியத் தொழில்நுட்பத் துறை|
+departmental store|துறைவாரிக் கடை|
+dependence|சார்பு|
+dependent events|சார் நிகழ்வுகள்|
+dependent variable|சார்மாறி|
+depends|சார்ந்துள்ளது|
+dephosphorylation|பாசுவேட்டுநீக்கம்|
+depilation|மேல்முடிநீக்கம்|
+deplasmolysis|நீர்மச்சுருக்கமீள்வு|
+depletion|வெறிப்பு|
+deposit n|வைப்பு|
+deposit v|வைப்பிடு|
+depreciation|கழிமானம்|
+depreciation fund method|கழிமான நிதி முறை|
+depression of freezing point|உறைநிலைத் தாழ்வு|
+depth (of an arch)|தடிமன் (வளைவின்)|
+depth of field|களத்தடிமன்|
+deputy chairman of Rajya Sabha|மாநிலவைத் துணைத்தலைவர்|
+deputy secretaty|துணைச் செயலர்|
+deputy speaker  (of LokSabha)|மக்களவைத் துணைத்தலைவர்|
+deque|இருகாவரிசை|
+deregulation|ஒழுங்கமைவு தளர்த்தல்|
+derivation|வருவித்தல்|
+derivative (chemistry)|வருதி|
+derivative (math)|வகைக்கெழு (கணிதம்)|
+derivative of a function|சார்பின் வகைக்கெழு|
+derive|வருவி|deduce - தருவி
+derived|வருவித்த|
+derived data type|வருவித்த தரவு வகை|
+derived protein|வருவித்த புரதம்|
+derived units|வருவித்த அலகுகள்|
+dermal root sheath|தோல் வேர் சூழுறை|
+dermatitis|தோலழற்சி|
+dermatogen|தோலாக்கி|
+dermatomycosis|தோற்பூஞ்சைநோய்|
+dermatophilus|தோல்விரும்பியம்|
+dermatophyte|தோற்றாவரம்|தோல் + தாவரம்
+desalination|உப்புநீக்கல்|
+descendant|சந்ததி|
+descending colon|இறங்குபெருங்குடல்|
+descending paper chromatography|இறங்குதாள் நிறப்பிரிகை|
+descendingly imbricate aestivation|இறங்குதழுவு இதழடுக்கம்|
+description |விவரித்தல்|
+descriptive|விவரம|
+descriptive embryology|விவரமக் கருவளரியல்|
+descriptor|விவரிப்பி|
+desert|பாலை|
+desert biome|பாலைத் திணை (உயிரி்யல்)|
+desertification|பாலையாக்கல்|
+design|வடிவமை|
+design view|வடிவமைப்புக் காட்சி|
+desilverization|வெள்ளிநீக்கம்|
+desk|பணிமேசை|
+desktop|பணித்தளம்|
+desktop computer|பணித்தளக் கணினி|
+desmotubule|இணைப்பக்குழலம்|
+desorption|வெளிக்கவர்தல்|
+destabilize|நிலைப்பு நீக்கு|
+destitution|முழுவறுமை|
+destruction|இடிமானம்|
+destructive|இடிமான |
+desulfococcus|கந்தகநீக்கமணியம்|desulfurococcus - கந்தகரநீக்கமணியம்
+desulfovibrio|கந்தகநீக்கவதிரியம்|
+desulfurococcaceae|கந்தகரநீக்கமணியனையன|
+desulfurococcus|கந்தகரநீக்கமணியம்|desulfococcus - கந்தகநீக்கமணியம்
+desulfuromonas|கந்தகநீக்கவலகியம்|
+detached house|தனி வீடு|
+detect|துய்யறி |
+detection methods|துய்யறிதல் முறைகள்|
+detector|துய்யறிவான்|
+detergent|அழுக்குநீக்கி|
+determinant (evolution)|தீர்மானி பெ|
+determinant (math)|தளக்கோவை|
+determinate|தீர்மானிக்கத்தக்க|
+determination|நிர்ணயித்தல்|
+determine|நிர்ணயி வி|
+determiner|நிர்ணயி பெ|
+deterministic|திட்டவட்டமான|
+detoxification|நச்சுநீக்கம்|
+detritus|சிதைபொருள்|
+detrivore|சிதையுண்ணி|
+deuterium|இருமியம்|
+deutero hydrocarbon|இருமிய நீரியக்கரிமம்|
+development|வளராக்கம்|வளர்ச்சி - growth
+developmental biology|வளராக்க உயிரியல்|
+devernalization|வசந்தநீக்கல்|
+deviation|விலக்கம்|repulsion - விலக்கல்
+device|சாதனம்|
+Devonian period|திவானியக் காலம்|
+dew point|பனிப்பு வெப்பநிலை|
+Dewar|டூவர்|
+Dewar flask|தூவரின் குடுவை|
+Dewar's method|தூவரின் முறை|
+dextrin|தெக்கிரின்|
+dextrorotatory|வலத்திருப்பு|
+dextrose|வலத்திருப்போசு|
+di-|இரு-|
+diabetes insipidus|கழிவு நீரிழிவு|
+diabetes mellitus|மரபு நீரிழிவு|
+diagnose|பழுதறி வி|
+diagnosis|பழுதறிதல்|
+diagnostic|பழுதறி பெ.உ|
+diagonal |மூலைவிட்டம்|
+diagonal matrix|மூலைவிட்டத் தளவணி|
+diagram|படவரைவு|chart - வரிவரைவு
+diagrotropism|புவிக்கிடையியக்கம்|
+diakinesis stage|பிரிவியக்க நிலை|
+dial n|சுழற்றி|
+dialect|கிளைமொழி|
+dialkyl|ஈரால்க்கைல்|
+dialog|ஈருரை|
+dialogue box|ஈருரைற் பெட்டி|
+dial-up connection|அழையிணைப்பு|
+dialyser|ஊடுபகுப்பி|
+dialysis|ஊடுபகுப்பு|
+diamagnetism|மென்காந்தம்|
+diameter|விட்டம்|
+diamond|வைரம்|
+diapedesis|நழுவொழுகல்|
+diaphoretic|வியர்வைமிகைப்பி|
+diaphragm|இடைத்திரை|
+diaphysis|இடைவளரி|
+diarch|ஈரிழையம்|
+diarrhea|வயிற்றுப்போக்கு|
+diastase|கழற்றூக்கி|
+diastasis|கழற்றுமை|
+diastereomer|வேற்றொளிமாற்றியன்|
+diastole|விரிதுடிப்பு|
+diastolic pressure|விரிதுடிப்பழுத்தம்|
+diatomic|ஈரணு|
+diatoms|இருவெட்டிகள்|
+diazo|ஈரசோ|
+diazomethane|ஈரசோமீத்தேன்|
+diazonium|ஈரசோனியம்|
+diazotization|ஈரசோனியமாக்கல்|
+dicarboxyl-|இருகரிமமில-|
+dicarboxylic acid|இரட்டைக் கரிமமிலம்|
+dichasium|இருபிரிவன்|
+dichlamydeous|ஈருறைய|
+Dichlorodiphenyltrichloroethane (DDT)|இருகுளோரோவிருபினைல்முக்குளோரோயீத்தேன் (இவிமு)
+dichlorohydrin|இருகுளோரோநீர்மூச்சியன்|
+dichogamy|முதிர்வுத்தடை|
+dichotomous|இருபிரிவாக்கும்|
+dichroic|இருநிறம|
+dichroism|இருநிறமை|
+dichromate|இருகுரோமேட்டு|
+dicot |இரு விதையிலை|
+dicotyledonae|இருவிதையிலையின|
+dictatorial government|சர்வாதிகார அரசாங்கம்|
+dictionary|அகராதி|alphabetical - அகரவரிசை
+dictyosome|வலையடுக்கு|
+dictyostele|வலைக்கம்பம்|
+dicyclomine|இருசுழல்வெரீன்|aka dicycloverine
+dicycloverine|இருசுழல்வெரீன்|aka dicyclomine
+didelphous stamens|இருகற்றை மகரந்தத்தாள்கள்|
+didynamous|இருதிறன்|
+die back|நுனிக்கருகல்|
+diecious|தனிப்பாலிய|aka dioecious
+dielectric|மின்கடத்தா|
+dielectric constant|மின்கடத்தாமை மாறிலி|
+Diels-Alder reaction|தீல்சு ஆல்டரின் வினை|
+diencephalon|இடைமூளை|
+diene|ஈரீன்|
+-diene|-ஈரீன்|
+diesel|தீசல்|petrol - எரிசல்
+diesel power plant|தீசல் மின்னிலையம்|
+dietetics|உணவியல்|
+DIF (Data Interchange Format)|தவிவ (தரவு இடைமாற்ற வடிவூட்டம்)
+difference amplifier|கழித்தல் மிகைப்பி|
+difference engine|வேறுபாட்டுப் பொறி|
+difference set|வேறுபாட்டுக் கணம்|
+differentiability|வகையிடுமை|
+differentiable|வகையிடத்தகு|
+differential|வகைக்கெழு|
+differential|வகையீட்டு |
+differential calculus|வகையீட்டு நுண்கணிதம்|
+differential equation|வகையீட்டுச் சமன்பாடு|
+differential temperature|வெப்பநிலை வேறுபாடு|
+differential thermometer|வெப்பநிலை வேறுபாட்டளவி|
+differential ultracentrifuge|வகையீட்டு மிகைச்சுழல்வீழ்த்தி|
+differentiation (biology)|வேறுபடல் (உயிரியல்)|
+differentiation (math)|வகையிடல்|
+difficulty|இடர்ப்பாடு|
+diffraction|விளிம்புவளைவு|விளிம்பு விளைவு - edge effect
+diffusion|விரவல்|distribution - பரவல்
+diffusion pressure deficit|விரவல் அழுத்தக் குறைவு|
+digestion|செரித்தல்|
+digestive system|செரித்தலமைப்பு|
+digital|எண்ணியல்|
+digital circuit|எண்ணியல் மின்சுற்று|
+digital clock|எண்ணியல் கடிகாரம்|
+digital computer|எண்ணியல் கணினி|
+digital format|எண்ணியல் வடிவூட்டம்|
+digital sampling|எண்ணியல் மாதிரிக்கூறெடுப்பு|
+digitron|இலக்குழல்|
+diglyceride|இருகிளிசரைடு|
+digoxin|நரிக்கைநச்சு|
+digressive tax|மிதவளர்வீத வரி|
+dihalide|ஈருப்பாக்கைடு|
+dihybrid|இரட்டைக்கலப்பினம்|
+dihybrid ratio|இரட்டைக்கலப்பு விகிதம்|
+dihydric|இருநீர்மூச்சிய|
+dihydroxyacetone|இருநீர்மூச்சிய அசிற்றோன்|
+dihydroxylation|இருநீர்மூச்சியமேற்றல்|
+dihydroxyphenylalanine (DOPA)|இருநீர்மூச்சியபினைலலனின் (இநீபி)
+dilate (oneself)|விரிவுறு|expand - விரிவாகு
+dilate (something)|விரிவுறுத்து|expand - விரிவாக்கு
+dilation|விரிவுறுதல்|
+dilute|நீர்த்த|
+dilute acid|நீர்த்த அமிலம்|
+dilution|நீர்த்தல்|
+dimension of a matrix|தளவணியின் வடிவம்|
+dimensional analysis|பரிமாணப் பகுப்பாய்வு|
+dimensionless quantity|பரிமாணமற்ற அளவு|
+dimer|இருமம் (பன்மமறிவியல்)|
+dimerous flower|ஈரங்க மலர்|
+diminishing balance method|மதிப்புக் குறைப்பு முறை|aka written down value method
+Dimitriv Mendeleev|டிமித்ரி மெஞ்ஜலீவ்|
+dimorphic|இருவடிவ|
+dimorphism|இருவடிவுமை|
+-dinitrile|-இருசயனலி|
+dinosaur|அச்சமூலி|dino - terrifying, அச்சமூ(ட்டும்); saur - lizard, (பல்)லி
+dinucleotide|ஈரணுக்கருவைடு|
+diode|இருமின்வாய்|anode - எதிர்மவாய்; cathod - நேர்மவாய்
+dioecious|தனிப்பாலிய|aka diecious
+dioecism|தனிப்பாலியமை|
+-dioic acid|-ஈராயிக அமிலம்|
+-diol|-ஈரால்|
+Diophantus|டியோபாண்டஸ்|
+dioxan|ஈராசன்|
+dipalmitoyl lecithin|இருபனையிக முட்டைக்கொழு|
+diphenyl|இருபினைல்|
+diphtheria|கக்குவான் இருமல்|
+diphtheria toxin|கக்குவான் இருமல் நச்சுவம்|
+diphyodont|இருமுளையப்பல்|
+diploblastic animal|ஈரடுக்கு விலங்கு|
+diplococcus|இரட்டைமணியம்|
+diploid|இரட்டைமரபெண் பெ. உ|
+diploidy|இரட்டைமரபெண் பெ|
+diplotene stage|ஈரிழை நிலை|
+dipole|இருமுனை|
+dipole moment|இருமுனைத் திருப்புதிறன்|
+diptera|இரட்டையிறகன|
+direct|நேரடி|
+direct|வழிநடத்து|
+direct access|நேரணுகு|aka random access
+direct current|திசைமாறா மின்னோட்டம்|
+direct mail advertising|நேரடி அஞ்சல் விளம்பரம்|
+direct memory access|நேரடி நினைவக அணுகல்|
+direct product|நேர்ப்பெருக்கல்|
+direct proportion|நேர் விகிதம்|
+direct variation|நேரடி மாறுபாடு|
+directed graph|திசைய வரைபடம்|
+directed path|திசையப் பாதை|
+directed route|திசைய வழித்தடம்|
+directional selection|திசையத் தேர்வு|
+directive|நெறியுறுத்தம்|
+directivity|திசைமம்|
+director|இயக்குனர்|
+directory|கோப்பகம்|
+directory path|கோப்பகப் பாதை|
+directory structure|கோப்பகக் கட்டமைப்பு|
+directrix|இயக்குவரை|locus - இயங்குவரை
+disable|செயலிறக்கு|enable - செயலேற்று
+disadvantage|குறைப்பாடு|
+disambiguate|பொருள்மயக்கநீக்கம்|
+disaster|பேரழிவு|
+disc brake|வட்டுத்தடுப்பி|
+discharge|வெளியேற்றல்|
+discharge (electricity)|மின்னிறக்கு|
+discharging (electricity)|மின்னிறக்கம்|
+disciflorae|பூந்தட்டன|
+disclosure|வெளிப்படுத்தல்|வெளியீடு - output
+discoidal|தகடனைய|
+discoidal cleavage|தகடனைய பிளவுறல்|
+discontinuous gene|தொடர்ச்சியற்ற மரபணு|
+discount|தள்ளுபடி|
+discourage|ஊக்கங்குறை|
+discourse|சொற்பொழிவு|
+discovery|கண்டுபிடிப்பு|
+discrete|உதிரி|
+discrete mathematics|உதிரிக் கணிதம்|
+discrete random variable|உதிரி நேர்வு மாறி|
+discrete variable|உதிரி மாறி|
+discretionary|உசிதமான|
+discriminate|வேற்றுமைகாண்|
+discrimination|வேற்றுமைகாணல்|
+discriminator|வேற்றுமைகாணி|
+discussion |உடனுரை|
+diseconomy of scale|பெருமளவச் சிக்கனமின்மை|
+disenfranchised|வாக்குரிமையிழந்த|
+dish antenna|கும்பா அலைவுணரி|
+dishonor (of check)|மறுப்பு (காசோலை)|
+dishonouring|அவமதித்தல்|
+disinfectant|கிருமிநீக்கி|
+disinfection|கிருமிநீக்கம்|
+disinvestment|முதலீடு விலகல்|
+disjoint|வெட்டா|
+disjoint sets|வெட்டாக் கணங்கள்|
+disjunction|பிரிப்பு|
+dislocation of joint|மூட்டுப் பிறழ்வு|
+disorder|முறைமையின்மை|entropy - சீர்குலைவு; chaos - ஒழுங்கின்மை
+dispersed phase|விரிகை முகநிலை|
+dispersion|விரிகை|
+dispersion medium|விரிகை ஊடகம்|
+dispersive power|விரிகை திறன்|
+dispersive replication|விரிகை இரட்டித்தல்|
+displacement|இடப்பெயர்ச்சி (எந்திரவியல்)|
+displacement reaction|இடப்பெயர்ச்சி வினை|
+display|காட்சியம்|show room - காட்சியகம்
+disposable|ஒற்றைப்பயன்|
+disruptive selection|பிளவுத் தேர்வு|
+disseminated sclerosis|பன்மடி திசுக்கடினம்|aka multiple sclerosis
+dissertation|ஆய்வேடு|
+dissociate (chemistry)|பிரிகையடை|
+dissociation (chemistry)|பிரிகை|
+dissociation constant|பிரிகை மாறிலி|
+dissociation energy|பிரிகை ஆற்றல்|
+dissolution|கலைப்பு|
+distal|தொலைவுப்பக்க|
+distal convoluted tubule|தொலைவுப்பக்கச் சிக்கற்குழலம்|
+distal tubule|தொலைவுப்பக்கக் குழலம்|
+distance|தொலைவு|
+distance education|தொலைக்கல்வி|
+distemper|பதமின்மை|
+distillation|காய்ச்சிவடித்தல்|
+distinct|தனிப்பட்ட|
+distinguishable|பிரித்தறியக்கூடிய|
+distortion|திரிதல்|
+distribute|பரவலாக்கு|
+distributed operating system|பரவலான செயற்பாடமைப்பு|
+distributed winding|பரவற் கண்டு|
+distributing vessel|பரவலாக்கக் குழல்|
+distribution (action)|பரவலாக்கல்|
+distribution (thing)|பரவல்|diffusion - விரவல்
+distribution box|பரவல்பெட்டி|
+distribution channel|பரவலாக்க வழி|
+distribution coefficient|பரவல் கெழு|
+distributive|விரவத்தகு|
+distributive property|விரவுமைப் பண்பு|
+distributivity|விரவுமை|
+district|மாவட்டம்|
+district judge|மாவட்ட நடுவர்|
+disulfide|இருகந்தகைடு|
+dithecous stamen|இருமடல் மகரந்தத்தாள்|
+dithioperoxol|இருகந்தகால்|
+diuretic|சிறுநீரதி|
+divergence|விரிபோதல்|
+divergent|விரிபோகும்|
+divergent boundaries|விரிபோகும் வரப்புகள்|
+diversify|பன்மயமாக்கு|
+diversity|பன்மயம்|
+divide internally|உட்பங்கிடு|
+dividend|பகுவி|
+divider|பிரிப்பான்|
+divine origin theory|கடவுள் மூலக் கோட்பாடு|
+division|பிரிவு|
+division of labor|உழைப்புப் பகிர்வு|
+divisor|வகுத்தி|
+divorce (marriage)|மணமுறி|
+-diyne|-ஈரைன்|
+DNA|அனடி|திருப்புச்சொல்லாகிய AND-இலிருந்து அனடி என்ற புதுத் தமிழ்ச்சொல் உருவாகிறது
+DNA databank of Japan (DDBJ)|சப்பானிய அனடி தரவுத்தளம் (சனத)
+DNA polymerase|அனடி பன்மமூக்கி|
+DNA replication|அனடி இரட்டித்தல்|
+DNA segmenting|அனடி துண்டாக்கல்|
+do {…} while (…)|செய் {…} (…) என்றபோது|
+do until|எனும்வரை செய்|
+do while|என்றபோது செய்|
+Dobereiner|டோபாரைனர்|
+Dobzhansky|டாப்ஷான்ஸ்கி|
+dock|கலத்துறை|
+dock dues|துறைமுகக் கட்டணம்|
+docosahexaenoic acid|இருபத்திரண்டாறவீனாயிக அமிலம்
+docosane|இருபத்திரண்டவேன்|
+doctor (medicine)|மருத்துவர்|
+doctoral |முனைவர் பட்ட|
+doctrin|சித்தாந்தம்|
+document|ஆவணம்|
+dodecane|பன்னிரண்டவேன்|
+dog legged stair|நாய்க்கால் படிக்கட்டு|
+doliolum|தோலியோலியம்|
+dolomite|தாலமைட்டு|
+domain (of a function)|ஆட்களம் (சார்பின்)|
+domain (protein)|திரளம் (புரதம்)|
+domain (taxonomy)|களம் (பாகுபாட்டியல்)|
+domain name|ஆட்களப் பெயர்|
+domestic trade|உண்ணாட்டு வியாபாரம்|
+domestication|வீட்டுப்பழக்கல்|
+dominance|ஓங்கல்|
+dominant|ஓங்கிய|recessive - ஒடுங்கிய
+dominant epistasis|ஓங்கு மேல்நிற்றல்|
+dominant recessive epistasis|ஓங்கு ஒடுங்கு மேல்நிற்றல்|
+dominant role|ஓங்கிய பங்கு|
+Donnan equilibrium|தான்னன் சமநிலை|
+donor|வழங்கி|
+donovani|தானவனி|
+door frame|கதவுச் சட்டம்|
+DOPA (dihydroxyphenylalanine)|இநீபி (இருநீர்மூச்சியபினைலலனின்)
+dopant|மாசூட்டி|
+dopaquinone|இருகீற்றோபினைலலனின்|
+doping|மாசூட்டல்|pollution - மாசுறுதல்
+doppler effect|அதிர்வெண் நகர்வு|
+dormancy|உறக்கநிலை|
+dormant|உறக்க|
+dormer window|கூரைச் சாளரம்|
+dorsal|முதுகுப்பக்க|
+dorsal aorta|முதுகுப் பெருந்தமனி|
+dorsal fissure|முதுகுப்பக்கப் பிளவு|
+dorsal ganglion|முதுகுப்பக்க நரம்பணுத்திரள்|
+dorsal lip|முதுகுப்பக்க உதடு|
+dorsal root|முதுகுப்பக்க வேர்|
+dorsi|முதுகுப்பக்கத் தசை|
+dorsifixed anther|முதுகுப்பிணைப்பு மகரந்தம்|
+DOS operating system|வட்டு செயற்பாடமைப்பு|
+dosage|எடுப்பளவு|
+dot matrix printer|புள்ளித் தளவணி அச்சிடுவான்|
+dot operator|புள்ளிச் செயலி|
+dot product|புள்ளிப் பெருக்கல்|
+dotted line|புள்ளிக்கோடு|
+double bond|இரட்டைப் பிணைப்பு|
+double click|இரட்டைச் சொடுக்கு|
+double column|இருநெடுக்கை|
+double counting|இருமுறை எண்ணுதல்|
+double decomposition|இரட்டைச் சிதைவுறுதல்|
+double density|இரட்டை அடர்வு|
+double entry|இரட்டைப்பதிகை|
+double fertilization|இரட்டைக் கருவுறுதல்|
+double headed arrow|இருதலை அம்புக்குறி|
+double helix|இரட்டைத் திருகம்|
+double layer winding|இரட்டைப் படலக் கண்டு|
+double precision|இரட்டைத் துல்லியம்|
+double quotes|இரட்டை மேற்கோள்|
+
+double spacing|இரட்டை வரியிடை|
+double st&rho;and|இரட்டைக் கிடையிழை|
+doublet|இரட்டை (நிறமாலையியல்)|
+doubling time|இரட்டிப்பு நேரம்|
+dowell|மரவாணி|
+dowelled joint|மரவாணியிணைப்பு|
+do-while statement|என்றபோது செய்க் கூற்று|
+down (quark)|கீழ் (குவார்க்கு)|
+down feather|மெல்லிழையிறகு|
+down rod (ceiling fan)|தொங்குகம்பி (முகட்டு விசிறி)|aka suspension rod
+downhill|மலையிறக்க|
+download|பதிவிறக்கு|
+downward compatible|கீழ்நோக்கி ஒவ்வுமையான|
+draft (finance)|வரைவோலை|check - காசோலை
+draft document|வரைவு ஆவணம்|
+draftsman|கட்டிடப்படவரைவாளர்|
+drag and drop|இழுத்து விடு|
+drain|வடிகால்|
+draught breed|இழுவைமாடு|
+Dravida Munnetra Kazhagam|திராவிட முன்னேற்றக் கழகம்|
+drawee (of a check)|எழுதுறுனர் (காசோலை)|
+drawer (of a check)|எழுதுனர் (காசோலை)|
+drawing|வரைவு|
+drawing board|வரைவுப் பலகை|
+drawing instruments|வரைவுக் கருவிகள்|
+drawing pencil|வரைவுப் பென்சில்|
+drawstring|இழுகயிறு|
+dressing|அழகுறுத்தல்|
+drift|அலைநகர்வு|
+driller|துளையிடுவன்|
+drinking water|குடிநீர்|
+drip irrigation|சொட்டு நீர்ப்பாசனம்|
+drive (computer)|ஓடி (கணினியி்யல்)|
+driver (computer)|ஓட்டி (கணினியி்யல்)|
+drop down list|கீழ்விரிப் பட்டியல்|
+drop down list box|கீழ்விரிப் பட்டியல் பெட்டி|
+drop test|வீழ்ச்சிச் சோதனை|
+drosera|பனித்துளிச்செடி|
+drought|வரட்சி|
+drought enduring|வரட்சி தாங்கும்|
+drought escaping|வரட்சி தவிர்க்கும்|
+drought resistant|வரட்சி எதிர்க்கும்|
+drug (medicinal)|மருந்துவேதியம்|
+drug (narcotic)|போதைப்பொருள்|
+drug design|மருந்துவேதி வடிவமைப்பு|
+drupe|உள்ளொட்டுச் சதைக்கனி|
+dry cell|பசை மின்கலம்|
+dry dehiscent fruit|உலர் வெடிகனி|
+dry distillation|உலர் காய்ச்சிவடித்தல்|
+dry fruit|உலர்கனி|
+dry heat|உலர் வெப்பம்|
+dry rubble masonry|உலர் சீரற்ற கற்கட்டு|
+dual citizenship|இரட்டைக் குடிமகர்மை|
+dual view|இரட்டைக் காட்சி|
+duality|இருமை|
+dualpurpose|இருபயன்|
+dubnium|அடபினியம்|
+ductile|தகடாகு|
+ductility|தகடாகுமை|
+ductus deferens|விந்தணுநாளம்|
+due annuity|செலுத்துக் காலப்படி|
+due date|செலுத்தும் நாள்|
+dulcin|தல்சின்|
+Dumas|டூமாஸ்|
+Dumas method|துயுமாசின் முறை|
+dumb terminal|மந்த முனைப்பொறி|
+dumbell|இருகோளம்|
+dump|கொட்டல்|
+dung|சாணம்|
+dung energy|சாண ஆற்றல்|
+duodecillion (short scale)|பதின்மும்மடியாயிரம்|
+duodenal ulcer|முன்சிறுகுடற்புண்|
+duodenum|முன்சிறுகுடல்|
+duplex mode|இருவழி நிலமம்|
+duplicate (trade)|போலி (வியாபாரம்)|
+duplicate dominant epistasis|இரட்டை ஓங்கு மேல்நிற்றல்|
+duplicate recessive epistatis|இரட்டை ஒடுங்கு மேல்நிற்றல்|
+duplication|இருமடங்காதல்|
+dura mater|வெளி மூளையுரை|
+durability|உழைதிடம்|
+duration|நிகழ்வுகாலம்|
+Dutch|இடச்சு|
+Dutch bond|இடச்சுப் பிணைப்பு|
+dwarf|குறுவளரர்|
+dwarfism|குறுவளர்ச்சி|
+dwelling|வசிப்பிடம்|
+dyad|இரட்டை (உயிரியல், வேதியியல்)
+dyeing|சாயமிடல்|
+dynamic|இயக்க|
+dynamic allocation|இயக்க ஒதுக்கீடு|
+dynamic balancing|இயக்கச் சமனமாக்கல்|
+dynamics|இயக்கவியல்|
+dynamo|மாறாவியற்றி|திசைமாறா மின்னியற்றி என்பதன் சுருக்கம்
+dyscrasias|புன்கலவை|
+dysentery|பேதி|
+dysgenic|புன்மரபு|eugenic - நன்மரபு
+dysprosium|திப்புரோசியம்|
+dystrophy|ஊட்டத்தீங்கு|
+E- (alkene)|ம- (ஆல்க்கீன்)|
+e. coli|இ. கோலை|
+-eae|-அங்கள்|
+ear|செவி|
+ear drum|செவிப்பறை|
+ear ossicles|செவிச் சிற்றெலும்புகள்|
+earning|ஈட்டல்|
+earphone|காதொலியன்|
+earth|புவி|
+Earth|புவி (கோள்)|
+Earth Day|புவி தினம்|
+earth's crust|புவிப்படலவோடு|
+earth's surface|புவியின் மேற்பரப்பு|
+earthworm|மண்புழு|
+eaves|இரைவானம்|மழைநீரைக் கீழே இரைப்பது
+eavesdropping|ஒட்டுக்கேட்டல்|
+ebonite|எபனைட்டு|
+ebracteate|பூவடிச்செதிலற்றது|
+ebracteolate|பூக்காம்புச்செதிலற்றது|
+ebullioscopic constant|கொதியளவி மாறிலி|
+ebullioscopy|கொதியளவியல்|
+e-cash|மின்பணம்|
+eccentricity|மையநீங்குமை|centrifugal - மையம்விலகு
+eccrine gland|வியர்வைச் சுரப்பி|
+eccrinology|சுரப்பியல்|
+echinoderm|முட்தோலி|
+echo cardiography|எதிரொலி இதயவரைவு|
+eclipse|இடைமறைப்பு|
+eclipsed|இடைமறை|
+ecliptics|புவியூர் தளம்|
+ecological isolation|வாழிடவியத் தனிமையாதல்|
+ecological pyramid|வாழிடவியல் நாற்கூம்பு|
+ecological succession|வாழிடவியல் தொடர்முறை|
+ecology|வாழிடவியல்|
+e-commerce|மின்வணிகம்|
+economic|சிக்கனமான|
+economic (economics)|பொருளியல் பெ.உ|
+economic activity|பொருளியற் செயல்கள்|
+economic growth|பொருளியல் வளர்ச்சி|
+economic order quantity|சிக்கன வருகோள் அளவு|
+economic planning|பொருளியல் திட்டமிடல்|
+economic thought|பொருளியல் சிந்தனை|
+economics|பொருளியல்|
+economy|சிக்கனம்|
+economy of scale|பெருமளவச் சிக்கனம்|
+EcoRI|முதல் இகோவ|E coli restriction enzyme - இ கோலை வரையரையூக்கி
+EcoRII|இரண்டாம் இகோவ|
+EcoRV|ஐந்தாம் இகோவ|
+ecospecies|வாழிடவினம்|
+ecosystem|வாழிடவமைப்பு|
+ecotype|வாழிடவகை|
+ectoderm|புறத்தோல்|
+ectopic|இடமாறிய|
+ectoplasm|புறக்குழைமம்|
+ectotrophic mycorrhiza|மேலூட்ட வேர்ப்பூஞ்சை|
+eczema|படை (தோல்)|
+ed editor|ஈடித் திருத்தி|
+edaphic|மண்ணிய|
+eddy|சுழிப்பு|
+eddy current|சுழியோட்டம்|
+edema|எடிமா|
+edge|விளிம்பு|
+EDI - Electronic Data Interchange|மின் தரவு இடைமாற்றம்|
+edit|திருத்து|
+editor|திருத்தி|compiler - தொகுப்பி
+Edward Jenner|எட்வர்டு ஜென்னர்|
+EEPROM (electrical erasable programmable read only memory)|மின்னழி நிபநி (மின்னாலழியும் நிரலாக்கத்தகு படிக்கவே நினைவகம்)
+effective  |பயனுறு|
+effective rate|பயனுறு வீதம்|
+effectiveness|பயனுறுமை|
+effector organ|செயல் உறுப்பு|
+efferent|கொண்டுசெல்லும்|
+efferent blood vessel|கொண்டுசெல்லும் குருதிக்குழல்|
+effervescence|நுரைபொங்கல்|
+efficiency|பயன்திறன்|
+effusion|துளையூடல்|
+EFT (Electronic Funds Transfer)|மிநிமா (மின் நிதி மாற்றல்)|
+EFT (electronic funds transfer)|மிநிமா (மின் நிதி மாற்றல்)|
+EGC (electrocardiogram)|மிதவ (மின்னிதயவரைவு)|
+EGC lead|மிதவக் கம்பி|
+egg|முட்டை (சமையற்கலை)|
+egg apparatus|முட்டைச் செங்கருவி|
+egg beater|முட்டையடிப்பி|
+ego|நானுணர்வு|
+Ehrlich|எர்லிச்|
+Ehrlich's test|எர்லிச்சின் சோதனை|
+eicosapentaenoic acid|இருபதைந்தவீனாயிக அமிலம்|
+eigenfunction|பான்மைச் சார்பு|
+eigenvalue |பான்மை மதிப்பு|
+eigenvector|பான்மைத் திசையன்|
+Einstein|ஐன்ஸ்டைன்|
+Einstein equation|ஐனுத்தீன் சமன்பாடு|
+einstenium|ஐனத்தியம்|
+ejaculate n|வெளிப்பாய்மம்|
+ejaculate v|வெளிப்பாய்|
+ejaculation|வெளிப்பாய்தல்|
+ejaculatory duct|வெளிப்பாய் நாளம்|
+eject|வெளித்தள்ளு|
+El Nino current|ஆண் நீரோட்டம்|
+elastase|இழுமனூக்கி|
+elastic adj|இழும|
+elastic artery|இழுமத் தமனி|
+elastic collision|முழுமீட்சி மோதல்|
+elastic limit|இழுமமீட்சி எல்லை|
+elastic n|இழுமம்|
+elastic property|இழுமப் பண்பு|
+elastic range|இழுமமீட்சி வீச்சு|
+elastic strength|இழுமமீட்சி வலிமை|
+elasticity|இழுமை|plasticity - நெகிழ்மை
+elastin|இழுதம்|
+elderly|முதியர்|adult - முதுவர்
+elected|தேர்தலுற்ற|
+election|தேர்தல்|
+electric bulb|மின்குமிழம்|
+electric cell|மின்கலம்|
+electric circuit|மின்சுற்று|
+electric current|மின்னோட்டம்|
+electric fan|மின்விசிறி|
+electric field|மின்புலம்|
+electric flux|மின் பாயம்|
+electric gradient|மின்சாய்வு|
+electric oven|மின்சாரக் கணப்பு|
+electric potential|மின் ஆற்றநிலை|
+electric potential difference|மின் ஆற்றநிலை வேறுபாடு|
+electric stove|மின்சார அடுப்பு|
+electrical conductance|மின் கடத்தல்|
+electrical conductor|மின்கடத்தி|
+electrical degree|மின்சாரப் பாகை|
+electrical engineering|மின்னோட்டப் பொறியியல்|
+electrical erasable programmable read only memory (EEPROM)|மின்னாலழியும் நிரலாக்கத்தகு படிக்கவே நினைவகம் (மின்னழி நிபநி)
+electrical power transmission|மின்திறன் அனுப்பீடு|
+electrical shock|மின்னதிர்ச்சி|
+electricity|மின்சாரம்|
+electricity (study of)|மின்னோட்டவியல்|
+electrocardiogram (EGC)|மின்னிதயவரைவு (மிதவ)|
+electrocardiograph|மின்னிதயவரைவி|
+electrochemical|மின்வேதி|
+electrochemical equivalent|மின்வேதிச் சமானி|
+electrochemistry|மின்வேதியியல்|
+electrode|மின்வாய்|
+electrodialysis|மின்னூடுபகுப்பு|
+electrodynamic|இயங்குமின்|
+electroencephalography|மின்மூளைவரைவு|
+electrolysis|மின்னாற்பகுப்பு|
+electrolyte|மின்னாற்பகுளி|
+electrolytic|மின்னாற்பகுப்பிய|
+electromagnetic|மின்காந்த|
+electromagnetic coil|மின்காந்தச் சுருளி|
+electromotive force|மின்னியக்க விசை|
+electron|எலட்டிரான்|
+electron accepting|எலட்டிரான் பெறும்|
+electron affinity|எலட்டிரான் நாட்டம்|
+electron configuration|எலட்டிரான் அமைவடிவம்|
+electron gain enthalpy|எலட்டிரான் பெறும உள்வெப்பம்
+electron gun|எலட்டிரான் எய்வி|
+electron micrograph|எலட்டிரான் நுண்வரை|
+electron microscope|எலட்டிரான் நுண்ணோக்கி|
+electron releasing|எலட்டிரான் விடும்|
+electron shell|எலட்டிரான் கூடு|
+electron transport chain|எலட்டிரான் கடத்துக் கோர்வை|
+electron withdrawing|எலட்டிரான் இழுக்கும்|
+electronegative|எலட்டிரானிழு|
+electronegativity|எலட்டிரான் இழுதிறன்|
+electronic fund transfer (EFT)|மின் நிதி மாற்றல் (மிநிமா)|
+Electronic Funds Transfer (EFT)|மின் நிதி மாற்றல் (மிநிமா)|
+electronic transition|எலட்டிரான் நிலைமாற்றம்|
+electronic workbench|மின்னியல் பணிப்பலகை|
+electronics|மின்னியல்|
+electroosmosis|மின்சவ்வூடல்|
+electrophile|எலட்டிரவிரும்பி|
+electrophilic addition reaction|எலட்டிரவிருப்பச் சேர்த்தல் வினை
+electrophilic substitution reaction|எலட்டிரவிருப்பப் பதிலீட்டு வினை
+electrophoresis|மின்வாய்க்கவர்ச்சி|
+electroplating|மின்முலாம் பூசுதல்|
+electroporation|மின்துளையாக்கம்|
+electropositive character|எலட்டிரான் விடுதிறன்|
+electrostatic|நிலைமமின்|
+electrostatic unit|நிலைமமின்னலகு|
+element (chemical)|தனிமம்|
+element of a matrix|தளவணியின் உறுப்பு|
+element of a set|கணத்தின் உறுப்பு|
+elementary operation|தனிமச் செயலம்|
+elephantiasis|யானைக்கால் நோய்|
+elevation (surveying)|ஏற்றமட்டம்|
+elevation of boiling point|கொதிநிலை உயர்வு|
+elevator|ஆள்தூக்கி|
+elimination method|நீக்கல் முறை|
+elimination reaction|நீக்கல் வினை|
+ELISA (enzyme-linked immunosorbent assay) test|ஊக்கிப்புரதந்தொடுத்த நோயெதிர்ப்பு மேற்கவர்வி மதிப்பாய்வு சோதனை|aka எலிசாச் சோதனை
+ELISA (enzyme-linked immunosorbent assay) test|எலிசாச் சோதனை|aka ஊக்கிப்புரதந்தொடுத்த நோயெதிர்ப்பு மேற்கவர்வி மதிப்பாய்வு சோதனை
+elite|உயர்குடியினர்|
+elitism|உயர்குடிமை|
+ellipse|நீள்வட்டம்|
+ellipsoid|நீள்கோளம்|
+ellipsoideus|நீள்கோளவம்|
+elliptical|நீள்வட்ட |
+elliptical arch|நீள்வட்ட வளைவு|
+elliptical orbit|நீள்வட்டச் சுற்றுப்பாதை|
+elongated|நீட்சியுற்ற|
+elongation|நீண்மை|
+elongation (rna)|நீளமாதல் (அனரி)|
+else|அன்றேல்|
+else if (…)|அன்றேல் (…) எனில்|
+elsewhere|மற்றெங்கும்|
+eluent|கலசன்|
+elute|கலசு|
+elution|கலசல்|
+emaciation|உடல்மெலிதல்|
+e-mail|மின்னஞ்சல்|
+e-mail address|மின்னஞ்சல் முகவரி|
+emasculate|ஆண்மைநீக்கு|
+emasculation|ஆண்மைநீக்கம்|
+Embden|எம்டன்|
+Embden-Meyerhof-Parnas (EMP) Pathway|எம்டன் மெயர்காபு பரினசின் (எம்பர்) வழித்தடம்
+embed|உட்பதி|
+embedded|உட்பதித்த|
+EMBL (European Molecular Biology Laboratory)|ஐரோப்பிய மூலக்கூறு உயிரியல் சோதனைச்சாலை (ஐமூவுசோ)
+embolus|குருதிகட்டித்துகள்|
+embryo|முளைக்கரு|
+embryo sac|கருப்பை|
+embryogenesis|முளைக்கருவாக்கம்|
+embryoids|முளைக்கருவனையங்கள்|
+embryology|கருவளரியல்|
+embryonic stem cell|முளைக்கரு மூல உயிரணு|
+emergency|உய்யவசரம்|
+emetics|வாந்தியூட்டி|
+emigrate|குடியோடு|
+emission|உமிழ்தல்|
+emission spectrum|உமிழ்தல் நிறமாலை|
+emissive power|உமிழ்திறன்|
+emmetropia|சரியளவுப்பார்வை|
+EMP (Embden-Meyerhof-Parnas) Pathway|எம்பர் (எம்டன் மெயர்காபு பரினசின்) வழித்தடம்
+emphasis|வலியுறுத்தல்|
+emphasize|வலியுறுத்து|
+empirical formula|விகித வாய்ப்பாடு|
+employ |பணிகொள்|
+employee|பணியாளர்|
+employer|பணிகொள்வோர்|
+employment|பணிகொள்ளல்|
+Employment Assurance Scheme|பணிகொள் வாக்கீட்டுத் திட்டம்|
+employment opportunity|பணிகொள்ளல் வாய்ப்பு|
+empty set|வெற்றுக் கணம்|
+emulate|போன்மையாக்கு|
+emulation|போன்மையாக்கம்|
+emulsification|கலங்கமாக்கல்|
+emulsion|கலங்கம்|
+enable|செயலேற்று|disable - செயலிறக்கு
+enamel|எனாமல்|
+enamelled|எனாமலிட்ட|
+enantiomer|சமவொளி மாற்றியன்|
+encapsulation|பெட்டகமாக்கல்|
+encephalitis|மூளையழற்சி|
+encephalomyelitis|நரம்புமண்டல அழற்சி|
+encode|குறியாக்கு|
+encoder|குறியாக்கி|
+encourage|ஊக்குவி|
+encouragement|ஊக்குவித்தல்|
+encrustation|படலவோடாக்கம்|
+encryption|கமுக்கமிடல்|
+end correction|முனைத் திருத்தம்|
+end of file|கோப்பிறுதி|
+end of line|வரியிறுதி|
+end plate|இறுதித்தட்டு|
+end rule |முனை விதி|
+endarch|உண்ணோக்கிய|
+endemic|சமூகவுள்|
+endemic goiter|எளிய காயிட்டர்|aka simple goiter
+endergonic|ஆற்றல்கொள்|
+endocarditis|இதயவுள்ளுறையழற்சி|
+endocardium|இதயவுள்ளுறை|
+endocarp|கனியகத்தோல்|
+endocrine|உட்சுரப்பி|
+endocrine system|உட்சுரப்பி அமைப்பு|
+endocrynology|உட்சுரப்பியல்|
+endocytosis|அணுவுட்கவர்கல்|
+endodermal lining|உட்டோலடுக்கு|உள் + தோலடுக்கு (தொல்காப்பியம் 150)
+endoenzyme|அகவூக்கிப்புரதம்|
+endogenous|அகத்தோன்றிகள்|
+endolymph|உண்ணிணநீர்|
+endometrium|கருவக உள்ளுறை|
+end-on position|முனைநோக்கு நிலை|
+endoneurial fluid|நரம்புக்கொத்திடைப் பாய்மம்|
+endoneurium|நரம்புக்கொத்திடைத்திசு|
+endonuclease|அகவனவூக்கி|
+endoparasite|உள்ளொட்டுண்ணி|
+endopeptidase|அகப்புரதையூக்கி|
+endoplasm |அகக்குழைமம்|
+endoplasmic reticulum|அகக்குழைம வலை|
+endorse |ஏற்பிசை|
+endorsee|ஏற்பிசைவுறுனர்|
+endorsement|ஏற்பிசைவு|
+endorser|ஏற்பிசைவுனர்|
+endoscope|உண்ணோக்கி|
+endoscopy|உண்ணோக்கல்|
+endoskeleton|அக எலும்புக்கூடு|
+endosmosis|உட்சவ்வூடல்|
+endosperm|உள்விதை|
+endospermic|உள்விதைய|
+endospore (bacteriology)|உள்வித்து|
+endospore (botany, mycology)|வித்துட்படலம்|வித்து + உள் + படலம்
+endosporium|அகவித்தகம்|
+endosteum|எலும்புட்படலம்|
+endosymbionts|உள்ளுடலக்கூட்டுயிரி|
+endothecium|அகவித்துப்படலம்|
+endothelium|அகச்சவ்வு|
+endothermic|வெப்பங்கொள்|
+endotoxin|அகநச்சுவம்|
+endotrophic mycorrhiza|அகவூட்ட வேர்ப்பூஞ்சை|
+-ene (alkene)|-ஈன் (ஆல்க்கீன்)|
+enemy|எதிரி|opponent - எதிராளி; competitor - போட்டியாளர்
+energy|ஆற்றல்|
+energy flow|ஆற்றல் பாய்வு|
+energy levels|ஆற்றல் மட்டங்கள்|
+energy policy|ஆற்றல் கொள்விதி|
+energy resources|ஆற்றல் வளங்கள்|
+enfranchise|வாக்குரிமையளி|
+engine|பொறி|
+engineer|பொறியியலர்|
+engineering|பொறியியல்|
+engineering drawing|பொறியியல் வரைவு|
+England|இங்கிலாந்து|
+English|ஆங்கிலேய|
+English bond|ஆங்கிலேயப் பிணைப்பு|
+enhancer|மிகையாக்கி|
+enolase|ஈனாலூக்கி|
+enrichment|செறிவூட்டல்|
+Enrico Fermi|என்ரிகோ ஃபெர்மி|
+entameba|உள்ளமீபா|
+enter|உட்செல்|
+enter key|நுழை விசை (கணினியி்யல்)|
+enteric fever|சிறுகுடற் காய்ச்சல்|
+enteritis|குடலழற்சி|
+enterobacter|குடற்பாட்டீரியம்|
+enterobacteriaceae|குடற்பாட்டீரியனையன|
+enterococcus|குடல்மணியம்|
+enteroinvasive|குடல்முற்றுகையிடு|
+enterokinase|குடலியக்கவூக்கி|
+enterology|குடலியல்|
+enteropathogen|குடல்நோயாக்கி|
+enterotoxigenic|குடல்நச்சுவமாக்க|
+enterotoxin|குடல்நச்சுவம்|
+enterprise|பணிமுனைவம்|
+enthalpy|அகவெப்பம்|
+entity|தனியுரு|
+Entner-Doudoroff pathway|என்றுனர் தூடராப்பின் வழித்தடம்
+entoderm|அகத்தோல்|
+entomology|பூச்சியியல்|
+entomophagous|பூச்சிவிழுங்கும்|
+entomophily|பூச்சிச்சேர்க்கை|
+entrap|சிக்கவை|
+entrapment|சிக்கவைத்தல்|
+entrepot|மாற்றுமதி|
+entrepreneur|தொழில்முனைவர்|
+entrepreneurship|தொழில்முனைவம்|
+entropy|சீர்குலைவு|chaos - ஒழுங்கின்மை; disroder - முறைமையின்மை
+entry|பதிகை|
+entry point|உட்செல்லிடம்|
+enucleation|கருபிரித்தல்|
+enumerate|எண்வரிசையிடு|
+envelope|மூடுறை|sheath - சூழுறை
+environment|சுற்றுச்சூழல்|
+environmental biology|சுற்றுச்சூழல் உயிரியல்|
+Environmental Defense Fund |சுற்றுச்சூழல் காப்பு நிதி|
+environmental hazard|சுற்றுச்சூழல் இடர்|
+Environmental Protection Agency (EPA)|சுற்றுச்சூழல் காப்பு முகவம் (சுகாமு)
+environmental toxicology|சுற்றுச்சூழல் நச்சுவியல்|
+-enyl|-ஈனைல்|
+enzyme|ஊக்கிப்புரதம்|நொதி - ferment
+enzyme inhibitor complex|ஊக்கிப்புரத மறிப்பிக் கூட்டுமம்|
+enzyme substrate complex|ஊக்கிப்புரத வினையாகிக் கூட்டுமம்
+enzyme-linked|ஊக்கிப்புரதந்தொடுத்த|
+enzyme-linked immunosorbent assay (ELISA) test|ஊக்கிப்புரதந்தொடுத்த நோயெதிர்ப்பு மேற்கவர்வி மதிப்பாய்வு சோதனை|aka எலிசாச் சோதனை
+enzymology|ஊக்கிப்புரதவியல்|
+eohippus|முன்குதிரை|
+eon|பேரூழி|
+eosin|இயோசின்|
+eosinophil|இயோசின்விரும்பி|
+EPA (Environmental Protection Agency)|சுகாமு (சுற்றுச்சூழல் காப்பு முகவம்)
+ependyma|மூளையுள்ளறையாடை|
+ependymal cell|மூளையுள்ளறையாடையணு|
+ephedrine|எபதிரின்|
+epibasal cell|மேற்புற முதலணு|
+epiblem|வேர்த்தோல்|
+epiboly|மேற்படர்தல்|
+epicalyx|புறப்புல்லிவட்டம்|
+epicardium|இதயவெளியுறை|
+epicarp|கனிமேற்றோல்|
+epicotyl|வித்திலை மேற்றண்டு|
+epidemic|சமூகமேல்|
+epidemiology|நோய்ப்பரவலியல்|
+epidemy|நோய்வெடிப்பு|plague - கொள்ளைநோய்
+epidermal hairs|மேற்றோல் முடிகள்|
+epidermis|மேற்றோல்|
+epididymides|விந்தணுசேமகப்பைகள்|
+epididymis|விந்தணுசேமகப்பை|
+epigastric vein|மேல் இரைப்பைச் சிரை|
+epigeal|தரைமேல்|
+epigenesis|கருவுருவாக்கம்|
+epiglottis|குரல்வளை மூடி|
+epigynous|பெண்ணின்மேலிய|
+epigyny|பெண்ணின்மேல்|
+epilation|உள்முடிநீக்கம்|
+epilepsy|காக்கைவலிப்பு|
+epimer |எப்பிமன்|
+epimerase|எப்பிமனூக்கி|
+epimerism|எப்பிமாற்றியம்|
+epimerization|எப்பிமனாக்கம்|
+epinasty|மேற்புறவளைவு|
+epinephrine|அண்ணீரலின்|aka adrenaline
+epineurium|நரம்புத்தண்டுறை|
+epipetalous|இதழொட்டிய|epiphyllous - இலையொட்டிய
+epiphyllous|இலையொட்டிய|leaf tendril - இலைப் பற்றிழை
+epiphyseal plate|எலும்புமுனைத் தட்டு|
+epiphysis|எலும்புமுனை|
+epiphyte|பற்றுத்தாவரம்|
+epiphytic roots|பற்று வேர்கள்|தொற்று - infect
+epistasis|மேல்நிலைமம்|
+epistatic|மேல்நிலைம|
+epithelium|மேற்சவ்வு|
+epithet|அடைமொழி|
+epitope|நோயெதிர்ப்புத் தீர்மானி|aka antigenic determinant
+epizoics|விலங்குப்பற்றிகள்|
+epoch|சகாத்தம்|
+eponychium|மேலானிக்கியம்|
+epoxidation|அடுமூச்சைடேற்றல்|
+epoxide|அடுமூச்சைடு|
+EPROM (erasable programmable read only memory)|அநிபநி (அழிக்கக்கூடிய நிரலாக்கப் படிக்கவே இயலும் நினைவகம்)
+epsilon|எச்சிலான்|
+epsom salt|எப்பிச உப்பு|
+Epstein-Barr virus|எப்பிதைன் பாரின் வைரசு|
+equal holoblastic cleavage|சம முழுமைப் பிளவுறல்|
+equal set|சம கணம்|
+equal to|சமம்|A = B என்பதை 'A சமம் B சார்பில்' அல்லது 'A சமம் B' என்று வாசிக்கலாம்.
+equality|சமத்துவம்|
+equally likely|சம வாய்ப்பு|random - நேர்ந்தவாறான
+equation|சமன்பாடு|
+equation of continuity|தொடர்ச்சிச் சமன்பாடு|
+equation of motion|இயக்கச் சமன்பாடு|
+equation of state|நிலைச் சமன்பாடு|
+equator|நடுக்கோடு|
+equatorial|நடுக்கோட்டு|
+equatorial cleavage|நடுக்கோட்டுப் பிளவுறல்|
+equilateral triangle|சமபக்க முக்கோணம்|
+equilibrant force|சமநிலையாக்க விசை|
+equilibrium|சமநிலை|
+equilibrium constant|சமநிலை மாறிலி|pK - சமநிலைச் சுட்டெண்
+equinormal solutions|சமச் சமன்மைக் கரைசல்கள்|
+equinox|சமயிரவு|
+equipartition|சமப்பங்கீடு|
+equipment|மீக்கருவி|
+equipotential surface|சம ஆற்றநிலை தளம்|
+equity|தகைமை|
+equivalence|சமானம்|
+equivalent adj|சமான |
+equivalent n|சமானி|
+equivalent set|சமானக் கணம்|
+equivelent mass|சமான நிறை|
+equus|குதிரையம்|
+era|ஊழி|
+erasable|அழியுறு|
+erasable programmable read only memory (EPROM)|அழிக்கக்கூடிய நிரலாக்கப் படிக்கவே இயலும் நினைவகம் (அநிபநி)
+erase|துடை|remove - நீக்கு; delete - அகற்று
+eraser|துடைப்பி|
+erbium|எர்பியம்|
+erection|காமவெழுச்சி|
+erector spinae|முதுகுநிமிர்த்தித் தசை|
+ergo calciferol|D-2 வைட்டமின்|
+ergosterol|எர்கோத்திரால்|
+Erich Hückel|எரிக் ஹுக்கல்|
+Ernst Mayr|எர்ன்ஸ்ட் மெயர்|
+erogenous zone|காமவுணர்வுப் பகுதி|
+erosion|அரிமானம்|corrosion - துருவரித்தல்
+erotic |பாலினத்தூண்டு|
+eroticism|பாலினத்தூண்டல்|
+erratic|சீர்முறி|
+error|பிழை|wrong - தவறு
+error message|பிழைத் தூதுரை|
+error of commission|செய்பிழை|
+error of omission|விடுபிழை|
+error of recording|பதிவுப்பிழை|
+erwinia|எர்வினியம்|
+erysipelothrix|செந்தோல்முடியம்|
+erythema|தோற்செம்மிகை|
+erythroblast|செங்குமிழ்|
+erythroblastosis|செங்குமிழம்|
+erythroblastosis fetalis|வளர்கரு செங்குமிழம்|
+erythrocyte|சிவப்பணு|aka red blood cell
+erythrocyte fragility test|சிவப்பணு நொறுங்குமை சோதனை
+erythrocytic cycle|சிவப்பணுச் சுழல்|
+erythromycin|செம்பூஞ்சையின்|
+erythrose|எரித்திரோசு|
+erythrulose|எரித்திருலோசு|
+esc key|விடுபடு விசை|
+escalator (down)|படியிறக்கி|
+escalator (up)|படியேற்றி|
+escape|விடுபடு|
+escape key|விடுபடு விசை|
+escape sequence|விடுபடு தொடரி|
+escape speed|விடுபடு வேகம்|
+escherichia|இசரிக்கியா|
+escherichia coli|இசரிக்கியா கோலை|
+E-selectin|அகச்சவ்வு தேர்விணைவி|
+esophagus|உணவுக்குழல்|aka oesophagus
+espagnolette bolt|எசுப்பகனாலியத் தாழ்|
+espionage |உளவியல்|psychology - மனவியல்; home science - மனையியல்
+essential amino acids|அவசியமான அமினோ அமிலங்கள்
+establish|நிறுவு|
+e-stamp|மின்முத்திரை|
+ester|எசுத்தர்|
+esterase|எசுத்தரூக்கி|
+esterification|எசுத்தராக்கல்|
+esterify|எசுத்தராக்கு|
+estimate n|மதிப்பீடு|
+estimate v|மதிப்பிடு|
+estimation|மதிப்பிடல்|evaluation - மதிப்பறிதல்
+estimator|மதிப்பீட்டளவை|
+estipulate|இலையடிச்செதிலற்றவை|aka exstipulate
+estoppel|முரண்தடை|
+estrogen|பெண்மை இயக்குநீர்|
+et al. (et alia)|மற்றவர்களும்|
+et alia (et al.)|மற்றவர்களும்|
+et cetera (etc.)|போன்ற|
+eta|ஈற்றா|
+etc. (et cetera)|போன்ற|
+etch|அரித்தெழுது|
+etching|அரித்தெழுதல்|
+eternal|நிலைபேறுடைய|
+eternity|முடியாக்காலம்|
+eth- (ethane)|ஈத்து- (ஈத்தேன்)|
+ethane|ஈத்தேன்|
+ethanol|ஈத்தனால்|எத்தனால் வேண்டாம், ethane-ஐ ஈத்தேன் என்பதால்
+ethene|ஈத்தீன்|
+ether|ஈத்தர்|
+etherification|ஈத்தராக்கல்|
+ethernet|ஈத்தர்வலை|
+ethic|நன்னெறி |
+ethical |நன்னெறியான|
+ethics|நன்னெறியுடைமை|
+ethics (study of)|நன்னெறியியல்|
+ethmoid|மூக்கடியெலும்பு|
+ethology|விலங்கு நடத்தையியல்|
+ethoxy|ஈத்தமூச்சிய|
+ethylene|எத்திலீன்|
+ethylene dibromide|எத்திலீன் இருபுரோமைடு|
+ethylene glycol|எத்திலீன் ஈரால்|
+ethyne|ஈத்தைன்|
+etiological|நோய்க்காரண|
+etiology|நோய்க்காரணவியல்|
+EU Council of Ministers|ஐரோப்பிய அமைச்சர் மன்றம்|
+eubacterium|நன்பாட்டீரியம்|
+Euclid|யூக்ளிட்|
+Euclidean|யூக்கிளிட|
+eugenic|நன்மரபு|dysgenic - புன்மரபு
+eugenol|யூசினால்|
+euglena|பழக்கண்ணி|
+Euglenophyceae|பழக்கண்ணியால்கவை|
+eukaryote|அணுக்கருவன்|
+Euler|ஆய்லர்|யூலர் தவறு
+eumelanin|இறகுமெலனின்|
+eumetazoa|நல்விலங்குகள்|
+eumycota|அணுச்சுவரற்றபூஞ்சன|
+euphorbiaceae|ஆமணக்கனையன|
+euploidy|உறுமரபெண்|
+European Commission|ஐரோப்பிய ஆணையம்|
+European Economic Community (EEC)|ஐரோப்பியப் பொருளாதாரச் சமுதாயம்
+European Monetary Union|ஐரோப்பிய நிதி ஒன்றியம்|
+Europian Union|ஐரோப்பிய ஒன்றியம்|
+europium|ஐரோப்பியம்|
+eustachian canal|தொண்டைச்செவிக் கால்வாய்|
+eutheria|அகப்பையன|
+eutrophication|நல்லூட்டமாக்கல்|
+eutrophy|நல்லூட்டம்|
+evaluation|மதிப்பறிதல்|estimation - மதிப்பிடல்
+evaporate|ஆவியாகு|
+even function|சீர்ச்சார்பு|
+even parity|இரட்டை இணைமம்|
+event|நிகழ்வு|
+evergreen|பசுமைமாறா|
+evidence|அத்தாட்சி|
+ex situ conservation|அகலிட அழிவுறாக்காத்தல்|
+exa-|எச்சா-|
+exact|மீச்சரியான|
+exalbuminous|கருவூணற்ற|
+examination (academic)|தேர்வு (கல்வி)|
+examination (nonacademic)|சோதனை|
+exanthema|வெளிப்பொக்களம்|
+exarch|வெளிநோக்கிய|
+excess|அதிகப்படி|
+exchange|இடைமாற்று|
+exchange bank|அயற்பண மாற்று வங்கி|
+exchange vessel|இடைமாற்றக் குழல்|
+excitation|கிளர்ச்சியூட்டல்|
+excited state|கிளர்ச்சியடைந்த நிலை|
+excluded volume|தவிர்ப்புப் பருமன்|
+exclusion chromatography|தவிர்ப்பு நிறப்பிரிகை|
+exclusive disjunction|தவிர்ப்புப் பிரிப்பு|
+exclusive method|தவிர்ப்பு முறை|
+exclusive OR|தவிர்ப்பு அல்லது|
+excreta|உடற்கழிவு|
+excretion|உடற்கழிவாக்கம்|
+executable statements|செயற்படுத்தக் கூற்றுகள்|
+execute|செயற்படுத்து|
+executive|செயற்படுத்துனர்|
+executive power|செயற்படுத்துத் திறன்|
+exercise|பயிற்சி|
+exergonic|ஆற்றலுமிழ்|
+exerted stamens|வெளிநோக்கிய மகரந்தத்தாள்|
+exflagellation|கசையிழையுருவாதல்|
+exfoliate|செதிலுதிர்|
+exhale n|வெளிமூச்சு|
+exhale v|வெளிமூச்சிடு|
+exhaust fan|வெளியேற்று விசிறி|
+exhaustible resources|வற்றும் வளங்கள்|
+exhaustive|அனைத்தளாவிய|
+exhibition|பொருட்காட்சி|
+EXIM bank|ஏற்றிறக்குமதி வங்கி|
+exine|வெளிவித்துறை|
+existence|இருப்புமை|
+exit|வெளியேறு|
+exocrine|வெளிச்சுரப்பி|
+exocytosis|அணுவெளியேற்றல்|
+exoenzyme|புறவூக்கிப்புரதம்|
+exoerythrocytic cycle|புறச்சிவப்பணுச் சுழற்சி|aka preerythrocytic cycle
+exogenous|புறத்தோன்றிகள்|
+exon|உள்ளன்|தூதனரியில் உள்ளதால்
+exonuclease|புறவனவூக்கி|
+exopeptidase|இறுதிப்புரதையூக்கி|
+exophthalmic goiter|கண்பிதுக்க காயிட்டர்|
+exophthalmos|கண்பிதுக்கம்|
+exoplasmic face|புறவணுப் பக்கம்|
+exoskeleton|புற எலும்புக்கூடு|
+exosmosis|வெளிச்சவ்வூடல்|
+exosphere|வெளிக்கோளம்|
+exosporium|புறவித்தகம்|
+exothermic|வெப்பமுமிழ்|
+exotic|புத்தயல்|
+exotoxin|புறநச்சுவம்|
+expand (oneself)|விரிவாகு|
+expand (something)|விரிவாக்கு|
+expansion|விரிவு|
+expectation|எதிர்பார்ப்பு|
+expectorant|சளிநீக்கி|
+expenditure|செலவினம்|
+expense|செலவு|
+experiment|பரிசோதனை|test - சோதனை
+experimental|பரிசோதனைவழி|
+experimental embryology|பரிசோதனைவழி கருவளரியல்|
+expert|நிபுணர்|
+expiration|காலந்தீர்வு|
+expiration (respiration)|மூச்சுவிடுதல்|
+expire|காலந்தீர்|
+explant|தாவரமுன்னோடி|
+exploitation|பயனுகர்தல்|
+exploration|ஆய்வுலா|
+explorer|ஆய்வுலாவர்|
+explotion vent|வெடிப்புக் காற்றுத்திறப்பு|
+exponent|அடுக்கு|
+exponential|அடுக்க|
+exponential function|அடுக்கச் சார்பு|
+exponential growth|அடுக்க வளர்ச்சி|
+exponential series|அடுக்குத் தொடர்|
+exponentiation|அடுக்கமாக்கல்|
+export|ஏற்றுமதி|
+exporter|ஏற்றுமதியாளர்|
+exposure (photography)|திறப்புமை|
+exposure time|திறப்பு நேரம்|
+expressed sequence tag|வெளிப்படு தொடரி தொங்கிகள்|
+expression (math)|கோவை|
+exstipulate|இலையடிச்செதிலற்றவை|aka estipulate
+extended|நீட்டிய|augmented - மிகுத்த; prolonged - நீடித்த
+extended help|நீட்டிய உதவி|
+extension|நீட்சி|
+extension line|நீட்சிக்கோடு|
+extensive property|அளவுசார் பண்பு|
+extensor muscle|நீட்சித் தசை|
+extent|நீட்களம்|
+extern|புறவர்|
+external|வெளியார்ந்த|
+external agency|புறக்காரணி|
+external auditory meatus|புறச்செவித்துளையம்|
+external ear|புறச்செவி|
+external epithelial root sheath|மேற்சவ்வு வெளிவேர் சூழுறை|
+external force|புறவிசை|
+external intercostal muscle|புற விலாவிடைத் தசை|
+external jugular vein|புறத்தொண்டைச் சிரை|
+extinction|மறைவுமை|
+extra arm (RNA)|மிகைக்கிளை (அனரி)|
+extracorporeal|வெளியுடல|
+extract n|பிரிநீர்மம்|
+extraction|பிரித்தெடுத்தல்|
+extrados|வளைவெளி|
+extranet|வெளிவலை|
+extraordinary|அசாதாரண|
+extrapolation|புறநீட்டல்|
+extravagance|ஆடம்பரம்|
+extreme|மீக்கடு|
+extreme environmental conditions|மீக்கடு சுற்றுச்சூழல் நிலைகள்|
+extreme holophile|மீக்கடு உப்புவிரும்பி|
+extreme thermophile|மீக்கடு வெப்பவிரும்பி|
+extremum|மீயளவம்|
+extrinsic|புறவார்ந்த|
+extrinsic muscle|வெளியார்ந்த தசை|
+extrinsic protein|வெளியார்ந்த புரதம்|
+eye|கண்|
+eye lens|கண் ஒளிவில்லை|
+eye orbit|கண்குழி|
+eyebrow|புருவம்|
+eyelid|கண்ணிமை|
+eyepiece|கண்ணருகு வில்லை|
+eykarya|அணுக்கருவன்கள்|
+fab fragment|நோவிகித் துண்டு|நோயெதிர்ப்பூட்டி இணைப்புக் கிளை
+fab region|நோவிகிப் பகுதி|
+fabaceae|அவரையனையன|
+fabric|துணி|
+fabricate|நெசவமை|
+fabrication|நெசவமைத்தல்|
+face (crystallography)|முகம் (படிகவியல்)|
+face (geometry)|முகம் (வடிவியல்)|
+face value |முகமதிப்பு|
+face-centered cube|முகமையக் கனச்சதுரம்|
+facial expression muscles|முகபாவத் தசைகள்|
+facilitated diffusion|எளிதாக்கிய விரவல்|
+facility|வசதியம்|
+factor constitution|காரணி உள்ளமைவு|
+factorial|காரணீயம்|
+factorization|காரணியாக்கல்|
+factors|காரணிகள்|
+factory|உற்பத்திச்சாலை|
+facultative anaerobe|ஏற்பமைக் காற்றின்றிவாழ்வன|
+facultative endorsement|ஏற்பமை மேலெழுதல்|
+facultative parasite|ஏற்பமை ஒட்டுண்ணி|
+faculty (education)|ஆசிரியக்குழு|
+FAD (flavin adenine dinucleotide)|வைனனி (வைட்டமின் அடினீன் இருபாசுவேட்டு)
+fade in|வருமங்கல்|
+fade out|போகுமங்கல்|
+fading|மங்கல்|
+faecalis|கழிவியம்|
+fail|செயலிழ|
+fair price|நியாய விலை|
+faith|நம்பிக்கை|
+fallopian tube|கருவகக் குழல்|aka uterine tube
+false|பொய்|true - மெய்; wrong - தவறு
+false fruit|பொய்க்கனி|
+false statement|பொய்க் கூற்று|
+falsity|பொய்மை|
+family  |குடும்பம்|
+family budget|குடும்ப நிதித்திட்டம்|
+family of straight lines|நேர்க்கோட்டுத் தொகுதி|
+family planning|குடும்பக் கட்டுப்பாடு|
+family tree|குடும்ப மரம்|
+fang|நச்சுப்பல்|
+farad|பாரடு|
+Faraday|பாரடே|
+fascia|தசைப்படலம்|
+fasciculated roots|கொத்து வேர்கள்|
+fasciculus (nerve)|நரம்புக்கொத்து|
+fasciitis|தசைப்படலவழற்சி|
+fascimile (fax)|தொலைநகலி|
+fasciola|ஈரற்புழு|
+fast forward|முன்விரை|
+fastener|மாட்டி|
+fastidious|சுவைச்சாலுணர்|
+fasting|உண்ணாமை|
+fat|கொழுப்பு |
+fat lime|கற்சுண்ணாம்பு|
+fatal error|இறப்புப் பிழை|
+fate map|உறுப்பாக்க வரைபடம்|
+fatigue|சோர்வு|
+fatty acid|கொழுப்பமிலம்|
+fatty acid oxidation|கொழுப்பமில மூச்சியமேற்றம்|
+fatty yolk|கருக்கொழுமவுணவு|
+fault tolerance|பிழை சகிப்பு|
+fauna|விலங்குவளம்|
+favorable|சாதகமான|
+f-block|f-கட்டம்|
+f-block elements|f-கட்டத் தனிமங்கள்|
+fc fragment|மாறாத் துண்டு|
+fc region|மாறாத் துண்டுப் பகுதி|
+FDDI (fiber distributed data interface)|ஒபதவி (ஒளிப்பரவு தரவிடைமுகம்)
+feasibility|இயலுறுமை|
+feasibility study|இயலுறுமை ஆய்வறிதல்|
+feasible|இயலுறு|
+feasible alternatives|இயலுறு மறுவழிகள்|
+feather|இறகு|
+feather joint|உழுநாவிணைப்பு|
+feature|பண்புக்கூறு|organ - உறுப்பு
+feces|மலம்|
+federal|கூட்டுவ|
+federation|கூட்டமைப்பு|
+Federation of Indian Chamber of Commerce and Industry|இந்திய வணிக மற்றும் தொழிலகக் கழகங்களின் கூட்டமைப்பு
+fee|கட்டணம்|
+feebly hydraulic lime|தரங்குறைந்த நீர்த்த சுண்ணாம்பு|
+feedback|பின்னூட்டம்|
+feedback loop |பின்னூட்டக் கழல்|
+feedback mechanism|பின்னூட்ட இயங்குமுறை|
+Fehling's reaction|பெவுலிங்கின் வினை |
+Fehling's reagent|பெவுலிங்கின் வினையாக்கி|
+Fehling's solution|பெவுலிங்கின் கரைசல்|
+fellatio|ஆணில்வாய்|
+femoral artery|தொடைத் தமனி|
+femoral hernia|தொடைக் குடற்பிதுக்கம்|
+femoral vein|தொடைச் சிரை|
+femto-|பெமுடோ-|
+femur|தொடையெலும்பு|
+Fermat's theorem|பெர்மாவின் தேற்றம்|
+ferment|நொதி|enzyme - ஊக்கிப்புரதம்
+fermentation|நொதித்தல்|
+Fermi|ஃபெர்மி|
+fermium|பெர்மியம்|
+fern|பெரணி |cortex - புரணி
+ferredoxin|இரும்புமூச்சியப்புரதம்|
+ferredoxin reducing substrate|இரும்புமூச்சிய இறக்க வினையாகி
+ferric|இரும்பிக|
+ferric ferrocyanide|இரும்பிக இரும்பசயனைடு|
+ferrimangetism|இரும்பனையகாந்தம்|
+ferrochrome|இரும்புக்குரோம்|
+ferrocyanide|இரும்பசயனைடு|
+ferromagnetism|இரும்பக்காந்தம்|
+ferrous|இரும்பிச|
+fertility rate|சந்ததி வீதம்|
+fertilization (agriculture)|உரமிடுதல்|
+fertilization (reproduction)|கருவுறுதல்|nucleation - கருவாதல்
+fertilization membrane|கருவுறுதற் சவ்வு|
+Fery's black body|பெரியின் கரும்பொருள்|
+FET (field effect transistor)|கவிமா (கள விளைவு மாற்றடையன்)
+fetch (someone)|அழைத்துவா|fetch (something) - எடுத்துவா
+fetch (something)|எடுத்துவா|
+fetch-and-add|எடுத்துவந்து கூட்டல்|
+fetus|வளர்கரு|
+feudal state|நிலக்கிழார் அரசு|
+feudalism|நிலக்கிழாரிசம்|
+fever|காய்ச்சல்|
+fiber|இழையம்|
+fiber board|இழையப்பலகை|
+fiber distributed data interface (FDDI)|ஒளிப்பரவு தரவிடைமுகம் (ஒபதவி)
+fiber glass|இழையக் கண்ணாடி|
+fiber optic|இழைய ஒளியிய|
+fiber optics|இழைய ஒளியியல்|
+Fibonacci|சிபோனாச்சி|சரியான இத்தாலிய உச்சரிப்பு
+fibril|நாரிழை|
+fibrin|இழையப்புரதம்|
+fibrinogen|இழையப்புரதமாக்கி|
+fibrosis|இழையமிகைப்பு|
+fibrous capsule|நார்ப்பெட்டகம்|
+fibrous joint|நாரிணைப்பு மூட்டு|
+fibrous pericardium|இதயஞ்சூழ் நார்ச் சவ்வு|
+fibrous root|சல்லிவேர்|
+fibula|பின்காலெலும்பு|
+fiction|புனைவு|
+fictitious asset|கற்பனைச் சொத்து|
+fidelity|உண்மையம்|
+field (agriculture)|களம்|
+field (physics)|புலம்|
+field coil|புலச் சுருள்|
+field effect transistor (FET)|கள விளைவு மாற்றடையன் (கவிமா)
+field godown|களக் கிடங்கு|
+FIFO|வந்த வரிசை|
+fight, flight, and fright|மோதல், ஓடல், அஞ்சல்|
+filament  |சிற்றிழை |
+filaria|இழையுருளம்|
+filarial worm|இழையுருளப் புழு|
+filariasis|இழையுருள நோய்|
+file|கோப்பு|
+file (tool)|அரம்|
+file a lawsuit|வழக்குத் தொடு|
+file chooser|கோப்புத் தேர்வி|
+file extension|கோப்பு நீட்சி|
+file format|கோப்பு வடிவூட்டம்|
+file infector|கோப்புத் தொற்றி|
+file owner|கோப்பு உரிமையாளர்|
+file path|கோப்புப் பாதை|
+file server|கோப்புச் சேவையர்|
+file system|கோப்பமைப்பு|
+File Transfer Protocol (FTP)|கோப்புமாற்றல் விதிமுறை (கோமாவி)
+filial generation|சேய்த்தலைமுறை|
+filing of documents|ஆவணத் தாக்கல்|
+fill with color|நிறம் நிரப்பி|
+fillet joint|துண்டிணைப்பு|
+film |படலாடை|
+film strip|படலாடைத் துண்டு|
+filmbriate petal|பற்படல இதழ்|
+filoplume|இழையிறகு|
+filter|வடிகட்டி|வடிப்பி - funnel
+filter paper|வடிதாள்|
+filtrate|வடிமம்|
+filtration|வடிகட்டல்|
+filtration membrane|வடிகட்டுச் சவ்வு|
+Filum terminale|நூலிழை முனை|
+final account|இறுதிக் கணக்கு|
+final state|இறுதி நிலை|
+finance |நிதி|
+finance (study of)|நிதியியல்|
+financial|நிதிநிலை|
+financial institution|நிதி நிறுவனம்|
+financial services|நிதியச் சேவைகள்|
+financial statement|நிதிநிலை அறிக்கை|
+financial statement analysis|நிதிநிலை அறிக்கை பகுப்பாய்வு|
+find|கண்டுபிடி|
+fine aggregate|சிறுதிரள்மம்|
+fine arts|நுண்கலைகள்|
+fine spectrum|நுண்ணிய நிறமாலை|
+finite|முடிவுறு|
+finite differences|முடிவுறு வேறுபாடுகள்|
+finite group|முடிவுறு குலம்|
+finite state automaton|முடிவுறு நிலைத் தானேசெயலி|
+finite state transducer|முடிவுறு நிலை பெயர்ப்பி|
+Finkelstein|ஃபிங்கல்ஸ்டீன்|
+Finkelstein reaction|பிங்கட்டீனின் வினை|
+fire resistance|தீத்தடையம்|
+firewall|காப்பரண்|
+first aid|முதலுதவி|
+first law of thermodynamics|வெப்பவியக்கத்தின் முதல் விதி|
+first mate|முதல் துணைவர்|
+first order differential equation|முதல் முறைமை வகையீட்டுச் சமன்பாடு
+first order reaction|முதல் முறைமை வினை|
+first principles|அடிப்படைக் கொள்கைகள்|
+first toe|கால் கட்டைவிரல்|
+fiscal policy|பொதுநிதிக் கொள்விதி|
+Fischer's projection formula|பிசரின் வீழ்ப்பு வாய்ப்பாடு|
+fish liver oil|மீனீரல் எண்ணெய்|
+Fisher|ஃபிஷர்|
+fishery|மீன்பண்ணை|
+fishing|மீன்பிடித்தல்|
+fission|பிழவுறுதல்|
+Five Year Plan|ஐந்தாண்டுத் திட்டம்|
+fixation|இருப்பித்தல்|imbedding - பதித்தல்
+fixation of anther|மகரந்தப் பிணைப்பு|
+fixed|மாறா|
+fixed asset|மாறாச் சொத்து|
+fixed cost|மாறா ஆக்கவிலை|
+fixed deposit|மாறா வைப்பு|
+fixed installment method|மாறாத் தவணை முறை|
+fixed percentage on original cost method|மூல ஆக்கவிலையின் மாறாவிழுக்காட்டு முறை
+fixed point|மாறாப்புள்ளி|
+flag|கொடி|
+flagella|கசையிழைகள்|cilia - கசைக்குச்சிகள்
+flagellata|கசையிழையன|
+flagellate|கசையிழையன்|
+flagpole|கொடிக்கம்பம்|
+flaking|பாளமாதல்|
+flame cell |சுடரணு|
+flammable|தீப்பற்றத்தகு|aka inflammable
+flange|பிடிபட்டை|
+flash light|மினுக்க விளக்கு|
+flash memory|மினுக்க நினைவகம்|
+flashing|மினுக்கம்|
+flashing cursor|மினுக்கச் சுட்டுக்குறி|
+flask|குடுவை|
+flat file|தட்டைக் கோப்பு|
+flat panel|தட்டைப் பலகம்|
+flatulence|வளிமப்போக்கு|
+flavin adenine dinucleotide (FAD)|வைட்டமின் அடினீன் இருபாசுவேட்டு (வைனனி)
+flavin mononucleotide (FMN)|வைட்டமின்பாசுவேட்டு (வைபா)
+flavoprotein|வைட்டமிப்புரதம்|
+flea|தெள்ளை|
+flectobacillus|வளைவுக்குச்சியம்|
+fleet|அணிவரிசை|
+Fleming's left hand rule|பிளமிங்கின் இடக்கை விதி|
+Flemish bond|பிளெமியப் பிணைப்பு|
+flerovium|பிளிரோவியம்|
+fleshy fruit|சதைக்கனி|
+flexibacter|நெகிழ்பாட்டீரியம்|
+flexibility|நெளிவுமை|
+flexible|நெளியத்தகு|
+flexithrix|நெகிழ்முடியம்|
+flexor muscle|மடக்குத் தசை|
+flicker|வெட்டொளி|
+flight|பறத்தல்|
+flight simulator|பறத்தல் பாவனையாக்கி|
+flip flop|எழு விழு|
+floating point|மிதவைப்புள்ளி|
+floating point number|மிதவைப்புள்ளி எண்|
+floating toolbar|மிதக்கும் கருவிப்பட்டை|
+flocculation|மேகப்படிதல்|
+flocculonodular lobe|சிறுகற்றைக்கணு மடல்|
+flocculus|கற்றை|
+flocculus|சிறுகற்றை|
+flood lamp|வெள்ள விளக்கு|
+flood risk|வெள்ள ஆபத்துகூறு|
+floppy disk|நெகிழ்வட்டு|
+floppy drive|நெகிழ்வட்டோடி|
+flora|தாவரவளம்|
+floret|சிறுமலர்|
+floridean starch|புளோரிடத்தரசம்|
+flouro-|புளோரோ-|
+flow|பாய்வு|
+flow chart|பாய்வு வரிவரைவு|
+flow line|பாய்வுக்கோடு|
+flower|மலர்|
+fluctuate|துடிமாறு|
+fluctuation|துடிமாற்றம்|
+fluid|பாய்மம்|liquid  நீர்மம்
+fluid mosaic model|பாய்ம வடிவடுக்கு ஒப்புரு|
+fluid theory|பாய்மக் கோட்பாடு|
+fluidity|பாய்வுமை|
+fluke|ஒட்டுப்புழு|
+fluorescence microscope|தானொளிர் நுண்ணோக்கி|
+fluorescent|தானொளிர்|
+fluorescent screen|தானொளிர்திரை|
+Fluorescent Treponemal Antibody Absorption (FTA-ABS) test|தானொளிர் இழையாகி நோயெதிர்ப்பானுட்கவர்தல் (தாநோனு) சோதனை
+fluorine|புளோரின்|
+fluoro-|புளோரோ-|
+fluorochrome|தானொளிர்நிறமி|
+flush bolt|மட்டத் தாழ்|
+flush door|ஒட்டுப்பலகைக் கதவு|
+flushing|போக்கலசல்|
+fluted filter paper|அடுக்குமடி வடிதாள்|
+flux (hydrodynamics)|பாயம்|
+flux (metallurgy)|இளக்கி|
+flux density|பாய அடர்வு|
+fly ash|மென்சாம்பல்|
+FM|பண்பலை|
+FMN (flavin mononucleotide)|வைபா (வைட்டமின்பாசுவேட்டு)
+foam|நுரை|
+focal chord|குவிநாண்|
+focal distance|குவியத்தொலைவு|
+focal infection|குவியக் கிருமியேற்றம்|
+focal point|குவிய மையம்|
+focus|குவியம்|
+focusing|குவியமாக்கல்|
+fog|ஆவிப்பனி|
+folder|கோப்புறை|documents are placed in files and files are placed in folders; ஆவணங்கள் கோப்பிலும், கோப்புகள் கோப்புறைகளிலும் வைக்கப்படுகின்றன.
+folia|இலையங்கள்|
+foliage|தழை|
+foliar theory|தழைக் கோட்பாடு|
+foliated|இலையடுக்க|
+folic acid|போலிக அமிலம்|
+foliose|இலைய|
+folium|இலையம்|
+follicle|குழிப்பை|
+follicle stimulating hormone|குழிப்பை தூண்டுநீர்|
+follicular cell|குழிப்பை உயிரணு|
+follicular membrane|குழிப்பைச் சவ்வு|
+follicular phase|குழிப்பைக் கட்டம்|
+folliculitis|குழிப்பையழற்சி|
+font|எழுத்துரு|
+food chain|உணவுக் கோர்வை|
+Food Corporation of India|இந்திய உணவுக் கூட்டகம்|
+food web|உணவு வலை|
+foodgrain |உணவுத் தானியம்|
+foot|பாதம்|
+foot and mouth disease|வாய்ப்பூட்டு நோய்|
+foot plate|அடித்தட்டு|
+footer|அடியம்|
+footnote|அடிக்குறிப்பு|
+for example|எடுத்துக் காட்டாக|
+foramen|பெருந்துளை|
+foramen magnum|மண்டையோட்டுப் பெருந்துளை|
+force|விசை|
+force theory|விசைக் கோட்பாடு|
+forced oscillation|விசையூட்டு அலைவு|
+forceps|கிள்ளிடுக்கி|
+fore brain|முன்பக்க மூளை|
+forebrain|முன்மூளை|
+forecast|முன்னறிவி|predict - முன்னறி
+foreign|அயல்|
+foreign direct investment|நேரடி அயல் முதலீடு|
+foreign DNA|அயல் அனடி|
+foreign exchange|அயற் பணமாற்று|
+foreign trade|அயல்நாட்டு வியாபாரம்|
+foresight|முன்னோக்கம்|
+foreskin|முன்தோல்|
+forest|வனம்|
+forest biome|வனத் திணை|
+forest stage|வன நிலை|
+forestry|வனத்துறை|
+forfeit|ஒறுப்பிழ|
+forfeiture|ஒறுப்பிழப்பு|
+fork (culinary)|குத்தி பெ|
+fork lift|குத்தித்தூக்கி பெ|
+form (fill in)|படிவம்|
+form (shape)|வடிவம்|
+form factor|வடிவக் காரணி|
+formal charge|முறையான மின்னூட்டம்|
+formal parameter|முறையான அளவுரு|
+formaldehyde|எறும்பால்டிகைடு|
+formality|வழக்கமுறை|
+format n|வடிவூட்டம்|
+format v|வடிவூட்டு|
+formation (arrangement)|அணிவகுப்பு|
+formation (creation)|உருவாதல்|
+formatting character|வடிவூட்டு வரியுரு|
+formatting string|வடிவூட்டுச் சரம்|
+formic acid|எறும்பிக அமிலம்|
+formula |வாய்ப்பாடு|
+formula weight|வாய்ப்பாட்டு எடை|
+formyl|எறும்பைல்|
+FORTRAN|போர்ட்டிரான்|
+fortunate|ஆகூழ்|
+forum|அரங்கு|auditorium - அரங்கம்
+forward adj|முன்னோக்கிய|
+forward bias|முன்கோடல்|
+forward button|முன்செல் பொத்தான்|
+forward delivery|முன்னோக்கிய கொண்டளிப்பு|
+forward difference operator|முன்னோக்கு வேறுபாட்டுச் செயலி
+forward direction|முன்னோக்குத் திசை|
+forward v|முன்னனுப்பு|
+forwarding agent|முன்னனுப்பு முகவர்|
+fossil|புதைபடிமம்|
+fossil fuel|புதைபடிம எரிபொருள்|
+fossilization|புதைபடிமமாதல்|
+foul receipt|பிழைப் பற்றுச்சீட்டு|
+fouler (zoology)|சேதவுயிரி|
+fouling organisms|சேதவுயிரிகள்|
+foundation|அடிப்படை|
+foundation (organization)|தளவகம்|
+Foundation for the Revitalisation of Local Health Traditions|உடல்நல மரபுகளை மீளுயிரூட்டும் தளவகம்
+founder|நிறுவனர்|
+founder principle|நிறுவனர் கொள்கை|
+fowl pox|பறவையம்மை|
+foxglove|நரிக்கையுறை|
+fractal|பகுவல்|
+fractional crystallization|பின்னப் படிகமாக்கல்|
+fractional distillation|பகுதிக் காய்ச்சிவடித்தல்|
+fractional order reaction|பின்ன முறைமை வினை|
+fractionating column|பின்னக் காய்ச்சுக் குழல்|
+fracture|எலும்புமுறிவு|
+fragile|நொறுங்கக்கூடிய|
+fragility|நொறுங்குமை|
+fragmentation|துண்டாதல்|
+frame|சட்டம் (கட்டிடவியல்)|
+frame of reference|ஆதிச்சட்டம்|
+framed door|சட்டக் கதவு|
+frameset|சட்டக்கணம்|
+France|பிரான்சு|
+franchise|வாக்குரிமை|
+Francis Janssen|பிரான்ஸிஸ் ஜேன்ஸன்|
+francium|பிரான்சியம்|
+frankia|பிராங்கியம்|
+fraternity|சகோதரத்துவம்|
+fraud|மோசடி|
+Fraunhofer|ஃப்ரௌன்ஹோஃபர்|
+Fraunhofer lines|பிரௌங்காபரின் கோடுகள்|
+free edge (nail)|நகவிளிம்பு|
+free energy|தனியாற்றல்|
+free oscillation|தடையிலா அலைவு|
+free path|தனிப்பாதை|
+free radical|தனித்தொகுதி|
+free radical addition reaction|தனித்தொகுதி சேர்த்தல் வினை|
+free radical substitution reaction|தனித்தொகுதி பதிலீட்டு வினை|
+free volume|தடையிலாப் பருமன்|
+free-form selector|வளை தேர்வி|
+freeware|இலவச மென்பொருள்|
+freeze dry|உறையுலர்|
+freezing point|உறைநிலை|
+freezing point depression|உறைநிலைத் தாழ்வு|
+freight|சுமைக்கட்டணம்|
+freight insurance|சுமைக்கட்டணக் காப்பீடு|
+French|பிரான்சிய|
+French curves|பிரான்சிய வளைவுகள்|
+Frenkel defect|பிரங்கலின் குறைபாடு|
+frenulum|நுண்ணிழுமடி|
+frenum|இழுமடி|
+freon|பிரீயான்|prion - பிரையான்
+frequency|அலைவெண்|
+frequency (of occurrence)|நிகழ்வெண்|
+frequency modulation|அலைவெண் இணக்கேற்றம்|
+frequency of occurrence|நிகழ்தகவு|
+fresh water|நன்னீர்|
+Fresnel|ஃப்ரெனெல்|
+Fresnel diffraction|பிரனலின் விளிம்புவளைவு|
+friction|உராய்வு|
+Friday|வெள்ளிக்கிழமை|
+Friedel-Craft's reaction|பிரிடல் கிராட்டின் வினை|
+frieze|பட்டை (கட்டுமானம்)|
+fringe|சரிகை|
+fringing reef|கரையோரப் பவளப்பாறைகள்|
+frog|தவளை|
+frog (on a brick)|கற்கீற்று|
+frond|ஓலை|
+front loading washing machine|முன்திறப்புச் சலவை எந்திரம்|
+frontal bone|நுதலெலும்பு|
+frontal gyrus|முன்பக்க மேடு|
+frontal lobe|முன்பக்க மடல்|
+FrontPage|முற்பக்கம்|
+froth floatation|நுரை மிதப்பு|
+fructose|பிரட்டோசு|
+fruit|கனி|பழம் - ripe fruite, பழுத்த கனி; காய் - unripe fruit, பழுக்காத கனி
+frustrum of a cone|கூம்பின் இடைக்கண்டம்|
+fruticose|கிளையொட்டிய|
+FTA-ABS (Fluorescent Treponemal Antibody Absorption) Test|தாநோனு (தானொளிர் இழையாகி நோயெதிர்ப்பான் உட்கவர்தல்) சோதனை
+FTP (File Transfer Protocol)|கோமாவி (கோப்புமாற்றல் விதிமுறை)
+fty infrhidvrnt fruit|உலர் வெடியாக் கடி|
+fuchsin|பச்சின்|
+fucus|குமிழ் ஆல்கா|
+fuel cell|எரிமின்கலம்|
+fugacious|உடனுதிரி|
+full adder|முழுக்கூட்டி|
+full duplex mode|முழு இருவழி நிலமம்|
+full pitch coil|முழுச்சரிவு சுருள்|
+full subtractor|முழுக்கழிப்பி|
+full wave rectifier|முழுவலை நேராக்கி|
+fullerene|புல்லரீன்|
+fumarase|புகையிகவூக்கி|
+fumaric acid|புகையிக அமிலம்|
+fumigation|புகையூட்டுதல்|
+fuming|புகையும்|
+function (mathematics)|சார்பு (கணிதம்)|operator - செயலி
+function declaration|சார்பு அறிவிப்பு|
+function definition|சார்பு வரையறை|
+function key|செயல் விசை|
+function n|செயற்பாடு|
+function of a function|சார்பின் சார்பு|
+function prototype|சார்பு மாதிரியம்|
+function v|செயற்படு|
+functional description|செயல் விவரம்|
+functional group|செயல் தொகுதி|
+functional isomerism|செயல் தொகுதி மாற்றியம்|
+functionless organelles|செயலற்ற நுண்ணுறுப்புகள்|
+fund|நிதியம்|
+fundamental particle|அடிப்படைத் துகள்|
+fundamentalism|அடிப்படையிசம்|
+fundus|அடியுள்|
+fungi|பூஞ்சரசு|
+fungia|பூஞ்சையப்பவளங்கள்|
+fungistatic|பூஞ்சைநிறுத்தி|
+fungus|பூஞ்சை|
+funicle|சூல்காம்பு|aka funiculus
+funiculus|சூல்காம்பு|aka funicle
+funnel|வடிப்பி|filter - வடிகட்டி
+funnel tube|வடிப்பிக் குழாய்|
+furan|பியூரான்|purin - பியூரின்
+furfur|தோலுமி|
+furfural|பர்பியூரல்|
+furniture|அறைகலன்|
+furrowed dressing|வரியால் அழகுறுத்தல்|
+furuncle|குழிப்பைப்புண்|
+fuse|காப்புருகி|
+fusiform|கதிராணிவடிவம்|
+fusion|ஒன்றிழைதல்|
+fusobacterium|கதிர்ப்பாட்டீரியம்|
+gable wall|கோம்பைச்சுவர்|
+gable window|கோம்பைச் சாளரம்|
+gadolinium|கடோலினியம்|
+gain|பெறுமம்|
+galactoheptose|பாலட்டோவேழோசு|
+galactokinase|பாலோசியக்கவூக்கி|
+galactosamine|பாலோசமீன்|
+galactose|பாலட்டோசு|
+galactosemia|பாலட்டோசுகுருதி|
+galactosidase|பாலட்டோசுடனியூக்கி|
+galactoside|பாலட்டோசுடனி|
+galaxy|விண்மீன்திரள்|
+galena|கலினா|
+gall stones|பித்தக்கற்கள்|
+gallbladder|பித்தப்பை|
+gallic acid|காலிக அமிலம்|
+gallionella|கால்லியனெல்லம்|
+gallium|காலியம்|
+gallstone|பித்தக்கட்டி|
+Galvalume|கால்வலூம்|
+galvanic cell|கால்வனிக மின்கலம்|
+galvanized iron|துத்திரும்பு|துத்தநாகம் சேர்ந்த இரும்பு
+galvanometer|கால்வனளவி|ammeter - மின்னோட்டளவி
+Gambusia|கம்பூசியா|
+gametangia|இனவகங்கள்|
+gametangium|இனவகம்|
+gamete intrafallopian transfer|கருவகவுட்செலுத்தல்|
+gametes|இனவணுக்கள்|
+gametic isolation|இனவணுவத் தனிமையாதல்|
+gametocyte|இனவணுவாக்கி|
+gametogenesis|இனவணுவாக்கம்|
+gametogony|இனவணுப்பெருக்கம்|
+gametophyte|இனவணுத்தாவரம்|
+gamma|காம்மா|
+gamma cell|காம்மா கணையவணு|
+gamma ray|காம்மாக் கதிர்|
+gamopetalae|இதழிணைந்தன|
+gamopetalous|இதழிணைந்த|
+gamosepalous|புறவிதழிணைந்த|
+Gandhism|காந்திசம்|
+ganged capacitor|மின்தேக்கித் திரள்|
+ganglia|நரம்பணுத்திரள்கள்|
+ganglion|நரம்பணுத்திரள்|
+ganglioside|நரம்புமுடிச்சு|
+gangrene|சிதைவிறப்பு|
+gangue|தாதுக்கூளம்|
+Ganong|கனோங்கு|
+Ganong's respiroscope|கனோங்கின் மூச்சுநோக்கி|
+gap-1 phase|முதல் இடைவெளிக் கட்டம்|
+gap-2 phase|இரண்டாம் இடைவெளிக் கட்டம்
+garbage|குப்பை|
+garden wall bond|தோட்டச்சுவர்ப் பிணைப்பு|
+gardening|தோட்டமிடல்|
+gardnerella|கார்டினரெல்லம்|
+Garibi Hatao|வறுமையொழிப்பு|
+gas|வளிமம்|air - காற்று
+gas carbon|வளிமக் கரி|
+gas conductor|வளிமக் கடத்தி|
+gas constant|வளிம மாறிலி|
+gas power plant|வளிம மின்னிலையம்|
+Gaspard Bauhin|காஸ்பர்ட் பாஹின்|
+gastric gland|இரைப்பைச் சுரப்பி|
+gastric juice|இரைப்பை நீர்|
+gastric ulcer|இரைப்பைப்புண்|
+gastrin|இரைப்பைநீரியக்கி|
+gastritis|இரைப்பையழற்சி|
+gastrocoel|குடற்குழியம்|
+gastroenteritis|இரைப்பைக்குடலழற்சி|
+gastroenterology|இரைப்பைக்குடலியல்|
+gastroesophageal opening|உணவுக்குழலின் இரைப்பைத் திறப்பு|aka cardiac opening
+gastrointestinal tract|இரைப்பைக்குடற்சுவடு|
+gastropod|சங்கியம்|
+gastropoda|சங்கியங்கள்|
+gastroscopy|இரைப்பைநோக்கல்|
+gastrula|ஈரடுக்குக்கரு|
+gastrulation|ஈரடுக்காதல்|
+gateway|நுழைவி|
+gather|சேகரி|
+gathering|சேகரித்தல்|
+GATT (General Agreement on Tariffs and Trade)|விகப்பொவு (வியாபாரத்துக்கும் கட்டணவீதங்களுக்குமான பொது உடன்பாடு)
+Gattermann reaction|காட்டர்மனின் வினை|
+Gauss|காஸ்|
+Gauss's law|காசின் விதி|
+GDB (Gnu Debugger)|நூபிய (நூ பிழை அலசி)|
+GDP (Gross Domestic Product)|மொவுவு (மொத்த உள்நாட்டு உற்பத்தி)
+gear|கீர்|
+gear box|கீர்ப்பெட்டி|
+geek|கல்விப்புழு|
+Geiger – Muller counter|கைகர் முல்லரின் எண்ணி|
+geitonogamy|அருகிற்சேர்க்கை|
+gel|களி|
+gel permeation chromatography|களி புகவிடும் நிறப்பிரிகை|
+gelatin|ஊன்பசை|
+gelatinase|ஊன்பசையூக்கி|
+gelation|களியாதல்|
+gem|பண்கல்|
+gem (chemistry, geminal)|மிதுன|
+geminal|மிதுன|
+gemma|தளிரனையம்|
+-gen|-ஆக்கி|
+genbank|சென்வங்கி|
+gender inequality|பாலினச் சமமின்மை|
+gene|மரபணு|
+gene bank|மரபணு வங்கி|
+gene expression|மரபணு வெளிப்பாடு|
+gene frequency|மரபணு நிகழ்வெண்|
+gene gun method|மரபணு நுழைப்பு முறை|
+gene mutation|மரபணு விகாரம்|
+gene pool|மரபணுக் குழுமம்|
+gene therapy|மரபணு சிகிச்சை|
+genera|துறைகள் (விலங்கியல்)|
+General Agreement on Tariffs and Trade (GATT)|வியாபாரத்துக்கும் கட்டணவீதங்களுக்குமான பொது உடன்பாடு (விகப்பொவு)
+general anaesthetic|பொது உணர்மறைப்பி|
+general crossing (of checks)|பொதுக் கீறலிடுதல்|
+general shop|பொதுப்பொருள் கடை|
+general solution|பொதுத் தீர்வு|
+general theory of relativity|பொதுப்பட்ட ஒப்புமைக் கோட்பாடு
+generalization|பொதுவமாக்கல்|
+generalized|பொதுவமாக்கிய|
+generating function|ஆக்கச் சார்பு|
+generative cell|உற்பத்தியணு|
+generative fertilization|உற்பத்திக் கருவுறுதல்|
+generator (electrical)|மின்னியற்றி|
+genetic code|மரபியற் குறி|
+genetic drift|மரபிய நகர்வு|
+genetic engineering|மரபுப் பொறியியல்|
+genetic industry|மரபியல் தொழிலகம்|
+genetic map|மரபுப்படம்|
+genetic population|மரபியல் இனத்தொகை|
+Genetic Resources Action International (GRAIN)|பன்னாட்டு மரபியல் வளங்கள் செயற்பாடு (பமவ)
+genetic variation|மரபு மாறுபாடு|
+genetically modified organism (GMO)|மரபியல்வழி மாற்றப்பட்ட உயிரி (மமாவு)
+geneticist|மரபியர்|
+genetics|மரபியல்|
+genic balance mechanism|மரபியச் சமன்செய் இயங்குமுறை
+genital|குறியுறுப்பு|
+genital candidiasis|குறியுறுப்புத் தெளிவநோய்|
+genital herpes|குறியுறுப்பு அக்கி|
+genitourinary|இனப்பெருக்கச் சிறுநீர் பெ.உ|
+genome|மரபமைப்பு|
+genome database|மரபமைப்புத் தரவுத்தளம்|
+genome survey sequence|மரபமைப்புக் கணிப்புத் தொடரிகள்
+genomics|மரபமைப்பியல்|
+genotype|மரபணுவகை|
+genotypic ratio|மரபணுவகை விகிதம்|
+gentian|சென்றியன்|
+gentisic acid|சென்றிக அமிலம்|
+genus|துறை (விலங்கியல்)|
+geochronology|நிலக்காலவியல்|
+geodesic dome|குவிகூறை|
+geodesic line|புவிமேற் கோடு|
+geodesic surveying|புவிமேல் நிலமளப்பு|
+geoengineering|புவிப்பொறியியல்|
+geographical isolation|புவியியத் தனிமையாதல்|
+geography|புவியியல்|geology - நிலவியல்
+geological eras|நிலவியல் ஊழிகள்|
+geology|நிலவியல்|geography - புவியியல்
+geometric isomerism|வடிவியல் மாற்றியம்|
+geometric mean|பெருக்குச் சராசரி|
+geometric progression|பெருக்குத்தொடர்|
+geometric series|பெருக்குத் தொடர் |
+geometrical drawing|வடிவியல் வரைவு|
+geometrical stair|வடிவியற் படிக்கட்டு|
+George Bentham|ஜார்ஜ் பெந்தம்|
+George Leclanche|ஜார்ஜ் லக்லாஞ்சி|
+geostationary satelite|புவிக்கிடப்புத் துணைக்கோள்|
+geosynchronous|புவியுடன்கால|
+geothermal|புவிவெப்ப|
+geotropic|புவிநாடு|
+geotropism|புவிநாடியக்கம்|
+germ cell|முளைய உயிரணு|
+germ line|முளையவரிசை|
+germ line gene therapy|முளையவரிசை மரபணு சிகிச்சை
+German|செருமனியம்|
+germane (chemistry)|செருமேன்|
+germanium|செருமேனியம்|செருமனியம் என்பது செருமானியர் பேசும் மொழி
+Germans|செருமனியர்|
+germicide|கிருமிகொல்லி|
+germinal variations|இனவணு மாறுபாடுகள்|
+germination|முளைத்தல்|
+germplasm|முளையக்குழைமம்|
+germplasm theory|முளையக்குழைமக் கோட்பாடு|
+gerontology|மூப்பியல்|
+gestate|இளந்தாங்கு|
+gestation|இளந்தாங்கல்|
+get|எடு|
+giant|அதிவளரர்|
+giant gourami|பெருங்கௌரமி|
+gibberellic acid|வளரியக்க அமிலம்|
+gibberellin|வளரியக்கி|
+Gibbs free energy|கிப்பசின் தனியாற்றல்|
+GIF (Graphic Interchange Format)|பயிவ (படவரைவு இடமாற்ற வடிவூட்டம்)
+gift check|பரிசுக் காசோலை|
+giga-|கிகா-|
+gigabyte|கிகாவெணு|
+gigantism|அதிவளர்ச்சி|மிகைவளர்ச்சி - hypertrophy; மெகலவளர்ச்சி - acromegaly
+gill|செவுள்|
+gill slit|செவுள் பிளவு|
+gingiva|ஈறு|
+gingivitis|ஈறழற்சி|
+ginseng|சின்செங்கு|
+Gir|கிர்|
+girdle|பட்டை|
+girdling experiment|பட்டைநீக்கப் பரிசோதனை|
+gizzard|அரைப்பை|
+glabrous|வழவழப்பான|
+glacier|பனியடுக்கு|
+glancing angle|நோக்குக் கோணம்|
+gland|சுரப்பி|
+glandular cell|சுரப்பியணு|
+glandular lobe|சுரப்பி மடல்|
+glans|ஆண்குறி மொட்டு|
+glass |கண்ணாடி|
+glaucoma|கண்ணழுத்தநோய்|
+glazed door|கண்ணாடியக் கதவு|
+glenoid fossa|மூட்டுக் குழியம்|
+glia|பசையணு|
+glide|நழுவு|
+gliding movement|நழுவு இயக்கம்|
+global|முழும|
+global alignment|முழும நேரமைத்தல்|
+global change|முழும மாற்றம்|
+global extremum|முழும மீயளவம்|
+global positioning system (GPS)|முழுப்புவி இடங்குறிப்பு அமைப்பு (முவிய)
+Global Strategy for Health for All by 2000 AD|கி. பி. 2000-த்துக்குள் உலகளாவிய அனைவர் உடல்நல உத்திமம்
+global village|முழுமக் கிராமம்|
+global warming|முழும வெப்பமடைதல்|
+globalization|முழுமமாக்கல்|
+globin|குளோபின்|globulin - கோளப்புரதம்
+globulin|கோளப்புரதம்|globin - குளோபின்
+glomerule|முடிச்சம்|
+glomerulonephritis|முடிச்சச்சிறுநீரகவழற்சி|
+glottis|குரல்வளை|
+glucagon|குளுக்ககான்|
+glucocorticoid|குளுக்கோபுரணித்திரலனையம்|
+glucogenesis|குளுக்கோசாக்கம்|
+glucogenic amino acid|குளுக்கோசாக்க அமினோ அமிலம்
+glucoheptose|குளுக்கோவேழோசு|
+gluconeogenesis|குளுக்கோசு புத்தாக்கம்|
+gluconic acid|குளுக்கோனிக அமிலம்|
+gluconobacter|குளுக்கானோபாட்டர்|
+glucosan|குளுக்கோசன்|
+glucose|குளுக்கோசு|
+glucose tolerance test|குளுக்கோசு சகிப்புத் தேர்வு|
+glucoseneogenesis|குளுக்கோசு புத்தாக்கம்|
+glucosuria|குளுக்கோசிறுநீர்|
+glucuronic acid|குளுக்குரானிக அமிலம்|
+glue|ஒட்டுப்பசை|ஒட்டுவான் - gluon; பசை - grease
+glume|உமிச்செதில்|
+glutamate|குளுட்டமேட்டு|
+glutamate oxaloacetate transferase|குளுட்டமேட்டு ஆச்சலோவசிட்டேட்டு அமினமாற்றலூக்கி
+glutamate pyruvate transaminase|அலனின் அமினமாற்றலூக்கி|aka alanine transaminase
+glutamic acid|குளுட்டமிக அமிலம்|
+glutamine|குளுட்டமின்|
+glutamyl |குளுட்டமைல்|
+glutaric acid|குளுட்டரிக அமிலம்|
+glutaryl|குளுட்டரைல்|
+glutathione|குளுட்டக்கந்தகோன்|
+gluten|பசையம்|
+gluteus maximus|புட்டப் பெருந்தசை|
+glyceraldehyde|கிளிசரால்டிகைடு|
+glyceride|கிளிசரைடு|
+glycerin|கிளிசரின்|
+glycerol|கிளிசரால்|
+glycerophosphatide|கிளிசரோபாசுவரக்கொழுமியம்|
+glycerose|கிளிசரோசு|
+glyceryl|கிளிசரிய|
+glycine|கிளைசின்|
+glycocholic acid|சர்க்கரைப்பித்த அமிலம்|
+glycogen|சர்க்கரையாக்கி|
+glycogen storage disease|சர்க்கரையாக்கி சேமக நோய்|
+glycogenolysis|சர்க்கரையாக்கி சிதைவு|
+glycolic aldehyde|ஈராலிக ஆல்டிகைடு|
+glycolipid|சர்க்கரைக்கொழுமியம்|
+glycolysis|குளுக்கோசுச் சிதைவு|
+glycoprotein|சர்க்கரைப்புரதம்|
+glycosidase|சர்க்கரையுடனியூக்கி|
+glycoside|சர்க்கரையுடனி|
+glycosidic bond|சர்க்கரைப் பிணைப்பு|
+glycosidic linkage|சர்க்கரைத் தொடுப்பு|
+glyoxal|ஆச்சால்டிகைடு|
+glyoxylate|ஆல்டாச்சலேட்டு|
+glyoxylic|ஆல்டாச்சலிக|
+GNI (Gross National Income)|மொநாவ (மொத்த நாட்டு வருமானம்)
+GNP (Gross National Product)|மொநாவு (மொத்த நாட்டு உற்பத்தி)
+gnu|நூ|
+go|செல்|
+gobar gas|சாண வளிமம்|
+goby fish|கோபி மீன்|
+godown|கிடங்கு|
+goemetric isomerism|வடிவ மாற்றியம்|
+goggle|மூடுகண்ணாடி|
+going (stair)|மிதியகலம்|
+goiter|காயிட்டர்|
+gold|தங்கம்|
+gold fish|தங்கமீன்|
+golden age|தங்கக் காலம்|
+golden quadrilateral|தங்க நாற்கரம்|
+goldsmith|தட்டார்|
+Goldstein|கோல்ட்ஸ்டைன்|
+golgi apparatus|கால்சி செங்கருவி|
+Gomberg Bachmann reaction|காம்பர்கு பாக்குமனின் வினை|
+gonadial artery|இனவுறுப்புத் தமனி|
+gonadotropic hormone|இனவுறுப்பு இயக்குநீர்|
+gonadotropin|இனவுறுப்புப்பொருள்|
+gonads|இனவுறுப்புகள்|
+gonococcal ophthalmia neonatorum|பிறந்தவுடன் இனவுறுப்புமணியக் கண்நோய்
+gonococcus|இனவுறுப்புமணியம்|
+gonorrhea|இனவுறுப்புநோய்|
+good faith|நன்னம்பிக்கை|
+goodwill|நல்லெண்ணம்|
+google|கூகிள்|
+gourmand|ஊண்சுவைஞர்|
+gout|மூட்டுநோய்|
+Government of India|இந்திய அரசாங்கம்|
+governor|ஆளுனர்|
+GPS (global positioning system)|முவிய (முழுப்புவி இடங்குறிப்பு அமைப்பு)
+Graafian follicle|கிராப்பின் குழிப்பை|
+grace period|சலுகைக் காலம்|
+gracilicutes|மென்தோலிகள்|
+gracilis muscle|மெலிந்த தசை|
+gradient|சாய்வீதம்|
+grading|தரப்படுத்தல்|
+graduated tube|அளவீட்டுக் குழாய்|
+graft rejection|பதிய ஏற்பின்மை|
+grafting|பதியமிடல்|
+gram|கிராம்|
+Gram negative|கிராமேற்காத|
+Gram positive|கிராமேற்கும்|
+grana |கிரானங்கள்|
+granite|கருங்கல்|
+grant|கொடை|
+grant v|அளி|
+granulation|மணித்துகளாதல்|
+granule|மணித்துகள்|
+granulocyte|மணித்துகளணு|aka polymorphonuclear leucocyte
+granuloma|திசுமணிக்கட்டி|
+granulosa cell|முட்டையகப்பையணு|
+granum|பையடுக்கு|
+graph|வரைபடம்|
+Graphic Interchange Format (GIF)|படவரைவு இடமாற்ற வடிவூட்டம் (பயிவ)
+graphical user interface (GUI)|படவரைவு பயனர் இடைமுகம் (பபவி)
+graphics|படவரைவு|
+graphics card|படவரைவு அட்டை|
+graphite|கடுங்கரி|
+grasshopper|வெட்டுக்கிளி|
+grassland biome|புல்வெளித் திணை|
+grating|கீற்றணி|
+gravel|சரல்|
+Grave's disease|கிரேவின் நோய்|
+gravimetric|எடையறி|
+gravitation|ஈர்ப்பியல்|
+gravitational force|ஈர்ப்பியல் விசை|
+gravity|ஈர்ப்பு|
+gray|கிரே|
+grazing food chain|மேய்ச்சல் உணவுக் கோர்வை|
+grease|பசையெண்ணெய்|
+Great Barrier Reef|மாபெரும் தட்டிப் பவளப்பாறை|
+great circle|பெருவட்டம்|
+greater than|பெரியது|A > B என்பதை 'A பெரியது B சார்பில்' அல்லது 'A பெரியது B' என்று வாசிக்கலாம்.
+greater than or equal to|பெரியது அல்லது சமம்|A >= B என்பதை 'A பெரியது அல்லது சமம் B சார்பில்' அல்லது 'A பெரியது அல்லது சமம் B' என்று வாசிக்கலாம்.
+greatest common divisor|மீப்பெரு பொதுக் காரணி|
+greatest integer function|மீப்பெரு முழுவெண் சார்பு|
+Greek (language)|கிரேக்கம்|
+green chemistry|பசுமை வேதியியல்|
+green manuring|பசுமை உரமிடல்|
+Green Revolution|பசுமைப் புரட்சி|
+green sulfur bacterium|பச்சைக் கந்தகப் பாட்டீரியம்|
+greenhouse|பசுமையில்லம்|
+greenpeace|பசுமையமைதி|
+greenstick fracture|பசுங்குச்சி எலும்புமுறிவு|
+Gregory|கிரகரி|
+grey matter|சாம்பற் பொருள்|
+grey mullet|மடவை|
+grid|சட்டகம்|
+grid computing|சட்டகக் கணினியம்|
+Griffith|க்ரிஃப்பித்|
+Grignard addition|கிரின்யா சேர்த்தல்|
+Grignard reagent|கிரின்யா வினையாக்கி|
+Grignard synthesis|கிரின்யா தொகுத்தாக்கம்|
+grill|வாட்டுச் சட்டகம்|
+grillage|கட்டகம்|
+grinder|அரைப்பி|
+grinning|இளித்தல்|
+griseofulvin|கிரிசியோபல்வின்|
+groin|கவட்டை|
+groove|புரி|
+grooving|புரியிடல்|
+Gross Domestic Product (GDP)|மொத்த உள்நாட்டு உற்பத்தி (மொவுவு)
+gross error|தவற்றுப் பிழை|
+Gross National Income (GNI)|மொத்த நாட்டு வருமானம் (மொநாவ)
+Gross National Product (GNP)|மொத்த நாட்டு உற்பத்தி (மொநாவு)
+ground meristem|முகுளவாக்கத்திசு|
+ground state|தரை நிலை|
+ground tissue|தளத்திசு|
+ground water|நிலத்தடி நீர்|
+group|தொகுதி|collection - தொகுப்பு
+group (math)|குலம்|
+group insurance|தொகுதிக் காப்பீடு|
+group owner|தொகுதி உரிமையாளர்|
+group policy|தொகுதிக் காப்பிதழ்|
+grouping|தொகுதியாக்கல்|
+growler|உறுமி|
+growth|வளர்ச்சி|development - வளராக்கம்
+growth hormone|வளர்ச்சி இயக்குநீர்|
+growth movement|வளரியக்கம்|
+GSAT|புவிநிலையன்|
+GSLV|புவிக்காலக் கோளேவுவண்டி|
+guanine|குவானின்|
+guano|பறவையெச்சவுரம்|
+guanosine|குவானசின்|
+guarantee|செயலுறுதி|indemnity - ஈட்டுறுதி; warranty - பொறுப்புறுதி
+guard cell|காப்பணு|
+guess|ஊகம்|
+GUI (graphical user interface)|பபவி (படவரைவு பயனர் இடைமுகம்)
+guide|வழிகாட்டி|
+guideline|வழியுரை|
+guinea fowl|கினிக்கோழி|
+guinea pig|கினிப்பன்றி|
+guitar|கிதார்|
+gulf|வளைகுடா|
+gulf stream|வளைகுடா நீரோட்டம்|
+gun |எய்வி|
+gun metal|எய்வியுலோகம்|
+guppy|கப்பிமீன்|
+gustatory receptor|சுவைப் பெறுவி|aka taste receptor
+gut associated lymphoid tissue|குடலங்களின் நிணவனைய திசு|
+gutta percha|மரப்பால்|
+gutter|ஓரவடிகால்|
+gymnospermae|புறவிதையன|
+gymnosperms|புறவிதையன்கள்|
+gynandrophore|ஆண்பெண்ணேந்தி|aka androgynophore
+gynandrous|பெண்ணொட்டிய|
+gynoecium|சூலக வட்டம்|
+gynophore|பெண்ணேந்தி|
+gypsum|சாக்கம்|
+gyrase|திருகூக்கி|
+gyre|சுழலோட்டம்|
+gyrus|வளைமேடு|
+H1N1 virus|பன்றிய வைரசு|
+habeas corpus|ஆட்பெறல்|
+Haber process|கேபரின் வழிமுறை|
+habitat|வாழிடம்|
+hack saw|வெட்டறுப்பி|
+hacker|உடைப்போன்|
+Hadean eon|ஏடியன் பேரூழி|
+haemolymph|குருதிநிணநீர்|
+haemophilia|குருதி உறையாமை|
+haemosporidia|குருதி ஒட்டுண்ணி|
+hafnium|ஆபினியம்|
+hair|முடி|
+hair bulb|முடிக்குமிழ்|
+hair follicle|முடியடி|
+hairdrier|முடியுலர்த்தி|
+Haldane's hypothesis|கால்டேனின் கருதுகோள்|
+half adder|அரைக்கூட்டி|
+half bat|அரைக்கல்|
+half cell |அரை மின்கலம்|
+half coil winding|அரைச்சுருள் கண்டு|
+half duplex mode|அரையிருவழி நிலமம்|
+half life|அரையாயுள்|
+half life period|அரையாயுட் காலம்|
+half subtractor|அரைக்கழிப்பி|
+half wave rectifier|அரையலை நேராக்கி|
+haliscomenobacter|சிறையுறுபாட்டீரியம்|
+Hallikar|கலிக்கார்|
+hallucination|உளமாயம்|
+hallucinogen|உளமாயமாக்கி|
+hallux|கால் கட்டைவிரல்|
+Hallwachs' experiment|ஆல்வாச்சின் பரிசோதனை|
+halobacteriaceae|உப்புப்பாட்டீரியனையன|
+halobacteriales|உப்புப்பாட்டீரியைகள்|
+halobacterium|உப்புப்பாட்டீரியம்|
+halococcus|உப்புமணியம்|
+haloform|உப்பாக்கபாம்|
+halogenation|உப்பாக்கியேற்றம்|
+halogens|உப்பாக்கிகள்|
+halogram|மாயொளிப்படம்|
+halography|மாயொளிப்படவியல்|
+halohydrin|உப்பியமாக்க ஆல்ககால்|
+halohydrocarbon|உப்பாக்கியநீரியக்கரிமம்|
+halon|கேலான்|
+halonium ion|உப்பாக்கிய நேர்மயனி|
+halophile|உப்புவிரும்பி|
+Hamberger's Chloride Bicarbonate shift|ஆம்பர்கரின் குளோரைடு இருகரியமிலேட்டு இடமாற்றம்
+hammer|சுத்தியல்|
+hammer dressing|சுத்தியலால் அழகுறுத்தல்|
+hand bill|துண்டறிக்கை|
+handbook|கையேடு|
+handheld device|கையடக்கச் சாதனம்|
+handle n |கைப்பிடி|
+handle v|கையாள்|
+handling|கையாள்தல்|
+handout|கையளி|
+handrail|பிடிதண்டு|
+handshake|கைகுலுக்கல்|
+hanging indent|தொங்கு படியம்|
+Hans Adolf Krebs|ஹான்ஸ் அடால்ஃப் க்ரெப்ஸ்|
+haplodiploidy|ஒற்றையிரட்டைமெய்ய|
+haploid|ஒற்றைமெய்ய|
+haplophase|ஒற்றைமெய்யக் கட்டம்|
+hapten|பிடிப்பி (நோயெதிர்ப்பியல்)|
+harcore pornography|வன்காமவூடகம்|
+hard copy|வன்னகல்|
+hard disk|வன்வட்டு|
+hard drive|வன்வட்டோடி|
+hard insulator|கடினக் கடத்தற்காப்பி|
+hard water|கடின நீர்|heavy water - கன நீர்
+hard x-ray|வன்னூடுகதிர்|
+hardcore sex|வன்காமம்|
+hardness|கடுமை|
+hardware|வன்பொருள்|
+Hardy-Weinberg equilibrium|கார்டி வெயின்பர்கின் சமநிலை|
+Hardy-Weinberg law|கார்டி வெயின்பர்கின் விதி|
+Hariana|அரியானா|
+harmful animal|தீங்கிழை விலங்கு|
+harmonic|ஒத்திசை|
+harmonic mean|ஒத்திசைச் சராசரி|
+harmonic motion|ஒத்திசை இயக்கம்|
+harmonic oscillator|ஒத்திசை அலைவி|
+harmonic progression|ஒத்திசைத் தொடர்|
+harmonic series|ஒத்திசைத் தொடர்|
+harmony|இசைவு|consistency - இயைபுமை
+harvesting |அறுவடை|
+hasp|கொளுக்கி|
+hasp and staple bolt|கொளுக்கியும் தைப்பாணியுமுடைய தாழ்
+Hassall's corpuscle|கசலின் தனித்துகள்|
+Hasselbalch|ஹாஸல்பால்க்|
+hassium|காசியம்|
+hatch n|புகுவழி|
+hatchery|பொரிப்பகம்|
+haustoria|உறிஞ்சன்கள்|sucker - உறிஞ்சி
+haustorium|உறிஞ்சுறுப்பு|
+hawker|கூவிவிற்பவர்|
+Hawkins|ஹாக்கின்ஸ்|
+Hawkins Simon conditions|காக்கின்சு சைமனின் நிபந்தனைகள்
+Haworth projection|காவத்தின் வீழ்ப்பு|
+Hayem's solution|கயமின் கரைசல்|
+hazard|இடர்|
+hazardous waste|இடர்தரு கழிவு|
+HDI (Human Development Index)|மவசு (மனித வளராக்கச் சுட்டெண்)
+HDL (high density lipoprotein)|உகொபு (உயரடர்வு கொழுமியப்புரதம்)
+head note|தலைக்குறிப்பு|
+headache|தலைவலி|
+header|தலையம்|
+header bond|அகலப்பிணைப்பு|
+header course|அகலவரிசை|
+header file|தலைப்புக் கோப்பு|
+headphone|தலையொலிப்பி|
+health|உடல்நலம்|
+Health is Wealth|நோயற்ற வாழ்வே குறைவற்ற செல்வம்
+heap|குவியல்|
+hearing aid|செவியுதவி|
+hearing impairment|செவிக் குறைபாடு|
+hearing loss|செவியிழப்பு|
+heart|இதயம்|
+heart attack|மாரடைப்பு|
+heart block|இதயத் தடுப்பு|
+heart murmur|இதய முணுமுணுப்பு|
+heart shake|இதய விரிசல்|
+heart transplant|இதய மாற்றுநடவு|
+heart-rot|மைய அழுகல்|
+heat|வெப்பம்|
+heat capacity|வெப்ப ஏற்புமை|
+heat conductance|வெப்பக் கடத்தல்|
+heat conductor|வெப்பக் கடத்தி|
+heat exchange|வெப்ப இடைமாற்றம்|
+heat of formation|உருவாதல் வெப்பம்|
+heat pump|வெப்பமேற்றி|
+heating element|வெப்ப மின்னிழை|
+heavenly body|வான்பொருள்|
+heavy chain (protein)|நெடுங்கோர்வை (புரதம்)|
+heavy industry|கனத் தொழிலகம்|
+heavy water|கன நீர்|hard water - கடின நீர்
+hecta-|எட்டா-|
+hecto-|நூறோ-|
+hedroxy-|நீர்முச்சிய-|
+Heisenberg|ஐசன்பெர்கு|
+helicase|திருகவூக்கி|
+helicoid cyme|திருகம் முற்றுநுனியன்|
+helium|கதிரவம்|
+helix|திருகம்|
+helix destabilizing protein|திருகம் நிலைப்புறுதி நீக்கப் புரதம்
+Hell-Volhard-Zelinsky (HVZ) reaction|எல் வோலார்டு செலின்சுகியின் (எவச) வினை
+Helmholtz|ஹெல்ம்ஹோல்ட்ஸ்|
+Helmholtz double layer|கெல்மோட்டின் இரட்டைப் படலம்
+Helmholtz free energy|கெல்மோட்டின் தனியாற்றல்|
+helminthes|குடற்புழுக்கள்|
+hemagglutinin|செவ்வணுதிரட்டி|
+hematogenesis|குருதியாக்கம்|
+hematolysis|சிவப்பணுச்சிதைவு|aka hemolysis
+hematoma|குருதிக்கழலை|
+hematopoiesis|குருதியாக்கம்|
+heme|கீம்|
+hemicellulose|அரைச்செல்லுலோசு|
+hemichordata|குறைநாண்முதுகிகள்|
+hemihydrate|அரைநீருடையி|
+hemitropous ovule|அரைகவிழ்ச் சூல்|
+hemoconcentration|கீமச்செறிவு|
+hemocytometer|குருதியணுவளவி|
+hemocytometry|குருதியணுவளத்தல்|
+hemodialysis|குருதியூடுபகுப்பு|
+hemoflagellates|குருதிக்கசையிழையன|
+hemoglobin (Hb)|கீமோகுளோபின் (கீகு)|
+hemoglobin A (HbA)|மனித கீமோகுளோபின் (மகீகு)|
+hemoglobin buffer system|கீமோகுளோபின் தாங்கமமைப்பு
+hemoglobin S (HbS)|பிறையணு கீமோகுளோபின் (பிகீகு)
+hemolysin|சிவப்பணுச்சிதைப்பி|
+hemolysis|சிவப்பணுச்சிதைவு|aka hematolysis
+hemophilia|குருதியுறையாமை|
+hemopoiesis|குருதியாக்கம்|
+hemorrhage|குருதிக்கசிவு|
+hemorrhagic septicemia|குருதிக்கசிவுக் கிருமியேற்றம்|
+hemostasis|குருதிநிலைபெறல்|
+hemozoin|கீமசாயின்|
+Henderson|ஹெண்டர்ஸன்|
+Henderson equation|எண்டர்சனின் சமன்பாடு|
+Henderson-Hasselbalch equation|எண்டர்சன் ஆசல்பாக்கின் சமன்பாடு
+henicosane|இருபத்தொன்றவேன்|
+Henle's loop|கென்லியின் கழல்|
+henry|என்ரி|
+Henry Gwyn-Jeffreys Moseley|ஹென்ரி க்வென்-ஜெஃப்ரீஸ் மோஸ்லீ
+heparin|கெப்பரின்|
+hepatic portal system|கல்லீரல் நுழைவ அமைப்பு|
+hepatic portal vein|கல்லீரல் நுழைவச் சிரை|
+hepatic vein|கல்லீரற் சிரை|
+hepaticae|கல்லீரற்பாசி|
+hepatitis|கல்லீரலழற்சி|
+Hepatitis B|இரண்டாம்வகைக் கல்லீரலழற்சி|
+Hepatitis B Virus|இரண்டாம்வகைக் கல்லீரலழற்சி வைரசு (இகவை)
+hepatomegaly|கல்லீரல் வீக்கம்|
+hepatopancreatic ampulla|கல்லீரற்கணையக் குடுவை|
+hepta-|ஏழ-|
+hepta-|ஏழ-|
+heptadecane|பதினேழவேன்|
+heptane|ஏழவேன்|
+heptet|ஏழுமம்|
+heptose|ஏழோசு|
+herb  |மூலிகை|
+herb stage|மூலிகை நிலை|
+herbarium|தாவரவகம்|
+Herbert Bayer|ஹெர்பர்ட் பேயர்|
+herbivore|தாவரவுண்ணி|
+hereditary units|பாரம்பரிய அலகுகள்|
+heredity|பாரம்பரியம்|
+heritable variations|மரபுறு மாறுபாடுகள்|
+herkogamy|தடுப்புத்தடை|
+hermaphrodism|இருபாலுயிரிசம்|aka hermaphroditism
+hermaphrodite|இருபாலுயிரி|
+hermaphroditism|இருபாலுயிரிசம்|aka hermaphrodism
+hernia|குடற்பிதுக்கம்|
+herpes|அக்கி|
+herpes gladiatorum|மல்லன் அக்கி|
+herpes zoster|தோற்புண்|aka shingles
+herpetosiphon|ஊர்குழாயன்|
+Herring-Breuer reflex|எரிங்கு புரூவரின் தன்நிகழ்வு|
+hertz|எர்சு|
+Hertz|ஹர்ட்ஸ்|
+Hertz experiment|எர்சின் பரிசோதனை|
+hesitance|தயக்கம்|
+hesperidium|சுளையுள்ள சதைக்கனி|
+hetero atomic molecule|வேற்றணு மூலக்கூறு|
+heteroatom|வேற்றணு|
+heterocyclic  adj|வேற்றுவளைய|
+heterocyclic  n|வேற்றுவளையம்|
+heterocyclic compound|வேற்றுவளையச் சேர்மம்|
+heterodont|வேற்றுப்பல்|
+heterodontic|வேற்றுப்பல்லுடைய|
+heterodyne|வேற்றுத்திறன்|
+heterogamete|வேற்றினவணு|
+heterogametic|வேற்றினவணுவ|
+heterogametic sex|வேற்றினவணுவப் பாலினம்|
+heterogamous capitulum|வேற்றுவகைச் சிரமஞ்சரி|
+heterogeneity|பன்மைச்சீர்மை|
+heterogeneous|பன்மைச்சீரான|
+heterograft|வேற்றுப்பதியம்|aka xenograft
+heterokaryosis|வேற்றுக்கருவுடைமை|
+heterokont|வேற்றுக்கசையிழை|
+heterolytic fission|வேற்றுப்பகு பிளவுறுதல்|
+heteromerae|வேற்றுச்சூலிலையன|
+heteromorphic|வேற்றுரு|
+heteronuclear diatomic molecule|வேற்று ஈரணு மூலக்கூறு|
+heteronuclear polyatomic|வேற்றுப் பலவணு|
+heteropolysaccharide|வேற்றுப் பலசர்க்கரைடு|
+heterosexual|வேற்றுப்பாலின|bisexual - இருபாலின
+heterosexuality|வேற்றுப்பாலினவியம்|
+heterosexuals|வேற்றுப்பாலினவியர்|
+heterosis|கலப்பினநன்மை|
+heterospory|வேற்றுவித்தி|
+heterostyly|வேற்றுச்சூலகம்|
+heterothallic|வேற்றுக்கலவி|
+heterotroph|வேற்றுண்ணி|
+heterotrophic|வேற்றுண்ணிய|
+heterotypic|வேற்றுவகைய|
+heterozygous|வேற்றுமரபணுவுள்ள|
+heuristic|பட்டறிவூட்ட|
+heuristics|பட்டறிவூட்டம்|
+hexa-|ஆற-|
+hexa-|ஆற-|
+hexacontane|அறுபதவேன்|
+hexadecane|பதினாறவேன்|
+hexadecimal|பதினாறும|
+hexagonal|அறுமுகி|
+hexane|ஆறவேன்|
+hexokinase|ஆறோசியக்கவூக்கி|ஆறோசு + இயக்க + ஊக்கி
+hexosamine|ஆறோசமீன்|
+hexosaminidase|ஆறோசமினவூக்கி|
+hexose|ஆறோசு|
+hexose monophosphate (HMP)|ஆறோசு ஒற்றைப்பாசுவேட்டு|
+Hi Fi|உயர்பண்|
+hibernation|நீளுறக்கம்|ஆழுறக்கம் - deep sleep
+hibiscus|செம்பருத்தி|
+hidden line|மறைவுக்கோடு|
+Hideki Yukawa|ஹைடக்கி யூகாவா|
+hierarchical file system|படிவரிசைக் கோப்பமைப்பு|
+hierarchy|படிவரிசை|staircase - படிக்கட்டு
+high court|உயர் நீதிமன்றம்|
+high definition|உயர்வரை|
+high density lipoprotein (HDL)|உயரடர்வு கொழுமியப்புரதம் (உகொபு)
+high level language|உயர்மட்ட மொழி|
+high quality hydraulic lime|உயர்தர நீர்த்த சுண்ணாம்பு|
+high resolution|உயர் பகுதிறன்|
+high speed refrigerated centrifuge|அதிவேகக் குளிரூட்டிய சுழல்வீழ்த்தி
+high tide|உயர் ஈர்ப்பலை|
+higher education|உயர்நிலைக் கல்வி|
+highlight|மேற்காட்டு|
+highway|நெடுஞ்சாலை|
+hilum|நுழைவடு|
+hindbrain|பின்மூளை|aka rhombencephalon
+hindrance|தடங்கல்|
+hindrance of finance|நிதித் தடங்கல்|
+hindrance of risk|ஆபத்துக்கூறு தடங்கல்|
+hinge|கீல்|
+hip|இடுப்பு|
+Hippocrates|ஹிப்பாக்ரட்டீஸ்|
+hire purchase|வாடகையால் வாங்கல்|
+Hirudinea|அட்டையங்கள்|
+histamine|திசுவமீன்|
+histidine|திசுவனின்|
+histochemistry|திசுவேதியியல்|
+histocompatibility|தசையொவ்வுமை|
+histogram|பட்டைவரைவு|
+histological differentiation|திசு வேறுபடல்|
+histology|திசுவமைப்பியல்|
+histone|திசுவோன்|
+histoplasma|திசுக்குழைமி|
+histoplasmosis|திசுக்குழைமநோய்|
+historical school|வரலாற்று எண்ணக்குழு|
+HIV (Human Immunodeficiency Virus|மநோவை (மனித நோயெதிர்ப்புக்குறை வைரசு)
+HMG (3-Hydroxy-3-methyl-Glutaryl-CoA|நீமீகு (3-நீர்மூச்சிய-3-மீத்தைல்குளுட்டாரில துணையூக்கி)
+HMP pathway|ஆறோசு ஒற்றைப்பாசுவேட்டு வழித்தடம்
+HMP shunt|ஆறோசு ஒற்றைப்பாசுவேட்டுத் தடமாற்றம்
+holandric gene|ஆணொட்டு மரபணு|
+holdfast|வன்பிடி|
+Hollerith tabulating machine|ஹாலரித்தின் பட்டியல் எந்திரம்|
+hollow|உள்ளீடற்ற|
+Holmes' signal|ஓம்சின் சைகை|
+holmium|ஓலுமியம்|
+holoblastic cleavage|முழுமைப்பிளவுறல்|aka total cleavage
+holoenzyme|முழுவூக்கிப்புரதம்|
+hologram|முழுவடிவரைவு|
+holozoic|விழுங்குண்ணி|
+home (computer)|முகப்பு|
+home button|முகப்புப் பொத்தான்|
+home computer|வீட்டுக் கணினி|
+home key|முகப்பு விசை|
+home page|முகப்புப் பக்கம்|
+home page|முகப்புப் பக்கம்|
+home science|மனையியல்|psychology - மனவியல்
+homeostasis|தன்னிலைமம்|
+homeostatic|தன்னிலைம|
+homeostatic equilibrium|தன்னிலைமச் சமநிலை|
+hominid|மனித முன்னோடி|
+homo atomic molecule|ஒப்பணு மூலக்கூறு|
+Homo Sapien|மனித சேப்பியன்|
+homocyclic  adj|ஒப்புவளைய|
+homocyclic  n|ஒப்புச்சுழலி|
+homocyclic compound|ஒப்புச்சுழல் சேர்மம்|
+homogametic|ஒப்பினவணுவ|
+homogametic sex|ஒப்பினவணுவப் பாலியம்|
+homogamous capitulum|ஒப்புவகைச் சிரமஞ்சரி|
+homogamy|அகச்சேர்க்கை|
+homogeneity|ஒருமைச்சீர்மை |
+homogeneous|ஒருமைச்சீரான|
+homogenization|ஒருமைச்சீராக்கல்|
+homogentisate|படிசென்றிகேட்டு|
+homogentisic acid|படிசென்றிக அமிலம்|aka alkapton
+homograft|ஒப்புப்பதியம்|aka allograft
+homoiothermic|ஒரேவெப்ப|isothermal - சமவெப்ப
+homolecithal egg|ஒருமைச்சீர்மையுணவு முட்டை|
+homolog|படிவொப்போன்|
+homologous|படிவொத்த|
+homologous series|படிவொப்பு வரிசை|
+homology|படிவொப்புமை|
+homolytic fission|ஒப்புப்பகு பிளவுறுதல்|
+homonuclear diatomic molecule|ஒப்பு ஈரணு மூலக்கூறு|
+homonuclear polyatomic|ஒப்புப் பலவணு|
+homonym|பெயரொத்தல்|
+homopolysaccharide|ஒப்புப் பலசர்க்கரைடு|
+homosexual|ஒப்புப்பாலின|unisexual - ஒருபாலின
+homosexuality|ஒப்புப்பாலினவியம்|இனம் - species; பாலினவியம் - sexuality
+homosexuals|ஒப்புப்பாலினவியர்|
+homospory|ஒப்புவித்தி|
+homothallic|தற்கலவி|
+homotypic|ஒப்புவகைய|
+homozygous|ஒப்புமரபணுவுள்ள|
+homunculus|மனிதச்சிறுமம்|
+homunculus|முழுக்குள்ளன்|
+hook|கொக்கி|
+hook and eye|கொக்கியும் துளையும்|
+hooklet|குறுங்கொக்கி|
+Hook's law|கூக்கின் விதி|
+Hopkin's test|காப்பினின் சோதனை|
+horizon|தொடுவானம்|
+horizontal|கிடைமட்டம்|
+horizontal cleavage|கிடைமட்டப் பிளவுறல்|
+hormonal protein|இயக்குநீர் புரதம்|
+hormonal treatment|இயக்குநீர்ச் சிகிச்சை|
+hormone|இயக்குநீர்|
+horseshoe|குதிரைலாடம்|
+horseshoe arch|குதிரைலாட வளைவு|
+horsetail|குதிரைவால் பெரணி|
+horticulture|தோட்டக்கலை|
+hospital|மருத்துவமனை|
+host|ஓம்புனர்|
+host computer|கணினி ஓம்புனர்|
+host language|மொழி ஓம்புனர்|
+host organism|ஓம்புயிரி|
+hot stacking|வெப்படுக்கல்|
+house fly|வீட்டு ஈ|
+household|வீட்டமை|
+household services|வீட்டமை சேவைகள்|
+household warehouse|வீட்டமை இருப்பகம்|
+housing (carpentry)|சட்டமிடல் (தச்சு)|
+HTML (Hypertext Markup Language)|மீயுரை குறியீ்ட்டு மொழி (மீகுமொ)
+HTML tag|மீகுமொ தொங்கி|
+HTTP (Hypertext Transfer Protocol)|மீமாவி (மீயுரை மாற்றல் விதிமுறை)
+Hubble Telescope|கபிளின் தொலைநோக்கி|
+Hückel theory|உக்கலின் கோட்பாடு|
+hue|நிறமம்|
+hull insurance|நாவாய்க் காப்பீடு|
+human anatomy|மனித உடலமைப்பு|
+Human Development Index (HDI)|மனித வளராக்கச் சுட்டெண் (மவசு)
+human genome project|மனித மரபமைப்புத் திட்டப்பணி
+Human Immunodeficiency Virus (HIV)|மனித நோயெதிர்ப்புக்குறை வைரசு (மநோவை)
+human leukocyte antigen (HLA) complex|மனித வெள்ளையணு நோயெதிர்ப்பூட்டிக் (மவெநோ) கூட்டுமம்
+human population|மக்கள் தொகை|population - இனத்தொகை
+human resource|மனித வளம்|
+humanoid|மனிதவனையம்|அனைய means 'like'
+humerus|மேற்கையெலும்பு|
+humidity|நீர்ப்பதம்|moisture - ஈரப்பதம்
+humming|இம்மொலி|
+humor (medicine)|உடற்பாய்மம்|
+humoral immunity|உடற்பாய்ம நோயெதிர்ப்பு|aka antibody mediated immunity
+Hund|ஹூன்ட்|
+Hund's rule|கூன்றின் விதி|
+Hunsdiecker|ஹன்ஸ்டீக்கர்|
+hunt|வேட்டையாடு|
+hunting|வேட்டையாடல்|
+Huntington|ஹன்டிங்க்டன்|
+Huntington's chorea|கண்டிங்கனின் நோய்|
+hurricane|பெரும்புயல்|
+Huxley|ஹக்ஸ்லி|
+Huygens' principle|கய்கன்சின் கொள்கை|Huygen's principle is wrong; the name of the scientist is Huygens, not Huygen.
+HVZ (Hell-Volhard-Zelinsky) reaction|எவச (எல் வோலார்டு செலின்சுகியின்) வினை
+hyaluronic acid|பரவானிக அமிலம்|
+hyaluronidase|பரவலூக்கி|
+hybrid adj|கலப்பின|
+hybrid breakdown|கலப்பினச் சிதைவு|
+hybrid computer|கலப்பினக் கணினி|
+hybrid inviability|கலப்பினம் பிழையாமை|
+hybrid n|கலப்பினம்|
+hybrid sterility|கலப்பின மலடு|
+hybridization|கலப்பினமாதல்|
+hydel|நீர்மின்|
+hydra|ஐதரா|
+hydrate|நீருடையி|
+hydrate isomerism|நீரேற்ற மாற்றியம்|
+hydrated lime|நீர்த்த சுண்ணாம்பு|aka slaked lime
+hydration|நீரேற்றம்|
+hydraulic|நீரழுத்த|
+hydraulics|நீரழுத்தவியல்|
+hydrazine|அமினமீன்|
+hydrazinium|அமினமீனியம்|
+hydrazone|அமினமோன்|
+hydride|நீரியைடு|
+hydroboration|நீர்போரேற்றல்|
+hydrobromic acid|புரோமிக அமிலம்|
+hydrocarbon|நீரியக்கரிமம்|
+hydrochloric acid|குளோரிக அமிலம்|
+hydrochlorofluorocarbon (CFC)|நீரியக்குளோரோபுளோரோகரிமம் (குபுக)
+hydrochory|நீர்ப்பரவல்|
+hydroelectric power plant|நீர் மின்னிலையம்|
+hydrogen|நீரியம்|
+hydrogen bond|நீரியப் பிணைப்பு|
+hydrogen bromide|நீரிய புரோமைடு|
+hydrogenated|நீரியமாக்கிய|
+hydrohalic acid|உப்பாக்கிய அமிலம்|
+hydroiodic acid|அயோடிக அமிலம்|
+hydrolase|நீராற்பகுப்பூக்கி|
+hydrolysis|நீராற்பகுப்பு|நீர்த்தல் - dilution
+hydrolytic enzyme|நீராற்பகுப்பு ஊக்கிப்புரதம்|
+hydrophile|நீர்விரும்பி |
+hydrophilic group|நீர்விரும்பித் தொகுதி|
+hydrophilicity|நீர்விருப்பம்|
+hydrophily|நீர்ச்சேர்க்கை|
+hydrophobe|நீர்வெறுப்பி|
+hydrophobic group|நீர்வெறுப்புத் தொகுதி|
+hydrophobicity|நீர்வெறுப்பு|
+hydrophone|நீரொலியன்|
+hydrophyte|நீர்வாழ்தாவரம்|
+hydroponics|நீர்வேளாண்மை|
+hydropower|நீர் திறன்  |
+hydropower plant|நீர் திறன் உற்பத்தி ஆலை|
+hydrosere|நீர்த்தாவர தொடர்முறை|
+hydrosphere|நீர்க்கோளம்|
+hydrotropic|நீர்நாடு|
+hydroxy|நீர்மூச்சிய (கனிம)|
+hydroxyl|நீர்மூச்சிய (கரிம)|
+hydroxylamine|நீர்மூச்சியவமீன்|
+hydroxylation|நீர்மூச்சியமேற்றல்|
+hydrozoa|ஐதரசோவா|
+hygroscopic|நீரேற்பு|
+hygroscopic movement|நீரேற்பு இயக்கம்|
+hymen |மூடுசவ்வு|
+Hymen vaginae|பெண்குறி மூடுசவ்வு|
+hymenoptera|சவ்விறகன|
+hyoid bone|நாவடியெலும்பு|
+hyomental|மேல்நாவடி|
+hyosternal|கீழ்நாவடி|
+hypanthodium|அத்திவகை மஞ்சரி|
+hyperbola|அதிபரவளைவு|
+hyperexcitability|மிகைக்கிளர்ச்சியடைமை|
+hyperfine|மீப்பண்|
+hyperfine levels|மீப்பண் மட்டங்கள்|
+hyperglycemia|மிகைகுளுக்கோகுருதி|
+hyperlink|மீத்தொடுப்பு|
+hyperlipidemia|மிகைக்கொழுகுருதி|
+hypermetropia|எட்டப்பார்வை|
+hyperosmotic|மிகைச்சவ்வூடு|
+hyperparathyroidism|மிகையிணைத்தைராயிடு|
+hyperpigmentation|மிகைநிறமியாதல்|
+hyperploidy|மிகைமெய்யம்|
+hypersensitive|மிகைசாலுணர்|
+hypersensitivity|மிகைச்சாலுணர்வு|
+hyperspace|உயர்வெளி|
+hypertension|மிகைக் குருதியழுத்தம்|
+hypertext|மீயுரை|மீவுரை தவறு. இ ஈ ஐ வழி யவ்வும் - நன்னூல் 162
+Hypertext Markup Language (HTML)|மீகுமொ (மீயுரை குறியிடு மொழி)
+Hypertext Transfer Protocol (HTTP)|மீயுரை மாற்றல் விதிமுறை (மீமாவி)
+hyperthyroidism|மிகைத்தைராயிடு|
+hypertonic|மிகைச்சவ்வூடு|turgor pressure - வீப்பழுத்தம்
+hypertrophy|மிகைவளர்ச்சி|மெகலவளர்ச்சி - acromegaly; அதிவளர்ச்சி - gigantism
+hypervariable region|மிகைமாறு பகுதி|
+hyperventilation|மிகைமூச்சு|
+hypha|பூஞ்சையிழை|
+hyphen|இடைக்கோடு|
+hyphomicrobium|இழைநுண்ணுயிரி|
+hypnone|அறியுறக்கமூட்டி|
+hypnosis|அறியுறக்கம்|அறிவதற்காக உறக்கம்
+hypnospore|ஓய்வுவித்து|
+hypnotic|அறியுறக்க|
+hypobasal cell|கீழ்ப்புற முதலணு|
+hypocalcemea|கால்சியக்குறை|
+hypochlorite|கீழ்க்குளோரைட்டு|
+hypoclorous acid|கீழ்க்குளோரிச அமிலம்|
+hypocotyl|வித்திலைக் கீழ்த்தண்டு|
+hypocrateriform corolla|தட்டுவடிவ அல்லிவட்டம்|aka salver-shaped corolla
+hypodermis|அடித்தோல்|
+hypogeal|தரைக்கீழ்|
+hypoglycemia|குறைகுளுக்கோகுருதி|
+hypogynous|பெண்ணின்கீழிய|
+hypogyny|பெண்ணின்கீழ்|
+hypohydrophily|நீரடிச்சேர்க்கை|
+hypomelanosis|மெலனின்குறைவு|
+hyponasty|கீழ்ப்புறவளைவு|
+hyponychium|கீழானிக்கியம்|
+hypoosmotic|குறைச்சவ்வூடு|aka hypotonic
+hypoparathyroidism|குறையிணைத்தைராயிடு|
+hypophorous acid|கீழ்ப்பாசுவரச அமிலம்|
+hypophosphoric acid|கீழ்ப்பாசுவரிக அமிலம்|
+hypophysis|கீழ்வளர்வு|
+hypophysis|பிட்டூட்டரி சுரப்பி|
+hypopigmentation|குறைநிறமியாதல்|
+hypoploidy|குறைமெய்யம்|
+hypostatic|கீழ்நிலைம|
+hypotension|குறைக் குருதியழுத்தம்|
+hypothalamic releasing factor|சிறுதலமி வெளியீட்டுக் காரணி|
+hypothalamohypophyseal portal system|சிறுதலமி பிட்டூட்டரி நுழைவமைப்பு
+hypothalamus|சிறுதலமி|
+hypothesis|கருதுகோள் |
+hypothetical|கருதுகோளான|
+hypothyroidism|குறைத்தைராயிடு|
+hypotonic|குறைச்சவ்வூடு|aka hypoosmotic; turgor pressure - வீப்பழுத்தம்
+hypoventilation|குறைமூச்சு|
+hyracotherium|குதிரைமுன்பி|
+hysteresis|தயங்கியக்கம்|
+hysteresis loop|தயங்கியக்கக் கழல்|
+hysteresis loss|தயங்கியக்க இழப்பு|
+i/o devices|உள்வெளியீட்டுச் சாதனங்கள்|
+ibid (ibidem)|அங்கே|
+ibidem (ibid)|அங்கே|
+IBM |ஐபியெம்|
+ICANN (Internet Corporation for Assigned Names and Numbers)|ஐக்கான் (பெயர் மற்றும் எண் ஒப்படைப்புக்கான இணையக் கூட்டகம்)
+ICBN (International Code of Botanical Nomenclature)|தாபவி (தாவரவியல் பெயரிடுமுறையின் பன்னாட்டு விதிமுறை)
+ice|உறைபனி|
+ice cold|பனிக்குளிர்|
+ice sheet|பனித்தகடு|
+icecap|பனிக்கவிப்பு|
+ichthyology|மீனியல்|
+ichthyostega|மீன்கூரை|
+icon|குறும்படம்|
+iconoscope|படநோக்கி|
+icosane|இருபதவேன்|
+-idea|-தாவரிவை|
+ideal|நல்லியல்பு|
+ideal gas|நல்லியல்பு வளிமம்|
+identification keys|இனங்காணற் திறப்பிகள்|
+identifiers|இனங்காட்டிகள்|
+identify (for oneself)|இனங்காண்|
+identify (to someone else)|இனங்காட்டு|
+identity (math)|சமனி|
+identity axiom|சமனி அடிகோள்|
+identity function|சமனிச் சார்பு|
+identity operator|சமனிச் செயலி|
+ideology|குறிக்கொள்கை|
+idiogram|மரபுமெய்யவரைவு|aka karyogram
+idiom|சொல்வழக்கு|
+iduronic acid|இடுரானிக அமிலம்|
+if (…)|(…) எனில்|
+if and only if …|…எனிலும் எனில் மட்டுமேயும்|
+if statement|எனிற் கூற்று|
+IFSC (Indian Financial System Code)|இநிகு (இந்திய நிதியமைப்புக் குறி)
+Ig (immunoglobulin)|நோகோ (நோயெதிர்ப்புக்கோளப்புரதம்)
+IgA|நோகோவா|
+IgD|நோகோடி|
+IgE|நோகோவி|
+IgG|நோகோகா|
+IgM|நோகோம|
+igneous rock|தீப்பாறை|
+ignore all|எல்லாம் புறக்கணி|இரண்டாம் வேற்றுமைத்தொகை
+ignore once|ஒருமுறை புறக்கணி|
+ignorecase|எழுத்துயர் புறக்கணி|
+ileocaecal junction|குடல்களிடைச் சந்தி|
+ileocaecal valve|குடல்களிடைத் தடுக்கிதழ்|
+ileum|பின்சிறுகுடல்|
+iliac artery|அடிவயிற்றுத் தமனி|
+iliacus|அடிவயிற்றுத் தசை|
+illiteracy|படிப்பறிவின்மை|
+illuminance|ஒப்பு ஒளிப்பாயம்|
+illustrate|எடுத்துரை வி|
+illustration|எடுத்துரை பெ|
+image|நிழலுரு|
+image of a function|சார்பின் நிழலுரு|
+image processing|நிழலுரு அலசல்|
+imaginary number|கற்பனை எண்|
+imaging|நிழலுருத்தல்|
+imbedding|பதித்தல்|fixation - இருப்பித்தல்
+imbibant|அருந்தி|
+imbibition|அருந்தல்|
+imbibitional force|அருந்துவிசை|
+imbricate aestivation|தழுவு இதழடுக்கம்|
+IMF (International Monetary Fund)|பபநி (பன்னாட்டுப் பண நிதி)|
+imidazole|இமிடசோல்|
+imidazolyl|இமிடசோலிய|
+imide|இமைடு|
+imine|இமீன்|
+immediate|உடனடி|
+immediate annuity|உடனடி காலப்படி|
+immediate order|உடனடி வருகோள்|
+immersion water heater|மூழ்கு வெந்நீராக்கி|
+immigrate|குடியேறு|
+immobilization|அசைவுநீக்கல்|
+immobilize|அசைவுநீக்கு|
+immune complex|நோயெதிர்ப்புக் கூட்டுமம்|aka antigen-antibody complex
+immune response|நோயெதிர்ப்புப் பதில்வினை|
+immune system|நோயெதிர்ப்பமைப்பு|
+immunity (diplomacy)|வழக்குத்தடுப்பு|
+immunity (medicine)|நோயெதிர்ப்பு|vaccination - நோய்த்தடுப்பு
+immunization|நோயெதிர்ப்பூட்டல்|
+immunize|நோயெதிர்ப்பூட்டு|
+immunoadsorbent|நோயெதிர்ப்பு மேற்கவர்வி|
+immunocompetent|நோயெதிர்ப்புவல்ல|
+immunodeficiency|நோயெதிர்ப்புக்குறை|
+immunodepression|நோயெதிர்ப்புத் தாழ்வு|
+immunodiffusion|நோயெதிர்ப்பிவிரவல்|
+immunofluorescence|நோயெதிர்ப்பித்தானொளிர்வு|
+immunogen|நோயெதிர்ப்பாக்கி|
+immunogenic|நோயெதிர்ப்பாக்க|
+immunogenicity|நோயெதிர்ப்பாக்கம்|
+immunoglobulin (Ig)|நோயெதிர்ப்புக்கோளப்புரதம் (நோகோ)
+immunology|நோயெதிர்ப்பியல்|
+immunosorbent|நோயெதிர்ப்பு மேற்கவர்வி|
+immunosuppression|நோயெதிர்ப்புக் குறைப்பு|
+impact printing|தாக்கச்சல்|தட்டச்சல் - typing
+imparipinnate|இணைமலா இறகன|
+impedance|மறியம்|
+impedance triangle|மறிய முக்கோணம்|
+impeller|முன்னுந்தி|
+impermeable|புகவிடா|
+impetigo|சுற்றுநோய்|
+implant|உண்ணடவு|
+implicit function|உள்ளமை சார்பு|
+imply|உள்ளுரை|
+import|இறக்குமதி|
+importer|இறக்குமதியாளர்|
+impound|பட்டியடை|
+impregnate (biology)|கருவுறச்செய்|
+impregnate (engineering)|உட்செலுத்து|
+imprest|முன்பணம்|
+imprinting|முத்திரையிடல்|
+improper subset|தகா உட்கணம்|
+improved|மேம்பட்ட|
+impulse n|கணத்தாக்கம்|
+impulse v|கணத்தாக்கு|
+impulsively|கணத்தாக்கத்தால்|
+in lieu of|பதிலாக|
+in phase|இணைகட்ட|
+in presence of|முன்னிலையில்|
+in situ|இயல்பிட|
+in utero|கருவகத்தில்|
+in vitro|கண்ணாடியில்|
+in vitro fertilization|கண்ணாடியில் கருவுறுதல்|
+in vivo |இயற்சூழலில்|
+inability|இயலாமை|
+inactivate|செயலற்றதாக்கு|
+inactive|செயலற்ற|
+inadequate|போதகாத|
+-inae|-இங்கள்|
+inborn|பிறப்புவழி|
+inbreeding|உள்ளினவளர்ப்பு|
+incandescent|வெண்சுடர்|
+incapacity|இயலாமை|
+incarcerated hernia|தடைக் குடற்பிதுக்கம்|
+incentive|ஊக்கப்படி|
+incident angle|படுகோணம்|
+incident ray|படுகதிர்|
+incinerate|சாம்பலாக்கு|
+incineration|சாம்பலாக்கல்|
+incipient nucleus|துவக்க அணுக்கரு|
+incipient plasmolysis|துவக்க நீர்மச்சுருக்கம்|
+incisor|வெட்டுப்பல்|
+include (programming)|உள்ளெடு (நிரலாக்கம்)|
+inclusive disjunction|சேர்ப்புப் பிரிப்பு|
+inclusive method|சேர்ப்பு முறை|
+inclusive OR|சேர்ப்பு அல்லது|
+income|வருமானம்|revenue - வருவாய்
+income received in advanced|முன்பெற்ற வருமானம்|
+incompatibility|ஒவ்வாமை|
+incompatible|ஒவ்வுமையற்ற|
+incomplete dominance|முழுமையற்ற ஓங்கல்|
+incompressibility|அமுங்காமை|
+inconsistency|இயைபின்மை|
+inconsistent|இயைபற்ற|
+incorporation|கூட்டகமாக்கல்|
+increasing function|ஏறு சார்பு|
+increment|மிகுப்பு|
+incubation|அகவளர்ச்சி|
+incubation period|அகவளர்க் காலம்|
+incus|பட்டடையெலும்பு|
+indefinite integral|முற்றாத தொகையீடு|
+indefinite iteration|கட்டுப்பாடு மறுசுருள்|
+indemnify|ஈடுறுத்து|
+indemnity|ஈட்டுறுதி|guarantee - செயலுறுதி; warranty - பொறுப்புறுதி
+indemnity bond|ஈட்டுறுதி பிணையம்|
+indent  (trade)|இறக்கிடை|
+indent (text)|படியமிடு|
+indent house|இறக்குமதி இடையகம்|
+indentation|படியம்|
+indented key|படியத் திறப்பி|
+independent events|சாரா நிகழ்வுகள்|
+independent variable|சாரா மாறி|
+indeterminate|தீர்மானிக்கத்தகாத|
+index|சுட்டெண்|
+index number|சுட்டெண்ணளவி|
+indexing|சுட்டெண்ணிடுதல்|
+Indian|இந்திய|
+Indian Council of Agricultural Research|இந்திய வேளாண்மை ஆய்வு மன்றம்
+Indian Council of Medical Research|இந்திய மருத்துவ ஆய்வு மன்றம்|
+Indian Financial System Code (IFSC)|இந்திய நிதியமைப்புக் குறி (இநிகு)
+Indian national congress|இந்தியத் தேசியப் பேராயம்|
+Indian National Satellite System (INSAT)|இந்திய நாட்டுத் துணைக்கோள் அமைப்பு (இநாது)
+Indian Reference Man|இந்திய ஆண் ஆதி (உணவூட்டம்)
+Indian Reference Woman|இந்தியப் பெண் ஆதி (உணவூட்டம்)
+Indian Remote Sensing Satellite|இந்தியத் தொலையுணரிக்கோள்|
+Indian Standards Institute|இந்தியச் செந்தரப் பயிலகம்|
+indicative planning|சுட்டுத் திட்டமிடல்|
+indicator|காட்டி|
+indicator diagram |காட்டிப் படவரைவு|
+indicator organism|காட்டுமுயிரி|
+indifference|கருதாமை|
+indigenous|உள்ளூர்|
+indigenous bankers|உள்ளூர் வங்கியர்|
+indirect|மறைமுக|
+indistinguishable|பிரித்தறியத்தகாத|
+indium|இண்டியம்|
+indivisibility|பகுபடாமை|
+indole|இண்டோல்|
+indoor|அகமனை|
+Indore|இந்தூர்|
+induced catalyst|தூண்டிய வினையூக்கி|
+induced parthenogenesis|தூண்டிய கருவுறாப்பெருக்கம்|
+induction|தூண்டல் (இயற்பியல்)|
+induction effect|தூண்டல் விளைவு|
+inductive|தொகுத்தறி|deductive - பகுத்தறி
+inductive effect|தூண்டல் விளைவு|
+inductive reactance|தூண்டல் எதிர்வினையம்|
+industrial|தொழிலக |
+industrial bank|தொழிலக வங்கி|
+Industrial Credit and Investment Corporation of India|இந்தியத் தொழிலகக் கடன் மற்றும் முதலீட்டுக் கூட்டகம்
+Industrial Development Bank of India|இந்தியத் தொழிலக வளராக்க வங்கி
+Industrial Policy Resolution of 1956|தொழிலகக் கொள்விதி தீர்மானம், 1956
+industrialist|தொழிலகர்|
+industrialization|தொழில்மயமாதல்|
+Industries (Development and Regulation) Act 1951|தொழிலகங்கள் (வளராக்கமும் ஒழுங்கமைத்தலும்) சட்டம் 1951
+industry|தொழிலகம்|
+-ineae|-ஐகிள்|
+inefficiency|பயன்திறனின்மை|
+inelastic|இழுமையற்ற|
+inelastic collision|குறைமீட்சி மோதல்|
+inequality|சமமின்மை|
+inert gas|மந்த வளிமம்|
+inert pair effect|மந்த இணை விளைவு|
+inertia|நிலைமம்|
+inertia of large numbers|பேரெண்களின் நிலைமம்|
+inertial frame|நிலைமச் சட்டம்|
+inertial mass|நிலைம நிறை|rest mass - ஓய்வு நிறை
+inexhaustible resources|வற்றா வளங்கள்|
+infant|சிறுகுழந்தை|
+Infant Mortality Rate|சிறுகுழந்தை இறப்பு வீதம்|
+infarction|தசையிறப்பு|
+infect |கிருமித்தொற்று|
+infection|கிருமித்தொற்றல்|
+infection thread|கிருமியேற்ற இழை|
+infectious disease|கிருமியேற்ற நோய்|
+infective arthritis|கிருமியேற்ற மூட்டழற்சி|
+infective conjunctivitis|கிருமியேற்றக் கண்படலவழற்சி|
+infer|உய்த்துணர்|
+inferae|கீழ்ச்சூலகவின|
+inference|உய்த்துணர்வு|
+inferior frontal gyrus|கீழ் முன்பக்க மேடு|
+inferior frontal sulcus|கீழ் முன்பக்கப் பள்ளம்|
+inferior nasal koncha|கீழ்மூக்கெலும்பு|
+inferior vena cava|கீழ்ப்பெருஞ்சிரை|
+infinite|முடிவில்லா|
+infinite group|முடிவிலாக் குலம்|
+infinite sum|முடிவில்லாக் கூட்டல்|
+infinitely large|முடிவில்லாப் பெரும|infinitesimally small - சுழியெல்லைச் சிறும
+infinitesimal|சுழியெல்லை|
+infinitesimally slowly|சுழியெல்லை வேகத்துடன்|
+infinitesimally small|சுழியெல்லைச் சிறும|infinitely large - முடிவில்லாப் பெரும
+infinity|முடிவிலி|
+infix|இடையொட்டு|
+inflammable|தீப்பற்றத்தகு|aka flammable
+inflammation|அழற்சி|
+inflammatory barrier|அழற்சித் தட்டி|
+inflammatory response|அழற்சிப் பதில்வினை|
+inflation (commerce)|விலைவீக்கம்|
+inflection|நிலமமாற்றம்|
+inflorescence|மஞ்சரி|
+inflow|உட்பாய்வு|
+influence|செல்வாக்கு|
+influenza|சளிக்காய்ச்சல்|
+informal|சடங்கற்ற|
+informatics|தகவலியல்|
+information|தகவல்|
+information content|தகவலடக்கம்|
+information explosion|தகவல் வெடிப்பு|
+infrafamily|கீழ்க்குடும்பம்|
+infrahyoid|கீழ்நாவடி|
+infraorder|கீழ்முறைமை|
+infrared|அகச்சிவப்பு|
+infrasonic|அகவொலி|infrared - அகச்சிவப்பு
+infraspecies|கீழினம்|
+infrastructure|உட்கட்டமைப்பு|
+infundibuliform|புனல்வடிவ|
+infundibulum|புனலனையம்|
+ingestion|உட்கொள்ளல்|
+inguinal canal|கவட்டைக் கால்வாய்|
+inguinal node|கவட்டை நிணக்கணு|
+inguinial hernia|கவட்டைக் குடற்பிதுக்கம்|
+inhalation|உள்மூச்செடுத்தல்|
+inhale|உள்மூச்செடு|
+inherit |மரபுபெறு|
+inheritance|மரபுபெறல்|
+inhibition|மறிப்பு|
+inhibitor|மறிப்பி|
+Inidan Space Research Organization (ISRO)|இந்திய வெளியாய்வு ஒருங்கமைப்பு (இவெவொ)
+initial state|தொடக்க நிலை|
+initialize|தொடக்கிருத்து|
+initiation (rna)|துவங்கல் (அனரி)|
+injection|உள்ளேற்றல்|
+injection well|உள்ளேற்றக் கிணறு|
+injury|அடிக்காயம்|
+inkjet printer|மையுமிழ அச்சிடுவான்|உமிழம் - jet
+inlet|நுழைவாய்|
+inline|வரியுள்|
+in-migration|குடி உட்பெயர்ச்சி|
+innate|உள்ளியல்பு|
+inner core|அகவுள்ளகம்|
+inner ear|உட்செவி|
+inner join|உள்ளொட்டு|
+inner loop|உள் மடக்கு|
+inner membrane|உட்சவ்வு|
+inner product|உட்பெருக்கல்|
+inner transition element|உள் நிலைமாற்றத் தனிமம்|
+innervation|நரம்பூட்டம்|
+innominate artery|பெயரற்ற தமனி|
+innominate vein|பெயரற்ற சிரை|
+innovation|முனைமம்|polarity - முனையம்
+inoculate|உட்புகுத்து|
+inoculation|உட்புகுத்தல்|
+inorganic|கனிம|
+inosine|ஐனசீன்|
+inositol|இனாசிற்றால்|
+input n|உள்ளீடு|
+input v|உள்ளிடு|
+INSAT (Indian National Satellite System)|இநாது (இந்திய நாட்டுத் துணைக்கோள் அமைப்பு)
+insect|பூச்சி|
+insecta|பூச்சிகள்|
+insecticide|பூச்சிக்கொல்லி|
+insectivor|பூச்சியுண்ணி|
+insectivorous|பூச்சியுண்ணும்|
+insemination|விந்தேற்றம்|
+insert|செருகு|
+insert mode|செருகு நிலமம்|
+inserted stamens|உண்ணோக்கிய மகரந்தத்தாள்|
+insertion|செருகல்|தோன்றல் திரிதல் கெடுதல் விகாரம் - நன்னூல் 154
+insertion mutation|தோன்றல் விகாரம்|
+insertion point|செருகிடம்|
+insolvent|நொடிப்பு|
+inspect |பரிசீலி|
+inspection|பரிசீலனை|
+inspiration (respiration)|மூச்செடுத்தல்|
+install|நிறுவு (கணினியி்யல்)|
+instalment|தவணை|
+instantaneous velocity|உடனடித் திசைவேகம்|
+institute|பயிலகம்|
+institution |நிறுவனம்|
+institutional warehouse|நிறுவன இருப்பகம்|
+instruction|அறிவுறுத்தல்|
+instruction (computer) |நிரலம்|
+instrument (tool)|கருவி|
+instrumental error|கருவிப்பிழை|
+insulate|கடத்தற்காப்பிடு|
+insulation|கடத்தற்காப்பு|
+insulation cloth|கடத்தற்காப்புத் துணி|
+insulation material|கடத்தற்காப்புப் பொருள்|
+insulation paper|கடத்தற்காப்புத் தாள்|
+insulation resistance|கடத்தற்காப்புத் தடையம்|
+insulator|கடத்தற்காப்பி|conductor - கடத்தி
+insulin|இனுசுலின்|
+insulin dependent diabetes mellitus (IDDM)|முதல் வகை நீரிழிவு|aka type I diabetes
+insurable interest|காப்புறு தகைமை|
+insurance|காப்பீடு|
+insurance company|காப்பீடு நிறுமம்|
+insurance policy|காப்பீட்டிதழ்|
+insurance policy method|காப்பீட்டிதழ் முறை|
+insured person|காப்புறுபவர்|
+insured thing|காப்புறு பொருள்|
+insurer|காப்பிடுவர்|
+intangible|புலனாகா|
+integer|முழுவெண்|aka whole number
+integral|தொகையீட்டு |
+integral calculus|தொகையீட்டு நுண்கணிதம்|
+integral equation|தொகையீட்டுச் சமன்பாடு|
+integral part|முழுமைப் பகுதி|
+integral protein|உள்ளார்ந்த புரதம்|
+integrand|தொகையுறுவி|integrator - தொகையிடுவி
+integrate|தொகையிடு|
+integrated circuit|தொகை மின்சுற்று|
+integrated environment|தொகையீட்டுச் சூழல்|
+Integrated Rural Development Programme (IRDP)|கிராம வளராக்கத் தொகு திட்டம்|
+integrating factor|தொகையீட்டுக் காரணி|
+integration (math)|தொகையிடல்|
+integration constant|தொகையிடல் மாறிலி|
+integrator|தொகையிடுவி|integrand - தொகையுறுவி
+integument|இயலுறை|
+integumentary system|இயலுறை அமைப்பு|
+intellectual property|அறிவுசார் சொத்து|
+intellectual property protection|அறிவுசார் சொத்துக் காப்பு|
+intellectual property right|அறிவுசார் சொத்துரிமை|
+intelligence|அறிவாற்றல்|
+intensity|செறிவு|
+intensive care unit|முனைவு சிகிச்சைப் பிரிவு|
+intensive coronary care unit|இதய முனைவு சிகிச்சைப் பிரிவு|
+intensive property|அளவுசாராப் பண்பு|
+inter-|-இடை|
+interaction|இடைவினை|
+interactive multimedia|இடைவினை பல்லூடகம்|
+interband|இடைப்பட்டை|
+intercalary inflorescence|இடைமஞ்சரி|
+intercalary meristem|இடை ஆக்கத்திசு|
+intercept n|வெட்டுத்துண்டு|
+interchange|இடைமாறு|
+intercom|உட்பேசி|
+interconnection|இடையிணைப்பு|
+intercostal|விலாவிடை|
+intercourse|கலவி|aka coitus
+interdigitate|கைகோர்|
+interdigitating|கைகோர்க்கும்|
+interdisciplinary|துறையிடை|
+interest|ஆர்வம்|
+interest (finance)|வட்டி|
+interest rate|வட்டி வீதம்|
+interface|இடைமுகம்|
+interfacial angle|இடைமுகக் கோணம்|
+interference|குறுக்கீடு|
+interferon|குறுக்கிடுவி|
+interhalogen|உப்பாக்கியிடை|
+interlace|இடைப்பின்னு|
+interlaced|இடைப்பின்னிய|
+interleave|ஓலைச்செருகு|
+interleukin|நிணவணுதூண்டி (நிதூ)|
+interlock|இடைப்பூட்டு|
+intermediate|இடைநிலை|
+intermediate (in a chemical reaction)|இடைப்பொருள் (வேதி வினையில்)
+intermediate education|இடைநிலைக் கல்வி|
+intermediate host|இடைநிலை ஓம்புனர்|
+intermediate inheritance|இடைநிலை மரபுபெறல்|
+intermediate sight (surveying)|இடைநோக்கு (நிலமளப்பு)|
+intermittent|இடைவிட்ட|
+intermolecular|மூலக்கூறிடை|
+intern|அகவர்|
+internal|உள்ளார்ந்த|
+internal combustion engine|அகவெரிப் பொறி|
+internal energy|அகவாற்றல்|
+internal epithelial root sheath|மேற்சவ்வு உள்வேர் சூழுறை|
+internal iliac vein|உள்ளடிவயிற்றுச் சிரை|
+internal intercostal muscle|உள்ளார்ந்த விலாவிடைத் தசை|
+internal jugular vein|உட்டொண்டைச் சிரை|உள் + தொண்டைச் சிரை (தொல்காப்பியம் 150)
+internal memory|உள்ளார்ந்த நினைவகம்|
+internal trade|உள்நாட்டு வியாபாரம்|
+internal urinary sphincter|உள்ளார்ந்த சிறுநீர் இடுக்கி|
+international|பன்னாட்டு|
+International Code of Botanical Nomenclature (ICBN )|தாவரவியல் பெயரிடுமுறையின் பன்னாட்டு விதிமுறை (தாபவி)
+International Code of Zoological Nomenclature|விலங்கியல் பெயரிடுமுறையின் பன்னாட்டு விதிமுறை (விபவி)
+International Commission of Zoological Nomenclature|விலங்கியல் பெயரிடுமுறையின் பன்னாட்டு  ஆணையம்
+International Convention on Biological Diversity (CBD) |பன்னாட்டு உயிரியற் பன்மய மரபு (உபம)
+International Monetary Fund (IMF)|பன்னாட்டுப் பண நிதி (பபநி)|
+International Science Foundation|பன்னாட்டு அறிவியல் தளவகம் (பவத)
+international trade|பன்னாட்டு வியாபாரம்|
+International Union for Conservation of Nature and Natural Resources (IUCN)|பன்னாட்டு இயற்கை மற்றும் இயற்கை வளங்கள் அழிவுறாக்காத்தல் (உயிவ) ஒன்றியம்
+International Union of Pure and Applied Chemistry (IUPAC)|பன்னாட்டு தூய மற்றும் பயன்பாட்டு வேதியியலார் (பதூபவே) ஒன்றியம்
+internet|இணையம்|parity - இணைமம்; conjugation - இணைவம்
+internet advertising|இணைய விளம்பரம்|
+internet banking|இணைய வங்கியம்|
+Internet Corporation for Assigned Names and Numbers (ICANN)|பெயர் மற்றும் எண் ஒப்படைப்புக்கான இணையக் கூட்டகம் (ஈக்கான்)
+Internet Explorer|இணைய ஆய்வுலாவர்|
+internet protocol (IP)|இணைய விதிமுறை (இவி)|
+Internet Service Provider (ISP)|இணையச் சேவையளிப்போர் (இசேயர்)
+internet site|இணையத் தளம்|aka web site
+internode|கணுவிடை|
+internship|அகவர்மை|
+interphase|இடைக்கட்டம்|
+interpolation|இடைநிரப்பல்|
+interpret|பொருளுணர்|
+interpretation|பொருளுணர்வு|
+interpreter (computer)|நிரற்பெயர்ப்பி|
+interrupt n|தடக்கம்|
+interrupt v|தடக்கு|
+interrupted gene|தடங்கலுறு மரபணு|
+intersecting lines|வெட்டிக்கொள்ளும் கோடுகள்|
+intersection (set theory)|வெட்டு (கணம்)|
+intersex|இடைப்பாலினம்|
+interspecific|இனமிடை|
+interspecific competition|இனமிடைப் போட்டி|
+interstallar|விண்மீனிடை|
+interstitial|இடைப்படு|
+interstitial cell|இடைமுகவணு|aka Leydig cell
+interstitial cells stimulating hormone|இடைமுகவணு தூண்டுநீர்|
+interval|இடைநேரம்|
+interventricular|மூளையுள்ளறையிடை|
+interventricular foramen|மூளையுள்ளறையிடை பெருந்துளை
+intervertebral body|முள்ளெலும்பிடையுடல்|
+intestine|குடல்|
+intine|உள்வித்துறை|
+intoxicate|வெறி்யூட்டு|
+intra-|-உள்|
+intracellular|உயிரணுவுள்|
+intracristae space|முகடிடை வெளி|
+intrados|வளைவுள்|
+intramolecular|மூலக்கூறுள் |
+intranet|அகவிணையம்|
+intraocular|கண்ணுள்|
+intraocular pressure|கண்ணுள் அழுத்தம்|
+intraspecific|இனத்துள்|
+intraspecific competition|இனத்துள் போட்டி|
+intrauterine device|கருப்பையுட் சாதனம்|
+intrauterine system|கருப்பையுள் அமைப்பு|
+intravenous|சிரைவழி|
+intravenously|சிரைவழியாக|
+intrinsic|அகவார்ந்த|
+intrinsic muscle|உள்ளார்ந்த தசை|
+intrinsic protein|உள்ளார்ந்த புரதம்|
+introduction |அறிமுகம்|
+intron|வெளியன்|தூதனரியில் இல்லாமல் வெளியேற்றப்படுவதால்
+intrusion|உட்புகுதல்|invasion -வன்புகல்
+intuition|உள்ளுணர்வு|
+intussusception|உட்டிணிப்பு|உள் + திணிப்பு (தொல்காப்பியம் 150)
+invagination|உட்பிதுக்கம்|
+invasion|வன்புகுதல்|intrusion - உட்புகல்
+invasive|வன்புகு|
+invention|புனையம்|
+inventor|புனையர்|
+inventory|இருப்பெடுப்பு|
+inventory control|இருப்புக் கட்டுப்பாடு|
+inventory level|இருப்பளவு|
+inverse|புரட்டு பெ|
+inverse axiom|புரட்டு அடிகோள்|
+inverse proportion|புரட்டுவிகிதம்|
+inverse square law|புரட்டு வர்க்க விதி|
+inverse transformation|புரட்டுருமாற்றம்|
+inversion|புரட்டுதல்|
+inversion symmetry|புரட்டுச் சீரொருமை|
+inversion temperature|புரட்டு வெப்பநிலை|
+invert|புரட்டு வி|
+invert (plumbing)|பகரவடி|ப வடிவமுள்ள குழாயடி
+invertebrate|முதுகெலும்பற்றது|
+inverted arch|தலைகீழ் வளைவு|
+inverted triangle|கீழ்கவி முக்கோணம்|
+inverting amplifier|புரட்டு மிகைப்பி|
+investment|முதலீடு|capital - மூலதனம்
+investor|முதலிடுவோர்|
+inviability|பிழையாமை|
+invoice|விற்பனைச்சீட்டு|
+invoke|அழை|
+involucre|பாளைச்சுற்று|
+involuntary nervous system|தன்விருப்பமற்ற நரம்பமைப்பு|
+involve|ஈடுபடு|
+iodination|அயோடினேற்றம்|
+iodine|அயோடின்|
+iodo-|அயோடோ-|
+iodo-|ஐயோடோ-|
+ion|அயனி|
+ion exchange|அயனி இடைமாற்றம்|
+ion pump|அயனியேற்றி|
+ion-exchange chromatography|அயனியிடைமாற்ற நிறப்பிரிகை|
+ionic bond|அயனிப் பிணைப்பு|
+ionic product|அயனித்தொகை|
+ionic radius|அயனி ஆரம்|
+ionization|அயனியுறுதல்|
+ionization energy|அயனியுறு ஆற்றல்|
+ionization isomerism|அயனியாதல் மாற்றியம்|
+ionization potential|அயனியுறு ஆற்றநிலை|
+ionophore|அயனியேந்தி|
+ionosphere|அயனிக்கோளம்|
+iota|அயோற்றா|
+IP (internet protocol)|இவி (இணைய விதிமுறை)|
+iridium|இரிடியம்|
+iris|கண்நடுப்படலம்|
+iron|இரும்பு|
+iron box|தேய்ப்புப் பெட்டி|
+iron oxide|இரும்பு மூச்சியைடு|
+iron(II)|இரும்பு(II)|
+ironing|தேய்ப்பு|
+irradiation|கதிர்வீச்சு|
+irrational numbers|விகிதமுறா எண்கள்|
+irregular|சீர்மையற்ற|
+irregularity|சீர்மையின்மை|
+irreversible|மீள்திருப்பத்தகா|
+irrigation|நீர்ப்பாசனம்|
+ischium|இசுக்கியம்|
+isinglass|மீன்பசைக்கூழ்|
+islet|திட்டு|
+islets of Langerhans|கணையத் திட்டுகள்|aka pancreatic islets
+-ism|-இசம்|
+iso-|சம-|
+iso- (stereochemistry)|மாற்ற- (வெளியிட வேதியியல்)|
+isoagglutinin|இனப்பசையன்|
+isoantibody|சமநோயெதிர்ப்பி|
+isoantigen|சமநோயெதிர்ப்பூட்டி|
+isobar (nuclear)|சமநிறையன்|
+isobar (pressure)|சமவழுத்தக் கோடு|
+isobaric|சமவழுத்த|
+isobutane|மாற்றநான்கவேன்|
+isobutyl|மாற்றநான்கவைல்|
+isoceles triangle|இருசமபக்க முக்கோணம்|
+isochoric|சமப்பரும|
+isocost|சமவாக்கவிலை|
+isocyanide|கரிமவமீன்|aka carbylamine
+isoelectric point|சம மின்னமில நிலை|
+isoelectronic|எலட்டிரான் ஒத்தமைந்த|
+isoenzymes|மாற்ற ஊக்கிப்புரதங்கள்|
+isogamete|சமவினவணு|
+isogamy|சமச்சேர்க்கை|
+isograft|சமபதியம்|aka syngraft
+isohedral|சமமுகமான|
+isokont|சமக்கசையிளை|
+isolate|தனிப்படுத்து|
+isolated system|தனித்த அமைப்பு|
+isolation (by itself)|தனிமையாதல்|
+isolation (of something)|தனிமையாக்கல்|
+isolecithal egg|சமவுணவு முட்டை|
+isoleucine|மாற்றக் குருதியனின்|
+isomaltase|மாற்றமாவோசூக்கி|
+isomer |மாற்றியன்|
+isomerase|மாற்றியமூக்கி|convertase - மாற்றவூக்கி
+isomeric|மாற்றியமான|மாற்றிய would mean 'changed' or 'exchanged' in the general sense; here we want to use a specific technical word.
+isomerism|மாற்றியம்|
+isomerization|மாற்றியமாதல்|
+isometric contraction|சமநீளக் குறுக்கம்|
+isometric exercise|சமநீள உடற்பயிற்சி|
+isometry|சமவளவு|
+isomorphism|சமவுருவம்|
+isonitrile|மாற்றச்சயனலி|
+isopropane|மாற்றப்புரோப்பேன்|
+isopropyl|மாற்றப்புரோப்பைல்|
+isoquant|சமவளவு (பொருளியல்)|
+isothermal|சமவெப்ப|homoiothermic - ஒரேவெப்ப
+isotherms|சமவெப்பக்கோடுகள்|
+isotone|சமநிரான்|
+isotonic (osmotic)|சமச்சவ்வூடு|turgor pressure - வீப்பழுத்தம்
+isotonic contraction|சமவிறைப்புக் குறுக்கம்|
+isotope|சமவிடத்தான்|
+isotope exchange |சமவிடத்தான் இடைமாற்றம்|
+isotropic properties|சமதிசைப் பண்புகள்|
+isotropy|சமதிசைமை|
+isotype|சமவகை|
+ISP (Internet Service Provider)|இசேயர் (இணையச் சேவையளிப்போர்)
+ISRO (Indian Space Research Organization)|இவெவொ (இந்திய வெளியாய்வு ஒருங்கமைப்பு
+issued capital|வெளியிட்ட மூலதனம்|
+isthmus|நிலவிணைப்பு|
+italic|சாய்வன்|
+item|உருப்படி|
+iteration|மறுசுருள் பெ|
+iterative|மறுசுருள் பெ.அ|
+itinerant|நடமாடும்|
+itinerant trader|நடமாடும் வியாபாரி|
+-ium|-இயம்|
+IUPAC (International Union of Pure and Applied Chemistry)|பதூபவே (பன்னாட்டு தூய மற்றும் பயன்பாட்டு வேதியியலார்) ஒன்றியம்
+IUPAC convention|பதூபவே மரபேற்பு|
+IUPAC rules|பதூபவே விதிகள்|
+J. J. Thompson|ஜெ. ஜெ. தாம்சன்|
+James Chadwick|ஜேம்ஸ் சாட்விக்|
+janata dal|மக்கள் தளம்|
+janatha party|மக்கள் கட்சி|
+Janus green B|பி சேனப் பச்சை|
+jargon|குழுமொழி|
+jaundice|மஞ்சட்காமாலை|
+Java|சேவா|
+Jawahar Gram Samridhi Yojana (JGSY)|சவகர் கிராம வேலைவாய்ப்புத் திட்டம்
+jejunum|இடைச்சிறுகுடல்|
+jelling agent|களியாக்கி|
+jellyfish|இழுதுமீன்|
+Jersey (cattle)|செர்சி|
+jet|உமிழம்|தாரை - stream
+jet plane|உமிழ வானூர்தி|
+jet propulsion|உமிழுந்தல்|
+jewellery|நகை|
+jigsaw puzzle|திருகுவெட்டுப் புதிர்|
+jndigestion|செரியாமை|
+job|பணி|
+job scheduling|பணிகளைக் காலமுறையாக்கல்|
+job search|பணி தேடல்|
+job sequencing|பணி வரிசையாக்கல்|
+jobber|தன்வணியர்|
+jobs view|பணிகள் காட்சி|
+Jog falls|கெர்சப்பா நீர்வீழ்ச்சி|
+John|ஜான்|
+Johnson counter|சான்சன் எண்ணி|
+join (database)|ஒட்டு (தரவுத்தளம்)|
+joinery|சேர்ப்பியல்|
+joint|சேர்ப்பு|
+joint committee|கூட்டுச் செயற்குழு|
+joint family|கூட்டுக் குடும்பம்|
+joint family system|கூட்டுக் குடும்ப அமைப்பு|
+joint life policy|கூட்டு ஆயுட் காப்பிதழ்|
+Joint Photographic Experts Group (JPEG)|ஒளிப்பட நிபுணர் இணைவுத் தொகுதி (ஒநிதொ)
+joint probability|கூட்டுச் சாத்தியக்கூறு|
+joint secretary|கூட்டுச் செயலர்|
+joint stock company|கூட்டுப் பங்கு நிறுமம்|
+joist|விட்டம் (கட்டுமானம்)|
+Joseph Dalton Hooker|ஜோசஃப் டால்ற்றன் ஹுக்கர்|
+Joseph Lister|ஜோஸஃப் லிஸ்டர்|
+joule|சூல்|
+Joule|ஜூல்|
+Joule's law|சூலின் விதி|
+Joule-Thomson effect|சூல் தாம்சனின் விளைவு|
+journal (accountancy)|சிற்றேடு|குறிப்பேடு - notebook
+journal (research)|ஆய்விதழ்|
+joystick|மகிழ்க்குச்சி|
+JPEG (Joint Photographic Experts Group)|ஒநிதொ (ஒளிப்பட நிபுணர் இணைவுத் தொகுதி)
+judge|நடுவர்|
+judgement sampling|நோக்கமுடைய மாதிரிக்கூறெடுப்பு|aka purposive sampling
+judicial magistrate|நீதித்துறை நீதிபதி|
+judicial review|நீதித்துறை மீள்பார்வை|
+judiciary|நீதித்துறை|
+jugular vein|தொண்டைச் சிரை|
+juice|சாறு|
+Julius Plucker|ஜூலியஸ் ப்ளக்கர்|
+jump (computer)|குதி (கணினி)|
+jumper|துள்ளுளி|
+junction|சந்தி|
+junior|இளநிலை|
+junk|கூளம்|
+Jupiter|வியாழன் (கோள்)|
+Jupiter|வியாழன் (கோள்)|
+Jurassic period|சுராசியக் காலம்|
+jurisdiction|அதிகார எல்லை|
+jurisprudence|சட்டத்தத்துவவியல்|
+justification|நேர்த்தியாக்கல்|
+justify|நேர்த்தியாக்கு|
+juxtamedullary nephron|முகுளருகு சிறுநீர்ப்பிரிப்பி|
+Kadaknath|கடக்குநாத்து|
+kala azar|கருநோய்|
+kangaroo|கங்காரு|
+Kangayam|காங்கேயம்|
+Kankrej|காங்கிரெச்சு|
+kaposis sarcoma|கப்போசியின் எலும்புப்புற்று|
+kappa|கப்பா|
+kappa light chain|காப்பா குறுங்கோர்வை|
+Karan swiss|கரன்சுவி|
+karyogamy|அணுக்கருச் சேர்க்கை|
+karyogram|மரபுமெய்யவரைவு|aka idiogram
+karyology|உயிரணுக்கருவியல்|nucleonics - அணுக்கருவியல்
+karyotheca|அணுக்கருச் சவ்வு|aka nuclear membrane
+karyotyping|மரபுமெய்யலசல்|
+katal|கறல்|
+Kathiawar|கத்தியவார்|
+Kekulé|கெக்குலே|
+Kell factor|கெல்லின் காரணி|
+kelp|கெலுப்பால்கா|
+Kelvin|கெல்வின்|
+Kelvin-Planck's statement|கெல்வின் பிளாங்கின் கூற்று|
+Kelvin's statement|கெல்வினின் கூற்று|
+Kennedy|கென்னடி|
+Kepler's law of period|கெப்பிளரின்  கால விதி|
+Kepler's laws|கெப்பிளரின் விதிகள்|
+keratan sulfate|கெரட்டான் கந்தகேட்டு|
+keratin|கரடு|
+keratinization|கரடாதல்|
+keratinocyte|கரடணு|
+keratitis|கண்ணழற்சி|
+keratomalacia|கண்நசிவு|
+kernel|விதையுள்|
+kerosene|மண்ணெண்ணெய்|petroleum - புவியெண்ணெய்
+keto-|கீற்றோ-|
+ketoconazole|கீற்றோக்கோனசோல்|
+ketogenesis|கீற்றோவாக்கம்|
+ketogenic|கீற்றோவாக்க|
+ketoheptose|கீற்றோவேழோசு|
+ketohexose|கீற்றோவாறோசு|
+ketone|கீற்றோன்|
+ketose|கீற்றோசு|
+ketosis|கீற்றோன்மிகைப்பு|
+ketotriose|கீற்றோமூன்றோசு|
+kettle|வெண்டி|
+key|திறப்பி|
+key industry|திறப்பித் தொழிலகம்|
+key value pair|திறப்பி மதிப்பு இணை|
+keyboard|விசைப்பலகை|
+keyboard shortcut|விசைப்பலகைக் குறுக்குவழி|
+Keynesian revolution|கீனசியப் புரட்சி|
+keypad|விசையடுக்கு|
+keyword|குறிச்சொல்|
+khapra beetle|காப்பிரா வண்டு|
+kidney|சிறுநீரகம்|
+kidney stone|சிறுநீர்க்கல்|
+kill|கொல்|
+kilo-|கிலோ-|
+kilobyte|கிலோவெணு|
+kinase|இயக்கவூக்கி|
+kinematics|அசைவியல்|
+kinetic energy|இயக்க ஆற்றல்|
+kinetic theory of gases|வளிமங்களின் இயக்கவியற் கோட்பாடு
+kinetics|விசையியல்|
+kinetin|இயக்கன்|
+kinetochore|இழுப்பிடம்|
+kinetochore|நகர்விடம்|
+kinetoplast|இயக்கக்குழைமம்|
+king closer|அரசன் மூடுகல்|
+king cobra|அரசப் பாம்பு|ராஜ நாகம் என்பதன் செந்தமிழாக்கம்
+king post|மையக்கால்|
+kipper|கருவாடு|
+Kipping|கிப்பிங்|
+Kirchoff's law|கிர்ச்சாப்பின் விதி|
+kissing gourami|முத்தமிடும் கொரமி|
+kit kat fuse|பீங்கான் காப்புருகி|
+kite|பட்டம்|
+Kjeldahl method|கியெல்டாலின் முறை|
+Klinefelter's syndrome|கிளைன்பெல்டரின் குறித்தொகுப்பு
+kludge|ஒப்பேற்றல்|
+knock knees|தடுக்கு முழங்கால்கள்|
+Knoevenagel|குனோவினாகிலின் வினை|
+knot|முடிச்சு|
+knotting (painting)|முடிச்சுநீக்கல்|
+know-how|அறிநுட்பம்|
+knowledge|அறிவு|
+knowledge base|அறிவுத் தளம்|
+knowledge representation|அறிவு நிற்பம்|
+Kolbe Schmidt reaction|கோல்பு சுமிட்டின் வினை|
+Kolbe's method|கோல்பின் முறை|
+Kolbe's reaction|கோல்பின் வினை|
+Kolliker|காலிக்கர்|
+Kreb's cycle|கிரெப்புச் சுழற்சி|
+krypton|கிரிட்டான்|
+Kupffer cell|குப்பரின் அணு|
+kurthia|குர்த்தியம்|
+Kurusowa|குருசோவா|
+kwashiorkar|குவாசியாகர்|
+kynurinine|கைனூரினைன்|
+L- (levorotatory)|இ- (இடத்திருப்பு)|
+La Nina current|பெண் நீரோட்டம்|
+label|குறிப்பி|
+labia majora|பேருதடு|
+labia minora|சிற்றுதடு|
+labor|உழைப்பு|
+labor union|உழைப்பாளர் ஒன்றியம்|
+labor union group policy|உழைப்பாளர் ஒன்றியக் குழு காப்பிதழ்
+laboratory|ஆய்வகம்|
+laborer|உழைப்பாளர்|
+labyrinth|வலைப்பாடு|
+lac|அரக்கு|
+lac insect|அரக்குப் பூச்சி|
+lacing course|உறுகல்லடுக்கு|
+laciniate petal|பிளவுற்ற இதழ்|
+lacrymal apparatus|கண்ணீர்ச் செங்கருவி|
+lacrymal bone|கண்ணீரெலும்பு|
+lacrymal canaliculus|கண்ணீர்ச் சிறுகால்வாய்|
+lacrymal gland|கண்ணீர்ச் சுரப்பி|aka tear gland
+lactam|பாலமைடு|
+lactase|பாலோசூக்கி|
+lactating|பால்சுரக்கும்|
+lactation|பால்சுரப்பு|
+lacteal|பாற்குழல்|
+lactic acid|பால் அமிலம்|
+lactiferous duct|பாற்சுரப்பு நாளம்|
+lactobacillus|பாற்குச்சியம்|
+lactoferrin|பாலிரும்புப்புரதம்|
+lactogenic hormone|பால்சுரப்புத் தூண்டுநீர்|aka prolactin hormone luteotropic hormone, luteotropin, and mammotropin
+lactone|பாலோன்|
+lactoperoxidase|பாலதிமூச்சியைடூக்கி|
+lactose|பாலோசு|
+lacunate collenchyma|இடை அடித்தோற்றிசு|
+lag phase|பின்தங்கு கட்டம்|
+lagging|பின்தங்கிய|
+lagging strand|பின்னோடு கிடையிழை|
+lagoon|கடலேரி|
+Lagrange's formula|இலகிராஞ்சியின் வாய்ப்பாடு|
+laissez faire|தன்விருப்ப வணிகம்|
+lake|ஏரி|pond - குளம்
+lakh|நூறாயிரம்|அறிவியலில் இலச்சமும் கோடியும் பயன்படுத்த வேண்டாம்.
+Lamarck|லமார்க்|
+lamarckism|இலமார்க்கிசம்|
+lambda|தாமிடா|
+lambda light chain|தாமிடா குறுங்கோர்வை|
+lame duck|முடவாத்து|
+lamella|மென்தட்டு|compact disc - குறுவட்டு
+lamellar collenchyma|அடுக்கு அடித்தோற்றிசு|
+lamellibranchia|இருவோடன்கள்|aka bivalvia
+lamina|மென்தாள்|
+laminar flow|தளநழுவுப் பாய்வு|
+laminaria|கடல் ஆல்கா|
+laminarian starch|கடல் ஆல்கத்தரசம்|
+laminated|மென்தாளிட்ட|
+laminated board|மென்தாளிட்ட பலகை|
+L-amino acid|இ-அமினோ அமிலம்|
+Lami's theorem|இலாமியின் தேற்றம்|
+lamp brush chromosome|தூரிகை மரபுமெய்யம்|
+lamp hole|விளக்குத்துளை|
+lampblack|விளக்குக் கரி|
+lamphoocystis|நீர்ப்பையம்|
+LAN (local area network)|குபவ (குறும்பரப்பு வலையம்)|
+lanceolate|ஈட்டிவடிவ|
+landfill|நிலநிரப்பு|
+landing|இறங்கிடம்|
+landscape|நிலப்படம்|portrait - முகப்படம்
+landslide|நிலச்சரிவு|
+lane|பாட்டை|
+lantern window|விளக்குச் சாளரம்|
+lanthanide|இலந்தனவன்ன|
+lanthanum|இலந்தனம்|
+lap winding|தாவுக் கண்டு|
+laparoscope|அடிவயிற்றுள்நோக்கி|
+laparoscopy|அடிவயிற்றுள்நோக்கல்|
+Laplace|லாப்பிளாசு|
+laptop|மடிக்கணினி|
+laptop computer|மடிக்கணினி|
+large capacity refrigerated centrifuge|அதிகொள்ளளவு குளிரூட்டிய சுழல்வீழ்த்தி
+large intestine|பெருங்குடல் தொகுதி|
+large scale|பெருமளவம்|
+large-scale integration (LSI)|பேரளவத் தொகையிடல் (பேதொ)
+larva|குடம்பி|
+larvae|குடம்பிகள்|
+larvivorous|குடம்பியுண்ணும்|
+laryngopharynx|குரலகத்தொண்டை|
+laryngoscopy|குரலக நோக்கல்|
+larynx|குரலகம்|
+laser|சீரொளி|
+laser printer|சீரொளி அச்சிடுவான்|
+laser pulse|சீரொளித் துடிப்பு|
+Lassaigne|லாசான்யா|
+last in first out (LIFO)|செருகு வரிசை|
+last survivorship policy|இறுதிப் பிழைப்பர் காப்பிதழ்|
+last-in-first-out|கடைபுகு முதல்விடு|
+latch|பிடிதாழ்|
+latency|சுணக்கம்|
+latent heat|மறையுறை வெப்பம்|
+latent infection|மறையுறை கிருமியேற்றம்|
+lateral|பக்கவாட்டு|transverse - குறுக்குவாட்டு
+lateral loop|பக்கக் கழல்|
+lateral meristem|பக்க ஆக்கத்திசு|
+lateral transport|பக்கவாட்டுக் கடத்தல்|
+lateral ventricle|பக்கவாட்டு மூளை உள்ளறை|
+lateralization|பக்கவாட்டாக்கம்|
+latissimus dorsi|அகன்ற முதுகுத்தசை|
+latitude|அகலநெகிழ்வு|
+latitude (geography)|குத்துக்கோணம்|
+latitudinal cleavage|குத்துக்கோணப் பிளவுறல்|
+lattice|அணிக்கட்டு|
+lattice energy|அணிக்கட்டு ஆற்றல்|
+lattismus|அகன்ற தசை|
+latus rectum|செங்குவிநாண்|
+Laue experiment|இலவாவின் சோதனை|
+launch|ஏவு|
+launch pad|ஏவுதளம்|
+launching station|ஏவுநிலையம்|
+lauric acid|இலாரிக அமிலம்|
+law|சட்டம் (விதிமுறை)|
+law agency|சட்ட முகமை|
+law of conservation of energy|ஆற்றல் அழிவின்மை விதி|
+law of diffusion|விரவல் விதி|
+law of diminishing marginal utility|பயன்கூறு வீதக் குறைவு விதி|
+law of dominance and recessiveness|ஓங்கல் ஒடுங்கல் விதி|
+law of equi-marginal utility|சமப் பயன்கூறு வீத விதி|
+law of independent assortment|சார்பற்ற வகையுறுதல் விதி|
+law of mass action|நிறைச் செயல் விதி|
+law of priority|முன்னுரிமை விதி|
+law of segregation|தனிப்பிரிதல் விதி|
+law of trichotomy|முப்பிரிப்பு விதி|
+Lawrence Bragg|லாரன்ஸ் பிரேக்|
+lawrencium|இலாரன்சியம்|
+laws of indices|அடுக்கு விதிகள்|
+laxative|மலமிளக்கி|
+layer|படலம்|stratum - அடுக்கம்
+layer (brick or tile)|இடுனர்|
+layered cisternae|தொட்டியப் படலங்கள்|
+layout|கிடைவிரி|
+LCD (liquid crystal display)|நீபகா (நீர்மப் படிகக் காட்சியம்)|
+LDL (low density lipoprotein)|தாகொபு (தாழடர்வு கொழுமியப்புரதம்)
+Le Chatelier's principle|சாட்டலியரின் கொள்கை|
+leaching|வெளுத்தல்|
+lead (chemistry)|ஈயம்|
+lead ochre|ஈயக்காவி|
+lead v|முன்னட|
+leader|முன்னடத்தி|
+leader line|முன்நடப்புக்கோடு|
+leading coefficient|முன்நடப்புக் கெழு|
+leading diagonal|முன்நடப்பு மூலைவிட்டம்|
+leading edge|முன்னடவிளிம்பு|
+leading strand|முன்நடப்புக் கிடையிழை|
+leaf|இலை|
+leaf base|இலையடி|
+leaf hooks|இலைக்கொக்கிகள்|
+leaf spines|இலைமுட்கள்|
+leaf tendrils|இலைப்பற்றிழை|epiphyllous - இலையொட்டிய
+leaflet|சிற்றிலை|little leaf diesease - இலைக்குறுக்க நோய்
+leaf-roll disease|இலைச்சுருள் நோய்|
+lean-to|சாய்ந்திரு|
+lease|குத்தகை|
+least common multiple|மீச்சிறு பொது மடங்கு|
+least integer function|மீச்சிறு முழுவெண் சார்பு|
+least significant bit|மீச்சிறு பொருளுமை இணு|
+least squares|மீச்சிறு வர்க்கங்கள்|
+least squares principle|மீச்சிறு வர்க்கக் கொள்கை|
+Leatheroid paper|இலித்தராயிடு தாள்|
+leaving group|விலகும் தொகுதி|
+Lebistes|கப்பிமீன்வகை|
+lecithin|முட்டைக்கொழு|
+lecithinase|முட்டைக்கொழுவூக்கி|
+Leclanche cell|இலக்கலாஞ்சியின் மின்கலம்|
+lectin|சர்க்கரையிணைவி|
+lecture|விரிவுரை|
+LED (light emitting diode)|ஒமிவா (ஒளியுமிழ் இருமின்வாய்)
+Lederer-Manasse reaction|இலடரர் மனாசியின் வினை|
+ledge|துடுப்பம்|
+ledged door|துடுப்பக் கதவு|
+ledger|பேரேடு|
+leech|அட்டை |
+Leeuwenhoek|லேவன்ஹூக்|
+left hand limit|இடப்பக்க எல்லை|
+left justify|இடது நேர்த்தியாக்கு|
+left-handed system|இடக்கை அமைப்பு|
+legal rational authority|சட்டக் காரணவழி அதிகாரம்|
+legend|குறிவிளக்கம்|
+Leghorn|இலெகார்ன்|
+legionella|படைநிமோவாக்கி|
+legionellaceae|படைநிமோவாக்கியனையன|
+legionnaires' disease|படைநிமோ|aka படையினர் நி்மோனியா
+legionnaires' disease|படையினர் நிமோனியா|aka படைநிமோ
+legislate|சட்டமியற்று|
+legislation|சட்டமியற்றல்|
+legislature|சட்டமன்றம்|
+legume|பருப்புவகை|
+Lehninger|லேனிங்கர்|
+Leibig's combustion method|நீபிக்கின் எரித்தல் முறை|
+leishman-donovan body|துணையடியவுடல்|aka amastigote
+leishmania|இலசுமனியம்|
+leishmanial form|இலசுமனிய வடிவம்|
+leishmaniasis|இலசுமனியநோய்|
+lemma (botany) |உமி|
+lemma (math)|துணைத்தேற்றம்|
+lemur|இலீமர்|
+lender|கடனீவோர்|
+length contraction|நீளக்குறுக்கம்|
+lengthening bar|நீட்சிப்பட்டை|
+Leningrad|இலெனின்கிராடு|
+lens|ஒளிவில்லை|
+lens equation|ஒளிவில்லை சமன்பாடு|
+lens fiber|ஒளிவில்லையிழை|
+lensmaker's equation|ஒளிவில்லையாளரின் சமன்பாடு|
+lentic|கிடைநீர்|marine - கடல்நீர்; lotic - ஓடுநீர்
+lenticle|பட்டைத்துளை|
+Lenz's law|இலென்சின் விதி|
+lepas|மட்டைய ஓட்டுச்சிப்பி|
+lepidoptera|செதிலிறக்கையன|
+leprosy|தொழுநோய்|
+leptomeninges|மூளைமெல்லுறை|
+leptomonas|சிறுதனியன்|
+lepton|வலியன்|
+leptospira|மெல்லியச்சுருளியம்|
+leptospiraceae|மெல்லியச்சுருளியனையன|
+leptotene stage|மெல்லிழை நிலை|
+leptothrix|நுண்முடியம்|
+lesion|நசிவு|
+less than|சிறியது|A < B என்பதை 'A சிறியது B சார்பில்' அல்லது 'A சிறியது B' என்று வாசிக்கலாம்.
+less than cumulative frequency table|மேல்வரம்பு திரட்டு அலைவெண் அட்டவணை
+less than or equal to|சிறியது அல்லது சமம்|A <= B என்பதை 'A சிறியது அல்லது சமம் B சார்பில்' அல்லது 'A சிறியது அல்லது சமம் B' என்று வாசிக்கலாம்.
+letter of credit|கடன் கடிதம்|
+leucine|குருதியனின்|
+leucocyte|வெள்ளையணு|
+leucoderma|வெளிர்தோல்|
+leucodopachrome|நிணவிநீபிநிறமி|
+leuconostoc|தெளியால்கம்|
+leucoplasts|நிறமிலாக்கணிகம்|
+leukemia|குருதிப்புற்று|
+leukocidin|வெள்ளையணுசிதைப்பி|
+levator anguli oris|உதடுயர்த்திச் சிறுதசை|
+levator labii superioris|உதடுயர்த்திப் பெருந்தசை|
+levator scapulae|தோளெலும்பு உயர்த்தி|
+level|மட்டம்|
+level line|மட்டக் கோடு|
+level of significance|பொருளுமை மட்டம்|
+level surface|மட்டத் தளம்|
+leveling (surveying)|மட்ட நிலமளப்பு|
+leveling staff|மட்டக் கம்பு|
+lever|நெம்புகோல்|
+lever handle|நெம்புப்பிடி|
+levororatory|இடத்திருப்பு|
+Lewis acid|நூயி அமிலம்|
+Lewis base|நூயிக் காரம்|
+Leydig cell|இடைமுகவணு|aka interstitial cell
+l'hopital rule|இலாப்பிற்றலின் விதி|
+liability|கடப்பாடு|பொறுப்பு - responsibility
+liability insurance|கடப்பாட்டுக் காப்பீடு|
+liane|பெருங்கொடி|
+liberalization policy|தாராளமயமாக்கல் கொள்விதி|
+liberty|தன்னுரிமை|
+license|உரிமம்|
+licensing|உரிமமளிப்பு|
+lichen|ஆல்கப்பூஞ்சை|
+Liebig|லீபிக்|
+life cycle|வாழ்க்கைச் சுழற்சி|
+life insurance|ஆயுட் காப்பீடு|
+Life Insurance Corporation of India|இந்திய ஆயுட் காப்பீட்டுக் கூட்டகம்
+lifeblood|உயிர்மூச்சு|
+lifestyle|வாழ்க்கை முறை|
+lifetime|வாழ்நாள்|
+LIFO (last in first out)|செருகு வரிசை|
+lift n|தூக்கி|
+lift v|தூக்கு|
+ligament|எலும்புநார்|
+ligand|தளையன்|
+ligase|தளையமூக்கி|aka synthetase
+ligation|தளையம்|
+light chain (protein)|குறுங்கோர்வை (புரதம்)|
+light emitting diode (LED)|ஒளியுமிழ் இருமின்வாய் (ஒமிவா)
+light intensity|ஒளிச்செறிவு|
+light pen|ஒளிப்பேனா|
+light scattering|ஒளிச்சிதறல்|
+light year|ஒளி ஆண்டு|
+lignified|கட்டையான|
+lignify|கட்டையாகு|
+lignin|கட்டையம்|
+lignoceric acid|மரமெழுகு அமிலம்|
+liguistics|மொழியியல்|
+ligulate|நாவடிவ|
+lily|அல்லி|petal - இதழ்
+lime water|சுண்ணாம்பு நீர்|
+limestone|சுண்ணாம்புக் கல்|
+limit dextrin|எல்லை தெக்கிரின்|
+limit of a function|சார்பின் எல்லை|
+limit of resolution|பகுதிறன் எல்லை|
+limit order|வரம்பு வருகோள்|
+limitation|செல்வரம்பு|
+limited|வரம்புள்ள|
+limited (company)|வரம்பம்|
+limited liability|வரம்புள்ள கடப்பாடு|
+limited payment policy|பகுதிச் செலுத்தக் காப்பிதழ்|
+limiter|வரம்பி|
+limits of integration|தொகையிடலின் எல்லைகள்|
+limpet|பாறைநத்தை|
+Linde's method|நிண்டேயின் முறை|
+line (communication)|தடம் (தகவற்றொடர்பு)|
+line (of a species)|வழி (இனத்தின்)|
+line and pin|கயிற்றாணி|
+line editing |வரித் தொகுப்பம்|
+line of action (of forces)|செயற்கோடு|
+line of force|விசைக்கோடு|
+line of latitude|குத்துக்கோணக்கோடு|
+line of longitude|கிடைக்கோணக்கோடு|
+line of nosing|மூக்கக்கோடு|
+line printer|வரி அச்சிடுவான்|
+line segment|நேர்க்கோட்டுத் துண்டு|
+line spacing|வரியிடை|
+line spectrum|வரி நிறமாலை|
+linear|நேரியல்|
+linear equations|நேரியற் சமன்பாடுகள்|
+linear polynomial|நேரிய பல்லுறுப்புக்கோவை|
+linear programming|நேரியத் திட்டமிடல்|
+liner (ship)|முறைவழிக் கப்பல்|
+Lineweaver - Burk equation|ஐன்வீவர்-பருக்கின் சமன்பாடு|
+Lineweaver, Hans|லைன்வீவர், ஹான்ஸ்|
+lingual tonsil|நாவடிநாத்தசை|
+linguist|மொழியியலாளர்|
+lining n|உட்படலம்|
+lining v|உட்படலமிடல்|
+link n|தொடுப்பு|இணை - pair; பிணை - bind
+linkage|தொடுப்பு|
+linkage isomerism|தொடுப்பு மாற்றியம்|
+linker|தொடுப்பி|
+linoleic acid|மெழுகிக அமிலம்|
+linolenic acid|மெழுகினிக அமிலம்|
+linoleum|மெழுகுப்பாய்|
+lint|கழிவிழை|
+lint screen|கழிவிழைத் திரை|
+lintel|நிலைவிட்டம்|
+Linux operating system|இலினசு செயற்பாடமைப்பு|
+lipase|கொழுமியமூக்கி|
+lipid|கொழுமியம்|
+lipid anchored protein|கொழுமியமொன்றிய புரதம்|
+lipid bilayer|கொழுமிய இருபடலம்|
+lipolysis|கொழுப்புச்சிதைவு|
+lipopolysaccharide|கொழுமியப் பலசர்க்கரைடு|
+lipoprotein|கொழுமியப் புரதம்|
+lipoproteinase|கொழுமியப் புரதமூக்கி|
+lipositol|பாசுவரக்கொழுமிய இனாசிற்றால்
+liposome|கொழுமியப்பை|
+lipovitellin|கொழுமியப் புரதலின்|
+liquation|நீர்மமாக்கல்|
+liquid|நீர்மம்|fluid - பாய்மம்
+liquid conductor|நீர்மக் கடத்தி|
+liquid crystal|நீர்மப் படிகம்|
+liquid crystal display (LCD)|நீர்மப் படிகக் காட்சியம் (நீபகா)|
+liquid ratio|நீர்மை விகிதம்|
+liquidity|நீர்மத்தன்மை|
+LISP (LISt Processing)|பட்டிசி (பட்டியல் அலசி)|
+list box|பட்டியல் பெட்டி|
+listeria|இலித்தரியங்கள்|
+listing|பட்டியலிடுதல்|
+liter|இலிட்டர்|
+literacy|படிப்பறிவு|
+literal|நிலையுரு|
+lithium|இலித்தியம்|
+lithocholic acid|7,12-இருமூச்சியநீக்கப்பித்த அமிலம்
+lithophyte|பாறைத்தாவரம்|
+lithosphere|பாறைக்கோளம்|
+lithotripsy|அதிரலைச் சிகிச்சை|aka shock wave therapy
+lithotroph|கனிமவுண்ணி|
+litmus|நிட்டுமசு|
+little leaf disease|இலைக்குறுக்க நோய்|leaflet - சிற்றிலை
+live broadcast|நேரடி அகற்பரப்பல்|
+liver|கல்லீரல்|
+liver fluke|கல்லீரல் புழு|
+livermorium|உலிவமோரியம்|
+livestock|கால்நடை|
+living|உயிருள்ள|
+living organism|வாழும் உயிரி|
+living room|வசிப்பறை|
+lizard|பல்லி|
+loader (computer)|சுமத்தி (கணினி)|
+loanable funds|கடன்தகு நிதி|
+lobe|மடல்|
+lobster|பெருநண்டு|
+lobule|சிறுமடல்|
+local alignment|தல நேரமைத்தல்|
+local anaesthetic|சிறப்பிட உணர்மறைப்பி|
+local area network (LAN)|குறும்பரப்பு வலையம் (குபவ)|
+local extremum|தல மீயளவம்|
+local variable|தல மாறி|
+localized chemical bonding|தலமடங்கிய வேதிப்பிணைப்பு|
+location|அமைவிடம்|
+lock rail|பூட்டுப்பலகை|
+locker|பூட்டி|
+locomotion|இடப்பெயர்ச்சி (விலங்கியல்)|
+locule (botany)|சிற்றிடம்|
+loculicidal|அறைப்பிரி|
+locus (genetics)|நியமவிடம்|
+locus (math)|இயங்குவரை|directrix - இயக்குவரை
+lodge|விடுதி|
+log|நிகழ்குறிப்பு|
+log phase|மடக்கைக் கட்டம்|
+logarithm|மடக்கை|loop - மடக்கு
+logging in|பதிகைபுகுதல்|
+logging out|பதிகைவிடல்|
+logic|ஏரணம்|
+logic circuit|ஏரண மின்சுற்று|
+logic converter|ஏரண மாற்றியமைப்பி|
+logic gate|ஏரண வாயில்|
+logic symbol|ஏரணக் குறியீடு|
+logical|ஏரண|
+logical AND|பூலிய உம்மை|
+logical operation|ஏரணச் செயலம்|
+logical operator|ஏரணச் செயலி|
+logical OR|பூலிய அல்லது|
+logical thinking|ஏரண எண்ணப்பாடு|
+login|பதிகைபுகு|
+logout|பதிகைவிடு|
+Lok Sabha|மக்களவை|
+loligo|இலாலிகோ|
+lomentum|தனியறைப் பிளவுக்கனி|
+lone pair|தனியிணை|
+long day plants|நீள்பகல் தாவரங்கள்|
+long division|நீள்வகுத்தல்|
+long nose plier|நீள்மூக்கு இடுக்கி|
+long term|நெடுங்கால|
+longissimus|நீள்முதுகுத்தசை|
+longitude|கிடைக்கோணம்|
+longitudinal|நெடுக்கு|
+longitudinal fissure|நெடுக்குப் பிளவு|
+longitudinal section|நெடுக்கு வெட்டு|
+longitudinal stress|நீட்சித்திரிபு|
+longitudinal vibration|நீளவாட்டு அதிர்வு|
+long-range order|தொலைவீச்சு முறைமை|
+longus muscle|நீண்ட தசை|
+longvarchar|நீள்மாறெழு|
+lookup table|நோக்கல் அட்டவணை|
+loop|கழல்|
+loop (computer)|மடக்கு|logarithm - மடக்கை
+loop of Henle|சிறுநீரகக் கழல்|
+loose-leaf|விடுதாள்|
+lophotrichous|கற்றைக் கசையிழை|
+Lorentz force|இலாரன்சின் விசை|
+lorry|சரக்குந்து|aka truck
+loss|இழப்பு|profit - பெறுமம்
+lossless|இழப்பிலா|
+lossless compression|இழப்பிலா அமுக்கம்|
+lossy|இழப்புடை|
+lossy compression|இழப்புடை அமுக்கம்|
+lotic|ஓடுநீர்|marine - கடல்நீர்; lentic - கிடைநீர்
+lottery method|குலுக்கல் முறை|
+loudness|ஒலியளவு|
+Louis Pasteur|லூயி பாஸ்சர்|
+louse|பேன்|
+louver|சாய்விதழ்|
+louvered door|சாய்விதழ்க் கதவு|
+louvered window|சாய்விதழ்ச் சாளரம்|
+low density lipoprotein (LDL)|தாழடர்வு கொழுமியப்புரதம் (தாகொபு)
+low level language|தாழ்நிலை மொழி|
+low noise block (LNB)|குறையோசைக் கட்டி|
+low tide|தாழ் ஈர்ப்பலை|
+lower bound|கீழ்வரம்பு|
+lower respiratory tract|மூச்சுக்கீழ்ச்சுவடு|
+lowercase|கீழெழுத்து|
+lowering of vapor pressure|ஆவி அழுத்தக் குறைவு|
+L-selectin|வெள்ளையணு தேர்விணைவி|
+LSI (large-scale integration)|பேதொ (பேரளவத் தொகையிடல்)
+lub dub|தம் திம்|
+lubricant|உயவி|
+lubricate|உயவாக்கு|
+Luc Montagnier|லூக் மான்றான்யே|
+lumbar|கீழ்முதுகு|
+lumbar enlargement|கீழ்முதுகுப் புடைப்பு|
+lumbar plexus|கீழ்முதுகு நரம்புப்பின்னல்|
+lumbar region|கீழ்முதுகுப் பகுதி|
+lumber|தடிமரம்|
+lumen (biology)|குழலுள்|
+lumen (optics)|யூமன்|
+lump sum |கட்டித் தொகை|
+lung|நுரையீரல்|
+lung capillary|நுரையீரல் நுண்குழல்|
+lung carcinoma|நுரையீரல் புற்று|
+lunula|பிறைவடி|
+luteal phase|மஞ்சள்மெய்யக் கட்டம்|
+luteinizing hormone|மஞ்சள்மெய்யாக்க இயக்குநீர்|
+luteotropic hormone|பால்சுரப்புத் தூண்டுநீர்|aka prolactic hormone, luteotropin, lactogenic hormone, and mammotropin
+luteotropin|பால்சுரப்புத் தூண்டுநீர்|aka prolactin hormone, luteotropic hormone, lactogenic hormone, and mammotropin
+lutetium|நுடீசியம்|
+lux|யூசு|
+luxury|சொகுசு|
+lyase|இரட்டைப்பிணைப்பூக்கி|
+Lyman series|இலைமனின் தொடர்|
+lyme disease|இலைமநோய்|
+lymph|நிணநீர்மம்|
+lymph node|நிணநீர்க் கணு|
+lymphadenopathy|நிணச்சுரப்பியவதி|நிணச்சுரப்பி + அவதி
+lymphatic circulation|நிணநீர்ச் சுற்றோட்டம்|
+lymphatic system|நிணநீரமைப்பு|
+lymphatic vessel|நிணநீர்க்குழல்|
+lympho venous portal|நிணநீர்ச் சிரை நுழைவம்|
+lymphoblast|நிணவணுப்பிளவி|
+lymphocyte|நிணவணு|
+lymphoepithelial|நிணமேற்சவ்வு|
+lymphogranuloma|நிணத்திசுக்கட்டி|
+lymphoid|நிணவனைய|
+lymphoid cell|நிணவனையவணு|
+lymphoid progenitor|நிணவுண்டாக்கி|
+lymphoid tissue|நிணவனையத் திசு|
+lymphokine|நிணவணுவியக்கி|
+lymphoma|நிணப்புற்று|
+lymphopenia|நிணக்குறை|
+lyophilic|கரைப்பான்விருப்ப|
+lyophilization|கரைப்பான்விருப்பமாக்கல்|
+lyophobic|கரைப்பான்வெறுப்ப|
+lysine|பகுத்தனின்|
+lysis|பகுத்தல்|
+lyso-|பகு-|
+lysogenic bacterium|உடன்பெருக்கப் பாட்டீரியம்|
+lysogenic convertion|உடன்பெருக்க மாற்றம்|
+lysogenic cycle|உடன்பெருகல் சுழற்சி|
+lysogeny|உடன்பெருகல்|
+lysolecithin|பகுமுட்டைக்கொழு|
+lysosome|பகுமெய்யம்|
+lysozyme|பகுவூக்கி|
+lytic cycle|பகுத்தல் சுழற்சி|
+Maastricht Treaty|மாச்சரீட்டு உடன்படிக்கை|
+macadam|மக்காடம்|
+machine|எந்திரம்|
+machinist|எந்திரவோட்டுனர்|mechanic - எந்திரப் பணியாளர்
+mackerel|கானாங்கெளுத்தி|
+macro elements|பேரளவுத் தனிமங்கள்|
+macrocystis|மிதவை ஆல்கா|
+macroeconomics|பெரும்பொருளியல்|
+macrogamete|பேரினவணு|
+macroglia|பெரும்பசையணு|
+macrolecithal egg|பேருணவு முட்டை|
+macrolide|பெருஞ்சுழலோன்|
+macrolide ring|பெருஞ்சுழலோன் வளையம்|
+macromolecular|பெருமூலக்கூறு|
+macromonas|நுண்ணலகியம்|
+macrophage|பேருண்ணி|
+macrophage monocyte|பேருண்ணி ஒற்றையணு|
+macropolitics|பேரரசியல்|
+macrosclereid|குச்சிக் கடினத்திசு|
+macroscopic|பேரளவு|
+mad cow disease|ஆநோய்|
+maelstrom|பெருஞ்சுழல்|
+magazine|சஞ்சிகை|
+magistrate|நீதிபதி|
+magma|பாறைக்குழம்பு|
+magnesia|மகனீசியா|
+magnesium|மகனீசியம்|மக்னீசியம் மெய்மயக்க விதியை மீறும் - தொல்காப்பியம் 30
+magnet|காந்தம்|
+magnetic anisotropy|காந்தப்புல சமதிசையாமை|
+magnetic declination|காந்த ஒதுக்கம்|
+magnetic field|காந்தப்புலம்|
+magnetic induction|காந்தத் தூண்டல்|
+magnetic ink character recognition (MICR)|காந்த மை வரியுரு உணர்தல் (காமைவவு)
+magnetic moment |காந்தத் திருப்புதிறன்|
+magnetic pole|காந்த முனை|
+magnetic reader|காந்தப் படிப்பி|
+magnetic resonance|காந்த ஒத்ததிர்வு|
+magnetic resonance imaging (MRI)|காந்த ஒத்ததிர்வுப் படமாக்கல் (காதப)
+magnetic tape|காந்த நாடா|
+magnetic tape reader|காந்த நாடா படிப்பி|
+magnetism|காந்தத்தன்மை|
+magnetism (study of)|காந்தவியல்|
+magnetometer|காந்தளவி|
+magnetomotive force|காந்தவியக்க விசை|
+magnification|உருப்பெருக்கம்|
+magnitude|எண்ணளவு|
+Maharastra|மகராட்டியம்|
+mail order business|அஞ்சல்வழிச் செயன்மை|
+mailing list|அஞ்சற் பட்டியல்|
+main chain|முதன்மைக் கோர்வை|
+main component|முதன்மையகவை|
+main group elements|முதன்மை தொகுதித் தனிமங்கள்|
+main memory|முதன்மை நினைவகம்|aka primary memory
+main switch|முதன்மை மாற்றி|
+mainframe computer|சட்டக் கணினி|
+maintain|பேணு|
+maintained oscillation|தாங்கிய அலைவு|
+maintenance|பேணுதல்|
+major (person)|முதுவர்|
+major axis|நெட்டச்சு|
+major calyces|பெருங்கோப்பையங்கள்|
+major histocompatibility complex (MHC)|பெரும் தசையொவ்வுமை கூட்டுமம் (பெதகூ)
+major histocompatibility protein|பெரும் தசையொவ்வுமை புரதம்|
+major muscle|பெருந்தசை|
+malachite|மாலக்கி|
+malachite green|மாலக்கிப் பச்சை|
+malacophily|நத்தைச்சேர்க்கை|
+malacopoda|மென்காலிகள்|aka onychophora
+malaria|மலேரியா|
+malarial fever|மலேரியக் காய்ச்சல்|
+malassezia|தோலுமியாக்கி|formerly pityrosporium
+malassezia furfur|தோலுமித் தோலுமியாக்கி|
+malathion|மாலத்தையான்|
+male sterility|ஆண்மலடு|
+maleic acid|மெலியிக அமிலம்|
+maleic anhydride|மெலியிக நீரிலி|
+malfunction|பிறழ்ச்செயல்|
+malic acid|மாலிக அமிலம்|
+malignant|தீங்கிழை|
+malignant tertian malaria|தீங்கிழை மலேரியா|aka pernicious malaria
+malignant tumor|தீங்கிழைக் கழலை|
+mallet|மரச் சுத்தியல்|
+malleus|சுத்தியலெலும்பு|
+malnutrition|ஊட்டப்பற்றாக்குறை|
+malonic acid|மலோனிக அமிலம்|
+malonyl CoA|மலோனைல் துணையூக்கிப்புரதம்
+Malpighian capsule|மால்ப்பிகப் பெட்டகம்|
+malpractice|தீந்தொழிலாற்றல்|
+maltase|மாவோசூக்கி|
+Malthus|மால்தஸ்|
+maltose|மாவோசு|
+malvaceae|பருத்தியனையன|
+mamillary|காம்பனைய|
+mammal|பாலூட்டி|
+mammalia|பாலூட்டிகள்|
+mammary gland|பாற்சுரப்பி|
+mammotropin|பால்சுரப்புத் தூண்டுநீர்|aka prolactin hormone luteotropic hormone, luteotropin, and lactogenic hormone
+man|மனிதன்|
+manage|மேலாள்|
+management|மேலாண்மை|
+manager|மேலாளர்|
+managing director|மேலாண்மை இயக்குனர்|
+mandamus|செயலுறுத்தம்|
+mandatory|கட்டாயமான|
+mandible|தாடையெலும்பு|
+manganate|மாங்கனேட்டு|
+manganese|மாங்கனீசு|
+manganic acid|மாங்கனிக அமிலம்|
+mangetic inclination|காந்தச் சரிவு|
+manhole|சேவைத்துளை|
+manifold|பன்மடியம்|
+manipulate|கையூடாள்|
+manipulation|கையூடாள்தல்|
+manned|ஆளுள்ள|
+mannitol|மானிற்றால்|
+mannose|மானோசு|
+manpower|மனிதத்திறன்|
+mantissa|மடக்கைக்கூறு|
+mantle|கவசம்|
+manual operation|கைமயச் செயலம்|
+manual process|கைமய வழிமுறை|
+manufacture |உற்பத்தி |
+manufacture industry|உற்பத்தித் தொழிலகம்|
+map (geography)|தரைப்படம்|
+map (mathematics)|இணைபடம்|graph - வரைபடம்
+mapper|தரைப்படமாக்கி|
+mapping (geography)|தரைப்படமாக்கல்|
+mapping (mathematics)|இணைபடமாக்கல்|
+marasmus|மராசுமம்|
+marble|பளிங்குக்கல்|
+Marcello Malpighi|மார்ஸெல்லா மால்ப்பீகி|
+margin|ஓரம்|
+marginal cost|ஆக்கவிலைவீதம்|
+marginal placentation|ஓரச் சூலொட்டுமுறை|
+marginal productivity|உற்பத்திவீதம்|
+marginal productivity of capital|மூலதனத்தின் உற்பத்திவீதம்|
+marginal productivity of labor|உழைப்பின் உற்பத்திவீதம்|
+marginal revolution|குறும்படிப் புரட்சி|
+marginal utility|பயன்கூறு வீதம்|
+marginate|ஓரமிடு|
+mariculture|கடல்வளர்ப்பு|
+marine|கடல்நீர்|lentic - கிடைநீர்; lotic - ஓடுநீர்
+marine insurance|கடல் காப்பீடு|
+market economy|சந்தைப் பொருளாதாரம்|
+marketing|சந்தையிடல்|
+Mars|செவ்வாய் (கோள்)|
+Mars|செவ்வாய் (கோள்)|
+marsh|சதுப்பு|
+marshy land|சதுப்பு நிலம்|
+marsupialia|கன்றுப்பையன|
+marsupium|கன்றுப்பை|
+Marxism|மார்க்கிசம்|
+marxist party|மார்க்கிசக் கட்சி|
+Mary Curie|மேரி கியூரி|
+maser|சீர்நுண்ணொளி|
+mask n|மறைப்பி|
+mask v |மறைப்பிடு|
+masking agent|மறைப்புக் காரணி|
+mason|கொத்தனார்|
+mason square|கொத்தனார்ச் சட்டம்|
+masonry|கற்கட்டு|
+mass (aggregation)|திரள்|
+mass (weight)|நிறை|
+mass consumption|பெருமக்கள் நுகர்வு|
+mass extinction|கூட்ட மறைவுமை|
+mass flow|நிறைப் பாய்வு|
+mass number|நிறை எண்|
+mass produce|பெருமளவில் உற்பத்தி செய்|
+mass production|பெருமளவு உற்பத்தி|
+mass spectrography|நிறை நிறமாலையியல்|
+mass storage|பெருஞ்சேமகம்|
+masseter |மெல்லுதசை|
+mast|பாய்மரம்|
+mast cell|வளர்ப்பூட்டணு|
+master clear|முற்றழி|
+master clock|முதன்மைக் கடிகாரம்|
+master page|தலைமைப் பக்கம்|
+master slave system|முதன்மி அடிமை அமைப்பு|
+masticatory muscle|மென்றரைத்தல் தசை|
+mastigomycotina|சாட்டைப்பூஞ்சின|
+mastigophora|சாட்டையன்|
+mastitis|மடியழற்சி|
+masturbation|கையின்பம்|
+mat|பாய்|
+match|பொருத்து|
+material|பொருண்மம்|
+material fact|தொடர்புள்ள தகவல்|
+materiality|தொடர்புடமை|
+maternal|தாய்மைய|
+maternal mortality ratio|தாயிறப்பு விகிதம்|
+mathematical induction|கணிதத் தூண்டல்|
+mathematician|கணிதர்|
+matriarchal theory|தாய்வழிக் கோட்பாடு|
+matric|நனைபரப்பு|
+matric potential|நனைபரப்பு ஆற்றநிலை|
+matrix|தளவணி|
+matrix (cell nucleus)|அடையணி|
+matrix space|தளவணி வெளி|
+matrix space (cell nucleus)|அணியிடை வெளி|
+matter|பருப்பொருள்|
+matter waves|பருப்பொருள் அலைகள்|
+maturation|முதிர்ச்சியடைதல்|
+mature adj|முதிர்ச்சியடைந்த|
+mature v|முதிர்ச்சியடை|
+maturity|முதிர்ச்சி|
+max|பெரும|
+Max Planck|மாக்ஸ் ப்ளாங்க்|
+maxilla|மேல் தாடையெலும்பு|
+maximax|பெரும்பெருமம்|
+maximize (GUI)|பெரிதாக்கு (பபவி)|
+maximum|மீப்பெருமம்|
+maxmin|பெருஞ்சிறுமம்|
+maxterm|திட்டக் கூட்டலுறுப்பு|aka standard sum term
+Maxwell|மேக்ஸ்வெல்|
+Maxwell law|மேக்குவலின் விதி|சரியான ஆங்கில உச்சரிப்பின் மிக அருகான மேக்ஸ்வெல் என்பதன் தமிழியலாக்கம்
+McCarthy|மக்கார்த்தி|
+meadow|பசுநிலம்|
+mean value theorem|இடைமதிப்புத் தேற்றம்|
+meaning|பொருள் (மொழியியல்)|
+means and ends|வழிவளமும் விளைகோளும்|
+measles|தட்டம்மை|
+measurable|அளக்கக்கூடிய|
+measurements|அளவைகள்|
+meatus|துளையம்|boring - துளைப்பு
+mechanic|எந்திரப்பணியாளர்|machinist - எந்திரவோட்டுநர்
+mechanical energy|எந்திரவியல் ஆற்றல்|
+mechanical engineering|எந்திரப் பொறியியல்|
+mechanical isolation|எந்திரவியத் தனிமையாதல்|
+mechanical strength|எந்திரவியல் வலிமை|
+mechanical work|எந்திரவியல் வேலை|
+mechanics|எந்திரவியல்|
+mechanism|இயங்குமுறை|
+Medawar|மெடவார்|
+median|நடுவிடம்|
+median cleft|நடுப்பிளவு|
+median of a triangle|முக்கோணத்தின் நடுக்கோடு|
+mediastinum|இடையிடம்|
+medical insurance|மருத்துவக் காப்பீடு|
+medicinal chemistry|மருந்து வேதியியல்|
+medicinal plant|மருத்துவத் தாவரம்|
+medicine |மருந்து|
+medicine (the field of)|மருத்துவம்|
+meditation|தியானம்|
+mediterranean sea|மத்தியதரைக் கடல்|
+medium|ஊடகம்|
+medulla|ஊன்|
+medulla|முகுளம்|
+medulla oblongata|முகுளம்|
+medullary cavity|முகுளக் குழி|
+medullary pyramid|சிறுநீரக நாற்கூம்பு|
+medullary rays|முகுளக் கதிர்கள்|
+medullated|மயலின் உறையிடப்பட்ட|
+medusa|மெடூசா|
+meeting|கூட்டம் (சந்திப்பு)|
+mega-|மெகா-|
+megabyte|மெகாவெணு|
+megalecithal egg|மிகையுணவு முட்டை|
+meganephridium|பெருங்கழிவுக்குழல்|
+megascolex|பெரும்புழுத்தலை|
+megasphaera|பெருமணியங்கள்|
+megasporangium|பெருவித்துப்பை|
+megaspore|பெருவித்து|
+megasporophyll|பெருவித்திலை|
+Megger|மெக்கர்|
+megger|மெக்களவி|
+Meibomian gland|மெய்போமியச் சுரப்பி|
+meiosis|குன்றற் பிரிவு|
+meiospore|குன்றற்பிரிவித்து|
+meitnerium|மெயினரியம்|
+melanic acid|மெலனிக அமிலம்|
+melanin|மெலனின்|
+melanocyte|நிறமியணு|
+melanoma|நிறமிப்புற்று|
+melting point|உருகுநிலை|
+member|உறுப்பினர்|
+membrana granulosa|முட்டையகப்பைச் சவ்வு|
+membrane|சவ்வு|
+membrane attack complex (MAC)|சவ்வு தாக்கக் கூட்டுமம் (சதாகூ)|
+membranous urethra|சவ்வியச் சிறுநீர்ப்புறவழி|
+memorandum|நினைக்குறிப்பு|
+memory|நினைவகம்|
+memory address|நினைவக முகவரி|
+memory engram|நினைவு வரைவம்|aka memory trace
+memory management|நினைவக மேலாண்மை|
+memory trace|நினைவு வரைவம்|aka memory engram
+memory unit|நினைவக அலகு|
+menaquinone|கே-2 வைட்டமின்|
+Mendeleev's periodic table|மெஞ்சலீவின் ஆவர்த்தன அட்டவணை
+mendelevium|மெஞ்சலீவியம்|
+mendelian|மெண்டலியர்|
+Mendelian population|மெண்டலிய இனத்தொகை|
+mendelism|மெண்டலிசம்|
+Mendel's laws|மெண்டலின் விதிகள்|
+meninges|மூளையுறைகள்|
+meningitis|மூளையுறை அழற்சி|
+meningococcus|மூளையுறைமணியம்|
+meningoencephalitis|மூளையுமுறையுமழற்சி|
+menstrual cycle|மாதவிடாய்ச் சுழற்சி|
+menstruation|மாதவிடாய்|
+mentalis|மோவாய்த் தசை|
+Menten, Maud Leonora|மென்றன், மாட் லியனோரா|
+menu|பட்டி|
+menu bar|பட்டிப் பட்டை|
+menu driven|பட்டியோட்ட|
+mercantile agent|வணிக முகவர்|
+mercantilism|வணிகவிசம்|
+mercaptan|கந்தகால்|aka thiol
+merchandise|விற்பொருள்|
+merchandise salesperson|விற்பொருள் விற்பனையாளர்|
+merchant middleman|விற்பனை இடைமனிதர்|
+mercury|பாதரசம்|
+Mercury|புதன்|
+Mercury|புதன் (கோள்)|
+merge|ஒன்றுசேர்|
+merhyl red|மீத்தைல் சிவப்பு|
+meridian|குத்துவட்டம்|
+meridional cleavage|குத்துவட்டப் பிளவுறல்|
+meristele|மெரிக்கம்பம்|
+meristem |ஆக்கத்திசு|aka meristematic tissue
+meristematic tissue|ஆக்கத்திசு|aka meristem
+meristematic zone|ஆக்கத்திசுப் பகுதி|
+meroblastic cleavage|குறைமைப் பிளவுறல்|
+merocrine gland|பகுதிச் சுரப்பி|
+merozoite|வளருயிரி|
+mesangial cell|மெசாஞ்சியப் பேருண்ணி|
+mesangium|மெசாஞ்சியம்|
+mesencephalon|நடுமூளை|aka midbrain
+mesenchyma|இடைக்கூழ்த்திசு|
+mesenteric|குடற்றாங்கி|
+mesenteric artery|குடற்றாங்கி தமனி|
+mesentery|இடைப்படலம்|
+mesh connection|கண்ணி இணைப்பு|
+mesh network|கண்ணி வலையம் |
+mesilylene|மெசிற்றலீன்|
+mesityl oxide|மெசிற்றைல் மூச்சியைடு|
+meso-|இடைய-|
+mesoblast|இடைமுளையம்|
+mesocapr|கனிநடுத்தோல்|
+mesoderm|இடைத்தோல்|
+mesogamy|உறைவழிச்சேர்க்கை|
+mesolecithal egg|மிதவுணவு முட்டை|
+meson|மீசன்|
+mesonephric|இடைச்சிறுநீர|
+mesonephros|இடைச்சிறுநீரம்|
+mesophyll|இலையிடைத்திசு|
+mesophyte|இடைவாழ்தாவரம்|
+mesosome|நடுமம்|
+mesosphere|இடைக்கோளம்|
+mesosporium|நடுவித்தகம்|
+mesoxalic acid|இடையாச்சாலிக அமிலம்|
+Mesozoic era|மைய ஊழி|
+message|தூதுரை|செய்தி - news
+messaging service|தூதுரை சேவை|செய்திச் சேவை - news service
+messaging system|தூதுரையமைப்பு|
+messenger RNA|தூதனரி|
+meta-|மேலமை-|
+meta- (chemistry)|இடைய- (வேதியியல்)|
+meta directing (chemistry)|இடைய வழிநடத்தி|
+meta tag|மேலமைத் தொங்கி|
+metabolic arthritis|வளர்சிதைமாற்ற மூட்டழற்சி|
+metabolic intermediate|வளர்சிதைமாற்ற இடைப்பொருள்
+metabolism|வளர்சிதைமாற்றம்|
+metabolite|வளர்சிதைமாறி|
+metacarpel|உள்ளங்கையெலும்பு|
+metacentric|கடைமைய|
+metacentric|நடுமைய|
+metadata|மேலமைத்தரவு|
+metafemale|மிகைப்பெண்|aka poly X female
+metal|உலோகம்|
+metal oxide semiconductor (MOS)|உலோக மூச்சியைடு குறைகட்டத்தி (உமூகு)
+metal oxide semiconductor field effect transistor (MOSFET) |உலோக மூச்சியைடு குறைகட்டத்தி கள விளைவு மாற்றடையன் (கவிமா)
+metal sheet|உலோகத் தகடு|
+metalloids|உலோகவனையங்கள்|
+metalloprotein|உலோகப்புரதம்|
+metallurgy|உலோகவியல்|
+metamere|நீள்துண்டம்|
+metameric segmentation|நீள்துண்டமாக்கல்|
+metamerism (chemistry)|பகுதிமாற்றியம்|
+metamerism (zoology)|பகுதியடுக்கம்|
+metamorphic rock|வளருருமாற்றப் பாறை|
+metamorphosis|வளருருமாற்றம்|
+metanephric|கடைச்சிறுநீர |
+metanephros|கடைச்சிறுநீரம்|
+metaphase I|முதல் இடைக் கட்டம்|
+metaphase II|இரண்டாம் இடைக் கட்டம்|
+metaphosphoric acid|மேற்பாசுவரிக அமிலம்|
+metastability|குறைநிலைப்பு|
+metastasis|உட்பரவல்|
+metatarsal|உள்ளங்காலெலும்பு|
+metatheria|புறப்பையன|
+metaxylem|பின்கட்டைத்திசு|
+metazoa|விலங்குலகம்|
+metazoonosis|மேல்விலங்கின்வருநோய்|
+meteor|எரிவிண்கல்|
+meteorite|விழுவிண்கல்|
+meteorites|விண்கற்கள்|
+meteoroid|விண்வெளிக்கல்|
+meteorology|வானிலையியல்|
+meter|மீட்டர்|
+meth- (methane)|மீத்து- (மீத்தேன்)|
+methane|மீத்தேன்|
+methanobacteriaaceae|மீத்தேனோபாட்டீரியனையன|
+methanobacteriales|மீத்தேனோபாட்டீரியைகள்|
+methanobacterium|மீத்தனோபாட்டீரியம்|
+methanobacterium|மீத்தேனோபாட்டீரியம்|
+methanococcaceae|மீத்தேனோமணியனையன|
+methanococcales|மீத்தேனோமணியைகள்|
+methanococcus|மீத்தேனோமணியம்|
+methanogenic|மீத்தேனாக்க|
+methanogenic archeobacteria|மீத்தேனாக்கத் தொல்பாட்டீரியம்|
+methanogenium|மீத்தேனாக்கியம்|
+methanol|மீத்தனால்|
+methanomicobiaceae|மீத்தேனோநுண்பாட்டீரியனையன
+methanomicrobiales|மீத்தேனோநுண்பாட்டீரியைகள்|
+methanomicrobium|மீத்தேனோநுண்பாட்டீரியம்|
+methanosarcinaceae|மீத்தேனோபொதியனையன|
+methanothermaceae|மீத்தேனாக்கவெப்பவிரும்பியனையன
+methanothermus|மீத்தேனாக்கவெப்பவிரும்பி|
+methenobrevibacter|மீத்தேனோசுருக்கப்பாட்டீரியம்|
+methionine|மீத்தயனின்|
+method|முறை|
+methodology|முறையியல்|
+methoxy|மீத்தமூச்சிய|
+methyl|மீத்தைல்|
+methyl orange|மீத்தைல் ஆரஞ்சு|
+methylene|மெத்திலீன்|
+methylene blue|மெத்திலீன் நீலம்|
+methylococcaceae|மீத்தைல்மணியனையன|
+methylococcus|மீத்தைல்மணியம்|
+methylomonas|மீத்தைலலகியம்|
+metre bridge|மீட்டர் பாலம்|
+metric system|மெட்டிரிக அமைப்பு|மெட்ரிக் தவறு; ட தன்னுடன் தானே மயங்கும்; வல்லின ஒற்றுக்கள் மொழியீற்றில் வாரா.
+metrical characters|அளவிடு பண்புகள்|
+metropolitan area network|நகர்ப்பரப்பு வலையம்|
+METSAT|வானிலையாய்கோள்|
+mevalonic acid|மெவலானிக அமிலம்|
+Meyerhof|மேயர்ஹாஃப்|
+Meyer's relation|மேயரின் உறவு|
+mica|மைக்கா|
+micanite|மெந்தாமைக்கா|மென்தாளிட்ட மைக்கா
+micelle|மிசல்|
+Michaelis -Menten equation|மிசேலமென்றனின் சமன்பாடு|
+Michalis, Leonor|மிசயீலஸ், லியோனார்|
+Michelson's method|மைக்கல்சனின் முறை|
+miconazole|மைக்கனசோல்|
+miconazole cream|மைக்கானசால் பூச்சு|
+MICR (magnetic ink character recognition )|காமைவவு (காந்த மை வரியுரு உணர்தல்)
+micro-|நுண்-|
+micro-|மைக்குரோ-|
+microbacterium|நுண்பாட்டீரியம்|
+microbe|நுண்ணியிரி|
+microbial culture|நுண்ணுயிரி வளர்த்தல்|
+microbiology|நுண்ணியிரியல்|
+microbiostasis|நுண்ணுயிர்நிலைபெறல்|
+microcapillary|அதிநுண்குழல்|
+microchondrial matrix|ஆற்றலாக்கியணி|
+micrococcaceae|நுண்மணியனையன|
+micrococcus|நுண்மணியம்|
+microcomputer|நுண்கணினி|
+microcrystal|நுண்படிகம்|
+microcystis|நுண்மையம்|
+microeconomics|நுண்பொருளியல்|
+microfilament|நுண்சிற்றிழை|
+microform|நுண்வடிவம்|
+microgamete|நுண்ணினவணு|
+microglia|நுண்பசையணு|
+microglial cell|நுண்பசையப் பேருண்ணி|
+microinjection|நுண்ணுள்ளேற்றல்|
+microlecithal egg|குற்றுணவு முட்டை|
+micron|நுண்மன்|
+micronephridium|நுண்கழிவுக்குழல்|
+micronutrients|நுண்ணூட்டங்கள்|
+microparticle|நுண்துகள்|corpuscle - தனித்துகள்
+microphone|நுண்ணொலியன்|
+micropipette|நுண்குழலளவி|
+micropolitics|நுண்ணரசியல்|
+microprocessor|நுண்ணலசி|
+micropropagation|நுண்பெருக்கம்|
+micropyle|விதைத்துளை|
+microscope|நுண்ணோக்கி|
+microscopic|நுண்ணளவு|
+microscopy|நுண்ணோக்கவியல்|
+Microsoft|மைக்குரோசாட்டு|
+Microsoft Access|மைக்குரோசாட்டு அக்கசு|
+Microsoft Excel|மைக்குரோசாட்டு எக்குசல்|
+Microsoft Word|மைக்குரோசாட்டு வேர்டு|
+microsome|நுண்மெய்யம்|
+microsporangium|நுண்வித்துப்பை|
+microspore|நுண்வித்து|
+microsporophyll|நுண்வித்திலை|
+microtome|நுண்வெட்டி|
+microtubule|நுண்குழலம்|
+microvillus|நுண்விரலி|
+microwave|நுண்ணலை|
+microwave oven|நுண்ணலை கணப்பு|
+mid brain|நடுப்பக்க மூளை |
+midbrain|நடுமூளை|aka mesencephalon
+middle|நடு|
+middle ear|நடுச்செவி|aka tympanum
+middle frontal gyrus|நடு முன்பக்க மேடு|
+middle lamella|நடு மென்தட்டு|
+middleman|இடைமனிதர்|
+MIDI (Musical Instrument Digital Interface)|இகவெயி (இசைக் கருவி எண்ணியல் இடைமுகம்)
+midpoint|நடுப்புள்ளி|
+midrange|நடுவொலிப்பி|
+midrib|நடுநரம்பு|
+migration|குடிப்பெயர்ச்சி|
+milch cow|பால்மாடு|
+milestone|படிக்கல்|
+milieu interior|உட்சூழல்|
+milk of lime|சுண்ணாம்புப் பசை|
+Milky Way|பால்வீதி|
+Miller index|மில்லரின் எண்|
+milli-|மில்லி-|
+Millikan|மில்லிக்கன்|
+Millikan's oil drop experiment|மில்லிக்கனின் எண்ணெய்த் துளி பரிசோதனை
+million|இருமடியாயிரம்|
+million instructions per second (MIPS)|நொடிக்கு --- இருமடியாயிரம் நிரலங்கள் (நொவிநி)
+millipede|ஆயிரங்காலி|
+Millon's test|மில்லனின் சோதனை|
+min|சிறும|
+mine v|சுரங்கு|
+mineral|கனிமம்|ore - தாது
+mineral oil|கனிம எண்ணெய்|
+mineralocorticoid|கனிமப்புரணித்திரலனையம்|
+minicomputer|சிறுகணினி|
+mini-drafter|சிறுவரைவுப்பொறி|
+minimax|சிறும்பெருமம்|
+minimize (GUI)|சிறிதாக்கு (பபவி)|
+minimum|மீச்சிறுமம்|
+minimum sum of products|பெருக்கல்களின் குறுகிய கூட்டல்
+mining|சுரங்கியம்|
+minor (person)|இளவர்|
+minor axis|குற்றச்சு|
+minor calyces|சிறுகோப்பையங்கள்|
+minor determinant|சிற்றணிக்கோவை|
+minor muscle|சிறுதசை|
+minterm|திட்டப் பெருக்கலுறுப்பு|aka standard product term
+minute (angle)|கலை (கோணம்)|
+minute (time)|மணித்துளி|
+minutes (of meetings)|செயற்குறிப்பு|
+MIPS (million instructions per second)|நொவிநி (நொடிக்கு --- இருமடியாயிரம் நிரலங்கள்)
+mirror|ஆடி|
+mirror image|ஆடி நிழலுறு|
+mirroring|ஆடியளித்தல்|
+misalignment|நேரமையாமை|
+misandry|ஆண்வெறுப்பு|
+miscellaneous|பலவகைப்பட்ட|
+miscible|கலக்கக்கூடிய|
+misconduct|ஒழுக்கக்கேடு|
+misogyny|பெண்வெறுப்பு|
+missile|ஏவுகணை|
+mission|திட்டநோக்கம்|
+missionary salesperson|திட்டநோக்க விற்பனையாளர்|
+mist|மூடுபனி|
+mistake|தவறுதல்|
+miter|சாய்மடிப்பு|
+mitered closer|சாய்மடிப்பு மூடுகல்|
+mitigation|இடர்குறைத்தல்|
+mitochondrion|ஆற்றலாக்கி|
+mitosis|இழையுருப்பிரிவு|
+mitotic spindle|பிரிவுக் கதிராணி|
+mitral valve|இருகுமிழ் தடுக்கிதழ்|aka bicuspid valve
+mixed ether|கலப்பு ஈத்தர்|
+mixed hearing loss|கலப்புச் செவிக் குறைபாடு|
+mixed inflorescence|கலப்பு மஞ்சரி|
+mixed spadix|கலப்பு மடற்கூர்முனை|
+mixer|கலப்பி|
+mks (meter kilogram second)|மீகிநொ (மீட்டர் கிலோகிராம் நொடி)
+mnemonic|நினைவுத்துணை|
+mobasic acid|ஒற்றைக் காரத்துவ அமிலம்|
+mobile|அசையும்|
+mobile phone|கைப்பேசி|
+mobility|அசைவுமை|
+mobilization|அசைவாக்கல்|animation -  அசைவூட்டல்
+mobilize|அசைவாக்கு|
+mobius strip|மோபியசுப் பட்டை|
+modal window|நிலமச் சாளரம்|
+mode|நிலமம்|
+model|ஒப்புரு|sample - மாதிரிக்கூறு
+modeling |ஒப்புருவாக்கம்|
+modem|இணக்கி|
+moderately hydraulic lime|நடுத்தர நீர்த்த சுண்ணாம்பு|
+moderator (nuclear reaction)|மிதமாக்கி (அணுக்கரு வினை)|
+modern|இக்கால|
+modernization|இக்காலமயமாக்கல்|
+modification|மாற்றமைவு|
+modify|மாற்றியமை|
+modifying genes|மாற்றமை மரபணுக்கள்|
+modular|பகுதிம|
+modularity|பகுதிமம்|
+modulation|இணக்கேற்றம்|
+modulation factor|இணக்கேற்றக் காரணி|
+modulation index|இணக்கேற்றச் சுட்டெண்|
+modulator|இணக்கேற்றி|
+module|மாற்றலகு|
+modulo operation|மட்டுச் செயலம்|
+modulus (complex number)|மட்டு|
+modulus (division)|வகுமீதி|
+modulus (strength of solids)|குணகம்|
+moiety|பகுதி (வேதியியல்)|
+moist vapor theory|ஈர ஆவி கோட்பாடு|
+moisture|ஈரப்பதம்|humidity - நீர்ப்பதம்
+molal depression constant|மோலிலத் தாழ்வு மாறிலி|
+molal elevation constant|மோலில உயர்வு மாறிலி|
+molality|மோலிலம்|
+molar (anatomy)|கடைவாய்ப் பல்|
+molar (chemistry)|மோலிர|
+molar mass|மோலிர நிறை|
+molar volume|மோலிரப் பருமன்|
+molarity|மோலிரம்|
+molasses|கரும்புப்பாகு|
+mold|வார்ப்புரு|
+mold (fungus)|பூசணம்|
+molding|கடைதல் (தச்சு)|
+molding|வார்ப்பெடுத்தல்|
+mole |மோல்|
+mole fraction|மோல் விகிதம்|
+molecular beam|மூலக்கூறு கற்றை|
+molecular biology|மூலக்கூறு உயிரியல்|
+molecular weight|மூலக்கூறு எடை|
+molecularity|மூலக்கூறு எண்|
+molecule|மூலக்கூறு|
+Molisch test|மாலிசுச் சோதனை|
+mollusca|மெல்லுடலிகள்|
+mollusk|மெல்லுடலி|
+molybdenum|மாலித்தினம்|
+moment|திருப்புதிறன்|திருப்புத்திறன் தவறு; வினைத்தொகையில் வல்லினம் மிகாது.
+moment of force|விசையின் திருப்புதிறன்|
+moment of inertia|நிலைமத் திருப்புதிறன்|
+momentum|உந்தம்|
+monad|ஒருவி|
+monadelphous stamens|ஒருகற்றை மகரந்தத்தாள்கள்|
+monadic|ஒற்றைய|
+monarchy|முடியாட்சி|
+monazite|மோனசைட்டு|
+Mond process|மாண்டு வழிமுறை|
+Monday|திங்கட்கிழமை|
+monera|மொனிரன்கள்|
+monetary|பண|
+monetary policy|பணக்கொள்விதி|
+monitor|கண்காணி|
+monitor (computer)|காண்திரை|
+monkey|குரங்கு|
+mono-|ஒற்றை-|
+monoacidic base|ஒற்றை அமிலத்துவ காரம்|
+monoatomic|ஒற்றையணு (வேதியியல்)|
+monocarboxylic acid|ஒற்றைக் கரிமமிலம்|
+monocarpellary|ஒற்றைச்சூலிலை|
+monochasium|ஒற்றைப்பிரிவன்|
+monochlamydeae|ஓருறையங்கள்|
+monochlamydeous|ஓருறைய|
+monochrome|ஒற்றைநிற|
+monoclinic|ஒற்றைச்சரிவு|
+monoclonal|ஒற்றைக்குளோன்|
+monoclonal antibiotic|ஒற்றைக்குளோன் உயிரியெதிர்ப்பி
+monoclonal antibody|ஒற்றைக்குளோன் நோயெதிர்ப்பி|
+monocot|ஒற்றை விதையிலை|
+monocotyledonae|ஒருவிதையிலையன|
+monocyte|ஒற்றையணு|
+monoecious|ஓரிடத்து|
+monoglyceride|ஒற்றைக்கிளிசரைடு|
+monograph|தனியுரை|
+monohybrid|ஒற்றைக்கலப்பினம்|
+monohydric|ஒற்றை நீர்மூச்சிய|
+monohydroxy alcohol|ஒற்றைநீர்மூச்சிய ஆல்ககால்|
+monoid|குலவனையம்|
+monolayer|ஒற்றைப் படலம்|
+monolithic|ஒற்றைக்கட்டு|
+monomer|ஒருமம்|
+monomial (expression)|ஓருறுப்புக்கோவை|
+mononucleate|ஒற்றைக்கருவின|
+mononucleotide|ஓரணுக்கருவைடு|
+monoploidy|ஒற்றைமரபெண்|
+monopolize|தனியாதிக்கமாக்கு|
+monopoly|தனியாதிக்கம்|
+monosaccharide|ஒற்றைச்சர்க்கரைடு|
+monostable|ஒற்றை நிலைப்பான|
+monosubstituted|ஒற்றைப் பதிலீட்டு|
+monothecous stamen|ஒருமடல் மகரந்தத்தாள்|
+monotone|ஒற்றைச்சுரம்|
+monotonic|ஒற்றைச்சுர|
+monotremata|ஒற்றைக்கழியன|aka prototheria
+monotrichous|ஒற்றைக் கசையிழை|
+mons pubis|பூப்பெலும்பு மேடு|
+Monte Carlo method|சூதாட்ட முறை|
+Montreal|மாந்திரியால்|
+Montreal Protocol|மாந்திரியால் விதிமுறை|
+moon|நிலா|
+moral|அறமுறை|
+mordant|கடிப்பி (சாயமிடல்)|
+more than cumulative frequency table|கீழ்வரம்பு திரட்டு அலைவெண் அட்டவணை
+morel|மோரல்|
+Morner's test|மோனரின் சோதனை|
+morph|மாற்றுரு|
+Morpheus|கனவியன்|கிரேக்கப் புராணத்தில் கனவுக் கடவுள்
+morphine|கனவியம்|
+morphing|மாற்றுருவாதல்|
+morphogenesis|புறத்தோற்றமாக்கம்|
+morphological character|உருவியல் பண்பு|
+morphology|உருவியல்|வடிவியல் - geometry
+mortar|கல்வம்|
+mortar and pestle|கல்வமும் குழைவியும்|
+mortgage|அடமானம்|
+mortise lock|குழிப்பூட்டு|
+morula|கருக்கோளமுன்பி|
+MOS (metal oxide semiconductor)|உமூகு (உலோக மூச்சியைடு குறைகட்டத்தி)
+mosaic|வடிவடுக்கு|
+mosaic tile|வடிவடுக்கு ஓடு|
+Moseley|மோஸ்லீ|
+MOSFET (metal oxide semiconductor field effect transistor) |கவிமா (உலோக மூச்சியைடு குறைகட்டத்தி கள விளைவு மாற்றடையன்)
+mosquito|கொசு|
+moss|பாசி|
+moss stage|பாசி நிலை|
+most significant bit|மீப்பொருளுமை இணு|
+moth|விட்டிற்பூச்சி|
+motherboard|தாய்ப்பலகை|
+motility|இயங்குமை|
+motive|குறிநோக்கு|
+motor|உந்துவி|எந்திரம் - machine; முடுக்கி - accelerator
+motor areas|உந்துவிப் பகுதிகள்|
+motor skills|உந்துவத் திறமை|
+motor vehicle insurance|உந்துவண்டிக் காப்பீடு|
+mottle|வண்ணப்புள்ளி|
+mounting (onto something)|ஏறுதல்|
+mounting (something)|ஏற்றுதல்|
+mounting of specimen|மாதிரியனேற்றல்|
+mouse|சுட்டெலி|don't misspell it as சுண்டெலி; pointer - சுட்டி
+mouse pad|சுட்டெலித் தளம்|
+mouse pointer|சுட்டெலிச் சுட்டி|
+mouth to mouth resuscitation|வாய்க்கு வாய் மீட்டெழுப்பல்|
+move|நகர்த்து|
+movement|இயக்கம்|
+movement of variation|மாறுபாட்டு இயக்கம்|
+moving average|நகரும் சராசரி|
+moving coil instrument|அசையும் சுருளிக் கருவி|
+moving iron instrument|அசையும் இரும்புக் கருவி|
+Moving Pictures Experts Group (MPEG)|அசைபட நிபுணர் தொகுதி (அநிதொ)
+MPEG (Moving Pictures Experts Group)|அநிதொ (அசைபட நிபுணர் தொகுதி)
+Mrigal|மிரிகளம்|
+mRNA|தூதனரி|
+mu|மியூ|
+mucic acid|மியூயிக அமிலம்|
+mucilage|கொழகொழப்பு|
+mucin|மியூசின்|
+mucopolysaccharide|கோழைப்பலசர்க்கரைடு|
+mucoprotein|கோழைப்புரதம்|
+mucor|மியூக்கர்|
+mucor mucedo|மியூக்கர் மியுசிடோ|
+mucosa|கோழைச்சவ்வு|aka mucous membrane
+mucosa associated lymphoid tissue (MALT)|கோழைச்சவ்வின் நிணவனைய திசு (கோநிதி)
+mucous|கோழைய|
+mucous membrane|கோழைச்சவ்வு|aka mucosa
+mucus|கோழை|
+mudslide|சகதிச்சரிவு|
+mulatto|நிறக்கலப்பினர்|
+Muller|முல்லர்|
+Mulliken's scale|மல்லிக்கனின் அளவம்|
+mullion|நடுச்சட்டம்|
+multiaccess|பலவணுகு|
+multiaddress|பலமுகவரி|
+multicarpellary|பலசூலிலை|
+multicellular|பலவணு (உயிரியல்)|
+multicostate|பலநரம்புடைய|
+multifoliate|பலவங்கை|
+multilateral|பலபக்க|
+multilayer|பலபடல|
+multimedia|பல்லூடகங்கள்|
+multimedia message|பல்லூடகத் தூதுரை|
+multimedia messaging system|பல்லூடகத் தூதுரையமைப்பு|
+multimeter|பலநோக்களவி|
+multinational company|பன்னாட்டு நிறுமம்|
+multinational corporations|பன்னாட்டுக் கூட்டகங்கள்|
+multipass|பலகடவு|
+multipass transmembrane proteins|பலகடவு சவ்வூடு புரதம்|
+multipennate |பலயிறக|
+multiple alignment|பன்மடி நேரமைத்தல்|
+multiple allele|பன்மடி மரபுரு|
+multiple angles|பன்மடிக் கோணங்கள்|
+multiple bar diagram|பலபட்டைப் படவரைவு|
+multiple bond|பன்மடிப் பிணைப்பு|
+multiple factor hypothesis|பன்மடிக் காரணி கருதுகோள்|
+multiple fruit|கொத்துக்கனி|
+multiple life policy|பன்மடி ஆயுட் காப்பிதழ்|
+multiple sclerosis|பன்மடி திசுக்கடினம்|aka disseminated sclerosis
+multiple shops|பன்மடிக் கடைகள்|
+multiplex|பலவழி|
+multiplexer|பலவழியாக்கி|
+multiprocessing|பலவலசல்|
+multiprogramming|பலநிரலாக்கம்|
+multipurpose|பலபயன்|
+multitasking|பலசெயல்|
+multithreading|பலவிழையாக்கல்|
+multiuser|பலபயனர்|
+multivariate|பலமாறி|
+multivibrator|பலவதிர்வி|
+mumps|பொன்னுக்குவீங்கி|
+mural|சுவர்வரைவு|poster - சுவர்ப்படம்
+murein|புரதைச்சர்க்கரைடு|aka peptidoglycan
+murrel|விரால்|
+musaceae|வாழையனையன|
+musci|பாசிகள்|
+muscle|தசை|
+muscle contraction|தசைக்குறுக்கம்|
+muscle fatigue|தசைச்சோர்வு|
+muscle fiber|தசையிழை|
+muscle pull|தசைப்பிடிப்பு|
+muscle tear|தசைக்கிழி்வு|
+muscle tone|தசையிறுக்கம்|
+muscles of expiration|மூச்சுவிடு தசைகள்|
+muscles of facial expression|முகபாவத் தசைகள்|
+muscles of inspiration|மூச்செடு தசைகள்|
+muscular artery|தசைத் தமனி|
+muscular dystrophy|தசை ஊட்டத்தீங்கு|
+muscular tissue|தசைத் திசு|
+museum|அருங்காட்சியகம்|
+mush winding|மசுக் கண்டு|
+mushroom|காளான்|
+Musical Instrument Digital Interface (MIDI)|இசைக் கருவி எண்ணியல் இடைமுகம் (இகவெயி)
+mussel|மட்டி|
+mutagenic|விகாரமாக்க|
+mutarotation|திருப்பமாற்றம்|
+mutase|இடமாற்றூக்கி|
+mutation|விகாரம்|
+mutation agents|விகாரமாக்கிகள்|
+mute (audio)|ஒலியடக்கு|
+muton|விகாரி|
+mutual fund|பன்மய நிதி|
+mutual induction|ஒன்றையொன்று தூண்டல்|
+mutualism|ஒத்துயிரல்|
+mutually exclusive|ஒன்றையொற்று தவிர்க்கும்|
+myalgia|தசைவலி|
+myasthenia gravis|கடுந்தசைவலுவின்மை|
+mycelium|பூஞ்சைவலை|
+-mycetes|-பூஞ்சவை|
+-mycetidae|-பூஞ்சிவை|
+mycetism|காளான்நச்சு|
+mycetoma|காளாங்கழலை|
+mycobacterium|பூஞ்சைப்பாட்டீரியம்|
+mycobacterium leprae|தொழுநோய்ப் பூஞ்சைப்பாட்டீரியம்
+mycobacterium tuberculosis|எலும்புறுக்கிப் பூஞ்சைப்பாட்டீரியம்
+mycology|பூஞ்சையியல்|
+mycoplasma|அடுபூஞ்சை|
+mycoplasma|பூஞ்சைக்குழைமியம்|
+mycoplasmataceae|பூஞ்சைக்குழைமியனையன|
+mycorrhiza|வேர்ப்பூஞ்சை|
+mycosis|பூஞ்சைநோய்|
+-mycota|-பூஞ்சன|
+-mycotina|-பூஞ்சின|
+mycovirus|பூஞ்சைவைரசு|
+mydriates|கண்விரிப்பி|
+Myelin sheath|மயலின் சூழுறை|
+myeloid progenitor|ஊனுண்டாக்கி|
+myeloma|ஊன்கழலை|
+myeloperoxidase|ஊனதிமூச்சியைடூக்கி|
+myocardial infarction|இதயத் தசையிறப்பு|
+myocarditis|இதயத்தசைச்சுவரழற்சி|
+myocardium|இதயத்தசைச்சுவர்|
+myoepithelium|தசைமேற்சவ்வு|
+myofibril|தசைச்சிற்றிழை|
+myoglobin|மயோகுளோபின்|
+myometrium|கருவகத் தசையுறை|
+myopia|கிட்டப்பார்வை|
+myosin|தசைப்புரதம்|
+myotics|கண்சுருக்கி|
+myremecophily|எறும்புச்சேர்க்கை|
+myriapoda|பலகாலிகள்|
+myricyl|மைரிசில்|
+myristic acid|மைரிட்டிக அமிலம்|
+myxoedema|கோழைவீக்கம்|
+myxomycota|அணுச்சுவர்ப்பூஞ்சன|
+myxotroph|கலப்பூட்டி|
+N-acetyl glucosamine|N-அசிற்றைல் குளுக்கோசமீன்|
+NAD (nicotinamide adenine dinucleotide)|நிடியீ (நிக்கோட்டினமைடு அடினீன் ஈரணுக்கருவைடு)
+NAD+|ஏநிடியீ|NADH - இநிடியீ
+NADH|இநிடியீ|NAD+ - ஏநிடியீ
+NADP (nicotinamide adenine dinucleotide phosphate)|நிடியீபா (நிக்கோட்டினமைடு அடினீன் ஈரணுக்கருவைடு பாசுவேட்டு)
+NAFTA (North American Free Trade Agreement)|வமேதவி (வட அமெரிக்கத் தடங்கலற்ற வியாபார உடன்பாடு)
+Nagpur plan|நாகபுரி திட்டம்|
+nail body|நகவுடல்|
+nail fold|நக மடிப்பு|
+nail groove|நகப்பள்ளம்|
+NAND|இல்லும்மை|A இல்லும்மை B - Aயும் B இல்லாததும்
+nano-|நானோ-|
+naphtha|நாத்தா|
+naphthalene|நாத்தலீன்|
+Napier|நேப்பியர்|
+Napier's bones|நேப்பியரின் குச்சிகள்|aka Napier's rods
+Napier's rods|நேப்பியரின் குச்சிகள்|aka Napier's bones
+napiform|பம்பரவடிவம்|
+narcosis|உணர்திரிதல்|
+narcotic|உணர்திரிப்பி|
+narrow spectrum antibiotic|குறும்பயன் உயிரியெதிர்ப்பி|
+NASA (National Aeronautics and Space Administration)|நாவா (நாட்டு வானூர்தியியல் மற்றும் வான்வெளியியல் நிர்வாகம்)
+nasal|மூக்கிய|
+nasal bone|மூக்கெலும்பு|
+nasal cavity|மூக்குக்குழி|
+nasal cavity|மூக்குப்பள்ளம்|
+nascent|பிறவிநிலை|
+nasolacrimal duct|மூக்குக்கண்ணீர் நாளம்|
+nasopharyngeal carcinoma|மூக்குத்தொண்டை தசைப்புற்று|
+nasopharynx|மூக்குத்தொண்டை|
+nastic growth movement|வளைவ வளரியக்கம்|
+nation state|நாட்டரசு|
+national|நாட்டு|
+national (Indian)|தேசிய|
+National Aeronautics and Space Administration (NASA)|நாட்டு வானூர்தியியல் மற்றும் வான்வெளியியல் நிர்வாகம் (நாவா)
+National Bank|தேசிய வங்கி|
+National Bureau of Animal Genetic Resources|தேசிய விலங்கு மரபியல் வளங்கள் பேழையகம்
+National Bureau of Fish Genetic Resources|தேசிய மீன் மரபியல் வளங்கள் பேழையகம்
+National Bureau of Plant Genetic Resources|தேசிய தாவர மரபியல் வளங்கள் பேழையகம்|மைய நரம்பமைப்பு
+National Center for Biotechnology Information (NCBI)|நாட்டு உயிரியத் தொழில்நுட்பத் தகவல் மையம் (நாதமை)
+National Electronic Funds Transfer (NEFT)|தேமிமா (தேசிய மின்பண மாற்றல்)
+national family welfare program|தேசியக் குடும்பநலத் திட்டம்|
+national highway|தேசிய நெடுஞ்சாலை|
+national park|தேசியப் பூங்கா|
+National Planning Commission|தேசியத் திட்டமிடு ஆணையம்|
+National Social Assistance Programme (NSAP)|தேசிய சமூக உதவித் திட்டம்|
+nationalisation|நாட்டுடைமையாக்கல்|
+natural killer cells|இயற்கொல்லி உயிரணுக்கள்|
+natural numbers|இயலெண்கள்|
+natural resources|இயற்கை வளங்கள்|
+Natural Resources Defense Council|இயற்கை வளக் காப்பு மன்றம்|
+natural sciences|இயற்கை அறிவியல்கள்|physical sciences - இயற்பிய அறிவியல்கள்
+natural selection|இயற்கைத் தேர்வு|
+nausea|வயிற்றுக்குமைச்சல்|
+navigate|வழிகாண்|
+near earth objects|புவியருகு பொருட்கள்|
+nebula|நெபுலம்|
+necessary and sufficient condition|தேவையானதும் போதுமானதுமான நிபந்தனைகள்
+necessity|அவசியத்தேவை|
+neck|கழுத்து|
+necrose|இறப்படை|
+necrosis|திசுவிறப்பு|
+necrotroph|திசுச்சேதவூட்டி|
+nectarin|நெட்டரின்|
+NEFT (National Electronic Funds Transfer)|தேசிய மின்பண மாற்றல் (தேமிமா)
+negation|மறுப்பு|
+negative|எதிர்ம|
+negative acknowledgement|ஏலாமையறிவித்தல்|
+negative catalyst|எதிர்ம வினையூக்கி|
+negative chemotaxis|வேதித்தூண்டல் விலகல்|
+negative curvature|எதிர்ம வளைவம்|
+negative feedback|எதிர்மப் பின்னூட்டம்|
+negative geotropism|புவிவிலகியக்கம்|
+negative integers|எதிர்ம முழுவெண்கள்|
+negative interaction|கேடுறு இடைவினை|
+negative logarithm|எதிர்ம மடக்கை|antilogarithm - எதிரியமடக்கை
+negative matrix|எதிர்மத் தளவணி|
+negative numbers|எதிர்ம எண்கள்|
+negative phototropism|எதிர்ம ஒளிநாட்டம்|
+negative staining|எதிர்மச் சாயமிடல்|
+negligible|புறக்கணிக்கத் தக்கது|
+negotiable  |பேசத்தகு|
+negotiable instrument|பேசத்தகு ஆவணம்|
+negotiate|ஒப்புப்பேசு|
+negotiation|ஒப்புப்பேசல்|
+neighborhood|அண்மையம்|
+neisseria|நெய்சரியங்கள்|
+neisseriaceae|நெய்சரியனையன|
+nematocyst|கொட்டுப்பை|
+nematode|உருளைப்புழு|
+neodymium|நியோடிமியம்|
+Neogene period|புதுவெழு காலம்|
+neo-Lamarckism|புதுவிலமார்க்கிசம்|
+neon|நியான்|
+neonatal|பிறந்தவுடன்|
+neo-pentane|புதுவைந்தவேன்|
+neoplasm|புதுப்பெருக்கம்|
+neoprene|நாகுவீன்|குளோரோநான்கவீன் பன்மம்
+nepenthes|துயர்நீக்கி|
+nephridia|சிறுநீரியன்|
+nephridiopore|கழிவுத்துளை|
+nephridium|கழிவுக்குழல்|
+nephritis|சிறுநீரகவழற்சி|
+Nephrolepis|வெப்பமண்டலப்பெரணிகள்|
+nephron|சிறுநீர்ப்பிரிப்பி|
+nephrostome|கழிவாய்|
+Neptune|நெட்டியூன்|
+Neptune|நெட்டூன்|
+neptunium|நெட்டுனியம்|
+Nereis|நீரிசு|
+Nernst|னெர்ன்ஸ்ட்|
+Nernst equation|நெரினசரின் சமன்பாடு|
+nerve cell|நரம்பணு|aka neuron
+nerve center|நரம்பு மையம்|
+nerve cord|நரம்பு வடம்|
+nerve fiber|நரம்பு இழை|
+nerve signal|நரம்பு நிமிண்டல்|
+nerve trunk|நரம்புத்தண்டு|
+nervous coordination|நரம்பு ஒருங்கிணைவு|
+nervous system|நரம்பமைப்பு (விலங்கியல்)|
+nervous tissue|நரம்புத் திசு|
+nested if statement|பின்னலெனிற் கூற்று|
+nested loop|பின்னல்மடக்கு|
+nesting (computer)|பின்னல் (கணினியி்யல்)|
+net (opp. gross)|நிகர|
+Net National Income (NNI)|நிகர நாட்டு வருமானம் (நிநாவ)|
+Net National Product (NNP)|நிகர நாட்டு உற்பத்தி (நிநாவு)|
+net user|வலையப் பயனர்|
+network|வலையம்|
+network connectivity|வலைய இணைப்புமை|
+Network Interface Card (NIC)|வலைய இடைமுக அட்டை (வயிடை)
+network topology|வலைய இடவியல்|
+neural fold|நரம்பு மடிப்பு|
+neural groove|நரம்புப் பள்ளம்|
+neural hearing loss|நரம்புச் செவிக் குறைபாடு|
+neural network|நரம்பவலையம்|
+neuraminic acid|நரம்பமினிக அமிலம்|
+neuraminidase|நரம்பமினவூக்கி|
+neurilemma|நரம்புமி|
+neurohypophysis|பின்பிட்டூட்டரி|
+neuromelanin|நரம்புமெலனின்|
+neuromuscular junction|நரம்புத்தசைச் சந்தி|
+neuron|நரம்பணு|aka nerve cell
+neuropore|நரம்புத் துளை|
+neurotoxin|நரம்புநச்சுவம்|
+neurotransmission|நரம்பாலனுப்பீடு|
+neurotransmitter|நரம்பாலனுப்பி|
+neurula|நரம்புடைக்கரு|
+neurulation|நரம்புடையாதல்|
+neutral|நடுநிலை|
+neutral equilibrium|நடுநிலைப்புச் சமநிலை|
+neutral red dye|நடுநிலைச் சிவப்புச் சாயம்|
+neutralization|நடுநிலையாக்கம்|
+neutrino|நியூட்டிரினோ|
+neutron|நியூட்டிரான்|
+neutrophil|நடுவிரும்பி|
+New Delhi|புது தில்லி|
+New Hampshire|நியூ காம்சயர்|
+newel post|படிக்கால்|
+news group|செய்திக் குழு|
+news service|செய்திச் சேவை|messaging service - தூதுரைச் சேவை
+newt|நியூட்டு|
+Newton's first law of motion|நியூட்டனின் இயக்க முதல் விதி|
+Newton's law of cooling|நியூட்டனின் குளிர்வு விதி|
+Newton's rings|நியூட்டனின் வளையங்கள்|
+N-gram|பலசொற்றுகள்|பல சொல் + துகள்
+niacin|நயாசின்|
+nibble|நணு|
+NIC (Network Interface Card)|வயிடை (வலைய இடைமுக அட்டை)
+Nicholson|நிக்கல்சன்|
+nichrome|நிக்குரோம்|
+nickel|நிக்கல்|
+Nicol prism|நைக்கல் பட்டகம்|
+nicotinamide|நிக்கோட்டினமைடு|
+nicotinamide adenine dinucleotide (NAD)|நிக்கோட்டினமைடு அடினீன் ஈரணுக்கருவைடு (நிடியீ)
+nicotinamide adenine dinucleotide phosphate (NADP)|நிக்கோட்டினமைடு அடினீன் ஈரணுக்கருவைடு பாசுவேட்டு (நிடியீபா)
+nicotine|நிக்கோட்டின்|
+nicotinic acid|நிக்கோட்டினிக அமிலம்|
+nictitate|சிமிட்டு|
+nictitating membrane|சிமிட்டுச் சவ்வு|
+Niels Bohr|நீல்ஸ் போர்|
+nil balance|சுழி இருப்பு|
+ninhydrin|நின்னைதிரின்|
+niobium|நியோபியம்|
+nipple|பாற்காம்பு|
+Nirodh|நிரோது|
+nitrate|உப்பியேட்டு|
+nitrate oxidizing bacteria|உப்பியேட்டு மூச்சியமேற்ற பாட்டீரியம்
+nitrating mixture|உப்பியோவேற்றக் கலவை|
+nitration|உப்பியோவேற்றம்|
+nitric|உப்பிக|
+nitride|உப்பியைடு|
+nitrification|உப்பியைட்டாக்கம்|
+nitrile|சயனலி|
+-nitrile|-சயனலி|
+nitrite|உப்பியைட்டு|
+nitro|உப்பியோ|
+nitro compound|உப்பியோ சேர்மம்|
+nitrobacter|உப்பியப்பாட்டர்|
+nitrococcus|உப்பியமணியம்|
+nitrogen|உப்பியம்|
+nitrogen fixing gene|உப்பியம் நிலைப்பி மரபணு|
+nitrogenation|உப்பியவேற்றம்|
+nitrogenous|உப்பியமுடைய|
+nitroprusside|உப்பியப்புருசைடு|
+nitrosation|உப்பிசவேற்றம்|
+nitroso|உப்பிசோ|
+nitrosococcus|உப்பிசோமணியம்|
+nitrosofication|உப்பிசவாக்கம்|
+nitrosolobus|உப்பிசோமடலம்|
+nitrosomonas|உப்பிசோவலகியம்|
+nitrosomonas|உப்பியவலகியம்|
+nitrosovibrio|உப்பிசோவதிரியம்|
+nitrospira|உப்பியச்சுருளியம்|
+nitrosyl|உப்பிசைல்|
+nitrous|உப்பிச|
+NMOS (n-type metal oxide semiconductor|எவுமூகு (எதிரிய உலோக முச்சியைடு குறைகடத்தி)
+NMR (nunclear magnetic resonance)|அகாவொ (அணுக்கரு காந்த ஒத்ததிர்வு)
+NNI (Net National Income)|நிநாவ (நிகர நாட்டு வருமானம்)|
+NNP (Net National Product)|நிநாவு (நிகர நாட்டு உற்பத்தி)|
+nobelium|நோபெலியம்|
+noble gas|உயரிய வளிமம்|
+noble metal|உயரிய உலோகம்|
+nocardia|நோக்கார்டியங்கள்|
+nocardioforms|நோக்கார்டியவுருக்கள்|
+nocardiopsis|நோக்கார்டியனவம்|
+node|கணு|
+nodule|சிறுகணு|
+nodulose roots|கணுவுடை வேர்கள்|
+noise|ஓசை|
+noise pollution|ஓசை மாசுறுதல்|
+nomenclature|பெயரிடுமுறை|
+Nomex|நோமச்சு|
+nominal|பெயரளவு|
+nominal rate|பெயரளவு வீதம்|
+nominal value|பெயரளவு மதிப்பு|
+nominalistic species concept|பெயரிடு இனக் கருத்துரு|
+nomination|நியமனம்|
+nona-|ஒன்பத-|
+nonadecane|பத்தொன்பதவேன்|
+nonane|ஒன்பதவேன்|
+non-aqueous|நீரற்ற|
+non-bio-degradable|மக்காத|
+non-biological|உயிரியமல்லாத|
+nonbonding orbital|பிணைப்பிலா அலைமண்டலம்|
+noncollinear|கோடமையா|
+noncompetitive inhibition|போட்டியில்லா மறிப்பு|uncompetitive inhibition - போட்டியற்ற மறிப்பு
+nonconductor|அல்கடத்தி|
+nonconservative force|பாதைசார் விசை|
+non-contact force|தொடாவிசை|
+nonconventional|மரபேற்புசாரா|
+nonconvertible|மாறுதகா|
+noncoplanar|சமதளமற்ற|
+noncumulative preference share|திரளா முன்விருப்பப் பங்கு|
+noncyclic|சுழலில்லா|
+nondestructive|அல்லிடிமான|
+nondisjunction|பிரிப்பின்மை|
+nonelitist theory|உயர்குடியின்மைக் கோட்பாடு|
+non-endospermic|உள்விதையற்ற|
+nonerasable|அழியுறா|
+nonessential amino acids|அவசியமற்ற அமினோ அமிலங்கள்
+nonexecutable statements|செயற்படுத்தாக் கூற்றுகள்|
+nonexistence|இல்லாமை|
+nonfiction|அல்புனைவு|
+nonillion (short scale)|பதின்மடியாயிரம்|
+non-impact printing|தாக்கமற்ற அச்சிடல்|
+noninertial frame|நிலைமமற்ற சட்டம்|
+non-insulin dependent diabetes mellitus (NIDDM)|இரண்டாம் வகை நீரிழிவு|aka type II diabetes
+non-intervention|தலையிடாமை|
+non-inverting amplifier|புரட்டா மிகைப்பி|
+nonlinear|நேரியமற்ற|
+non-living|உயிரற்ற|
+nonmetal|அலோகம்|
+non-monetized economy|பணமற்ற பொருளாதாரம்|
+nonnegotiable|பேசத்தகா|
+nonnumeric|எண்சாரா|
+nonoverlap|மேற்பொருந்தாமை|
+nonparticipating preference share|பங்குவகிக்காத முன்விருப்பப் பங்கு
+nonpolar|முனையற்றது|
+nonpolar bond|முனையற்ற பிணைப்பு|
+nonpolar solvent|முனையற்ற கரைப்பான்|
+nonpolarizable|முனையுறா|
+non-recurring|மீள்தொடரா|
+nonredeemable|பணமீள்தகா|
+non-renewable resource|புதுப்பிக்கவியலா வளங்கள்|
+Nonresident Indian|வெளிநாட்டுறை இந்தியன்|
+non-response error|பதிலளிப்பு சாராப் பிழை|
+non-sampling error|மாதிரிக்கூறெடுப்பு சாராப் பிழை|
+non-scheduled bank|பட்டியலில் இல்லாத வங்கி|
+nonsequential|தொடரியமற்ற|
+nonsingular matrix|நேர்மாறுள்ள தளவணி|
+nonspecific|குறிப்பற்ற|
+nonspontaneous|தான்னிகழா|
+nonstriped muscle|வரியற்ற தசை|
+non-terminating|முற்றுப்பெறா|
+nontraditional|மரபுசாரா|
+nontransferable|மாற்றத்தகா|
+nonuniform|சமச்சீரற்ற|
+no-op|அற்செயல்|
+nor-|இயல்-|
+NOR (computer)|இல்லல்லது|A இல்லல்லது B - A அல்லது B இல்லாதது
+noradrenalin|இயலண்ணீரலின்|aka norepinephrine
+norepinephrine|இயலண்ணீரலின்|aka noradrenalin
+normal|இயல்பான|
+normal (math)|செங்கோடு|செங்குத்து - orthogonal
+normal distribution|இயல்புப் பரவல்|
+normal form (math)|செங்கோட்டு வடிவம்|
+normality (chemistry)|சமன்மை|
+normalization|இயல்பாக்கல்|
+normalization (math)|அலகாக்கல்|
+normalized difference vegetation index|இயல்பாக்கிய தாவரச்செழுமை வேறுபாட்டுச் சுட்டெண்
+normative|நெறியுரை|
+North American Free Trade Agreement (NAFTA)|வட அமெரிக்கத் தடங்கலற்ற வியாபார உடன்பாடு (வமேதவி)
+north atlantic drift|வட அட்டிலாண்டிக நீரோட்டம்|
+north equatorial current|நடுக்கோட்டு வடநீரோட்டம்|
+north pole|வட துருவம்|
+nosing|மூக்கம்|
+nosocomial infection|மருத்துவமனை கிருமியேற்றம்|
+nostocales|ஆல்கவியைகள்|
+nostril|நாசித்துளை|
+NOT (computer)|இல்லை (computer)|
+not A|A இல்லை (கணிதம்)|
+not equal to|சமமில்லை|A <> B என்பதை 'A சமமி்ல்லை B சார்பில்' அல்லது 'A சமமில்லை B' என்று வாசிக்கலாம்.
+NOT gate|இல்லை வாயில்|
+notation|குறியீடு|
+notatum|நொற்றேற்றம்|
+note (music)|சுதி|
+notebook|குறிப்பேடு|
+notebook computer|குறிப்பேட்டுக் கணினி|
+notes taker|குறிப்பெடுப்பான்|
+notify|தெரிவுறுத்து|
+notify all|அனைவருக்கும் தெரிவுறுத்து|
+notochord|முதுகுநாண்|
+nova |நோவா|
+novae|நோவாக்கள்|
+novelty|புதுமைப் பொருள்|
+novemdecillion (short scale)|இருபதுமடியாயிரம்|
+nozzle|துளைமுனை|
+npn transistor|எதிர்நேரெதிர் மாற்றடையன்|
+N-terminus|உப்பிய நுனி|
+nth root|n-ஆவது மூலம்|
+n-type metal oxide semiconductor (NMOS)|எதிரிய உலோக முச்சியைடு குறைகடத்தி (எவுமூகு)
+n-type semiconductor|எதிர்ம வகைக் குறைக்கடத்தி|
+nu|நு|
+nucellus|விதையள்|
+nuclear chemistry|அணுக்கரு வேதியியல்|
+nuclear envelope|அணுக்கருச் சவ்வு|aka nuclear membrane
+nuclear fission|அணுக்கரு பிளவுறுதல்|
+nuclear force|அணுக்கரு விசை|
+nuclear fusion|அணுக்கரு ஒன்றிழைதல்|
+nuclear lamina|அணுக்கரு மென்தாள்|
+nuclear magnetic resonance|அணுக்கரு காந்த ஒத்ததிர்வு (அகாவொ)
+nuclear membrane|அணுக்கருச் சவ்வு|aka nuclear envelope
+nuclear reactor|அணுக்கரு உலை|
+nuclease|அனவூக்கி|
+nucleation|கருவாதல்|fertilization - கருவுறுதல்
+nucleic acid|அணுக்கரு அமிலம்|
+nucleoid|அணுக்கருவனையம்|
+nucleolemma|அணுக்கருச் சவ்வு|aka nuclear membrane
+nucleolus|அணுவுட்கரு|
+nucleon|அணுக்கருத் துகள்|
+nucleonics|அணுக்கருவியல்|
+nucleophile|அணுக்கருவிரும்பி|
+nucleophilic addition|அணுக்கருவிருப்பச் சேர்க்கை|
+nucleophilic attack|அணுக்கருவிருப்பத் தாக்கம்|
+nucleophilic substitution|அணுக்கருவிருப்பப் பதிலீடு|
+nucleoplasm|அணுக்கருக்குழைமம்|
+nucleopore|அணுக்கருத்துளை|
+nucleoprotein|அணுக்கருப்புரதம்|
+nucleosidase|அணுக்கருசைடூக்கி|
+nucleoside|அணுக்கருசைடு|
+nucleotidase|அணுக்கருவைடூக்கி|
+nucleotide|அணுக்கருவைடு|
+nucleus|அணுக்கரு|
+nucleus|உட்கரு|
+null|வெற்று|
+null cycle|வெற்றுச் சுழற்சி|
+null deflection method|சுழி விலகல் முறை|
+null hypothesis|வெற்றுக் கருதுகோள்|
+null pointer|இன்மை சுட்டி|
+null set|வெற்றுக் கணம்|
+null string|வெற்றுச் சரம்|
+nullary|இன்ம|
+number cruncher|எண்ணுழலி|
+number crunching|எண்ணுழல்வு|
+number systems|எண் அமைப்புகள்|
+numerator|மேலி|goup - தொகுதி
+numeric character|எண்ணுரு|
+numeric data|எண் தரவு|
+numeric keypad|எண்கள் விசையடுக்கு|
+numerical|எண்சார்|
+numerical analysis|எண்சார் பகுப்பாய்வு|
+numerical expression|எண்சார் கோவை|
+numerical taxonomy|எண்சார் பாகுபாட்டியல்|
+numlock|எண்பூட்டு|
+nursery|செவிலகம்|
+nursing|செவிலியம்|
+nut (fruit)|கொட்டை|
+nut (hardware) |திருகுமரை|
+nutational growth movement|சுழற்சி வளரியக்கம்|
+nutrition|உணவூட்டம்|
+Nutrition Expert Committee|உணவூட்ட நிபுணர் செயற்குழு|
+nyctalopia|இராக்குருடு|
+nyctinasty|தூக்கவளைவு|
+nylon|நைலான்|
+nystatin|நியாவின்|
+oak|கருவாலி|
+-oate|-ஓயேட்டு|
+-oate (carboxylate)|-ஓயேட்டு (கரிமமிலேட்டு)|
+obelia|ஒபீலியா|
+obesity|உடற்பருமன்|
+obey|கீழ்ப்படி|
+object at rest|ஓய்வு நிலையிலுள்ள பொருள்|
+object based animation|பொருள் தழுவிய அசைவூட்டல்|
+object oriented|பொருள்நோக்கு|
+object program|இலக்கு நிரல்|
+objection|அட்டி|
+objective|விருப்புசாரா|
+objective coil|பொருளருகு சுருளி|
+objective function|குறிக்கோள் சார்பு|
+objective lens|பொருளருகு ஒளிவில்லை|
+obligate parasite|அவசிய ஒட்டுண்ணி|
+obligation|கடமைப்பாடு|
+oblique |சாய்ந்த|
+oblique muscle|சாய்வான தசை|
+observation|கண்டறிதல்|
+observe|கண்டறி |
+observed|கண்டறிந்த|
+obstacle|தடையிடர்|
+obturator internus muscle|அடைப்ப உள்ளிடத் தசை|
+obtuse angle|விரிகோணம்|
+obvious|வெளிப்படை|
+occipital bone|பின்மண்டை எலும்பு|
+occipital lobe|பின்மண்டை மடல்|
+occlusion|மேல்மறைப்பு|
+occupational hazard|பணிசார் இடர்|
+ocean|பெருங்கடல்|
+ocean deep|கடலாழம்|
+ocean floor|கடற்றரை|
+Ocean Thermal Energy Conversion (OTEC)|பெருங்கடல் வெப்பத்தை ஆற்றலாக மாற்றல் (பெவெமா)
+ocean trough|கடலகடு|
+oceanography|பெருங்கடலியல்|
+oceanospirillum|கடற்சுருளியம்|
+ochronosis|குருத்தெலும்பு நிறமாற்றம்|
+OCR (optical character recognition)|ஒளியால் எழுத்துணர்தல்|
+octa-|எட்ட-|
+octadecane|பதினெட்டவேன்|
+octahedral|எண்முக|
+octahedron|எண்முகி|
+octal|எண்ம|
+octane|எட்டவேன்|
+octane number|எட்டவேன் எண்|
+octave|அட்டமம்|
+octet|எண்மம்|
+octet rule|எண்ம விதி|
+octillion (short scale)|ஒன்பதுமடியாயிரம்|
+octo LNB|ஆட்டோ குறையிரைச்சற்கட்டி|
+octodecillion (short scale)|பத்தொன்பதுமடியாயிரம்|
+octopus|எட்டுக்காலி|
+ocular albinism|கண்வெளிர்மை|
+oculina|கிளைப்பவளங்கள்|
+oculocutaneous albinism|கண்தோல்வெளிர்மை|
+odd|ஒற்றைப்படை|
+odd function|சீரெதிர்ச்சார்பு|
+odd parity|ஒற்றை இணைமம்|
+odds|வாய்ப்புக்கூறு|
+odometer|வழியளவி|
+OEM (original equipment manufacturer)|மூமீவு (மூல மீக்கருவி உற்பத்தியாளர்)
+oesophagus|உணவுக்குழல்|aka esophagus
+of the order of thousand|ஆயிரக் கணக்கில்|
+off (switch) |இலது (மாற்றி)|
+offense|தாக்கல்|defense - காத்தல்
+offer|முனைவளி|
+offline|அகல்நிலை|
+offset  |ஈடு|
+offset (stem)|ஒதுங்குதண்டு|
+offset rod|உயரக்குறிப்புத் தண்டு|
+offspring|மரபுக்கொழுந்து|
+ogive|ஒகைவு|
+Ohm|ஓம்|
+ohm meter|ஓமளவி|
+Ohm's law|ஓமின் விதி|
+-oic acid|-ஆயிக அமிலம்|
+-oic acid|-ஆயிக அமிலம்|
+-oideae|-அனையின|
+oidia|ஆயிடியா|
+oil|எண்ணெய்|
+oil immersion microscopy|எண்ணெயமிழ் நுண்ணோக்கவியல்
+oil of mirbane|மிர்பேன் எண்ணெய்|
+OK|சரி|
+Okazaki fragment|ஒகசாகியின் துண்டு|
+-ol|-ஆல்|
+-ol (alcohol)|-ஆல் (ஆல்ககால்)|
+oleic acid|ஒலியிக அமிலம்|
+oleochemistry|எண்ணெய்வேதியியல்|
+olfactory lobe|மண மடல்|
+olfactory receptor|மணப் பெறுவி|
+oligarchy|பலராட்சி|
+Oligochaeta|சிலசுணையுடலிகள்|
+oligolecithal egg|குற்றுணவு முட்டை|
+oligomycin|சிலபூஞ்சையோன்|
+oligopeptide|சிலபுரதை|
+oligopoly|சிலராதிக்கம்|
+oligosaccharide|சிலசர்க்கரைடு|
+oliguresis|சிறுநீர்க்குறைவு|aka oliguria
+oliguria|சிறுநீர்க்குறைவு|aka oliguresis
+omega|ஒமேகா|
+omega fatty acid|ஒமேகா கொழுப்பமிலம்|
+omicron|ஒமிரான்|
+OMIN (online Mendelian Inheritance in Man)|இம்மெம் (இணையவழி மனித மெண்டலிய மரபுபெறல்)
+omnivore|அனைத்துண்ணி|
+on (switch)|உளது (மாற்றி)|aka set
+on off switch|உளதிலது மாற்றி|
+onboard|ஊர்திமேல்|
+oncogene|புற்று மரபணு|
+oncogenic|புற்றுவிளை|
+oncology|புற்றுநோயியல்|
+-one|-ஓன்|
+-one (ketone)|-ஓன் (கீற்றோன்)|
+one to one|ஒன்றுக்கு ஒன்றான|
+Ongole|ஓங்கோல்|
+online|இணையவழி|
+online education|இணையவழிக் கல்வி|
+online Mendelian Inheritance in Man (OMIN)|இணையவழி மனித மெண்டலிய மரபுபெறல் (இம்மெம்)
+online services|இணையவழிச் சேவைகள்|
+online trading|இணையவழி வியாபாரம்|
+onto function|மேல்முழுச் சார்பு|
+ontogenic|வளரிய (உயிரியல்)|
+onychophora|மென்காலிகள்|aka malacopoda, protracheata
+oocyst|முட்டைப்பந்து|
+oocyte|முட்டையாக்கவணு|
+oogamy|மாற்றுச்சேர்க்கை|anisogamy - ஒப்புச்சேர்க்கை
+oogenesis|முட்டையணுவாக்கம்|
+oogonium|முட்டைத்தாயணு|
+ookinete|நகர்முட்டை|
+opacity|ஒளிபுகாமை|
+opaque|ஒளிபுகா|
+Oparin's theory|ஒப்பரினின் கோட்பாடு|
+OPEC (Organization of Petroleum Exporting Countries)|புயேனா (புவியெண்ணெய் ஏற்றுமதி நாடுகளின் ஒருங்கமைப்பு)
+open |திற|
+open check|திறந்த காசோலை|
+open ended|திறந்த முனை|
+open existing file|இருக்கும் கோப்பைத் திற|
+open fracture|திறந்த எலும்புமுறிவு|
+open indent|திறந்த இறக்கிடை|
+open interval|திறந்த இடைவெளி|
+open order|திறந்த வருகோள்|
+open policy|திறந்த காப்பிதழ்|
+open system|திறந்த அமைப்பு|
+open well stair|திறந்த கிணற்றுப் படிக்கட்டு|
+opening tag|தொடக்கத் தொங்கி|
+operating point|செயற்பாட்டுப் புள்ளி|
+operating profit|செயற்பாட்டுப் பெறுமம்|
+operating ratio|செயற்பாட்டு விகிதம்|
+operating system|செயற்பாடமைப்பு|
+operation |செயலம்|
+operational amplifier|செயல மிகைப்பி|
+operational taxonomic unit|செயலப் பாகுபாட்டு அலகு|
+operator|செயலி|function - சார்பு
+operator (person)|செயலர்|
+operculum|செவுள்மூடி|
+operon|செயற்பாடி|
+ophthalmologist|கண்மருத்துவர்|
+opium|அபின்|
+opponent|எதிராளி|enemy - எதிரி; competitor - போட்டியாளர்
+opportunity cost|வாய்ப்பிழப்பின் விலை|
+opportunity loss|வாய்ப்பிழப்பு|
+opposable thumb|எதிர்மடியும் பெருவிரல்|
+opposing reactions|எதிர்க்கும் வேதிவினைகள்|
+opposite phyllotaxy|எதிரமை இலையடுக்கம்|
+-opsida|-தாவரவை|
+opsonin|விழுங்கற்பதமி|
+opsonization|விழுங்கற்பதமாக்கல்|
+optic (physics)|ஒளி (பெயரெச்சம்)|
+optic (physiology)|விழிய|
+optic chiasma|விழி நரம்பு முடிச்சு|
+optic disc|கண்வட்டு|
+optic lobe|விழி மடல்|
+optic nerve|விழிநரம்பு|
+optical|ஒளிய|
+optical activity|ஒளித்திருப்பம்|
+optical character recognition (OCR)|ஒளியால் எழுத்துணர்தல்|
+optical disk|ஒளிவட்டு|
+optical fiber|ஒளிய இழை|
+optical isomerism|ஒளித்திருப்ப மாற்றியம்|
+optical mark reading and recognition|ஒளியால் குறியுணர்தல்|
+optical square|ஒளிச்சட்டம்|
+optician|ஒளியாடியர்|
+optics|ஒளியியல்|
+optimal|உகம|
+optimal pH|உகம அமிலச்சுட்டெண்|
+optimization|உகமமாக்கல்|
+optimum |உகமம்|
+optin|விழிதம்|
+option|விருப்புமை|
+optional|விருப்புமையான|
+optometrist|பார்வையளவியர்|
+optometry|பார்வையளவியல்|
+or (mathematics)|அல்லது (கணிதம்)|
+OR gate|அல்லது வாயில்|
+Oracle|ஆரக்கிள்|
+oracle|முன்னுரைப்பான்|
+oral candidiasis|வாய்த் தெளிவநோய்|
+orbicularis oculi|கண்சூழ்த் தசை|
+orbicularis oris|வாய்சூழ்த் தசை|
+orbit|சுற்றுப் பாதை|
+orbital|அலைமண்டலம்|
+orbital lobe|அலைமண்டல மடல்|
+orbital node|அலைமண்டலக் கணு|
+orbital velocity|சுற்றுப்பாதை திசைவேகம்|
+orchidaceous|ஆர்க்கிடுவகை|
+orcinol|ஆர்சினால்|
+order check|குறித்தார் காசோலை|
+order n|முறைமை|
+order n (merchandise)|வருகோள்|
+order of a matrix|தளவணியின் முறைமை|
+order of evaluation|மதிப்பறிதல் முறைமை|
+order of reaction|வினை முறைமை|
+order relation|முறைமை உறவு|
+order v|முறைமையிடு|
+order v (merchandise)|வருகொள்|
+ordered list|முறைமையிட்ட பட்டியல்|
+ordered pairs|முறைமையிட்ட இணைகள்|
+ordinary|சாதாரண|
+ordinary differential equations|முழு வகையீட்டுச் சமன்பாடுகள்|
+ordinate|நெட்டச்சு|
+Ordovician period|ஆர்டுவிசியக் காலம்|
+ore|தாது|mineral - கனிமம்
+organ|உறுப்பு (உயிரியல்)|feature - அங்கம்
+organ (musical instrument)|ஆர்கன்|
+organ of Corti|கார்ட்டியின் உறுப்பு|
+organelles|நுண்ணுறுப்புகள்|
+organic|கரிம|
+organism|உயிரி|
+organization |ஒருங்கமைப்பு|company - நிறுமம்
+organization chart|ஒருங்கமைப்பு வரிவரைவு|
+Organization of Petroleum Exporting Countries (OPEC)|புவியெண்ணெய் ஏற்றுமதி நாடுகளின் ஒருங்கமைப்பு (புயேனா)
+organizational control|ஒருங்கமைப்புக் கட்டுப்பாடு|
+organize|ஒருங்கமை|regulate - ஒழுங்கமை; coordinate - ஒருங்கிணை
+organogenesis|உறுப்பாக்கம்|
+organogenesis|புலனுருவாதல்|
+organotroph|கரிமவுண்ணி|
+orientation|திசையமைவு|
+origin|ஆதி|
+origin of life|உயிரின் ஆதி|
+origin of species|இனங்களின் ஆதி|
+original equipment manufacturer (OEM)|மூல மீக்கருவி உற்பத்தியாளர் (மூமீவு)
+Orion|ஆரியான்|
+ornamental|அலங்கார|
+ornithine|பறவையனின்|
+ornithology|பறவையியல்|
+ornithophily|பறவைச்சேர்க்கை|
+oropharynx|வாய்த்தொண்டை|
+orphan|அனைதை|
+Orpington|ஆர்ப்பிண்டன்|
+orthicon|நேர்ப்படநோக்கி|
+ortho- |இணங்க-|
+ortho para directing|இணங்க எதிர வழிநடத்தி|
+orthoganalization (math)|குத்தாக்கல்|
+orthogonal|செங்குத்து (கணிதம்)|
+orthographic projection|செங்குத்து வீழ்ப்பு|
+ortho-hydrogen|இணங்க நீரியம்|
+orthonormalization (math)|குத்தலகாக்கல்|
+orthopedics|எலும்பு சிகிச்சையியல்|
+orthophosphoric acid|அடுபாசுவரிக அமிலம்|
+orthorhombic|கனச்செவ்வகம்|
+orthotropous ovule|நேர்நிலைச் சூல்|aka atropous ovule
+osazone|ஓசசோன்|
+oscillation|அலைவு|
+oscillation volume|அலைவுப் பருமன்|
+oscillator|அலைவி|
+oscillatory motion|அலைவுறு இயக்கம்|
+oscilloscope|அலைவுநோக்கி|
+-ose|-ஓசு|
+OSI (open system interconnection)|திறந்தமை இடையிணைப்பு|
+osmium|ஆசுமியம்|
+osmol unit|சவ்வூடு அலகு|
+osmoreceptor|சவ்வூடுபெறுவி|
+osmoregulation|சவ்வூடு ஒழுங்கமைத்தல்|
+osmoscope|சவ்வூடுநோக்கி|
+osmosis|சவ்வூடல்|
+osmotic pressure|சவ்வூடு அழுத்தம்|aka tonicity
+osseomucoid|எலும்புக்கோழை|
+ossicle|சிற்றெலும்பு|
+osteoarthritis|குருத்தெலும்பு மூட்டழற்சி|
+osteoblast cell|எலும்பாக்கி அணு|
+osteoclast cell|எலும்பழிப்பு உயிரணு|
+osteogenesis|எலும்பாக்கம்|
+osteomalacia|எலும்புநசிவு|
+osteomyelitis|எலும்பூனழற்சி|
+osteosclereid|எலும்புக் கடினத்திசு|
+ostiole|நுண்துளை|
+ostium|குழல்வாய்|
+ostracoderm|ஓடுடைத்தோலி|
+ostrich|தீக்கோழி|
+Ostwald process|ஆசுவால்டின் வழிமுறை|
+Ostwald theory|ஆசுவால்டின் கோட்பாடு|
+Ostwald-Walker method|ஆசுவால்டு வாக்கரின் முறை|
+OTC (over the counter)|சாளரவழி|
+other users|ஏனைய பயனர்கள்|
+otitis|காதழற்சி|
+out of phase|மாறுகட்ட|
+outbreeding|வெளியினவளர்ப்பு|
+outcome|வருவிளைவு|
+outdoor|புறமனை|
+outer core|புறவுள்ளகம்|
+outer join|வெளியொட்டு|
+outer loop|வெளி மடக்கு|
+outer membrane|புறச்சவ்வு|
+outer product|வெளிப்பெருக்கல்|
+outer shell|புற ஓடு|
+outflow|வெளிப்பாய்வு|
+outgrowth|வளரி|
+outlay|பணவீச்சு|
+outlet|வெளிவாய்|
+outlier|வெளிக்கிடக்கை|
+outline|வெளிக்கோடு|
+out-migration|குடி வெளிப்பெயர்ச்சி|
+output|வெளியீடு|
+output devices|வெளியீட்டுச் சாதனங்கள்|
+outsourcing|வெளிவளம்பெறல்|
+outstanding income|பெறவேண்டிய வருமானம்|
+outstanding interest|கொடுக்கவேண்டிய வட்டி|
+oval window|நீள்வட்டத் திறப்பு|
+ovalbumin|முட்டைக் கருவூண்|
+ovale malaria|ஓவேல் மலேரியா|
+ovarian follicle|முட்டையகக் குழிப்பை|
+ovarian surface epithelium|முட்டையக மேற்சவ்வு|
+ovarian vein|முட்டையகச் சிரை|
+ovary (botany) |சூலகம்|
+ovary (zoology)|முட்டையகம்|
+oven|கணப்பு|stove - அடுப்பு
+over the counter (OTC)|சாளரவழி|
+Over the Counter Exchange of India (OTCEI)|இந்தியச் சாளரவழிப் பங்கு மாற்றகம் (சாமா)
+overdraft|மிகையெடுப்பு|withdrawal - வெளியெடுப்பு
+overexploited|மிகைப்பயனுகர்ந்த|
+overflow|மேல்வழிதல்|
+overgeneralization|மிகைப்பொதுவமாக்கல்|
+overhaul|முழுச்செப்பன்|
+overhead|தலைமேல்|
+overhead (expense)|மேற்செலவு|
+overheat vi|மிகைச்சூடடை|
+overheat vt|மிகைச்சூடாக்கு|
+overlap|மேற்பொருந்தல்|superposition - மேலமைவு
+overload|மீச்சுமை|
+overspecialization|மிகைத்தனித்துவமாக்கல்|
+overtones|மடிசுரங்கள்|
+overwrite|மேலெழுது|
+overwrite mode|மேலெழுது நிலமம்|
+oviducal funnel|முட்டைநாள வடிப்பி|
+oviduct|முட்டை நாளம்|
+ovulation|முட்டையாக்கல்|
+ovule|சூல்|
+ovum |முட்டை (விலங்கியல்)|அண்டம் - universe
+ownership|கொள்ளுரிமை|உரிமை - right
+oxalate|ஆச்சலேட்டு|
+oxalic acid|ஆச்சலிக அமிலம்|
+oxidase|மூச்சியைடூக்கி|
+oxidation|மூச்சியமேற்றம்|
+oxidation number|மூச்சியமேற்ற எண்|
+oxidation state|மூச்சியமேற்ற நிலை|
+oxidative cleavage|மூச்சியமேற்றப் பிளவுறல்|
+oxidative decarboxylation|மூச்சியமேற்றக் கரிமமிலநீக்கம்|
+oxidative enzyme|மூச்சியமேற்ற ஊக்கிப்புரதம்|
+oxidative phosphorylation|மூச்சியமேற்றப் பாசுவேட்டேற்றம்
+oxide|மூச்சியைடு|
+oxidizing agent|மூச்சியமேற்றி|
+oxidoreductase|மூச்சியமேற்றவிறக்கவூக்கி|
+oxime|ஆச்சைம்|
+oxo-|மூச்சியோ-|
+oxoanion|மூச்சிய எதிர்மயனி|
+oxonium|மூச்சியோனியம்|
+oxoproline|மூச்சியப்புரோலின்|
+oxyacetylene torch|மூச்சியவசிற்றலீன் தீவட்டி|
+oxyacid|மூச்சியவமிலம்|
+oxygen|மூச்சியம்|உயிரிய - bio; மூச்சிய - oxy
+oxygenation|மூச்சியமாக்கல்|
+oxyhemoglobin|மூச்சியக்கீமோகுளோபின்|
+oxysome|மூச்சியவுடலம்|
+oxytocia|இளமுமிழ்தல்|
+oxytocic|இளமுமிழ்|
+oxytocin|இளமுமிழ்தம்|
+-oyl|-ஆயில்|
+-oyl|-ஆயில்|
+oyster|சிப்பி|
+ozone|ஓசோன்|
+ozone depleting substance|ஓசோன் வெறிப்புப் பொருள்|
+ozone depletion|ஓசோன் வெறிப்பு|
+ozone hole|ஓசோன் துளை|
+ozonolysis|ஓசோனாற்பகுப்பு|
+P wave|கவ்வலை|P wave - கவ்வலை; Q wave - சவ்வலை; R wave - தவ்வலை
+P, Q, R, S waves|க, ச, த, ப அலைகள்|
+P. falciparum|பால்சிப்பாரம் கூ.|
+P. malariae|மலேரியம் கூ.|
+P. ovale|ஓவேல் கூ.|
+P. vivax|விவாசு கூ.|
+pacemaker|நடையாக்கி|
+pachymeninx|வெளி மூளையுரை|
+pachytene stage|தடியிழை நிலை|
+Pacific|பசிப்பிக|
+pack|பொதியலிடு|
+package|பொதிக்கட்டு|packet - பொதியல்
+packaging|பொதிக்கட்டல்|
+packet|பொதியல்|package - பொதிக்கட்டு
+packet-switching|பொதியல் மாற்றம்|
+packet-switching network|பொதியல் மாற்ற வலையம்|
+packing|பொதியலிடல்|
+packing|பொதிவு|
+packing strip|பொதிவுத் துண்டு|
+pad (writing)|தாட்கொத்து|
+pad lock|ஆமைப்பூட்டு|
+padding|நிரப்பட்டை|
+paddle|துடுப்பு|
+paddle wheel experiment|துடுப்புச் சக்கரச் சோதனை|
+paddy|நெல்|
+PageView|பக்கக் காட்சி|
+pagination|பக்கமிடுதல்|
+paid-up capital|செலுத்திய மூலதனம்|
+paint n|வண்ணப்பூச்சு|
+paint v|வண்ணம்பூசு|
+painted display|வண்ணம்பூசிய காட்சியம்|
+pair|இணை|
+paired electron|இணைமமுற்ற எலட்டிரான்|
+pairwise|இணைம|
+pairwise alignment|இணைம நேரமைத்தல்|
+palate|அண்ணம்|
+palatine bone|அண்ணவெலும்பு|
+palatine tonsil|அண்ணவடிநாத்தசை|
+palea|தவிடு|
+Paleogene period|தொன்னெழு காலம்|
+paleogeographic|தொற்புவியியல்|
+paleontology|தொல்லுயிரியல்|
+Paleoproterozoic|தொல்லுயிர்முன்|
+paleotaxonomy|தொன்மையப் பாகுபாட்டியல்|
+Paleozoic era|தொன்மை ஊழி|
+palette|தட்டகம்|
+palindrome|இருவழிச்சொல்|
+palisade tissue|நிலைக்கம்பத் திசு|
+palladium|பல்லேடியம்|
+pallidum|பேலிடம்|
+palm computer|கைக்கணினி|
+palmately parallel|அங்கையிணையான|
+palmately reticulate|அங்கைவலை|
+palmitate|பனையிகேட்டு|
+palmitic acid|பனையிக அமிலம்|
+Paludrine|பாலுடிரின்|
+palynology|மகரந்தவியல்|
+Pamaquin|பாமக்குவின்|
+pan (movement)|இவசை|
+pancreas|கணையம்|
+pancreatic|கணைய|
+pancreatic duct|கணைய நாளம்|
+pancreatic hormone|கணைய இயக்குநீர்|
+pancreatic islets|கணையத் திட்டுகள்|aka islets of Langerhans
+pancreatic juice|கணையநீர்|
+pancreatitis|கணையவழற்சி|
+pancreozymin|கணையவியக்கி|aka cholecystokinin
+pandemic|சமூகவெளி|
+pane|பாளம்|
+panel|பலகம்|
+panelled door|பலகக் கதவு|
+pangenesis|அனைத்துறுப்புக் கோட்பாடு|
+panicle |குஞ்சம்|
+panning|இவசைதல்|
+pantonematic flagellum|முடிக் கசையிழை|
+papain|பப்பாளிப்புரதம்|
+paper|தாள்|
+paper chromatography|தாள் நிறப்பிரிகை|
+paper feed|தாளூட்டம்|
+papilla|சிம்பி|
+papillary layer|சிம்பிப் படலம்|
+papillonaceous|சிம்பிவகை|
+pappus|தாத்தன்|
+par value|சம மதிப்பு|
+para-|எதிர-|
+parabola|பரவளைவு|வளையம் - torus
+parabolic arch|பரவளைய வளைவு|
+parachronism|காலப்பின்பிழை|
+paracortex|எதிரப்புரணி|
+parade|மெல்லோட்டம்|
+paradigm|கருத்துக்கிளை|
+paradox|முரண்தோற்றம்|
+parafollicular cell|இணைக்குழிப்பை உயிரணு|
+paraformaldehyde|பன்ம எறும்பால்டிகைடு|
+paragraph|பத்தி|
+para-hydrogen|எதிர நீரியம்|
+parallax|நோக்குமயக்கம்|
+parallax error|நோக்குமயக்கப் பிழை|
+parallel|இணையான|இணை - pair
+parallel circuit|இணை மின்சுற்று|
+parallel economy|இணைப் பொருளாதாரம்|
+parallel lines|இணையான கோடுகள்|
+parallel muscle|இணையான தசை|
+parallel processing|இணையான அலசல்|aka concurrent processing
+parallel reactions|இணையான வேதிவினைகள்|
+parallel venation|இணையான நரம்பமைப்பு|
+parallelogram|இணைகரம்|
+paralysis|முடக்கம்|
+paramagnetism|வன்காந்தம்|
+paramecium|பரமீசியம்|
+parameter|அளவுரு|
+paramylon|பழக்கண்ணித்தரசம்|
+parapet|பிடிசுவர்|
+parapodia|பக்கக் கால்கள்|
+parasexuality|மாற்றுப்பாலினவியம்|
+parasite|ஒட்டுண்ணி|
+parasitism|ஒட்டுண்ணல்|
+parathormone|இணைத்தைராயிடு இயக்குநீர்|aka parathyroid hormone
+parathyroid|இணைத்தைராயிடு|
+parathyroid hormone|இணைத்தைராயிடு இயக்குநீர்|aka parathormone
+paratonic|வெளித்தூண்டு|
+paratope|எதிரிடம்|
+paratyphoid|இணைத்தைபனையம்|
+parazoa|அடுவிலங்குகள்|
+parchment|தோலத்தாள்|தோல் + அம் + தாள்; அம் சாரியை
+parenchyma|உடன்கூழ்த்திசு|
+parent chain|தாய்க் கோர்வை|
+parent directory|தாய்க் கோப்பகம்|
+parenteral|வேற்றுநுழைவ|
+parenthesis|அடைப்புக்குறி|
+parietal|சுவரொட்டு|
+parietal bone|உச்சிமண்டை எலும்பு|
+parietal bone|சுவரெலும்பு|
+parietal layer|சுவரொட்டுப் படலம்|
+parietal lobe|உச்சிமண்டை மடல்|
+parietal placentation|சுவர் சூலொட்டுமுறை|
+paripinnate|இணைம இறகன|
+parity|இணைமம்|internet - இணையம்; conjugation - இணைவம்
+parity bit|இணைமவிணு|
+parity check|இணைமம் சரிகாணல்|
+parking|நிறுத்திவைப்பு|
+Parkinson's disease|பார்க்கின்சனின் நோய்|
+Parkinson's law|பார்க்கின்சனின் விதி|
+parliament|நாடாளுமன்றம்|
+parliamentary hinge|பாராளுமன்றக் கீல்|
+parotid duct|காதருகு நாளம்|
+parotid gland|காதருகு சுரப்பி|
+parotitis|காதருகழற்சி|
+parrot|கிளி|
+pars distalis|தொலைவத் தசை|
+pars frontalis|முன்தலைத் தசை|
+pars intermedia|இடையத் தசை|
+pars occipitalis|பின்தலைத் தசை|
+pars tuberalis|குழலத் தசை|
+parse|சொல்லலசு|
+part (machine)|உறுப்பு (எந்திரம்)|
+part (volume of a book)|பாகம்|
+part per million (ppm)|இருமடியாயிரத்தில் ஒரு பங்கு (இவொப)
+part per thousand (ppt)|ஆயிரத்தில் ஒரு பங்கு (ஆவொப)|
+parthenocarpic fruit|கருவின்றிக்கனி|
+parthenocarpy|கருவின்றிக்கனியாதல்|
+parthenogenesis|கருவுறாப் பிறப்பு|
+parthenospore|கருவுறாவித்து|
+partial|பகுதி பெ.அ|
+partial derivative|பகுதி வகைக்கெழு|
+partial differential equations|பகுதி வகையீட்டுச் சமன்பாடுகள்
+partial differentiation|பகுதி வகையிடல்|
+partial dominance|பகுதி ஓங்கல்|
+partial fraction|பகுதிப் பின்னம்|
+partial pressure|பகுதி அழுத்தம்|
+partially|பகுதியளவில்|
+participate|பங்குவகி|
+participating preference share|பங்குவகிக்கும் முன்விருப்பப் பங்கு
+particle|துகள்|
+particular integral|சிறப்புத் தொகையீடு|
+particular solution (differential equations)|சிறப்புத் தீர்வு|
+particulate theory|துகளக் கோட்பாடு|
+partition|வகிர்|
+partition chromatography|வகிர்வு நிறப்பிரிகை|
+partition table|வகிர்வு அட்டவணை|
+partitioning|வகிர்வு|
+partner|பங்காளி|shareholder - பங்குதாரர்
+partner by estoppel|முரண்தடையால் பங்காளி|
+partner by holding out|மறுக்காததால் பங்காளி|
+partner in profit only|பெறுமப் பங்காளி|
+partnership|பங்காளிமை|
+parturition|இளம்பெறல்|குட்டி போடுதலுக்கும் குழந்தை பெறுதலுக்கும் பொதுவானது
+Pascal law|பாசுக்கலின் விதி|
+Paschen series|பாச்சனின் தொடர்|
+pass (on a test)|தேர்ச்சி|
+pass (through a passage)|கட(ந்து செல்)|
+pass book|செல்லேடு|வங்கியில் இருக்காமல் கணக்குடையாருடன் செல்வதால்
+passenger DNA|பயண அனடி|
+passive absorption|முனைவற்ற உட்கவர்தல்|
+passive immunity|முனைவற்ற நோயெதிர்ப்பு|
+passive transport|முனைவற்ற கடத்தல்|
+passport|கடவுச்சிட்டை|
+password|கடவுச்சொல்|
+paste n|பசை|
+paste special|சிறப்பொட்டு|
+paste v|ஒட்டு (திருத்தி)|
+Pasteur Institute|பாச்சரின் பயிலகம்|
+pasteurella|பாச்சரியம்|
+pasteurization|பாச்சராக்கல்|
+pasteurize|பாச்சராக்கு|
+pastoralism|விலங்கு மேய்த்தல்|
+patagium|தோற்செட்டை|
+patching|ஒட்டிடுதல்|
+patella|முழங்காற்சில்லு|
+patent|புனையவுரிமம்|
+paternal|தந்தைய|
+path|பாதை|
+path function|பாதைச் சார்பு|
+pathogen|நோயாக்கி|
+pathogenesis|நோயாக்கவியல்|
+pathogenicity|நோயாக்குமை|
+pathological fracture|நோய்க்குறி எலும்புமுறிவு|
+pathology|நோய்க்குறியியல்|
+pathway|வழிப்பாதை|
+patriarchal theory|தந்தைவழிக் கோட்பாடு|
+pattern|பாங்கு|
+pattern recognition|பாங்கறிதல்|
+Pauli|பாலி|
+Pauli exclusion principle|பாலியின் தவிர்ப்புக் கொள்கை|
+Pauling|பாலிங்|
+Pauling's scale|பாலிங்கின் அளவம்|
+pause|இடைநில்|
+pawn|அடகுவை|
+payee (of a check)|பெறுனர் (காசோலை)|
+payload|பயன்சுமை|
+payment|பணஞ்செலுத்தல்|
+payoff|பயன்விளைவு|
+payoff table|பயன்விளைவு அட்டவணை|
+p-block|p-கட்டம்|
+p-block elements|p-கட்டத் தனிமங்கள்|
+PCB (polychlorinated biphenyl)|பகுபி (பலகுளோரினிட்டவிருபினைல்)
+PCB (printed circuit board)|அமிப (அச்சிட்ட மின்சுற்றுப் பலகை)
+PCM (plug compatible manufacturer)|பொவுவு (பொருத்தி ஒவ்வுமையான உற்பத்தியாளர்)
+peak factor|உச்சக் காரணி|
+pearl|முத்து|
+pearl oyster|முத்துச் சிப்பி|
+peat|சிதைமரம்|
+pecten|சீப்புரு|
+pectin|பெத்தின்|
+pectoral artery|மார்புத் தமனி|
+pectoral girdle|மார்பு வளையம் (எலும்புக்கூடமைப்பு)|மார்பகம் - breast
+pectoral vein|மார்புச் சிரை|
+pectoralis|மார்புத்தசை|
+pectoralis major|பெருமார்புத்தசை|
+pectoralis minor|சிறுமார்புத்தசை|
+pedal|மிதி கட்டை|
+peddler|நடைவிற்பவர்|
+pedicel |மலர்க்காம்பு|
+pedicellate|காம்புள்ள|
+pedigree|மரபுவழி|
+pediococcus|கால்மணியம்|
+peduncle|மட்டை|
+peek|நோக்குள்|
+peg|முளை|
+pelecypoda|இருவோடன்கள்|aka lamellibranchia
+pellagra|பெல்லகிரா|
+Peltier effect|பெல்டியரின் விளைவு|
+pelvic diaphragm|இடுப்பக இடைத்திரை|
+pelvic girdle|இடுப்பக வளையம்|
+pelvis|இடுப்பகம்|
+pelvis of the kidney|சிறுநீரக இடுப்பு|
+penalty|தண்டம்|
+pencil|பென்சில்|
+pendulum|ஊசல்|swing - ஊஞ்சல்
+penetrate|ஊடுருவு|
+penetration|ஊடுருவுதல்|
+penguin|பெங்குவின்|
+penial|ஆண்குறிய|
+penial setae|ஆண்குறிய உடல்முள்|
+penicillin|பெனிசிலின்|
+penicillinase|பெனிசிலினூக்கி|
+penicillium|பெனிசிலியம்|
+penile urethra|ஆண்குறி சிறுநீர்ப்புறவழி|
+penis|ஆண்குறி|
+penna|இறகு (பறவையியல்)|
+pennate|இறக|
+penta-|ஐந்த-|
+pentachloride|ஐங்குளோரைடு|
+pentacontane|ஐம்பதவேன்|
+pentadactyl|ஐவிரல|
+pentadecane|பதினைந்தவேன்|
+pentagonal bipyramid|ஈரைங்கூம்பு|இரு + ஐ + கூம்பு
+pentamerous flower|ஐந்தங்க மலர்|
+pentan-2-one|ஐந்தன்-2-ஓன்|
+pentanal|ஐந்தனல்|
+pentane|ஐந்தவேன்|
+pentoic acid|ஐந்தவாயிக அமிலம்|
+pentose|ஐந்தவோசு|
+pentothenic acid|பி-5 வைட்டமின்|
+pentyl|ஐந்தவைல்|
+penultimate|ஈற்றயல்|
+peocock|மயில்|
+pepo|நடுவிதைச் சதைக்கனி|
+pepsin|இரையூக்கி|
+pepsinogen|இரையூக்கியாக்கி|
+peptic ulcer|குடலுட்புண்|
+peptidase|புரதையூக்கி|
+peptide|புரதை|
+peptide bond|புரதைப் பிணைப்பு|
+peptide linkage|புரதைத் தொடுப்பு|
+peptidoglycan|புரதைச்சர்க்கரைடு|aka murein
+peptidyl site|புரதையத் தலம்|
+peptization|புரதையாக்கல்|
+peptococcus|செரித்தல்மணியம்|
+peptone|புரதோன்|
+peptostreptococcus|செரித்தற்றிருகுமணியம்|
+per capita|தலைவீதம்|
+per capita GNP|நாட்டின் தலைவீத மொத்த வருமானம்
+per capita income|தலைவீத வருமானம்|
+percent error|பிழை விழுக்காடு|
+percentage composition|கூறடக்க விழுக்காடுகள்|
+perchlorate|மேற்குளோரேட்டு|
+percolate|கசிந்தொழுகு|
+percolation|கசிந்தொழுகல்|
+perennation|பல்லாண்டியம்|
+perennial|பல்லாண்டிய|
+perfect|கச்சிதமான|
+perfect black body|முழுக்கரும்பொருள்|
+perforated|நுண்துளையிட்ட|
+perforator|நுண்துளையிடுவான்|
+perforin|துளையிடுவி|
+performance|செயற்றிறன்|
+performance monitor|செயற்றிறன் கண்காணி|
+performing arts|நடனக்கலைகள்|
+perianal|குதஞ்சூழ்|
+perianth|மலருறை|
+periarticular|மூட்டுசூழ்|
+periblem|சுற்றியம்|
+pericardial fluid|இதயஞ்சூழ் பாய்மம்|
+pericardium|இதயஞ்சூழ்ச் சவ்வு|
+pericarp|கனித்தோல்|
+periclinal division|பரிதியொட்டிய பிரிவு|
+pericycle|சூழ்வட்டம் (தாவரவியல்)|
+perigyny|பெண்சூழ்|
+perihelion|கதிரவன்சூழ்|
+perilymph|சூழ்நிணநீர்|
+perimeter|சுற்றளவு|
+perimetrium|கருவகச் சுற்றுறை|
+peri-mitochondrial space|ஆற்றலாக்கிச் சூழ்வெளி|
+perineum|பெரினியம்|
+perineurium|நரம்புக்கொத்துறை|
+perinuclear envelope|அணுக்கருச் சவ்வு|aka nuclear membrane
+perinuclear space|அணுக்கருசூழ் வெளி|
+period (in the periodic table)|கிடக்கை (ஆவர்த்தன அட்டவணை)
+period (of revolution)|ஆவர்த்தன காலம்|
+period (time range)|காலம்|
+periodic|ஆவர்த்தன|
+periodic motion|ஆவர்த்தன இயக்கம்|
+periodicity|ஆவர்த்தனம்|
+periosteum|எலும்புறை|
+peripatus|நடமாடிப்புழு|
+peripheral cytoplasm|எல்லைப்புற அணுக்குழைமம்|
+peripheral devices|எல்லைப்புறச் சாதனங்கள்|
+peripheral nervous system|எல்லைப்புற நரம்பமைப்பு|
+peripheral protein|எல்லைப்புறப் புரதம்|
+peripheral vascular disease|எல்லைப்புற நீர்மக்குழல் நோய்|
+periphery|எல்லைப்புறம்|
+perishable goods|அழியும் பொருட்கள்|
+peristalsis|வளைநெரிதல்|
+peristaltic wave|வளைநெரி அலை|
+peristome|வாய்சூழ்|
+peristomium|வாய்சூழ்|
+peritoneal dialysis|வயிற்றுறையூடுபகுப்பு|
+peritoneal macrophage|வயிற்றுறை பேருண்ணி|
+peritonitis|வயிற்றுறையழற்சி|
+peritonium|வயிற்றுறை|
+peritrichous|சுற்றுக் கசையிழை|
+Perkin's reaction|பெர்க்கினின் வினை|
+Perl|பெரல்|
+perl script|பெரல் உரைநிரல்|
+permanence|நிரந்தரம்|
+permanent|நிரந்தர|
+permanent gas|நிரந்தர வளிமம்|
+permanent magnet|நிரந்தரக் காந்தம்|
+permanent teeth|நிரந்தரப் பற்கள்|
+permanent tissue|நிரந்தரத் திசு|
+permanganate|அதிமாங்கனேட்டு|
+permanganic acid|அதிமாங்கனிக அமிலம்|
+permeability|புகவிடல்|
+permeable|புகவிடும்|
+permease|புகவிடூக்கி|
+Permian period|நிலையக் காலம்|
+permutation|வரிசைமாற்றம்|
+pernicious anemia|அழிவுச்சோகை|
+pernicious malaria|தீங்கிழை மலேரியா|aka malignant tertian malaria
+peroxidase|அதிமூச்சியைடூக்கி|
+peroxide|அதிமூச்சியைடு|
+peroxisome|அதிமூச்சியைடுடலம்|
+peroxol|அதிமூச்சியால்|
+perpend|குறுக்குக்கல்|
+perpendicular|செங்குத்தான|
+perpetual motion|முடிவுறா இயக்கம்|
+persistent|நிலைத்த|
+personal  (related to people)|ஆள்சார்|
+personal (private)|தனியாள்|
+personal account|தனியாள் கணக்கு|
+personal computer|தனியாள் கணினி|
+personal digital assistant|தனியாள் எண்ணியல் உதவியர்|
+personal hindrance|ஆள்சார் தடங்கல்|
+personal identification number (PIN)|தனியாள் இனங்காணல் எண் (தகாண்)
+personal selling|தனியாள் விற்றல்|
+personate corolla|முகமனைய அல்லிவட்டம்|
+perspective|நோக்குநிலை |
+perspective planning|தொலைநோக்குத் திட்டமிடல்|
+perspiration|வியர்த்தல்|
+PERT (program evaluation and review technique)|செமமீசெ (செய்திட்ட மதிப்பறிதலும் மீள்பார்வையுமான செய்நுட்பம்)
+perturbation|சிறுமாற்றம்|
+pest|தீங்குயிரி|
+pesticide|தீங்குயிரிக்கொல்லி|
+pestle|குழைவி|
+peta- |பேட்டா-|
+petal|இதழ்|lily - அல்லி
+petaloid perianth|இதழனைய மலருறை|
+petiole|இலைக்காம்பு|phyllode - காம்பிலை
+petri dish|பெதட்டம்|
+petri net|பெதவலை|
+petrification|பாறைமயமாதல்|
+petrocard|எரிசலட்டை|
+petrol|எரிசல்|diesel - தீசல்
+petroleum|புவியெண்ணெய்|kerosene - மண்ணெண்ணெய்
+petroleum coke|புவியெண்ணெய்க்கரி|
+petty cash|சில்லரைக் கைப்பணம்|
+Pfund series|பண்டின் தொடர்|
+pH|அமிலச் சுட்டெண்|
+pH indicator|அமிலச் சுட்டெண் காட்டி|
+pH scale|அமில அளவம்|
+Phaeophyceae|பழுப்பால்கவை|
+phagocyte|கழிவுண்ணி|
+phagocytic barrier|கழிவுண்ணித் தட்டி|
+phagocytosis|கழிவுண்ணல்|
+phagolysosome|உண்முறிமெய்யம்|
+phagosome|உண்மெய்யம்|
+phakic|வில்லையுடைய (கண்)|
+phalange|விரலெலும்பு|
+Phanerozoic eon|வெளிப்படு பேரூழி|
+pharmacological biochemistry|மருந்து உயிர்வேதியியல்|
+pharmacology|மருந்தியல்|
+pharyngeal nephridium|தொண்டை கழிவுக்குழல்|
+pharyngeal tonsil|தொண்டையடிநாத்தசை|
+pharyngitis|தொண்டைக்குழியழற்சி|
+pharynx|தொண்டைக்குழி|
+phase (of a process)|கட்டம்|நிலை - state
+phase (of matter)|முகநிலை|
+phase angle|கட்டக் கோணம்|
+phase contrast microscopy|முகநிலை முரண் நுண்ணோக்கவியல்
+phase difference|கட்ட வேறுபாடு|
+phase modulation|கட்ட இணக்கேற்றம்|
+phase transition|முகநிலைமாற்றம்|
+phellem|தக்கையம்|
+phelloderm|உட்புரணி|
+phellogen|தக்கையாக்கி|
+phenanthrene|பினாந்தரீன்|
+phenetic method|மரபுக்குண முறை|
+phenol|பினால்|
+phenol coefficient method|பினால் கெழு முறை|
+phenol red|பீனால் சிவப்பு|
+phenolphthalein|பினாத்தலீன்|
+phenomenon|தோற்றப்பாடு|
+phenotype|மரபுக்குணவகை|
+phenotypic ratio|மரபுக்குண விகிதம்|
+phenyl-|பினைல்-|
+phenyl-|பினைல்-|
+phenylalanine|பினைலலனின்|
+phenylketonuria|பினைல்கீற்றோசிறுநீர்|
+pheomelanin|செம்மெலனின்|
+phi|பிகை|
+philipine goby|பிலிப்பைன் கோபி|
+Philips|பிலிப்பு|
+philosophy|தத்துவம்|
+phlegm|சளி|
+phloem|சல்லடைத்திசு|
+phlorizin|பட்டைசின்|
+phloroglucinol|பட்டைக்குளூசினால்|
+phobia|அச்சம்|
+phonetic|பேச்சொலிய|
+phonetics|பேச்சொலியம்|acoustics - ஒலியியல்
+phonon|ஒலியன்|
+phorone|சூடோன்|
+phosphagen|பாசுவேட்டாக்கி|
+phosphatase|பாசுவேட்டுநீக்கவூக்கி|
+phosphate|பாசுவேட்டு|
+phosphatide|பாசுவக்கொழுமியம்|aka phospholipid
+phosphatidyl inositol|பாசுவக்கொழுமிய இனாசிற்றால்
+phosphatidyl serine|பாசுவரக்கொழுமிய சீரின்|
+phosphocreatine|பாசுவதசையமினோ அமிலம்|
+phosphodiesterase|பாசுவவீரெசுத்தரூக்கி|
+phosphoenol|பாசுவயீனால்|
+phosphofructokinase|பாசுவப்பிரட்டோயியக்கவூக்கி|
+phosphoglucoisomerase|பாசுவக்குளுக்கோமாற்றியவூக்கி|
+phosphogluconate pathway|பாசுவக்குளுக்கோனேட்டு வழித்தடம்
+phosphoinositide|பாசுவயினாசிற்றைடு|
+phospholipase|பாசுவக்கொழுமியமூக்கி|
+phospholipid|பாசுவக்கொழுமியம்|aka phosphatide
+phosphoprotein|பாசுவப்புரதம்|
+phosphopsphingoside|பாசுவப்பிங்கோசைடு|
+phosphorescence|நின்றொளிர்வு|
+phosphoric acid|பாசுவரிக அமிலம்|
+phosphorous acid|பாசுவரச அமிலம்|
+phosphorus|பாசுவரம்|
+phosphorylase|பாசுவேட்டேற்றூக்கி|
+phosphorylation|பாசுவேட்டேற்றம்|
+phosvitin|பாசுவிடின்|
+photo autotroph|ஒளித் தானூட்டி|
+photochemical|ஒளிவேதிய|
+photochemical fission|ஒளிவேதியப் பிளவுறுதல்|
+photochemistry|ஒளிவேதியியல்|
+photoelectric|ஒளிமின்|
+photoelectric calorimeter |ஒளிமின் வெப்பளவி|
+photoelectron spectroscopy|ஒளி எலட்டிரான் நிறமாலையியல்
+photograph|ஒளிப்படம்|
+photography|ஒளிப்படவியல்|
+photohormone|ஒளியியக்குநீர்|
+photolysis|ஒளியாற்பகுப்பு|
+photometric analysis|ஒளியளவியல் பகுப்பாய்வு|
+photometry|ஒளியளவியல்|
+photon|ஒளியன்|
+photonasty|ஒளிவளைவு|
+photoperiodism|ஒளியாவர்த்தனம்|
+photophobia|ஒளியச்சம்|
+photophosphorylation|ஒளிப்பாசுவேட்டேற்றம்|
+photopic vision|ஒளிவிழிதப் பார்வை|
+photopsin|ஒளிவிழிதம்|
+photoreceptors|ஒளிப்பெறுவி|
+photosphere|ஒளிக்கோளம்|
+photosynthesis|ஒளித்தொகுத்தாக்கம்|
+photosynthetic roots|ஒளித்தொகுத்தாக்க வேர்கள்|
+phototactic|ஒளித்தூண்டல்|
+phototroph|ஒளியுண்ணி|
+phototropic|ஒளிநாடு|
+phototropism|ஒளிநாட்டம்|
+phragmoplast|வேலியிழையம்|
+phrase|சொற்றொடர்|
+phrenic|இடைத்திரை பெ.அ|
+phrynoderma|தேரைத்தோல்|
+phthalate|நாத்தலிகேட்டு|
+phthalein fusion|நாத்தலீன் ஒன்றிழைதல்|
+phthalic acid|நாத்தலிக அமிலம்|
+phthalimide|நாத்தலிமைடு|
+-phyceae|-ஆல்கவை|
+-phycidae|-ஆல்கிவை|
+phycology|ஆல்கவியல்|aka algology
+-phycota|-ஆல்கன|
+-phycotina|-ஆல்கின|
+phyletic extinction|போலி மறைவுமை|
+phylloclade|தட்டைத்தண்டு|
+phyllode|காம்பிலை|petiole - இலைக்காம்பு
+phylloplane|இலைத்தளம்|aka phillosphere
+phylloquinone|இலைக்குயினோன்|
+phyllosphere|இலைத்தளம்|aka philloplacne
+phyllotaxy|இலையடுக்கம்|aestivation - இதழடுக்கம்
+phylogenetic development|குழுப்பரிணாம வளராக்கம்|
+phylogeny|குழுப்பரிணாமம்|
+phylum|பிரிவு (விலங்கியல்)|
+physalia|பைசாலியா|
+physical capital|பொருள் மூலதனம்|
+physical chemistry|இயற்பிய வேதியியல்|
+physical properties|இயற் பண்புகள்|
+physical sciences|இயற்பிய அறிவியல்கள்|natural sciences - இயற்கை அறிவி்யல்கள்
+physically dry habitat|இயலுலர் வாழிடம்|
+physicist|இயற்பியர்|
+physicochemical|இயல்வேதி|
+physics|இயற்பியல்|
+physiocracy|இயலாட்சியம்|
+physiological|உடற்செயலிய |
+physiological barrier|உடற்செயலியத் தட்டி|
+physiological character|உடற்செயலியப் பண்பு|
+physiological role|உடற்செயலியப் பங்கு|
+physiologically dry habitat|உடற்செயலிய உலர்வாழிடம்|
+physiology|உடற்செயலியல்|
+physiotherapist|உடலியச்சிகிச்சையாளர்|
+physiotherapy|உடலியச்சிகிச்சை|
+-phyta|-தாவரன|
+-phyte|-தாவரம்|
+-phytina|-தாவரின|
+phytochemistry|தாவரவேதியியல்|
+phytochrome|தாவரநிறமி|
+phytogerontology|தாவரமூப்பியல்|
+phytohemagglutinin|தாவரசெவ்வணுதிரட்டி|
+phytomonas|தாவரவலகியம்|
+phytoplankton|தாவர நுண்ணலைவன்|
+phytoremediation|தாவரமீள்சீராக்கம்|
+pi|பை (கிரேக்க எழுத்து)|
+piamater|உள் மூளையுரை|
+picnic|உலாவூண்|மகிழுலா - tour
+pico-|பீக்கோ-|
+pie chart|வட்ட வரிவரைவு|
+piecewise|துண்டுதுண்டான|
+piedra|பேடிரா|
+pier|தூண்துறை|
+Pierre Curie|பியர் கியூரி|
+piezoelectric|அழுத்தமின்|
+pig|பன்றி|
+pig iron|வார்ப்பிரும்பு|
+pigeon|புறா|
+pigeon chest|புறாமார்பு|
+piggery|பன்றிவளர்ப்பு|
+piggyback|முதுகேறல்|
+pigment|நிறமி|chromosome - மரபுமெய்யம்
+pigmentation|நிறமியாதல்|
+pigmented retina|நிற விழித்திரை|
+pile (construction)|அடித்தூண்|
+pile of plates (optics)|தட்டடுக்கு (ஒளியியல்)|
+pili|முடியிழைகள்|
+pill|குளிகை|
+pillow|தலையணை|cushion - மெதுவணை
+pilot|வலவன்|
+pilus|முடியிழை|
+pimelic acid|பிமலிக அமிலம்|
+PIN (personal identification number)|தகாண் (தனியாள் இனங்காணல் எண்)
+pin hinge|ஊசிக்கீல்|
+pin mold|ஊசிக்காளான்|
+pincers|குறடு|
+pineal|பினியல்|
+pink|செந்நீலம்|
+pinna|இறகு (தாவரவியல், விலங்கியல், உடலமைப்பியல்)|wing - சிறகு
+pinnately compound leaves|இறகுக் கூட்டிலைகள்|
+pinnately parallel|இறகிணையான|
+pinnately reticulate|இறகுவலை|
+pinocytosis|அணுவருந்தல்|
+pin-out|ஊசிவெளியீடு|
+pioneer|முன்னோடி|
+pipette|குழலளவி|
+pisciculture|மீன்வளர்ப்பு|
+pistil|சூலலகு|
+pistillate|பெண்மலர்|
+piston|உந்துதண்டு|
+pisum sativum|பைசம் சட்டைவம்|
+pit chamber|குழியறை|
+pit membrane|குழிச்சவ்வு|
+pit viper|பள்ள விரியன்|
+pitch (music)|சுருதி|tone - சுரம்
+pitch (slope)|சரிவு|slope - சாய்வு
+pitch factor|சரிவுக் காரணி|
+pitcher|கெண்டி|
+pith|நெட்டி|
+pitless viper|பள்ளமற்ற விரியன்|
+pitted|குழிய|
+pituitary gland|பிட்டூட்டரி சுரப்பி|
+pityrosporum|தோலுமியாக்கி|now malassezia
+pivot|சுழலம்|
+pivot pin|சுழல ஊசி|
+pixel|படவலகு|
+pK|சமநிலைச் சுட்டெண்|equilibrium constant - சமநிலை மாறிலி
+pKa|அமிலச் சமநிலைச் சுட்டெண்|
+placenta|சூலொட்டுதிசு|
+placentalia|சூலொட்டுதிசுவன|
+placentation|சூலொட்டுமுறை|
+placoderm|தட்டுடைய தோலி|
+placoid|தகடனையம்|
+plagiogeotropism|புவிச்சாய்வியக்கம்|
+plague|கொள்ளைநோய்|epidemy - நோய்வெடிப்பு
+plain text|இயல்புரை|
+plains|சமவெளி|
+plan |திட்டம்|
+Plan Holiday|திட்ட விடுமுறை|
+planar|சமதள|
+planaria|தட்டையுயிரிகள்|
+Planck's constant|பிளாங்கின் மாறிலி|
+planctomyces|மிதவைப்பூஞ்சையம்|aka blastocaulis
+plane (aeroplane)|வானூர்தி|
+plane (surface)|சமதளம்|
+plane mirror|சமதள ஆடி|
+plane polar|சமதளத் துருவ|
+plane polarized light|சமதள முனையுற்ற ஒளி|
+plane surveying|சமதள நிலமளப்பு|
+planet|கோள்|
+planing|தளமாக்கல்|
+plankton|நுண்ணலைவன்|அலைந்து திரியும் நுண்ணுயிரி
+planning by inducement|தூண்டுத் திட்டமிடல்|
+planococcus|தட்டைமணியம்|
+plant domestication|தாவர வீட்டுப்பழக்கல்|
+plant kingdom|தாவரப் பேரரசு|
+plant movement|தாவர இயக்கம்|
+plant press|தாவர அழுத்தி|
+plantae|தாவரரசு|
+plantlet|தாவரக்கன்று|
+planulae|தட்டையன|
+plaque|பிளேக்கு|
+plasma|குழைமம்|
+plasma cell|குழைமவணு|
+plasma membrane|உயிரணுச் சவ்வு|
+plasmalogen|குழைமமாக்கி|
+plasmapheresis|குழைமவெளியெடுத்தல்|
+plasmid|பெருக்கனடி|
+plasmodesmata|அணுவிணையிழை|அணு + இணைப்பு + இழை
+plasmodium|குழைமமனையம்|
+plasmogamy|குழைமச் சேர்க்கை|
+plasmolysis|நீர்மச்சுருக்கம்|
+plaster of Paris|பாரிசச் சாந்து|
+plastic adj|நெகிழ்ம|
+plastic n|நெகிழ்மம்|
+plastic property|நெகிழ்மப் பண்பு|
+plastic range|நெகிழ்ம வீச்சு|
+plasticity|நெகிழ்மை|elasticity - இழுமை; elastic - இழுமம்
+plasticizer|நெகிழ்மமாக்கி|
+plastid|கணிகம்|
+platelet|தட்டுவம்|
+platform|நடைமேடை|
+platform (computer)|செயற்பாட்டுமேடை|
+platinum|பிளாட்டினம்|
+Plato|பிளாட்டோ|
+platter|நீள்தட்டு|
+platy|தட்டைமீன்|
+platyhelminthes|தட்டுப்புழுவங்கள்|
+platypus|தட்டடியன்|
+platysma|தட்டனைய தசை|
+play (music)|வாசி (இசை)|
+playback|வாசித்தளி|
+plead|முறையிடு|
+pleated  |அலைமடி |
+pleated sheet|அலைமடித் தகடு|
+pleiotropic gene|பலவிளைவு மரபணு|
+pleiotropism|பலவிளைவியம்|
+pleomorphic|மாறுவடிவ|
+plerome|நிரப்பம்|
+pleura|நுரையீரலுறை|
+pleural cavity|நுரையீறலுறைக் குழி|
+pleural fluid|நுரையீரலுறைப் பாய்மம்|
+pleural membrane|நுரையீரலுறைச் சவ்வு|
+pleurisy|நுரையீரலுறையழற்சி|
+pleuritis|நுரையீரலுறையழற்சி|
+pleuron|நுரையீரலுறைகள்|
+pleuropneumonia|நுரையீரலுறைநிமோனியா|
+plexus|நரம்புப்பின்னல்|
+plinth|தூணடி|
+ploidy|மரபெண்|
+plotter|வரைவி|
+ploughed-and-tongued joint|உழுநாவிணைப்பு|
+ploysepalous|இதழிணையா|
+plug (electricity)|பொருத்தி (மின்சாரம்)|socket - பொருந்தி; fastener - மாட்டி
+plug compatible manufacturer (PCM)|பொருத்தி ஒவ்வுமையான உற்பத்தியாளர் (பொவுவு)
+plumb line|குண்டுநூல்|
+plumb rule and bob|குண்டுநூல்|
+plumbane|ஈயமேன்|
+Plumbicon|பிளம்பிகான்|
+plumbing|நீர்க்குழாயமைப்பு|
+plumule|முளைக்குருத்து|
+pluripotent|பலவாற்றல்|
+Pluto|புளூட்டோ|
+Pluto|புளூட்டோ|
+plutonium|புளுட்டோனியம்|
+Plymouth rock|பிளிமத்துப் பாறை|
+plywood|ஒட்டுப்பலகை|
+PMOS (p-type metal oxide semiconductor)|நேவுமூகு (நேரிய உலோக மூச்சியைடு குறைகடத்தி)
+pn junction|நேரெதிர் சந்தி|
+pn junction diode|நேரெதிர் சந்தி இருமின்வாய்|
+pneumatic|வளியழுத்த|
+pneumatic caisson|வளியழுத்தக் கேசியன்|
+pneumatocyst|மிதவைப் பொக்களம்|
+pneumatophore|காற்றுநோக்கி|
+pneumococcal pneumonia|நிமோமணிய நிமோனியம்|
+pneumococcus|நிமோமணியம்|
+pneumonia|நிமோனியா|
+pneumonic plague|நிமோனியக் கொள்ளைநோய்|
+pneumotaxic center|மூச்சுச்சீராக்க மையம்|
+pnp transistor|நேரெதிர்நேர் மாற்றடையன்|
+poaching|தகாவேட்டை|
+pod|பேழை|
+podocyte|பாதவுயிரணு|
+pOH|காரச் சுட்டெண்|
+poikilothermic|பலவெப்ப|
+point defect|புள்ளிக் குறைபாடு|
+point mutation|புள்ளி விகாரம்|
+point of incidence|படுபுள்ளி|
+point of sale|விற்பனைமுகம்|
+point of sale|விற்பனையிடம்|
+point of view|கண்ணோட்டம்|
+pointer|சுட்டி|
+poise (viscosity)|பாயிசு|
+Poiseuille's equation|பாசுவீயரின் சமன்பாடு|
+poison duct|நச்சு நாளம்|
+poison gland|நச்சுச் சுரப்பி|
+poisonous organisms|நச்சுடை உயிரிகள்|
+Poisson|பாசான்|
+Poisson distribution|பாசான் பரவல்|
+poker|குத்தூசி|
+polar|முனையுள்ள|
+polar angle|துருவக் கோணம்|
+polar axis|துருவ அச்சு|
+polar body|முனையணுவி|
+polar bond|முனையுள்ள பிணைப்பு|
+polar coordinate|துருவ ஒருங்களவு|
+polar effects|முனைய விளைவுகள்|
+polar nuclei|முனைய அணுக்கருக்கள்|
+polar satelite|துருவத் துணைக்கோள்|
+polar satellite launch vehicle (PSLV)|துருவத் துணைக்கோளேவு வண்டி (துதுவ)
+polar solvent|முனையுள்ள கரைப்பான்|
+Polaris|துருவமி|
+polarity|முனையம்|முனைமம் - innovation
+polarizability|முனையுறுமை|
+polarizable|முனையுறு|முனைவுறு தவறு; முனைவு - முயற்சி
+polarization|முனையுறுதல்|
+polarized|முனையுற்ற|
+polarizer|முனையுறுத்தி|
+polarizing angle|முனையுறு கோணம்|
+Polaroid|போலராயிடு|
+Polenske number|பொலஞ்சுகியின் எண்|
+police department|காவல் துறை|
+policy|கொள்விதி|
+policy (insurance)|காப்பிதழ்|
+policy making|கொள்விதியாக்கம்|
+polimerase|பன்மமாக்கலூக்கி|
+polio|பிள்ளைவாதம்|aka poliomyelitis
+poliomyelitis|பிள்ளைவாதம்|aka polio
+Polish notation|போலந்து குறியீடு|
+political power|அரசியல் திறன்|
+poll n |வாக்கெடுப்பு|
+poll v|வாக்கெடு|
+pollen|மகரந்தம்|
+pollen basket|மகரந்தக்கூடை|
+pollen grain|மகரந்தத் துகள்|
+pollen sac|மகரந்தப்பை|aka anther
+pollen tube|மகரந்தக் குழல்|
+pollex|முதல்விரல்|
+pollination|மகரந்தச் சேர்க்கை|
+pollutant adj|மாசுறுத்த|
+pollutant n |மாசுறுத்தி|
+polluted |மாசுற்ற|
+pollution|மாசுறுதல்|doping - மாசூட்டல்
+polonium|பொலோனியம்|
+poly X female|மிகைப்பெண்|aka metafemale
+polyacrylamide gel|பலவக்கிரைலமைடு களி|
+polyadephous stamens|பலகற்றை மகரந்தத்தாள்கள்|
+polyalkene|பன்மவால்க்கீன்|
+polyalthia|நெட்டிலிங்கம்|
+polyandrous|இழையா மகரந்தத்தாள்கள்|
+polyatomic|பலவணு|
+polyatomic molecule|பலவணு மூலக்கூறு|
+Polychaeta|பலசுணையுடலிகள்|
+polychasium|பலபிரிவன்|
+polychlorinated biphenyl (PCB)|பலகுளோரினிட்டவிருபினைல் (பகுபி)
+polycyclic adj|பலசுழல்|
+polycyclic aromatic compounds|பலசுழல் அரோமாட்டியச் சேர்மங்கள்
+polycyclic compound|பலசுழல் சேர்மம்|
+polycyclic n|பலசுழலி|
+polycythemia|குருதியணுமிகல்|
+polydipsia|அதிதாகம்|
+polyene|பலவீன்|
+polyethylene|பன்மவெத்திலீன்|
+polygalacturonan|பலபாலுரனன்|
+polygalacturonase|பலபாலுரனூக்கி|
+polygamous (botany)|பலபால்|
+polygenic|பலமரபணு|
+polygenic inheritance|பலமரபணு மரபுபெறல்|
+polygon|பலகோணம்|
+polyhedron|பன்முகி|
+polymer |பன்மம்|
+polymer science|பன்மமறிவியல்|
+polymerization|பன்மமாக்கல்|
+polymorphic|பலவடிவ|
+polymorphism|பலவடிவுமை|
+polymorphonuclear|பலவடிவக்கரு|
+polymorphonuclear leucocyte|மணித்துகளணு|aka granulocyte
+polynomial (expression)|பல்லுறுப்புக்கோவை|
+polynucleate|பலகருவின|
+polynucleotide|பலவணுக்கருவைடு|
+polyp|பாலிப்பு|
+polypeptide|பலபுரதை|
+polypetalae|பலவிதழின|
+polyphagia|மிகைவிழுங்கல்|
+polyphase|பன்முகநிலை|
+polyphase system|பன்முக அமைப்பு|
+polyphenol oxidase|பலபினால் மூச்சியைடூக்கி|
+polyploidy|பன்மைமெய்யம்|
+polyribosome|புரதமாக்கித் தொகுப்பு|aka polysome
+polysaccharide|பலசர்க்கரைடு|
+polysome|புரதமாக்கித் தொகுப்பு|aka polyribosome
+polysomic|எண்மாறுமெய்ய|
+polystyrene|பன்மப்பினித்தீன்|
+polyunsaturated fatty acids|பலதெவிட்டாத கொழுப்பமிலங்கள்
+polyurea|மிகைச்சிறுநீர்|
+polyvinylchloride (PVC)|பன்மவைனில்குளோரைடு (பவைகு)
+pome|விதைக் கூடுள்ள சதைக்கனி|
+pomfret|வாவல்|
+pomology|கனியியல்|
+pond|குளம்|lake - ஏரி
+pons|நரம்புப் பாலம்|
+pons varolii|வரோலி பாலம்|
+pool|குட்டை|
+pooler|குட்டையிடுவி|
+pop|தெரித்தெடு|
+pop up|தெரித்தெழு|
+populate|குடிபரவு|
+population|இனத்தொகை|மக்கட்டொகை - human population
+population explosion|இனத்தொகை வெடிப்பு|
+population genetics|இனத்தொகை மரபியல்|
+popup menu|தெரித்தெழு பட்டி|
+porcelain|பீங்கான்|
+pore|துளை|
+porifera|துளையுடலிகள்|
+pork|பன்றிக்கறி|
+pornography|காமவூடகம்|
+porogamy|துளைவழிச்சேர்க்கை|
+porous pot|நுண்துளைப் பாண்டம்|
+porphyrin|பார்பிரின்|
+port|துறைமுகம்|
+portability|பெயரத்தகுமை|
+portable|பெயரத்தகு|
+Portable Operating System Interface for Computer Environments (POSIX)|கணினி சூழல்களுக்கான பெயரத்தகு செயற்பாடமைப்பு (கசுபெசெ)
+portal|நுழைவம்|
+portal circulation|நுழைவச் சுற்றோட்டம்|
+portal system|நுழைவமைப்பு|
+Portland|போர்ட்டிலாந்து|
+portrait|முகப்படம்|landscape - நிலப்படம்
+position|இடநிலை|
+position isomerism|இட மாற்றியம்|
+positive|நேர்ம|
+positive catalyst|நேர்ம வினையூக்கி|
+positive chemotaxis|வேதித்தூண்டல் ஈர்ப்பு|
+positive curvature|நேர்ம வளைவம்|
+positive feedback|நேர்மப் பின்னூட்டம்|
+positive geotropism|புவிநாடியக்கம்|
+positive integers|நேர்ம முழுவெண்கள்|
+positive interaction|நன்மையுறு இடைவினை|
+positive numbers|நேர்ம எண்கள்|
+positive phototropism|நேர்ம ஒளிநாட்டம்|
+positive rays|நேர்மக் கதிர்கள்|
+positive staining|நேர்மச் சாயமிடல்|
+POSIX (Portable Operating System Interface for Computer Environments)|கசூபெசெ (கணினி சூழல்களுக்கான பெயரத்தகு செயற்பாடமைப்பு)
+possession|உடைமை|
+possibility|சாத்தியம்|
+post (construction)|கால் (கட்டுமானம்)|
+post (internet)|இடுகை|
+postcava|கீழ்ப்பெருஞ்சிரை|
+poster|சுவர்ப்படம்|mural - சுவர்வரைவு
+posterior (botany)|மேற்பகுதி (தாவரவியல்)|
+posterior compartment|பிற்தடுப்பறை|
+posterior mesenteric artery|கீழ்க் குடற்றாங்கித் தமனி|
+posterior muscle|பின்தசை|
+postfix|பின்னொட்டு|
+posting|எடுத்தெழுதுதல்|
+postmating isolation|கலவிப்பின் தனிமையாதல்|
+postpatagium|பின்தோற்செட்டை|
+post-transcription modification|நகலெழுதுபின் மாற்றமைவு|
+postulate|உரைகோள்|axiom - அடிகோள்
+potable|குடிதகு|
+potable water|குடிதகு நீர்|
+potassium|பொட்டாசியம்|
+potential (physics)|ஆற்றநிலை|
+potential (prospective)|வரத்தக்க|
+potential energy|ஆற்றநிலை ஆற்றல்|
+potential gain|வரத்தக்க பெறுமம்|
+potentiometer|ஆற்றநிலையளவி|
+poultry|பறவைவளர்ப்பு|
+poverty|வறுமை|
+poverty alleviation programme|வறுமை நிவாரணத் திட்டம்|
+poverty line|வறுமைக் கோடு|
+power (mathematics)|அடுக்கு|
+power (physics, administration)|திறன்|
+power factor|திறன் காரணி|
+power function|அடுக்குச் சார்பு|
+power house|மின் உற்பத்தி நிலையம்|
+power law|அடுக்கு விதி|
+power of lens|ஒளிவில்லையின் திறன்|
+power plant|மின்னிலையம்|
+power set|அடுக்குக் கணம்|
+power supply|மின்திறனளிப்பு|
+pox|அம்மை|
+pozzolana|பொசலானா|
+ppm (part per million)|இவொப (இருமடியாயிரத்தில் ஒரு பங்கு)
+ppt (parts per thousand)|ஆவொப (ஆயிரத்தில் ஒரு பங்கு|
+practical|நடைமுறை|
+practice (professional)|தொழிலாற்றல்|
+Pradhan Mantri Gramodaya Yojana (PMGY)|தலைமையமைச்சரின் கிராம நலன் திட்டம்
+pragmatics|நடைமுறையியல்|
+praseodymium|பிரசோடிமியம்|
+prawn|இறால்|
+preamble|முகப்புரை|preface - முகவுரை
+Precambrian supereon|தொன்மைமுந்திய மாபேரூழி|
+precaution|முன்னெச்சரிக்கை|
+precava|மேற்பெருஞ்சிரை|aka superior vena cava
+precedence|முன்னிகழ்வு|
+precedence rules|முன்னிகழ்வு விதிகள்|
+precipitate|வீழ்படிவு|
+precipitation|வீழ்படிதல்|
+precipitator|வீழ்படிவிப்பி|
+precipitin|வீழ்படிதம்|
+precision|துல்லியம்|
+precompile|முன்தொகுப்பிடு|
+precursor|முன்வைப்பி|
+predation|கொன்றுண்ணல்|
+predator|கொன்றுண்ணி|
+predefined|முன்வரையறு|
+predict|முன்னறி|forecast - முன்னறிவி
+prediction|முன்னறிதல்|
+preembryo|முளைக்கருமுன்னோடி|
+preen gland|எண்ணெய்ச் சுரப்பி (பறவையியல்)|aka uropygial gland
+preerythrocytic cycle|புறச்சிவப்பணுச் சுழற்சி|aka exoerythrocytic cycle
+preface|முகவுரை|preamble - முகப்புரை
+preference|முன்விருப்பம்|
+preferred share|முன்விருப்பப் பங்கு|
+prefix|முன்னொட்டு|
+preformation|முன்னுருவாக்கம்|
+preformation theory|முன்னுருவாக்கக் கோட்பாடு|
+prefrontal area|செயல் திட்ட ஏற்றரங்கு|
+pregnancy|கருவுறுநிலை|
+pregnant|கருவுற்ற|
+preimage of a function|சார்பின் முன்னுரு|
+preinitiation complex|துவக்கமுன் கூட்டுமம்|
+preliminary|முன்னெளிய|
+preloaded|முற்சுமத்திய|
+premating isolation|கலவிமுன் தனிமையாதல்|
+premature|முதிருமுன்|
+premature infant|முதிருமுன் பிறந்த குழந்தை|
+premature ventricular contraction|இதயக்கீழறை முன்குறுங்கல்|
+premenstrual|மாதவிடாய் முன்பான|
+premium|மிகைப்படி|
+premium (insurance)|காப்புப்படி|
+premolar|முன்கடைவாய்ப் பல்|
+premotor area|முன்னுந்துவப் பகுதி|
+prenatal|முற்பேறுகால|
+prepaid|முன்செலுத்திய|
+preparative ultracentrifuge|தயாரிப்பு மிகைச்சுழல்வீழ்த்தி|
+preparedness|ஆயத்தமாயிருத்தல்|
+prepatagium|முன்தோற்செட்டை|
+preprinted|முன்னச்சிட்ட|
+preprocessor|முன்னலசி|
+preprocessor directive|முன்னலசி நெறியுறுத்தம்|
+prepuce|முன்தோல்|
+preputial gland|முன்தோற் சுரப்பி|
+presbyopia|மூப்புப்பார்வை|
+presence of mind|மன முன்னிலை|
+presentation|தோன்றளித்தல்|
+preservation|கேடுறாக்காத்தல்|
+preservation of energy|ஆற்றல் கேடுறாக்காத்தல்|
+preservative|கேடுறாக்காப்பி|
+preserve (imperative)|கேடுறாக்காக்க|
+preserve (verb root)|கேடுறாக்கா|
+preserved|கேடுறாக்காத்த|
+preset|முன்னுளதாக்கிய|
+president|அதிபர்|
+pressure|அழுத்தம் (வளிமம்)|
+pressure gradient|அழுத்தச் சாய்வு|
+pressure head|அழுத்த உயரம்|
+pressure potential|அழுத்த ஆற்றநிலை|
+prevention|தடுத்தல்|
+preventive maintenance|தடுப்புப் பேணுதல்|
+preview|முன்பார்வை|
+Prevost's theory|பிரிவோசின் கோட்பாடு|
+price|விலை|
+price index|விலைச் சுட்டெண்|
+pricing|விலையிடல்|
+primaquine|பிரைமாகுவின்|
+primary  |முதன்மை |
+primary bronchus|முதன்மைச்சிறுகுழல்|
+primary capillary network|முதன்மை நுண்குழல வலையம்|
+primary carbon|முதன்மைக் கரிமம்|
+primary constriction|முதன்மை ஒடுக்கம்|
+primary consumer|முதன்மை நுகர்வோர்|
+primary education|முதன்மைக் கல்வி|
+primary electric cell|முதன்மை மின்கலம்|
+primary follicle|முதன்மை குழிப்பை|
+primary function|முதன்மைச் செயற்பாடு|
+primary halide|முதன்மை உப்பாக்கைடு|
+primary memory|முதன்மை நினைவகம்|aka main memory
+primary pentane|முதன்மை ஐந்தவேன்|
+primary root|முதன்மை வேர்|
+primary sexual character|முதன்மை பாலினப் பண்பு|
+primary structure|முதன்மைக் கட்டமைப்பு|
+primary transcript|முதன்மைப் படிநகல்|
+primase|முதன்மியூக்கி|
+primate|உயருயிரி|
+prime minister|தலைமையமைச்சர்|chief minister - முதலமைச்சர்
+prime numbers|பகா எண்கள்|
+primer|தொடக்கி|
+primeval|முதற்கால|
+priming|தொடக்கல்|
+primitive|எளிநிலை|
+primitive cell|எளிநிலைக் கூடு|
+primordial|தொடக்காதி|
+primordial soup|தொடக்காதி குழைமம்|
+principal qunatum number|முதன்மைத் துணுக்க எண்|
+principal value|முதன்மை மதிப்பு|
+principle|கொள்கை|
+printed circuit board (PCB)|அச்சிட்ட மின்சுற்றுப் பலகை (அமிப)
+printer|அச்சிடுவி|
+prion|பிரையான்|freon - பிரீயான்
+prior probability|முற்கோள் சாத்தியக்கூறு|
+priority|முன்னுரிமை |
+priority rules|முன்னுரிமை விதிகள்|
+prism|பட்டகம்|
+privacy|தனியம்|
+private carrier|தனிச் சுமப்பி|
+private dwelling|தனியார் வசிப்பிடம்|
+private sector|தனியார் வணிகத்துறை|
+privitization|தனியார்மயமாக்கல்|
+probability|சாத்தியக்கூறு|நிகழ்தகவு - frequency of occurrence
+probability density function|சாத்தியக்கூறு அடர்வுச் சார்பு|
+probability distribution|சாத்தியக்கூறு பரவல்|
+probability mass function|சாத்தியக்கூறு நிறைச் சார்பு|
+probability sampling|சாத்தியக்கூறு மாதிரிக்கூறெடுப்பு|
+probability theory|சாத்தியக்கூறியல்|
+probe|நுண்ணாய்வி|
+problem|சிக்கல்|
+proboscis|தும்பிக்கை|
+procambium|நீர்மக்குழலாக்கத்திசு|
+procedure|செய்முறை|
+process (analyze)|அலசல்|
+process (method)|வழிமுறை|
+process (phenomenon)|நிகழ்முறை|
+processing |செயலாக்கம் (கணினியியல்)|
+processor|அலசி|
+prochloraceae|முதற்பசுமியனையன|
+prochlorales|முதற்பசுமியைகள்|
+prochloron|முதற்பசுமியம்|
+prochlorothrix|முதற்பசுமுடியம்|
+prochronism|காலமுன்பிழை|
+proctodaeum|மலப்புழை|
+proctoscopy|மலக்குடல்நோக்கல்|
+procure |முதற்கொள்|
+procurement|முதற்கொள்ளல்|
+procurement cost|முதற்கொள் ஆக்கவிலை|
+prodigal|சிக்கனமற்ற|
+producer|உற்பத்தியாளர்|
+product (chemistry)|விளைபொருள்|
+product (manufacturing)|உற்பத்திப் பொருள்|
+product (math)|பெருக்கற்பலன்|
+product catalog|விற்பொருட் பட்டியல்|
+product formulae|பெருக்கல் வாய்ப்பாடுகள்|
+product law|பெருக்கல் விதி|
+product of sums|கூட்டல்களின் பெருக்கல்|கூட்டல் கூட்டற்பலனைக் குறிப்பதால் ஆகுபெயர்
+product term|பெருக்கலுறுப்பு|
+productive insects|பலன்தரு பூச்சிகள்|
+proenzyme|ஊக்கிப்புரதமாக்கி|aka zymogen
+profession|தொழில்|
+professional|தொழிலர்|
+profit|பெறுமம் (வணிகம்)|loss - இழப்பு
+profit and loss|பெறுமமும் இழப்பும்|
+profit and loss account|பெறும இழப்புக் கணக்கு|
+profit margin|பெறும அளவு|
+profitability|பெறுமத்தன்மை|
+profundus|ஆழமைத் தசை|
+progamete|இனவணுவாக்கி|
+progenitor|உண்டாக்கி|
+progesterone|இளந்தாங்கு முன்னியக்குநீர்|
+proglottis|புழுக்கூறு|
+program (administrative)|செய்திட்டம்|
+program (computer)|நிரல் (கணினியி்யல்)|column (table, matrix) - நெடுக்கை
+program evaluation and review technique (PERT)|செய்திட்ட மதிப்பறிதலும் மீள்பார்வையுமான செய்நுட்பம் (செமமீசெ)
+programmable|நிரலாக்கத்தகு|
+programmable read only memory (PROM)|நிரலாக்கத்தகு படிக்கவே நினைவகம் (நிபநி)
+programme|பணித்திட்டம்|
+programmed cell death|திட்டமிட்ட அணுச்சாவு|
+programmer|நிரலர்|
+programming (computer)|நிரலாக்கம்|
+programming language|நிரல்மொழி|
+progression|உறவுத்தொடர்|
+progressive|வளர்வீத|
+progressive tax|வளர்வீத வரி|
+progressive wave|தொடரலை|
+prohibition|தடையுறுத்தல்|
+prohibition writ|தடையுறுத்து நீதிப்பேராணை|
+project|திட்டப்பணி|
+project management|திட்டப்பணி மேலாண்மை|
+project Tiger|புலித் திட்டப்பணி|
+projectile|எய்பொருள்|
+projection|வீழ்ப்பு|
+projection formula|வீழ்ப்பு வாய்ப்பாடு|
+projection line|வீழ்ப்புக்கோடு|
+projector|வீழ்ப்பி|
+projector coil|வீழ்ப்பிச் சுருள்|
+prokaryote|அணுக்கருவிலி|
+prolactin hormone|பால்சுரப்புத் தூண்டுநீர்|aka luteotropic hormone, luteotropin, lactogenic hormone, and mammotropin
+proliferate|மிகப்பெருக்கு|
+proliferation|மிகப்பெருக்கம்|
+prolific|மிகப்பெருக்க|
+proline|புரோலின்|
+prolonged|நீடித்த|augmented - மிகுத்த; extended - நீட்டிய
+PROM (programmable read only memory)|நிபநி (நிரலாக்கத்தகு படிக்கவே நினைவகம்)
+promastigote|கசையிழையம்|
+promethium|புரோமிதியம்|
+promise|வாக்குறுதி|assurance - வாக்கீடு
+promote|மேலுயரத்து|
+promoter|மேலுயர்த்தி|
+promotion|மேலுயர்த்தல்|
+promotional advertising|மேலுயர்த்த விளம்பரம்|
+prompt n|தூண்டி (கணினியி்யல்)|fishing rod - தூண்டில்
+prompt v|தூண்டு|
+pronephric|முதற்சிறுநீர |
+pronephros|முதற்சிறுநீரம்|
+proof|நிரூபணம்|
+proof by construction|கட்டுமான நிரூபணம்|
+proof by contradiction|முரண்பாட்டால் நிரூபணம்|
+proof by induction|தூண்டல்வழி நிரூபணம்|
+prop- (propane)|புரோப்பு- (புரோப்பேன்)|
+prop roots|தூண் வேர்கள்|
+propagate|பரவுநட|
+propagated error|பரவுநடந்த பிழை|
+propagation|பரவுநடை|
+propagation delay|பரவுநடை தாமதம்|
+propane|புரோப்பேன்|
+propellant|உமிழுந்தி|
+propeller|சுழலுந்தி|
+proper form|தகுவடிவு|
+proper subset|தகு உட்கணம்|
+proper vector|பான்மைத் திசையன்|
+properdin|அழிவாக்கி|
+property|பண்பு|
+prophage|உடன்பெருக்கி|
+prophase I|முதல் தொடக்கக் கட்டம்|
+prophase II|இரண்டாம் தொடக்கக் கட்டம்|
+prophylactic drug|நோய்த்தடுப்பு மருந்து|
+prophylaxis|நோய்த்தடுப்பியல்|
+propionibacterium|மூன்றாயிகபாட்டீரியம்|
+propionic acid|மூன்றாயிக அமிலம்|
+proportional tax|விகிதவீத வரி|
+proportionality constant|விகிதவீத மாறிலி|
+proportionality theorem|விகிதவீதத் தேற்றம்|
+proposal|முன்மொழிவு|
+propose|முன்மொழி|
+proposition|முன்மொழிதல்|
+propositus|மரபுவழியாதி|
+proprietary|உரிமைத்துவ|
+proprietor|உரிமையாளர்|
+proprietorship|உரிமைத்துவம்|
+propyl|புரோப்பைல்|
+propyne|புரோப்பைன்|
+prorennin|திரளூக்கியாக்கி|
+prosencephalon|முன்மூளை|
+prospect|வருநிலை|
+prospective|வரத்தக்க|
+prospectus|தகவலறிக்கை|
+prostaglandin|மென்தசைச்சுருக்கி|
+prostate|முன்னிலைம|
+prostate duct|முன்னிலைம நாளம்|
+prostate gland|முன்னிலைமச் சுரப்பி|
+prostatic urethra|முன்னிலைம சிறுநீர்ப்புறவழி|
+prosthecochloris|துணைச்சேரிளம்பச்சையம்|
+prosthetic group|துணைச்சேர் தொகுதி|
+prostomium|மேலுதடு|
+protactinium|புரோட்டட்டினியம்|
+protamine|புரதமீன்|
+protandry|மகரந்தமுன்முதிர்வு|
+protease|புரதமூக்கி|
+protect|கா|
+protection|காப்பு|
+protein|புரதம்|
+protein coat|புரதவுறை|
+protein folding|புரத மடிப்பு|
+protein structure|புரதக் கட்டமைப்பு|proteome - புரதவமைப்பு
+protein synthesis|புரதத் தொகுத்தாக்கம்|
+protein yolk|புரதக் கருவுணவு|
+proteinase|புரதவூக்கி|
+proteolysis|புரதப்பகுப்பு|
+proteolytic agent|புரதப்பகுப்பி|
+proteome|புரதவமைப்பு|protein structure - புரதக் கட்டமைப்பு
+proteomics|புரதவமைப்பியல்|
+proteose|புரதோசு|
+Proterozoic eon|உயிர்முன் பேரூழி|
+protesting|எதிர்ப்புத்தெரிவித்தல்|
+prothrombin|உறைதமாக்கி|
+prothrombinase|உறைதமாக்கியூக்கி|
+protista|முதலணுவிகள்|
+protochordates|மூலநாண்முதுகிகள்|
+protocol|விதிமுறை|
+protocooperation|முன்னொத்துழைப்பு|
+protoderm|மேற்றோலாக்கத்திசு|
+protography|சூலகமுன்முதிர்வு|
+proton|புரோட்டான்|
+protonated|புரோட்டானேற்றிய|
+protonema|வித்துமுளை|
+protooncogene|புற்று மரபணு முன்னோடி|
+protoplasm|அணுநீர்மம்|cytoplasm - அணுக்குழைமம்
+protoplast|அணுவடக்கம்|protoplasm - அணுநீர்மம்
+prototheria|ஒற்றைக்கழியன|aka monotremata
+prototype|மாதிரியம்|
+protoxylem|முன்கட்டைத்திசு|
+protozoa|ஒற்றையணுவிகள்|
+protracheata|மென்காலிகள்|aka onychophora and malacopoda
+protractor|கோணளவி|
+protuberance|புடைப்பு|
+proventriculus|முன்னிரைப்பை|
+provitamin|வைட்டமினாகி|
+proximal|அண்மைப்பக்க|
+proximal convoluted tubule|அண்மைப்பக்கச் சிக்கற்குழலம்|
+proximal tubule|அண்மைப்பக்கக் குழலம்|
+proximate cause|அண்மைக் காரணி|
+proximity|அண்மை|
+proxy|பதிலாள்|
+prozone|பசையாப்பகுதி|
+prudence|முன்மதி|
+P-selectin|தட்டுவத் தேர்விணைவி|
+pseudo first order reaction|போலி முதல் முறைமை வினை|
+pseudo heptulose|ஏழுலோசுப் போலி|sedoheptulose - சிடோவேழுலோசு
+pseudo random number|போலி நேர்ந்தவாறான எண்|
+pseudo-code|போலிக் குறி|
+pseudocoelom |போலியுடற்குழி |
+pseudocoelomata|போலியுடற்குழியுள்ளவை|
+pseudomonadaceae|போலியலகியனையன|
+pseudomonas|போலியலகியம்|
+pseudomurein|போலிப்புரதைச்சர்க்கரைடு|
+pseudonocardia|போலிநோக்கார்டியங்கள்|
+pseudophakic|போலிப்பக்கிய|
+pseudopod|போலிக்கால்|
+psi|சை (கிரேக்க எழுத்து)|
+psittacosis|கிளிக்காய்ச்சல்|
+PSLV (polar satellite launch vehicle)|துதுவ (துருவத் துணைக்கோளேவு வண்டி)
+psoas major|தொடைமடக்குத் தசை|
+psychological isolation|மனவியத் தனிமையாதல்|
+psychology|மனவியல்|உளவியல் - espionage
+psychrophile|குளிர்விரும்பி|
+pteraspis|ஓடுடையிறகி|
+pteridophyte|பெரணித்தாவரம்|
+pterosaur|பறவைலி|
+pterygoid|சிறகனைய தசை|
+pteryla|இறகுச்சுவடு|
+ptyalin|வாயூக்கிப்புரதம்|
+p-type metal oxide semiconductor (PMOS)|நேரிய உலோக மூச்சியைடு குறைகடத்தி (நேவுமூகு)
+p-type semiconductor|நேர்ம வகைக் குறைக்கடத்தி|
+puberty|பூப்பு|
+pubis|பூப்பெலும்பு|
+public address system|பொதுக்கூவல் அமைப்பு|
+public sector|பொது வணிகத்துறை|
+publication|பதிப்பு|
+publicity|விளம்பம்|
+publish|பதிப்பி|
+publishing|பதிப்பித்தல்|
+puccinia|துருப்பூஞ்சை|
+pudendum|புடண்டம்|
+puerperal|பிற்பேறுகால|
+puerperium|பிற்பேறுகாலம்|
+puff balls|பொசு பந்துகள்|
+puffer fish|ஊதுமீன்|
+pug mill|குழைப்பு எந்திரம்|
+pulldown menu|கீழிழு பட்டியல்|
+pulley|கப்பி|
+pulmonary|நுரையீரல் பெ.உ|
+pulmonary artery|நுரையீரல் தமனி|
+pulmonary circulation|நுரையீரல் சுற்றோட்டம்|
+pulp cavity|சக்கைக் குழி|
+pulsate|துடியசை|
+pulsation|துடியசைவு|
+pulsation theory|துடியசைவுக் கோட்பாடு|
+pulse|துடிப்பு|
+pulse beetle|பருப்பு வண்டு|
+pulse modulation|துடிப்பு இணக்கேற்றம்|
+pulvinus|மெதுப்பு|
+pumice|நுரைக்கல்|
+pump|ஏற்றி|
+punch|துளையிடு|
+punched dressing|துளையால் அழகுறுத்தல்|
+punctum|நீட்சிமுனை|
+pupa|கூட்டுப்புழு|
+pupil|கண்பாவை|
+purchase|கொள்முதல்|
+pure culture|தூய நுண்வளரி|
+purgative|வெளிப்போக்கி|
+purge|முழுநீக்கு|
+purification|தூய்மையாக்கல்|
+purine|பியூரின்|furan - பியூரான்
+purity of gametes|இனவணுக்களின் தூய்மை|
+purkinje fiber|பர்க்கைன் இழை|
+purlin|தூலகவிட்டம்|
+purple|செவ்வூதா|
+purple of cassium|கேசியச் செவ்வூதா|
+purposive sampling|நோக்கமுடைய மாதிரிக்கூறெடுப்பு|aka judgement sampling
+push|தள்ளு|
+push pull|தள்ளலும் இழுத்தலும்|
+pustule|சீழ்க்கொப்புளம்|
+put option |அளி விருப்புமை|
+putty|சுதைக்குழை|
+puzzle|சிக்கலாட்டம்|
+PVC (polyvinylchloride)|பவைகு (பன்மவைனில்குளோரைடு)
+pydidoxal|பிரிடாச்சல்|
+pygidium|வாலம்|
+pyloric region|குடற்பக்கப் பகுதி|
+pyloric sphincter|குடற்பக்க இடுக்கி|
+pyloric stomach|குடற்பக்க இரைப்பை|
+pyogenes|சீழாக்கிகள்|
+pyogenic|சீழாக்க|
+pyramid|நாற்கூம்பு|
+pyrenoid|கொட்டையனையம்|
+pyrethrum cresol|பைரித்திரம் கிரசால்|
+pyridine|பிரிடீன்|
+pyridoxal phosphate|பிரிடாச்ச பாசுவேட்டு|
+pyridoxine|பிரிடாச்சின்|
+pyrimethamine|பிரிமீத்தமீன்|
+pyrimidine|பிரிமிடீன்|
+pyrogallol|எரிகாலிகால்|
+pyrogen|காய்ச்சலாக்கி|
+pyrolysis|வெப்பச்சிதைவு|
+pyrophosphate|எரிபாசுவேட்டு|
+pyrophosphoric acid|எரிபாசுவரிக அமிலம்|
+pyrrole|பைரோல்|
+pyrulium|பிரிலியம்|
+pyruvate|பைருவேட்டு|
+pyruvic acid|பைரூவிக அமிலம்|
+Pythagoras|பிதாகரஸ்|
+Pythagoras' theorem|பிதாகரசின் தேற்றம்|
+Q wave|சவ்வலை|P wave - கவ்வலை; Q wave - சவ்வலை; R wave - தவ்வலை
+QED (quod erat demonstrandum)|இநிவே (இதுவே நிரூபிக்க வேண்டியது)
+Q-factor|த-காரணி|
+quad universal LNB|குவாடு அனைத்துவக் குறையிரைச்சற்கட்டி
+quadrant |காற்பகுதி|
+quadrate lobe (liver)|சதுரமடல் (கல்லீரல்)|
+quadratic|இருபடி|
+quadratic polynomial|இருபடிப் பல்லுறுப்புக்கோவை|
+quadratus muscle|நாற்கோணத் தசை|
+quadriceps|நாற்றலைத் தசை|நான்கு + தலைத் தசை
+quadriceps femoris|கால்நீட்டுத் தசை|
+quadrifoliate|நாலங்கை|
+quadrilateral|நாற்கரம்|
+quadrillion (short scale)|ஐமடியாயிரம்|
+quadrupole|நான்முனை|
+quake|நிலநடுக்கம்|
+qualitative|பண்புசார்|
+qualitative analysis|பண்புசார் பகுப்பாய்வு|
+quality control|தரக் கட்டுப்பாடு|
+quality factor|தரக்காரணி|
+quantitative|அளவுசார்|
+quantitative analysis|அளவுசார் பகுப்பாய்வு|
+quantum|துணுக்கம்|
+quantum number|துணுக்க எண்|
+quark|குவார்க்கு|
+quartan|நான்குக்கொரு காய்ச்சல்|
+quartan malaria|நான்குக்கொரு மலேரியா|
+quartet|நான்மம்|
+quartile deviation|கால்மான விலக்கம்|
+quartz|படிகக்கல்|
+quasi fluid|குறைப் பாய்மம்|
+quaternary|நான்காமை|
+quaternary carbon|நான்காமைக் கரிமம்|
+Quaternary period|நான்காமைக் காலம்|
+quaternary structure|நான்காமைக் கட்டமைப்பு|
+quattro universal LNB|குவாட்டிரோ அனைத்துவக் குறையிரைச்சற்கட்டி
+quattuordecillion (short scale)|பதினைமடியாயிரம்|
+queen closer|அரசி மூடுகல்|
+queen post|பக்கக்கால்|
+quench|தணி|
+quencher|தணிப்பி|
+query|வினவல்|
+query language|வினவல் மொழி|
+query wizard|வினவல் மாயாவி|
+querying|வினவுதல்|
+questionnaire|வினாப்பட்டியல்|
+queue|வரிசை|sort - முறைமையாக்கு
+quick launch|கடிதேவு|
+quicklime|சுட்ட சுண்ணாம்பு|
+QuickTime|குவிட்டைம்|
+quill|குழற்றண்டு|
+quill feather|கதிரிறகு|
+quincuncial|ஐங்குவிய இதழடுக்கம்|
+quincunx|ஐங்குவியம்|
+quindecillion (short scale)|பதினறுமடியாயிரம்|
+quinic acid|குயினிக அமிலம்|
+quinine|கொயினா|
+quinol|குயினால்|
+quinolinic acid|குயினாலினிக அமிலம்|
+quinone|குயினோன்|
+quinonoid|குயினோனனையம்|
+quinonoid theory|குயினோனனையக் கோட்பாடு|
+quintet|ஐம்மம்|
+quintillion (short scale)|அறுமடியாயிரம்|
+quo warranto|தகுதிவினவு|
+quod erat demonstrandum (QED)|இதுவே நிரூபிக்க வேண்டியது (இநிவே)
+quoin|மூலைக்கோணம்|
+quorum|கோரெண்|
+quotation mark|மேற்கோள் குறி|
+quotient|ஈவு|
+quotient law|வகுத்தல் விதி|
+R- (stereoisomerism)|வ- (வெளியிட மாற்றியம்)|
+&rho; protein|&rho; புரதம்|
+R wave|தவ்வலை|P wave - கவ்வலை; Q wave - சவ்வலை; R wave - தவ்வலை
+rabies|நாய்க்கடி நோய்|நாய்க்கடியால் ஏற்பட்ட நோய்; மூன்றாம் உருபும் பயனும் உடன்தொக்க தொகை
+race|நிறவினம்|
+racemase|ஒளித்திருப்பச்சமமூக்கி|
+raceme|தொடர்நுனியன்|
+racemic|சமத்திருப்ப|
+racemic mixture|சமத்திருப்பக் கலவை|
+racemization|சமத்திருப்பமாக்கல்|
+racemose inflorescence|தொடர்நுனி மஞ்சரி|
+racial equality|நிறவினச் சமத்துவம்|
+radar|வானலையுணரி|
+radial|ஆர|
+radial artery|ஆரவெலும்புத் தமனி|
+radial paper chromatography|வட்டத்தாள் நிறப்பிரிகை|
+radial shake|ஆர விரிசல்|
+radial vein|ஆரவெலும்புச் சிரை|
+radian|ஆரையன்|
+radiata|உருட்சீரன|
+radiator|வெப்பவீசி|
+radical|உறுப்பு (வேதியியல்)|
+radical|மூலக்குறி|
+radicle|முளைவேர்|
+radio|வானலை|இது ஒலியலை அல்லாததால் வானொலி என்பது பொருந்தவில்லை; இவ்வலை வானொலிபரப்புக்காக பயன்பட்டதால் வானலை என்பது பொருத்தம்.
+radio button|வட்டப் பொத்தான்|
+radio echo|வானலை எதிரொளிப்பு|
+radio receiver|வானலை பெறுவி|
+radio reception |வானலை பெறுதல்|
+radioactivity|கதிரியக்கம்|
+radiocarbon|கதிர்க்கரிமம்|
+radiocarbon dating|கதிர்க்கரிமக் காலங்காணல்|
+radiography|வானலைவரைவி|
+radiotherapy|கதிர்ச்சிகிச்சை|
+radium|இரேடியம்|
+radius|ஆரம்|
+radius bone|ஆரவெலும்பு|
+radix|அடியம்|
+radix point|அடியப் புள்ளி|
+radon|இரேடான்|
+raft|தெப்பம்|
+rafter|கைமரம்|
+rail|தண்டவாளம்|
+rail (construction)|கிடைப்பட்டை|
+railway|தண்டுவழி|
+railway reservation system|தண்டுவழி முன்பதிவு அமைப்பு|
+rainbow|வானவில்|
+Rainforest Action Network|மழைவனச் செயல் வலையம்|
+Rainforest Alliance|மழைவன நட்புமை|
+rainwater harvesting|மழைநீர்ச் சேகரிப்பு|
+Rajya Sabha|மாநிலவை|
+raking bond|பல்வரிப்பிணைப்பு|
+Raleigh|ராலி|
+RAM (random access memory)|நேநி (நேரணுகு நினைவகம்)|
+Raman effect|இராமனின் விளைவு|
+Ramsay|ராம்சி|
+Ramsay - Raleigh method|இராம்சியிராலியின் முறை|
+rancidity|சுவைகெடல்|
+random  |நேர்ந்தவாறான|சமவாய்ப்பு - equally likely
+random access|நேரணுகு|aka direct access
+random access memory (RAM)|நேரணுகு நினைவகம் (நேநி)|
+random error|நேர்ந்தவாறான பிழை|
+random event|நேர்ந்தவாறான நிகழ்வு|
+random number|நேர்ந்தவாறான எண்|
+random rubble masonry|நேர்ந்தவாறான சீரற்ற கற்கட்டு|
+random sampling|நேர்ந்தவாறான மாதிரிக்கூறெடுப்பு
+random variable|நேர்வுமாறி|
+randomly|நேர்ந்தவாறு|
+randomness|நேர்ந்தவாறுமை|
+range|வீச்சு|
+range chart|வீச்சு வரிவரைவு|
+range of a function|சார்பின் வீச்சகம்|
+range of signed integer|குறியுடை முழுவெண்ணின் வீச்சு
+ranging (surveying)|இடங்குறித்தல்|
+ranging rod|இடக்குறிப்புத் தண்டு|
+ranikhet|இராணிக்கட்டு|
+rank|தரநிலை|
+ranking|தரநிலையாக்கல்|
+ransom stone|இரான்சம் கல்|
+rape|கற்பழிப்பு|
+raphe|கட்டணை|
+rapport|ஒன்றுணர்வு|
+rare earth elements|புவியருமைத் தனிமங்கள்|
+rash (skin)|சொறி|
+raster|பல்வரி|
+rat flea|எலி தெள்ளை|
+rat snake|சாரைப்பாம்பு|
+ratchet|பற்சுழற்றி|
+rate constant|வினைவேக மாறிலி|
+rate determining step|வினைவேகத் தீர்மானப் படி|
+rate equation|வினைவேகச் சமன்பாடு|
+rate law|வினைவேக விதி|
+rate of reaction|வினைவேகம்|
+rated|தரமிட்ட|
+Rathke's pouch|இராத்திகேயின் பை|
+ratio|விகிதம்|
+ratio analysis|விகிதப் பகுப்பாய்வு|
+ration|பங்களவு|
+rational (reasonable)|காரணவழி|
+rational expression|விகிதமுறு கோவை|
+rational function|விகிதமுறு சார்பு|
+rational numbers|விகிதமுறு எண்கள்|
+rationing|பங்களவிடல்|
+rattle snake|கிலுப்பைப் பாம்பு|
+raw|பண்முன்|
+raw data|பண்முன் தரவு|
+raw material|பண்முன் பொருள்|
+ray of light|ஒளிக்கதிர்|
+ray optics |கதிர் ஒளியியல்|
+rayon|நார்ப்பட்டு|
+RBI (Reserve Bank of India)|இவிவ (இந்திய இருப்புவைப்பு வங்கி)
+reabsorption|மீளுட்கவர்தல்|
+reactant|வினைபொருள்|
+reaction (chemistry)|வேதிவினை|
+reaction (to an action)|எதிர்வினை|
+reaction intermediate|வினையிடைப் பொருள்|
+reaction mechanism|வினைமுறை|
+reaction path |வினைவழி|
+read only memory (ROM)|படிக்கவே நினைவகம் (பநி)|
+read write head|எழுதும் படிக்கும் தலை|
+reader|படிப்பி|
+ready delivery|உடன் கொண்டளிப்பு|
+reagent|வினையாக்கி|catalyst - வினையூக்கி
+reagin|ஒவ்வாமை நோயெதிர்ப்பி|
+real gas|இயல் வளிமம்|
+real image|இயல் நிழலுரு|
+real numbers|மெய்யெண்கள்|
+realAudio|இயற் கேட்பொலி|
+realized gain|பெற்ற பெறுமம்|
+rearragement|மாற்றடுக்கம்|
+rearrange|மாற்றடுக்கு|
+rebated joint|தள்ளிணைப்பு|
+rebating|தள்ளிடல் (தச்சு)|
+reboot|மறுதொடங்கு|
+receipt|பற்றுச்சீட்டு|
+receiving antenna|பெறுதல் அலைவுணரி|
+receptacle (botany)|பூத்தளம்|aka thalamus, torus
+receptor|பெறுவி|acceptor - ஏற்பி
+receptor organ|பெறுவி உறுப்பு|
+recession|ஒடுங்கம்|
+recessive|ஒடுங்கிய|dominant - ஓங்கிய
+recessive epistasis|ஒடுங்கு மேல்நிற்றல்|
+recessive gene|ஒடுங்கு மரபணு|
+recessiveness|ஒடுங்கல்|
+recipient|பெறுனர்|
+reciprocal|தலைகீழி|
+reciprocal cross breeding|இருவழிக் குறுக்கு இனவளர்ப்பு|
+reckoning|கணக்கீடு செய்தல்|
+reclamation|மீட்டெடுத்தல்|
+reclamation disease|மீட்டெடுத்தல் நோய்|
+recoil|பின்னுந்தம்|
+recombinant|மீள்சேர்|recon - மறுசேரி
+recombinant DNA|மீள்சேர்வு அனடி|
+recombination|மீள்சேர்வு|
+recon (biology)|மறுசேரி|recombinant - மீள்சேர்
+reconciliation|சரிகாணல்|
+reconstruction|மறுகட்டுமானம்|
+record|பதிவு|
+recourse|தஞ்சம்|
+recover|மீட்பெறு|
+recovery|மீட்பெறல்|reversibility - மீள்திருப்புமை
+recovery (computer)|காப்புமீட்பு|
+recreation|புத்தூட்டம்|
+recrystallization|மீள்படிகமாக்கல்|
+recrystallize|மீள்படிகமாக்கு|
+rectal cancer|மலக்குடற் புற்று|
+rectangle|செவ்வகம்|
+rectangular coordinate plane|செவ்வக ஒருங்களவு தளம்|
+rectifier|நேராக்கி|
+rectify|நேராக்கு|
+rectifying entry|நேராக்கப் பதிகை|
+rectrices|வாலிறகுகள்|
+rectum|மலக்குடல்|
+recurring|மீள்தொடர்|
+recurring deposit|மீள்தொடர் வைப்பு|
+recursion|தற்சுருள் பெ.|
+recursive|தற்சுருள் பெ.அ|
+recursive relation|தற்சுருள் உறவு|
+recycle|மறுசுழற்சி|
+recycle bin|மறுசுழற்சிப் பெட்டி|
+red blood cell|சிவப்பணு|aka erythrocyte
+red blood corpuscle|சிவப்பணு|aka erythrocyte
+Red Cross|செஞ்சிலுவை|
+red giants|செம்பெருமீன்கள்|
+red marrow|சிவப்பூன்|
+red pulp|சிவப்புச் சக்கை|
+Red Sea|செங்கடல்|
+redeem|பணமீள்|
+redeemable|பணமீள்தகு|reversible - மீள்தகு
+redifferentiation|மீள்வேறுபடல்|
+redirection|திசைதிருப்பல்|
+redox|மூச்சியமேற்றவிறக்கம்|
+redox couple|மூச்சியமேற்றவிறக்க இரட்டை|
+redox potential|மூச்சியமேற்றவிறக்க ஆற்றநிலை
+red-tape|சிவப்பு நாடா|
+red-tapism|சிவப்பு நாடாத்தனம்|
+reducing agent|மூச்சியமிறக்கி|
+Reductio ad Absurdum|முரண்பாடு தருவித்தல்|
+reduction|மூச்சியமிறக்கம்|குறுக்கம் - contraction
+reduction formula|படியிறக்க வாய்ப்பாடு|
+reduction potential|மூச்சியமிறக்க ஆற்றநிலை|
+redundancy|மிகைமம்|
+redundant|மிகைம|
+reed |நாணல்|
+reefer (construction)|பாவுசட்டம்|
+reentrant|மீள்நுழை|
+reexport|மறு ஏற்றுமதி|
+reference (citation)|பார்வையம்|
+reference (computer)|முகடி|முகவரி காட்டி
+reference (origin)|ஆதி|
+refine|பண்படுத்து|
+refined|பண்பட்ட|
+reflect|எதிரொளி|
+reflection|எதிரொளிப்பு|
+reflection symmetry|எதிரொளி சீரொருமை|
+reflector|எதிரொளிப்பி|
+reflex|தன்னிகழ்வு|
+reflex angle|பின்வளை கோணம்|
+reflex arc|தன்னிகழ்வு வில்|
+reflexive|பின்வளை|
+reform|சீர்திருத்தம்|
+refracted ray|முறிகதிர்|
+refraction|ஒளிவிலகல்|
+refractive index|ஒளிவிலகல் எண்|
+refresh|மீளூட்டு|renew - புதுப்பி
+refrigerant|குளிரூட்டி|
+refrigerate|குளிரூட்டு|
+refuse (sanitation)|ஒதுக்கம்|
+regenerate|மீளுருவாக்கு|
+regeneration|மீளுருவாக்கம்|
+region|வட்டாரம்|
+regional|வட்டார |
+regional rural banks|வட்டாரக் கிராம வங்கி|
+register n|பதிவி|registry - பதிவகம்
+register v |பதிவிடு|
+registration|பதிவீடு|
+registration number|பதிவெண்|
+registry|பதிவகம்|
+regma|மூவறைப் பிளவுக் கனி|
+regression|மீள்வீழ்வு|
+regression line|மீள்வீழ்வுக் கோடு|
+regressive|மீள்வீழ்|
+regressive tax|மீள்வீழ் வரி|
+regular polygon|ஒழுங்குப் பலகோணம்|
+regular polygon|சீரான பலகோணம்|
+regular polyhedron|சீரான பன்முகி|
+regularity|சீர்மை|
+regulate|ஒழுங்கமை|organize - ஒருங்கமை; coordinate - ஒருங்கிணை
+regulation (by itself)|ஒழுங்கமைதல்|
+regulation (by something)|ஒழுங்கமைத்தல்|
+regulator|ஒழுங்கமைப்பி|
+regulatory|ஒழுங்கமை|
+regulatory substances|ஒழுங்கமை பொருட்கள்|
+rehabilitation|மறுவாழ்வு|
+rehearsal|ஒத்திகை|
+Reichert-Meissl number|இரைக்கடு மெய்சலின் எண்|
+Reimer-Tiemann reaction|இரீமர்தீமனின் வினை|
+reinfection|மறுகிருமியேற்றம்|
+reinforce|வலிமையூட்டு|
+reinstate|மீட்டமை|
+reinstatement|மீட்டமைப்பு|
+reinstatement policy|மீட்டமைப்புக் காப்பிதழ்|
+Reissner's membrane|நுழைவறைச் சவ்வு|aka vestibular membrane
+reiterate|மீண்டும் கூறு|
+reject|நிராகரி|
+rejection (transplant)|ஏற்பின்மை|
+relation|உறவு|
+relational database|உறவுமை தரவுத்தளம்|
+relational expression|உறவுமைக் கோவை|
+relational operator|உறவுமைச் செயலி|
+relative error|ஒப்புமைப் பிழை|
+relative lowering of vapor pressure|ஒப்புமை ஆவி அழுத்தக் குறைவு
+relative motion|ஒப்புமை இயக்கம்|
+relative path|ஒப்புமைப் பாதை (இலினசு)|
+relative poverty|ஒப்புமை வறுமை|
+relative standard deviation|ஒப்புமைத் திட்ட விலக்கம்|
+relative value (as opposed to absolute value)|ஒப்புமை மதிப்பு|
+relatively|ஒப்பளவில்|
+relativistic|ஒப்புமைசார்|
+relativity|ஒப்புமை|சார்பு - dependence
+relaxin|நெகிழ்தம்|
+relay pump theory|ஏற்றி வரிசைக் கோட்பாடு|
+relieving arch|துணை வளைவு|
+reluctance|மறுப்பம்|
+REM (rapid eye movement) sleep|விகவு (விரைவுக்கண்ணசைவுறக்கம்)
+remediation|மீள்சீராக்கம்|
+remiser|துணைத்தரகர்|
+remodelling|மறுவொப்புருவாக்கம்|
+remote (control)|தொலைவி|
+remote control|தொலைக்கட்டுப்பாடு|
+remote controller|தொலைக்கட்டுப்படுத்தி|
+remote desktop|தொலைப் பணித்தளம்|
+Remote Desktop Connection|தொலைப் பணித்தள இணைப்பு|
+remote sensing|தொலையுணரல்|
+remote sensor|தொலையுணரி|
+remove|நீக்கு|delete - அகற்று; erase - துடை
+remunerate|பணியீடளி|
+remuneration|பணியீடு|பணி + ஈடு
+renal artery|சிறுநீரகத் தமனி|
+renal capsule|சிறுநீரகப் பெட்டகம்|
+renal column|சிறுநீர்த் தூண்|
+renal corpuscle|சிறுநீரகத் தனித்துகள்|
+renal failure|சிறுநீரகச் செயலிழப்பு|
+renal hilum|சிறுநீரக நுழைவடு|
+renal papillae|சிறுநீரகச் சிம்பிகள்|
+renal pelvis|சிறுநீரக இடுப்பு|
+renal portal vein|சிறுநீரக நுழைவச் சிரை|
+renal pyramid|சிறுநீரக நாற்கூம்பு|
+renal regulation|சிறுநீரக ஒழுங்கமைத்தல்|
+renal sinus|சிறுநீரகக் குழிவு|
+renal vein|சிறுநீரகச் சிரை|
+rename|பெயர்மாற்று|
+rendering|உருவளித்தல்|
+René Descartes|ரினே டேகார்ட் |சரியான கிரேக்க உச்சரிப்பு
+renew|புதுப்பி|refresh - மீ்ளூட்டு
+renewable|புதுப்பிக்கவல்ல|
+renewable resources|புதுப்பிக்கவல்ல வளங்கள்|
+renewal|புதுப்பித்தல்|
+renibacterium|சிறுநீரகப்பாட்டீரியம்|
+reniform|சிறுநீரகவடிவ|
+rennin|திரளூக்கி|
+reorder (list)|மறுமுறைமையாக்கு|
+reorder (merchandise)|மறுவருகோள்|
+reorient|மறுதிசையமை|
+reorientation|மறுதிசையமைவு|
+repack |மறுபொதியலிடு|
+repacking|மறுபொதியல்|
+repaint|மீள்பூசு|
+repair|செப்பனிடு|
+repeat i.v|மீண்டும் வா|
+repeat t.v|மீண்டும் செய்|
+repid eye movement (REM) sleep|விரைவுக்கண்ணசைவுறக்கம் (விகவு)
+replace|மீள்வை|
+replace with (text)|மீள்வைப்புரை|search for - தேடுரை
+replacement|மீள்வைப்பு|
+replication|இரட்டித்தல்|
+replication bubble|இரட்டித்தல் குமிழி|
+replication fork|இரட்டித்தல் பிளவு|
+replicon|இரட்டிப்பி|
+report n|அறிக்கை|
+report v|அறிக்கையளி|
+reporting|அறிக்கையளித்தல்|
+reposses|மீட்கவர்|
+repossession|மீட்கவர்தல்|
+representation|நிற்பம்|
+representative|நிற்பாளர்|
+reproduction (biology)|இனப்பெருக்கம்|
+reproduction (physics)|மீளுற்பத்தி|
+reproductive isolation|இனப்பெருக்கத் தனிமையாதல்|
+reproductory system|இனப்பெருக்க அமைப்பு|
+reptilia|ஊர்வன|
+republic|குடியரசு|
+repulsion|விலக்கல்|deviation - விலக்கம்
+rerun|மீளோடு|
+research|ஆய்வு|
+research and development|ஆய்வும் வளராக்கமும்|
+researcher|ஆய்வாளர்|
+reservation|முன்பதிவு|
+Reserve Bank of India (RBI)|இந்திய இருப்புவைப்பு வங்கி (இவிவ)
+reserve capital|இருப்புவைப்பு மூலதனம்|
+reserve n|இருப்புவைப்பு|stock - இருப்பு
+reserve v|முன்பதி|
+reservoir|தேக்கி|
+reservoir vessel|தேக்கிக் குழல்|
+reset|மீளாக்கு|
+residence time|உள்ளுறை காலம்|
+resident|உள்ளுறை|
+resident monitor|உள்ளுறை கண்காணிப்பான்|
+residual magnetism|எச்சக் காந்தம்|
+residual value|எச்ச மதிப்பு|
+residue|எச்சம்|
+resilience|மீண்மை|
+resilient|மீழெழு|
+resin|பிசின்|
+resistance|தடையம்|
+resistance vessel|தடையக் குழல்|
+resistivity|தடைவுமை|
+resistor|தடையி|
+resistors in parallel|பக்க இணைப்பில் தடையிகள்|
+resistors in series|தொடர் இணைப்பில் தடையிகள்|
+resize|அளவுமாற்று|
+resochin|இரிசாச்சின்|
+resolution|தீர்மானம்|
+resolution (instrument)|பகுதிறன்|
+resolution (into components)|அகைபிரித்தல்|
+resolve (into components)|அகைபிரி|
+resonance|ஒத்தலைவு|
+resonance effect|ஒத்தலைவு விளைவு|
+resonance energy|ஒத்தலைவு ஆற்றல்|
+resorcinol|பிசினார்சினால்|
+resource|வளம்|
+Resource for the Future (RFF)|வருங்காலத்துக்கான வளங்கள் (வவ)
+respiration|மூச்சு|
+respiratory chain|மூச்சுக் கோர்வை|
+respiratory passage|மூச்சுப்பாதை|
+respiratory quotient|மூச்சுவிடல் விகிதம்|
+respiratory regulation|மூச்சு ஒழுங்கமைத்தல்|
+respiratory roots|மூச்சுவிடும் வேர்கள்|
+respiratory system|மூச்சமைப்பு|
+respiratory tract|மூச்சுச்சுவடு|
+respiroscope|மூச்சுநோக்கி|
+respond|பதிலளி|
+response|பதில்வினை|
+response error|பதிலளிப்புப் பிழை|
+rest mass|ஓய்வு நிறை|inertial mass - நிலைம நிறை
+rest room|கழிவறை|
+restart|மீள்துவங்கு|
+restaurant|உணவகம்|
+restore|மீளமை|
+restriction endonuclease|வரையறை அகவனவூக்கி|
+restriction enzyme|வரையறையூக்கி|
+restructure|மறுகட்டமைப்பு|
+result|விடை|
+resultant vector|தொகுபயன் திசையன்|
+resuscitation|மீட்டெழுப்பல்|
+retail|சில்லரை விற்பனை|
+retailer|சில்லரை விற்பவர்|
+retaining wall|தடுப்புச் சுவர்|
+retarding potential|வேகங்குறை ஆற்றநிலை|
+rete testis|விந்தணு வலையம்|
+reticular cells|வலையவணுக்கள்|
+reticular layer|வலையகப் படலம்|
+reticulate venation|வலை நரம்பமைப்பு|
+reticuloendothelial|வலையகச்சவ்வு|
+reticuloendothelial cell|வலையக அகச்சவ்வணு|
+reticulum|வலை (உடலமைப்பியல்)|
+retina|விழித்திரை|
+retinal detachment|விழித்திரை பிரிதல்|
+retinene|விழித்திரையல்|
+retinene isomerase|விழித்திரையல் மாற்றியமூக்கி|
+retinol|பிசினால்|Although retinol is associated with retina, the name arises from resin - பிசின்
+retinopathy|விழித்திரைநோய்|
+retire|ஓய்வுறு|
+retirement|ஓய்வுறுதல்|
+retrieve|மீட்பெறு|
+retrofit|பின்பொருத்து|
+retrovirus|மாற்றுவைரசு|
+retting|நார்பிரிதல்|
+return|திருப்பம்|
+return key|திருப்பம் விசை|
+return on investment|முதலீட்டுத் திருப்பம்|
+return statement|திருப்பம் கூற்று|
+reuse|மீள்பயன்|second hand - மறுபயன்
+revaluation|மறுமதிப்பறிதல்|
+revenue|வருவாய்|income - வருமானம்
+revenue transaction|வருவாயின வணிமாற்றம்|
+reverberatory furnace|எதிர்வெப்ப உலை|
+reversal|மீள்திருப்பம்|
+reversal law|மீள்திருப்ப விதி|
+reverse bias|மீள்திருப்பக் கோடல்|
+reverse direction|மீள்திருப்பத் திசை|
+reverse herkogamy|மீள்திருப்பத் தடுப்புத்தடை|
+reverse osmosis|மீள்திருப்பச் சவ்வூடல்|
+reverse transcriptase|மீள்திருப்ப நகலெழுதூக்கி|
+reversibility|மீள்திருப்புமை|மீட்பெறல் - recovery
+reversible |மீள்திருப்பத்தகு|
+reversible cell|மீள்திருப்பத்தகு மின்கலம்|
+review|மீள்பார்வை|
+revise|மீள்திருத்து|
+revoke|மீட்கொள்|
+revolute|பின்சுருண்ட|
+revolving door|சுழற் கதவு|
+rewinding|மீட்சுற்றல்|
+rewrite|மீளெழுது|
+Reynold's number|இரெனால்டின் எண்|
+rhabdovirus|கோல்வைரசு|
+rhamphotheca|அலகுறை|அலகு + உறை
+rhenium|இரீனியம்|
+rheostat|மின்தடை மாற்றி|
+rhesus negative|எதிர்ம இரீசு|
+rhesus positive|நேர்ம இரீசு|
+rhesus type|இரீசு வகை|
+rheumatic arthritis|எலும்புத்தசை மூட்டழற்சி|
+rheumatic fever|எலும்புத்தசைக் காய்ச்சல்|
+rheumatic heart disease|எலும்புத்தசைவலி இதயநோய்|
+rheumatism|எலும்புத்தசைவலி|
+rhinoceros beetle|காண்டாமிருக வண்டு|
+rhinosporidiosis|நாசிவித்தழற்சி|
+rhinosporidium|நாசிவித்து|
+rhizobiaceae|கிழங்கியனையன|
+rhizobium|கிழங்கியம்|
+rhizodermis|வேர்த்தோல்|
+rhizoid|வேரனையம்|
+rhizome|மட்டத்தண்டு|
+rhizopod|வேர்க்காலி|
+rhizopus|இழையப்பூஞ்சை|
+rhizosphere|வேர்க்கோளம்|
+rho|தோ|
+Rhode Island|உரோடு ஐலண்டு|
+rhodium|உரோடியம்|
+rhodomicrobium|உரோசநுண்பாட்டீரியம்|
+Rhodophyceae|சிவப்பால்கவை|
+rhodopsin|விழிச்செவ்வூதா|
+rhodospirillaceae|உரோசச்சுருளியனையன|
+rhodospirillales|உரோசச்சுருளியைகள்|
+rhodospirillum|உரோசச்சுருளியம்|
+rhombencephalon|பின்மூளை|aka hindbrain
+rhombohedral|கனச்சாய்சதுரம்|
+rhomboid major|சாய்சதுரப் பெருந்தசை|
+rhomboid minor|சாய்சதுரச் சிறுதசை|
+rhombus|சாய்சதுரம்|
+rhythm|தாளம்|
+rib|விலாவெலும்பு|
+rib cage|விலாவெலும்புக் கூடு|
+ribitol|இரைபிடால்|
+riboflavin|பி-2 வைட்டமின்|
+ribonuclease|அனரியூக்கி|
+ribonucleic acid|அனரி|aka  RNA
+ribonucleoprotein|அனரிப்புரதம்|
+ribose|இரைபோசு|
+ribosomal DNA|புரதமாக்க அனடி|
+ribosomal RNA (rRNA)|புரதமாக்க அனரி|
+ribosome|புரதமாக்கி|
+ribulose|இரிபுலோசு|
+Ribulose-1,5-bisphosphate (RuBP)|இரிபுலோசு-1,5-இருபாசுவேட்டு (இரிபா)
+rice bug|அரிசிப் பூச்சி|
+ricin|இரிசின்|
+rickets|புள்ளிக்காய்ச்சல்|
+Ricketts|ரிக்கெட்ஸ்|
+rickettsia|புள்ளிக்காய்ச்சலியம்|
+rickettsiaceae|புள்ளிக்காய்ச்சலியனையன|
+rickettsiales|புள்ளிக்காய்ச்சலியைகள்|
+ridge|முகடு (மலை)|
+right angle|செங்கோணம்|
+right click|வலச்சொடுக்கு|
+right hand limit|வலப்பக்க எல்லை|
+right justify|வலது நேர்த்தியாக்கு|
+right triangle|செங்கோண முக்கோணம்|
+right-handed system|வலக்கை அமைப்பு|
+rigid body|நெளியாப் பொருள்|
+rigid rotor|நெளியாச் சுழலி|
+rigidity|நெளியாமை|
+rigidity modulus|நெளியாமைக் குணகம்|
+rigor mortis|மரண விறைப்பு|
+rigorous|இறுக்கமான|
+rim lock|விளிம்புப்பூட்டு|
+rind gall|பசைவீக்கம்|
+rinderpest|கோமாரி|
+ring network|வளைய வலையம்|
+ring shake|வளைய விரிசல்|
+ringing experiment|வளையப் பரிசோதனை|
+ringworm|வளையப்புழு|
+ripe fruit|பழம்|
+ripple counter|சிந்து எண்ணி|
+rise|எழுச்சி|
+riser|உயர்த்தி|
+rising butt hinge|எழுவொன்றிய கீல்|
+risk|ஆபத்துக்கூறு|
+risk zone|ஆபத்துக்கூறு பகுதி|
+risorius|நகுதசை|
+rival|போட்டியர்|competitor - போட்டியாளர்
+rivalry|போட்டியம்|
+river delta|ஆற்றின் கழிமுகம்|
+rivet|தட்டாணி|
+RmksA (rationalized meter, kilogram, second, ampere)|காமீகிநொவா (காரண மீட்டர், கிலோகிராம், நொடி, ஆம்பியர்)
+RNA|அனரி|திருப்புச்சொல்லாகிய ANR-இலிருந்து அனரி என்ற புதுத் தமிழ்ச்சொல் உருவாகிறது; DNA - அனடி.
+RNA primer|அனரி முதன்மியூக்கி|
+road|சாலை|
+road aggregate|சாலைகட்டுத் திரள்மம்|
+road sign|சாலைக் குறி|
+road signal|சாலைச் சைகை|
+roasting|வறுத்தல்|
+Robert Coch|ராபர்ட்டு காக்|
+Robert Gallo|ராபர்ட் கேலோ|
+Robert Hooke|ராபர்ட் ஹுக்|
+Robert Koch|ராபர்ட் கோச்|
+Robert Mulliken|ராபர்ட் மல்லிக்கன்|
+Robertson|ராபர்ட்ஸன்|
+robot|எந்திரன்|
+robotics|எந்திரனியல்|
+robust|பிழைபொறுக்கும்|
+rock lobster|கல் இறால்|
+rocket|ஏவூர்தி|
+rocket launch|ஏவூர்தி ஏவல்|
+rocket launch station|ஏவூர்தி ஏவுநிலையம்|
+rod (retina)|உருளையணு|
+rod and cone|உருளையும் கூம்பும்|
+Roentgen|ரென்ட்கன்|
+roentgenium|உரோகனியம்|
+Rohini|உரோகிணி|
+Rohu|உரோகிதம்|
+roja|உரோசா|
+rollback|பின்சுருட்டு|
+Rolle's theorem|இரோலின் தேற்றம்|
+rolling door|உருள் கதவு|
+rolling pin|பூரிக்கட்டை|
+rolling plan|உருள் திட்டம்|
+ROM (read only memory)|பநி (படிக்கவே நினைவகம்)|
+roof|கூரை|
+root|வேர்|
+root|வேர்|
+root (math)|படிமூலம்|
+root (math)|மூலம் (கணிதம்)|
+root canal|வேர்க் கால்வாய்|
+root cap|வேர்மூடி|
+root hair|வேர்த் தூவி|
+root mean square|வர்க்கச் சராசரி மூலம்|
+root nodule|வேர் முடிச்சு|
+root system|வேரமைப்பு|
+root user|மூலப் பயனர்|
+rootlet|சிறுவேர்|
+roots of equation|சமன்பாடுகளின் மூலங்கள்|
+rosaceous|உரோசவகை|
+rosales|உரோசனைகள்|
+rose bengal|வங்காளச் சிவப்பு|
+Rosenmund reduction|உரோசன்மண்டின் மூச்சியமிறக்கம்
+rosette|மலரம்|
+rotate|சுழல் வி|
+rotate corolla|சக்கரவடிவ அல்லிவட்டம்|
+rotating wheel calculator|சுழற்சக்கரக் கணிப்பான்|
+rotation (of appointments, of crops)|சுழல்முறை|
+rotational latency|சுழல் சுணக்கம்|
+rotational symmetry|சுழற்சிச் சீரொருமை|
+rothia|இராத்தியம்|
+rotor|சுழலி|stator - நிலையி
+rough endoplasmic reticulum|அகக்குழைமச் சொரவலை|
+rougth timber|அறுக்காத மரம்|
+Roult's law|இரௌல்ட்டின் விதி|
+round off|துல்முழுவாக்கு|
+round off error|துல்முழுவாக்கப் பிழை|
+round robin|வட்ட வரிசை|
+round window|வட்டத் திறப்பு|
+roundworm|உருளைப்புழு|
+route|வழித்தடம்|track - தடம்
+router|வழித்தடமி|
+routine (computer)|நிரற்கூறு|
+routing|வழித்தடமம்|
+row (table, matrix)|கிடக்கை (அட்டவணை, தளவணி)
+Royal Botanical Gardens|பிரித்தானியத் தாவரவியல் தோட்டம்
+rRNA (ribosomal RNA)|புரதமாக்க அனரி|
+RS (reset-set) flip flop|ஆநீ எழுவிழு|
+Ru1P|ஒரிபா (இருபுலோசு-1-பாசுவேட்டு)
+Ru5P|ஐரிபா (இரிபுலோசு-5-பாசுவேட்டு)
+rubber|தேய்ப்பி|
+rubble masonry|சீரற்ற கற்கட்டு|
+rubella|செஞ்சொறி|
+rubidium|உருபிடியம்|
+RuBP (Ribulose-1,5-bisphosphate)|இரிபா (இரிபுலோசு-1,5-இருபாசுவேட்டு)
+ruby|செங்குருந்தம்|
+ruby laser|செங்குருந்தச் சீரொளி|
+ruler (measurement)|அளவுகோல்|
+rumen|முதலிரைப்பை|
+ruminate|அசைபோடு|
+ruminococcus|இரைப்பைமணியம்|
+run n|ஓட்டம்|
+run time|ஓட்ட நேரம்|
+runella|உருனி|
+runner|ஓடுதண்டு|
+running|ஓடுதல்|
+rural|கிராம|
+Russia|உருசியா|
+ruthenium|உருத்தினியம்|
+Rutherford|ரதர்ஃபர்ட்|
+rutherfordium|இரதர்பர்டியம்|
+S- (stereoisomerism)|இ- (வெளியிட மாற்றியம்)|
+&sigma; factor|&sigma; காரணி|
+S wave|பவ்வலை|P wave - கவ்வலை; Q wave - சவ்வலை; R wave - தவ்வலை
+saccate petal|பையுடைய இதழ்|
+saccharide|சர்க்கரைடு|
+saccharin|சாக்கரின்|
+saccharomyces|சர்க்கரைப்பூஞ்சை|
+saccoglossus|சாக்கோகிளாசு|
+Sach's law|சாக்கின் விதி|
+sacral region|திருவெலும்புப் பகுதி|
+sacrificing ratio|தியாக விகிதம்|
+sacrum|திருவெலும்பு|
+safari|விலங்கு காணிடம்|
+safe deposit box|காப்பு வைப்புப் பேழை|
+safety|ஆபத்தின்மை|
+safranin|குங்குமின்|
+Sagittarius|தனுசு|
+Sahiwal|சாகிவால்|
+sail|மரப்பாய்|
+sailor|மாலுமி|
+sal|சால்மரம்|
+salamander|சலமாண்டர்|
+salary|ஊதியம்|
+sales and marketing|விற்பனையும் சந்தையிடலும்|
+sales letter|விற்பனைக் கடிதம்|
+salesmanship|விற்பனைத் திறமை|
+salesperson|விற்பனையாளர்|
+salicylic acid|சாலிசிலிக அமிலம்|
+salinity|உப்புமை|
+saliva|வாய்நீர்|
+salivary amylase|வாய்நீர் தரசவூக்கி|
+salivary gland|வாய்நீர்ச் சுரப்பி|
+salmonella|சால்மனியம்|
+salmonella typhi|சால்மனியம் தைபை|
+salmonellosis|சால்மனியநோய்|
+saloon|அலங்காரகம்|
+salp|சால்ப்பு|
+salpa|சால்ப்புகள்|
+salt bridge|உப்புப் பாலம்|
+salver-shaped corolla|தட்டுவடிவ அல்லிவட்டம்|aka hypocrateriform corolla
+samara|சிறகுக்கனி|
+samarium|சமேரியம்|
+sample|மாதிரிக்கூறு|
+sample space|மாதிரிக்கூறு வெளி|
+sampling|மாதிரிக்கூறெடுப்பு|
+sampling error|மாதிரிக்கூறெடுப்புப் பிழை|
+sampling frame|மாதிரிக்கூறெடுப்புச் சட்டம்|
+sampling unit|மாதிரிக்கூறெடுப்பு அலகு|
+sampling with replacement|மீள்வைப்புடன் மாதிரிக்கூறெடுப்பு
+sampling without replacement|மீள்வைப்பிலா மாதிரிக்கூறெடுப்பு
+sanctuary|சரணாலயம்|
+sand fly|மணல் ஈ|
+Sandmeyer reaction|சாண்மயரின் வினை|
+sandstone|மணற்பாறை|
+sanitation|துப்புரவு|
+sanitizer|துப்புரவாக்கி|
+sans recourse|தஞ்சமின்றி|
+sap|மரச்சாறு|
+saponification|சோப்பாக்கல்|
+sapphire|நீலக்குருந்தம்|
+saprophyte|மட்குண்தாவரம்|
+saprospira|மட்குச்சுருளியம்|
+saprozoonosis|மட்குவிலங்கின்வருநோய்|
+saquinavir|சகுனவீர்|
+sarcinae|பொதியவிங்கள்|
+sarcolemma|தசையுமி|
+sarcoma|எலும்புப்புற்று|
+sarcomere|தசையலகு|
+sarcoplasm |தசைக்குழைமம்|
+sarcoplasmic reticulum|தசைக்குழைம வலை|
+sarcotesta|விதைவெளியுறை|
+sardine|சாளை|
+sargassum|சார்கசம்|
+SARS (severe acute respiratory syndrome)|குமூகு (குறுங்கடு மூச்சமைப்புக் குறித்தொகுப்பு)
+sartorius|கால்மடக்குத் தசை|
+sash (construction)|படற்சட்டம்|
+satchel|தோட்பை|
+satelite|துணைக்கோள்|
+satellite receiver|துணைக்கோள் பெறுவி|
+saticon|சேதிப்படநோக்கி|
+satiety value|நிறைவடைதல் மதிப்பு|
+satisfy|நிறைவுசெய்|
+satisfy conditions|நிபந்தனைகளை நிறைவுசெய்|
+saturated hydrocarbon|தெவிட்டிய நீரியக்கரிமம்|
+saturated solution|தெவிட்டிய கரைசல்|
+saturation|தெவிட்டல்|
+saturation current|தெவிட்டல் மின்னோட்டம்|
+saturation effect|தெவிட்டல் விளைவு|
+saturation point|தெவிட்டல் புள்ளி|
+Saturday|சனிக்கிழமை|
+Saturn|சனி (கோள்)|
+Saturn|சனி (கோள்)|
+sausage shaped|கிண்ண வடிவம்|
+savanna|வெப்பப் புல்வெளி|
+save|சேமி|
+save as|எனச் சேமி|
+saving|சேமிப்பு|
+savings account|சேமிப்புக் கணக்கு|
+savings bank|சேமிப்பு வங்கி|
+saw (tool)|அறுப்பி|
+sawing|அறுத்தல்|
+s-block|s-கட்டம்|
+s-block elements|s-கட்டத் தனிமங்கள்|
+SC (Scheduled Caste)|தாழ்த்தப் பட்டவர்கள்|
+scala media|நத்தையெலும்புக் குழி|
+scala tympani|நடுச்செவிக் குழி|
+scala vestibuli|நுழைவறைக் குழி|
+scalar|திசையிலி|
+scalar product|திசையிலிப் பெருக்கல்|
+scalariform|ஏணியுருவான|
+scale (math)|அளவிகிதம்|
+scale (physics)|அளவம்|
+scale (zoology)|செதில்|
+scale leaf|செதிலிலை|
+scaled skin syndrome|செதிற்றோல் குறித்தொகுப்பு|
+scalene|சரிவுத் தசை|
+scalene triangle|சமமற்ற முக்கோணம்|
+scaly bulb|செதிற் குமிழம்|
+scan|வரிவருடு|
+scandium|காந்தியம்|
+scanner|வரிவருடி|
+scanning|வரிவருடல்|
+scanning electron microscope|வரிவருடல் எலட்டிரான் நுண்ணோக்கி
+scape|தண்டுமட்டை|
+scapula|தோளெலும்பு|
+scarcity|தட்டுப்பாடு|
+scatter|சிதறு|
+scatter diagram|சிதறல் படவரைவு|
+scent gland|வாசனைச் சுரப்பி|
+schedule|காலமுறை|
+scheduled bank|பட்டியலிலுள்ள வங்கி|
+Scheduled Caste (SC)|தாழ்த்தப் பட்டவர்கள்|
+Scheduled Tribe (ST)|பழங்குடியினர்|
+scheduling|காலமுறையாக்கல்|
+schema|கட்டுத்திட்டம்|
+schemata|கட்டுத்திட்டங்கள்|
+schematic|திட்டப்படம்|
+scheme|வரைதிட்டம்|
+Schiff's base|சிப்பின் காரம்|
+Schiff's reagent|சிப்பின் வினையாக்கி|
+schistosoma|குருதிப்புழு|
+schistosome|குருதிக்கொக்கியம்|
+schizocarpic fruit|பிளவுக் கனி|
+schizogony|பிளவுப்பெருக்கம்|
+schizont|பிரிவணு|
+Schneider|ஷ்னைடர்|
+scholar|கற்றறிஞர்|
+school of thought|எண்ணக்குழு|
+Schotten-Baumann reaction|சாட்டன் பாமனின் வினை|
+Schottky defect|சாட்கி குறைபாடு|
+Schrödinger|ஷ்ரோடிங்ஙர்|
+Schrödinger equation|சோடிங்கர் சமன்பாடு|
+schwann cell|பொதி நரம்பணு|
+sciatic artery|இடுப்புத் தமனி|
+sciatic vein|இடுப்புச் சிரை|
+SCID (severe combined immune deficiency)|கயிநோப (கடும் இரட்டை நோயெதிர்ப்புப் பற்றாக்குறை)
+scientific notation|அறிவியல் குறியீடு|
+scintillation|மின்னொளிர்வு|
+sclera|கண்ணுறை|
+sclereids|கடினத் திசு|
+sclerenchyma|கடினக்கூழ்த்திசு|
+sclerosis|திசுக்கடினம்|
+sclerotesta|விதைநடுவுறை|
+sclerotic coat|கடினத்தசையுறை|
+sclerotic plate|கடினத்தசைத் தகடு|
+scolex|புழுத்தலை|
+scooter|துள்ளுந்து|
+scope|நோக்கெல்லை|
+scorpioid cyme|நெளிவு முற்றுநுனியன்|
+scorpion|தேள்|
+scotopic vision|உருளைவிழிதப் பார்வை|
+scotopsin|உருளைவிழிதம்|
+scratch pad|கிறுக்குத் தாட்கொத்து|
+scratch paper|கிறுக்குத் தாள்|
+screen saver|திரை காப்பு|
+screening|திரையிடல்|
+screening constant|திரையிடல் மாறிலி|
+screenshot|திரைநிலைப்படம்|
+screw|திருகாணி|
+screw gauge|திருகளவி|
+screwdriver|திருப்புளி|
+script (computer)|உரைநிரல்|
+scroll|திரையுருட்டு|
+scroll bar|திரையுருட்டுப் பட்டை|
+scrotal sac|விந்தகப்பையுறை|
+scrotal tissue|விந்தகப்பைத்திசு|
+scrotum|விந்தகப்பை|
+scurvy|சிகர்வி|
+scutellum|சிறுகேடயம்|
+scyphozoa|இழுதுகள்|
+sea|கடல்|
+sea anemone|கடல் அனிமோன்|
+sea bass|கொடுவா|
+sea snake|கடற் பாம்பு|
+sea travel|கடற்பயணம்|
+sea urchin|கடல் அரிச்சின்|
+seaborgium|சிபர்கியம்|
+search bar|தேடுபட்டை|
+search box|தேடு பெட்டி|
+search engine|தேடு பொறி|
+search for (text)|தேடுரை|replace with - மீள்வைப்புரை
+search light|தேடு விளக்கு|
+search results|தேடல் முடிவுகள்|
+search tool|தேடு கருவி|
+Searle's method|சரிலின் முறை|
+seashore|கடற்கரை|
+seasonal isolation|பருவத் தனிமையாதல்|aka temporal isolation
+seasoning|பதமாக்கல்|
+seaweed|கடற்களை|கடல் ஆல்கா - laminaria; பாசி - moss
+sebaceous gland|மெழுகுச் சுரப்பி|
+sebacic acid|சிபேசிக அமிலம்|
+SEBI (Securiteis and Exchange Board of India)|ஈமா (இந்திய ஈட்டாவண மாற்றகங்கள் வாரியம்)
+SEBI act|ஈமா சட்டம்|
+sebum|மெழுகம்|
+secant (geometry)|வெட்டன்|
+secant (trigonometry)|வெட்டுவிகிதம் (வெவி)|
+second (angle)|விகலை|
+second (time)|நொடி|
+second hand|மறுபயன்|reuse - மீள்பயன்
+second hand goods|மறுபயன் பொருட்கள்|
+second law of thermodynamics|வெப்பவியக்கத்தின் இரண்டாம் விதி
+second order|இரண்டாம் முறைமை|
+second order reaction|இரண்டாம் முறைமை வினை|
+secondary|இரண்டாமை|
+secondary bronchus|இரண்டாமைச் சிறுகுழல்|
+secondary carbon|இரண்டாமைக் கரிமம்|
+secondary consumer|இரண்டாமை நுகர்வோர்|
+secondary education|இரண்டாமைக் கல்வி|intermediate education - இடைநிலைக் கல்வி
+secondary electric cell|இரண்டாமை மின்கலம்|
+secondary follicle|இரண்டாமைக் குழிப்பை|
+secondary function|இரண்டாமைச் செயற்பாடு|
+secondary halide|இரண்டாமை உப்பாக்கைடு|
+secondary memory|இரண்டாமை நினைவகம்|
+secondary pentane|இரண்டாமை ஐந்தவேன்  |
+secondary root|இரண்டாமை வேர்|
+secondary sexual character|இரண்டாமைப் பாலினப் பண்பு|
+secondary storage|இரண்டாமைச் சேமகம்|
+secondary structure|இரண்டாமைக் கட்டமைப்பு|
+secrecy|கமுக்கம்|
+secretariat|செயலகம்|
+secretary|செயலர்|
+secretin|சுரப்பியக்கநீர்|
+secretion|சுரத்தல்|
+secretory vesicles|சுரப்புக் குமிழங்கள்|
+section|பகுதி பெ|
+section officer|பிரிவு அலுவலர்|
+sectional line|வெட்டுத்தோற்றக் கோடு|
+sectioning|பகுதியாக்கல்|
+sector (commerce)|வணிகத்துறை|
+sector (computer)|சுளை|
+secular|மதசார்பற்ற|
+secular trend|நேரம்சார் போக்கு|
+secured debenture|அடமானக் கடனோலை|
+securities|ஈட்டாவணங்கள்|
+Securities and Exchange Board of India (SEBI)|இந்திய ஈட்டாவண மாற்றகங்கள் வாரியம் (ஈமா)
+securities market|ஈட்டாவணச் சந்தை|
+security|பாதுகாப்பு|
+sedative|உறக்கமூட்டி|
+sediment|படிமம்|
+sedimentary rock|படிமப்பாறை|
+sedimentation|படிமமாதல்|
+sedimentation constant|படிமமாதல் மாறிலி|
+sedoheptulose|சிடோவேழுலோசு|pseudo heptulose - ஏழுலோசுப் போலி
+Seebeck effect|சீபெக்கின் விளைவு|
+seed|விதை|spore - வித்து
+seed coat|விதையுறை (தாவரவியல்)|
+seeding clouds|மேகத்தூவல்|
+seedling|நாற்று|
+seep|கசிவிறங்கு|
+seer fish|வஞ்சிரம்|
+segment|துண்டம்|
+segment (zoology)|உடற்கண்டம்|
+segmental arch|சுளை வளைவு|
+segmentation|துண்டமாக்கல்|
+Segre|சக்ரே|
+segregate|தனிப்பிரி |
+segregation|தனிப்பிரிதல்|
+seismonasty|நடுக்கவளைவு|
+select|தேர்ந்தெடு|
+selectin|தேர்விணைவி|
+selection|தேர்வு|test - சோதனை
+selective pressure|தேர்வழுத்தம்|
+selectively permeable|தேர்வுப் புகவிடும்|
+selectivity|தேர்மை|
+selector|தேர்வி|
+selenium|செலினியம்|
+selenocysteine|செலினப்பையனின்|
+selenoether|செலினயீத்தர்|
+selenol|செலினால்|
+selenomonas|நிலாவலகியம்|
+self awareness|தன்னுணர்வு|
+self defence|தற்காப்பு|
+self employed|தன் தொழிலர்|
+self induction|தன்தூண்டல்|
+self pollination|தன் மகரந்தச் சேர்க்கை|
+self recognition|தன்னையறிதல்|
+self sustaining|தானே நீடிக்கும்|
+self-incompatibility|தன்னொவ்வாமை|
+self-reliance|தற்சார்பு|
+Seliwanoff's test|செலிவனாப்பின் சோதனை|
+sella turcica|துருசிகப் பள்ளம்|
+seller|விற்பவர்|விற்போர் - வில் + போர்
+selling|விற்றல்|
+selone|சிலியோன்|
+semantics|பொருளுணரியல்|
+semaphore|குறிதாங்கி|
+semen|விந்து|sperm - விந்தணு
+semiautomatic|குறைதானியங்கி|
+semiaverage|பகுதிச் சராசரி|
+semicarbazide|அரைக்கரிமசைடு|
+semicarbazone|அரைக்கரிமசோன்|
+semicircular canals|அரைவட்டக் கால்வாய்|
+semiconductor|குறைக்கடத்தி|
+semiconservative replication|பிரிகை இரட்டித்தல்|
+semicontinuous |குறைதொடர்ந்த|
+semi-group|அரைக்குலம்|
+semilunar valve|பிறைத் தடுக்கிதழ்|
+seminal funnel|விந்து வடிப்பி|
+seminal vesicle|விந்துப்பை|
+seminar|பொழிவுரை|
+seminiferous tubule|விந்தணுக் குழலம்|
+semipermeable|குறைபுகவிடும்|
+senescence|மூப்பு|
+senior adj|முதுநிலை|
+senior n|முதியர்|
+sense of humor|சிரிப்புணர்வு|
+sense of timing|நேரவுணர்வு|
+sense organ|உணர்வுறுப்பு|
+sense strand|நேர்த்திசைக் கிடையிழை|
+sensitive|சாலுணர்|
+sensitivity|சாலுணர்மை|
+sensor|உணரி|
+sensorineural hearing loss|உணர்நரம்புச் செவிக் குறைபாடு|
+sensory areas (of brain)|உணர்வியப் பகுதிகள்  (மூளையின்)
+sensory hearing loss|உணர்விய செவிக் குறைபாடு|
+sensory memory|உணர்விய நினைவகம்|
+sensory retina|உணர்விய விழித்திரை|
+sentence|செப்பு|தொல்காப்பியம் 495; சொற்றொடர் - phrase
+sentimental|உணர்ச்சிவய|
+sepal|புறவிதழ்|
+separating funnel|பிரித்தல் வடிப்பி|
+separation|பிரித்தல்|
+sepia|சீப்பியா|
+sepsis|கிருமியேற்றம்|
+septate|இடைச்சவ்வுள்ள|
+septendecillion (short scale)|பதினெண்மடியாயிரம்|
+septic|சீழுடைய|
+septic tank|நச்சுத்தடைத் தொட்டி|
+septicemia|குருதிக்கிருமியேற்றம்|
+septicemic plague|இரத்தப் கொள்ளைநோய்|
+septicidal|இடைப்பிரி|
+septillion (short scale)|எண்மடியாயிரம்|
+septum|இடைச்சவ்வு|
+sequenator|தொடரிகண்டெழுதி|
+sequence|தொடரி|
+sequence alignment|தொடரி நேரமைத்தல்|
+sequence tagged site|தொடரி தொங்கியிட்ட தலம்|
+sequencer|தொடரிகாணி|
+sequencing|தொடரியாக்கல்|
+sequential|தொடரிய|
+sequential circuit|தொடரிய மின்சுற்று|
+sequester|தனியமிழ்|
+sequestration|தனியமிழ்த்தல்|
+serial printer|தொடர் அச்சிடுவான்|
+series|தொடர் (உதிரி)|
+series circuit|தொடர் மின்சுற்று|
+serine|சீரின்|
+serology|ஊனீரியல்|
+serotonin|செரட்டோனின்|
+serotype|ஊனீரியவகை|
+serous pericardium|இதயஞ்சூழ் நீர்ச்சவ்வு|
+serrate|பல்விளிம்புடைய|
+serratia|செராடியம்|
+serratus anterior|தோளெலும்புத் திருப்பத் தசை|
+serum|ஊனீர்|
+servant|சேவகர்|
+server|சேவையர்|client - சேவுறர்
+service|சேவை|
+service sector|சேவைசார் வணிகத்துறை|
+sessile|காம்பற்ற|
+session|அமர்வு|
+Sessions Judge|அமர்வு நடுவர்|
+set (math)|கணம்|
+set (switch)|உளதாக்கு (மாற்றி)|aka on
+set square|முக்கோணச் சட்டம்|
+seta|உடல்முள்|
+setae|உடல்முட்கள்|
+setigerous|உடல்முட்களுடைய|
+settings|அமைப்பிகள்|
+settlement (geography)|குடியிருப்பு|
+settlement (soil)|திணுங்கல்|
+settlement (stock exchange)|தீர்வு (பங்கு மாற்றம்)|
+severe|கடும்|
+severe acute respiratory syndrome (SARS)|குறுங்கடு மூச்சமைப்புக் குறித்தொகுப்பு (குமூகு)
+severe combined immune deficiency (SCID)|கடும் இரட்டை நோயெதிர்ப்புப் பற்றாக்குறை (கயிநோப)
+sewage|கழிவோட்டம்|
+Sewall Wright effectl|சூவலிரைட்டின் விளைவு|
+sewer|கழிவுக்குழாய்|
+sewerage|கழிவகற்றல்|
+sex|பாலினம்|
+sex chromosome|பாலின மரபுமெய்யம்|
+sex chromosome mechanism|பாலின மரபுமெய்ய இயங்குமுறை
+sex determination|பாலினம் நிர்ணயித்தல்|
+sex linked inheritance|பாலினசார் மரபுபெறல்|
+sexdecillion (short scale)|பதினெழுமடியாயிரம்|
+sextet|ஆறுமம்|
+sextillion (short scale)|எழுமடியாயிரம்|
+sexual|பாலின|
+sexual dimorphism|பாலின இருவடிவுமை|
+sexual equality|பாலினச் சமத்துவம்|
+sexual identity|பாலின இனங்காணல்|
+sexual isolation|பாலியத் தனிமையாதல்|
+sexual reproduction|பாலின இனப்பெருக்கம்|
+sexuality|பாலினவியம்|
+sexually transmitted diseases|பாலுறவுத் தொற்று நோய்கள்|
+seymouria|சீமூரியா|
+shaded|நிழலிட்ட|
+shaft|தண்டு (எந்திரம்)|
+shake (timber)|விரிசல் (கட்டுமான மரம்)|
+shallow|ஆழமற்ற|superficial - மேலோட்டமான
+shank|கீழ்க்கால்|
+share n|பங்கு|
+share v|பகிர்|
+shareholder|பங்குதாரர்|partner - பங்காளி
+shark|சுறா|
+sharpness|கூர்மை|
+sheath|சூழுறை|envelope - மூடுறை
+sheathed bacteria|சூழுறைபாட்டீரியம்|
+sheathing leaf base|மடலுறை|
+shelf|அடுக்குத்தட்டு|
+shell|ஓடு பெ (மேலுறை)|
+shell script|செயற்றள உரைநிரல்|
+shellac|அவலரக்கு|அவல் + அரக்கு
+shepherd|இடையன்|
+shield v|கேடயி|
+shielding|கேடயித்தல்|
+shift key|உயர்த்தி விசை|
+shifting operator|நகர்வுச் செயலி|
+shigella|சிகாவியம்|
+shigellosis|குச்சியப்பேதி|
+shingle|கூரைத்தகடு|
+shingles|தோற்புண்|aka herpes zoster
+ship|கப்பல்|
+shipping|கப்பலேற்றல்|
+shipping documents|கப்பலேற்று ஆவணங்கள்|
+shivering|நடுக்கம்|
+shock absorber|அதிர்ச்சி தாங்கி|
+shock wave|அதிரலை|
+shock wave therapy|அதிரலைச் சிகிச்சை|aka lithotripsy
+ShockWave|சாக்குவேவு|
+shoot|தளிர்  |
+shoot senescence|தளிர் மூப்பு|
+shoot system|தளிரமைப்பு|
+shooting|எய்தல்|
+shop n|கடை|
+shopping|வாங்கல்|
+short circuit|குறு மின்சுற்று|
+short day plants|குறும்பகல் தாவரங்கள்|
+short pitch coil|குறைச்சரிவு சுருள்|
+short term|குறுங்கால|
+shortage|அளிப்புக்குறைவு|
+shortcut menu|குறுக்குவழிப் பட்டி|
+shortest job first|மீக்குறும் பணி முதலில்|
+show of hands|கை வாக்களிப்பு|
+show room|காட்சியகம்|display - காட்சியம்
+shower|பொழிவு|
+shrimp|கூனிறால்|
+shrub  |புதர் |
+shrub stage|புதர் நிலை|
+shuffle|குலுக்கு (சீட்டுக்கட்டு)|
+shunt|தடமாற்றம்|
+shutdown|இயக்கடக்கு|
+shutter|இழுகதவு|
+SI units|பவ அலகுகள்|
+sialic acid|சியாலிக அமிலம்|
+siamese fighter|சயாமியவீரமீன்|
+SIB (Swiss Institute of Bioinformatics)|சுதப (சுவிச உயிர்மத் தகவலியல் பயிலகம்)
+sickle cell anaemia|பிறையணு குருதிச்சோகை|
+side chain|பக்கக் கோர்வை|
+siderophilin|இரும்புக்கடத்தி|
+siemens|சீமன்சு|
+Siemen's ozoniser|சீமெனின் ஓசோனாக்கி|
+sieve tube|சல்லடைக்குழல்|
+sievert|சிவர்டு|
+sift|சலி|
+sight distance|காண்தொலைவு|
+sigma|சிம்மா|
+sigma factor|சிம்மா காரணி|
+sigmoid colon|வளைவுப்பெருங்குடல்|
+sign|குறி|
+sign convension|குறி மரபு|
+sign off |ஒப்பம்விடு|
+sign on|ஒப்பமிடு|
+signal|சைகை|
+signal (neural, electronic)|நிமிண்டல்|
+signal to noise ratio|சைகை ஓசை விகிதம்|
+signal to noise ratio|நிமிண்டல் ஓசை விகிதம்|
+signal transducer|சைகை அனுப்பி|
+signal transduction|சைகை அனுப்பீடு|
+signaling molecules|நிமிண்டல் மூலக்கூறுகள்|
+signed integer|குறியுடை முழுவெண்|
+significance|பொருளுமை|
+significant figures |பொருளுமை இலக்கங்கள்|
+signum function|குறிச்சார்பு|
+silane|சைலேன்|xylene - சைலீன்
+silent infarction|வலியில்லாத் தசையிறப்பு|
+silhouette|வெளிக்கோட்டுரு|
+silica|சிலிக்கா|
+silicious|சிலிக்க|
+silicon|சிலிக்கான்|
+silicon chip|சிலிக்கான் சில்லு|
+silicon wafer|சிலிக்கான் சீவல்|
+silicone|சிலிக்கோன்|
+siliqua|பேழைக்கனி|pod - பேழை
+silkmoth|பட்டுப்பூச்சி|butterfly - பட்டாம்பூச்சி
+silkworm|பட்டுப்புழு|butterfly - பட்டாம்பூச்சி
+sill|நிலைப்படி|
+silt|வண்டல்|
+siltation|வண்டலாகல்|
+Silurian period|சிலுரியக் காலம்|
+silver|வெள்ளி (வேதியியல்)|
+silver fish|வெள்ளிமீன்|
+silver nitrate|வெள்ளி உப்பியைட்டு|
+simian virus|குரங்கு வைரசு|
+similar angles|ஒத்த கோணங்கள்|
+similar triangles|வடிவொத்த முக்கோணங்கள்|
+simonsiella|சைமனியம்|
+simple bar diagram|எளிய பட்டைப் படவரைவு|
+simple case|எளிய வேற்றுநிலை|
+simple cyme|தனி முற்றுநுனியன்|
+simple dichasium|தனி இருபிரிவன்|
+simple dry fruit|உலர் தனிக்கனி|
+simple fleshy fruit|சதைப்பற்றுள்ள தனிக்கனி|
+simple fruit|தனிக்கனி|
+simple goiter|எளிய காயிட்டர்|aka endemic goiter
+simple harmonic|எளிய ஒத்திசை|
+simple interest|தனிவட்டி|
+simple leaf|தனியிலை|
+simple pit|எளிய குழி|
+simple random sampling|எளிய நேர்ந்தவாறு மாதிரிக்கூறெடுப்பு
+simple random sampling with replacement|மீள்வைப்புடன் எளிய நேர்ந்தவாறு மாதிரிக்கூறெடுப்பு
+simple reaction|எளிய வேதிவினை|
+simple tissue|எளிய திசு|
+simpleton|எளியன்|
+simplex (communication)|ஒருவழி (தகவற்றொடர்பு)|
+simplex (mathematics)|எளியுரு|
+simplex mode|ஒருவழி நிலமம்|
+simplification|எளிமையாக்கல்|
+simulate|பாவனையாக்கு|
+simulation|பாவனையாக்கம்|
+simultaneous|உடனிகழ்|
+Sindhi|சிந்தி|
+sine|வவி (வளைவிகிதம்)|
+sine|வளைவிகிதம் (வவி)|
+Singer|சிங்கர்|
+single column cash book|ஒற்றை நெடுக்கை கைப்பண ஏடு
+single density|ஒற்றை அடர்வு|
+single electrode potential|ஒற்றை மின்வாய் ஆற்றநிலை|
+Single European Act|ஒற்றை ஐரோப்பியச் சட்டம்|
+single layer winding|ஒற்றைப் படலக் கண்டு|
+single life policy|ஒற்றை ஆயுட் காப்பிதழ்|
+single nuclotide polymorphism|ஒற்றை அணுக்கருவைடு பலவடிவுமை
+single pass|ஒற்றைக்கடவு|
+single pass transmembrane protein|ஒற்றைக்கடவு சவ்வூடு புரதம்|
+single phase winding|ஒற்றைக் கட்டக் கண்டு|
+single precision|ஒற்றைத் துல்லியம்|
+single premium policy|ஒற்றைச் செலுத்தக் காப்பிதழ்|
+single quotes|ஒற்றை மேற்கோள்|
+single spacing|ஒற்றை வரியிடை|
+single strand|ஒற்றைக் கிடையிழை|
+single strand binding protein|ஒற்றைக் கிடையிழைப் பிணைப்புப் புரதம்
+single user|ஒற்றைப் பயனர்|
+singleton|ஒற்றையன்|
+singleton set|ஒற்றையன் கணம்|
+singular matrix|நேர்மாறற்ற தளவணி|
+sink n|அமிழ்வி|
+sinking fund method|ஈடு நிதி முறை|
+sinoatrial node|குழிவுமேலறைக் கணு|
+sinter|மெல்லுருகு|
+sintered glass|மெல்லுருகற் கண்ணாடி|
+sinus|குழிவு (உடலமைப்பியல்)|
+sinus venosus|நாளக்குழிவு|
+siphonogamy|குழல்வழிச்சேர்க்கை|
+Siri|சிரி (கால்நடை)|
+Sirius|வியாதா|
+site map|தல உள்ளடக்கம்|
+sitosterol|சைதத்திரால்|
+size|அளவு|
+skeletal muscle|எலும்புத் தசை|
+skeletal system|எலும்புக்கூடமைப்பு|
+skeleton|எலும்புக்கூடு|
+sketch|முன்வரை|
+sketch pad|முன்வரை தாட்கொத்து|
+skew|திரி வி|
+skewback|பின்தாங்கி|
+skewness|திரிமை|
+skin|தோல்|
+skip|தாவு|
+skip distance|தாவு தொலைவி|
+skip zone|தாவுப் பகுதி|
+skull|மண்டையோடு|
+sky|வானம்|
+sky advertising|வான் விளம்பரம்|
+skylight window|பகலொளிச் சாளரம்|
+slab|தடிப்பாளம்|
+slag|கசடு|
+slaked lime|நீர்த்த சுண்ணாம்பு|aka hydrated lime
+slash|சாய்கோடு|
+Slater|ஸ்லேற்றர்|
+Slater rules|சிலேற்றரின் விதிகள்|
+Slater-Condon rules|சிலேற்றர் காண்டனின் விதிகள்|
+sleeping partner|செயலற்ற பங்காளி|
+sleeping pill|உறக்கக் குளிகை|
+sleeping sickness|தூக்க நோய்|
+slice n|சீவல்|
+slice v|சீவு|
+slide n|படவில்லை|
+slide presentation|படவில்லை தோன்றுரை|
+slide rule|சருக்கிக் கணிப்பான்|
+slide show|படவில்லைக் காட்சி|
+slide viewer|படவில்லைக் காட்டி|
+slider|சறுக்கி|
+sliding door|சருக்குக் கதவு|
+sliding filament hypothesis|சருக்குச் சிற்றிழை கருதுகோள்|
+slime|வழுமம்|
+slip ring|நழுவு வளையம்|
+slope|சாய்வு|pitch - சரிவு
+slot|நீள்துளை|
+slow wave sleep|மெதுவலை உறக்கம்|
+SLSI (super-large-scale integration)|மிபேதொ (மிகப்பேரளவத் தொகையிடல்)
+sludge|சேறு|
+slug|அடுநத்தை|
+slump|வீழ்வு|
+slurry|நீர்ச்சரல்|
+SLV (Satellite Launch Vehicle)|கோளேவுவண்டி|
+small integer|சிறு முழுவெண்|
+small intestine|சிறுகுடல் தொகுதி|
+small scale|சிற்றளவம்|
+small scale retail organization|சிற்றளவச் சில்லரை விற்பனை ஒருங்கமைப்பு
+smallpox|பேரம்மை|well established, despite the antonymous literal translation
+small-scale integration (SSI)|சிற்றளவத் தொகையிடல் (சிதொ)|
+smart|சூட்டிகை|
+smart card|சூட்டிகை அட்டை|
+smart card reader|சூட்டிகை அட்டை படிப்பி|
+smegma|முன்தோனீர்|
+smell|முகர்வு|consumption - நுகர்வு
+smelting|உருக்கிப்பிரித்தல்|
+smog|புகைப்பனி|
+smoke screen|புகைத் திரை|
+smoke signal|புகைச் சைகை|
+smooth|வழுவு|
+smooth endoplasmic reticulum|அகக்குழைம வழுவுவலை|
+smooth scrolling|வழுவு திரையுருட்டல்|
+smooth tissue|வழுவுதசை|
+SNA (Systems Network Architecture)|அவக (அமைப்பு வலையக் கட்டிடவியல்)
+snail|நத்தை|
+snake|பாம்பு|
+snapshot|நிலைப்படம்|
+SND format|ஒலி வடிவூட்டம்|
+Snell's law|சுனெலின் விதி|
+snow|மென்பனி|
+soak pit|உறிஞ்சுகுழி|
+soap|சோப்பு|
+social contract theory|சமூக ஒப்பந்தக் கோட்பாடு|
+social forenstry|சமூக வனவியல்|
+social justice|சமூக நீதி|
+social security|சமூகப் பாதுகாப்பு|
+social welfare|சமூக நலம்|
+socialism|சமவுடைமையிசம்|
+socialist state|சமவுடைமை அரசு|
+socialistic|சமவுடைமையிச|
+society|சமூகம்|
+sociology|சமூகவியல்|
+socket (electricity)|பொருந்தி (மின்சாரம்)|plug - பொருத்தி; fastener - மாட்டி
+sodium|சோடியம்|
+sodium nitroprusside test|சோடியம் உப்பியப்புருசைடுச் சோதனை
+sofa|நீளிருக்கை|
+soffit|கீழ்ப்பா|
+soft copy|மென்னகல்|
+soft failure|மென் செயலிழப்பு|
+soft insulator|மென்கடத்தற்காப்பி|
+soft keys|மென்விசைகள்|
+soft x-ray|மென்னூடுகதிர்|
+softcore pornography|மென்காமவூடகம்|
+softcore sex|மென்காமம்|
+software|மென்பொருள்|
+soil |மண்|
+soil erosion|மண் அரிமானம்|
+sol|கூழ்|
+solanaceae|உருளைக்கிழங்கனையன|
+solar cell|கதிரவ மின்கலம்|
+solar constant|கதிரவ மாறிலி|
+solar energy|கதிரவ ஆற்றல்|
+solar flares|கதிரவ ஒளிப்புயல்|
+solar power plant|கதிரவ மின்னிலையம்|
+solar system|கதிரவ அமைப்பு|
+solation|கூழாதல்|
+solder|வெப்பொட்டு|
+soldering|வெப்பொட்டல்|வெப்பத்தினால் ஒட்டுதல்
+sole proprietorship|தனி உரிமைத்துவம்|
+sole trader|தனி வியாபாரி|
+solenoid|வரிச்சுருள்|
+solid|திண்மம்|
+solid angle|திண்மக் கோணம்|
+solid conductor|திண்மக் கடத்தி|
+solid of revolution|சுழற்சித் திண்மம்|
+solid state|திண்ம நிலை|
+solid waste management|திண்மக் கழிவு மேலாண்மை|
+Solitaire|தனிமையாட்டம்|
+solitary|தனிமையான|
+soliton|தனிமையன்|
+solstice|கணநிலை|
+solubility|கரைதிரன்|
+solute|கரைபொருள்|
+solute potential|கரைபொருள் ஆற்றநிலை|
+solution (chem)|கரைசல்|
+solution (math)|தீர்வு|
+solvate isomerism|கரைப்பானேற்ற மாற்றியம்|
+solvation|கரைப்பானேற்றம்|
+solvency|நொடிப்பின்மை|
+solvent|கரைப்பான்|
+somatic|உடல|
+somatic cell|உடல உயிரணு|
+somatic cell gene therapy|உடல உயிரணு மரபணு சிகிச்சை|
+somatic character|உடலப் பண்பு|
+somatic embryogenesis|உடல முளைக்கருவாக்கம்|
+somatic stem cell|உடல மூல உயிரணு|
+somatic variations|உடலணு மாறுபாடுகள்|
+somatoplasm|உடலக்குழைமம்|
+somatostatin|உடல்வளர்நிலைப்பி|
+somatotropic hormone|வளர்ச்சி இயக்குநீர்|
+somatotropin|உடல்வளரியக்கி|
+Sommerfeld|சாம்மர்ஃபெல்ட்|
+Sommerfeld atom model|சாமர்பெல்டின் அணு ஒப்புரு|
+sonar|ஒலியலையுணரி|
+sonometer|சுரவளவி|
+sophisticated|அதிமேம்பட்ட|
+sorosis|தண்டுடைய கூட்டுக்கனி|
+sort|முறைமையாக்கு|வரிசை - queue
+sort ascending|ஏறு முறைமையாக்கு|
+sort descending|இறங்கு முறைமையாக்கு|
+sort key|முறைமையாக்கக் குறி|
+sorting|முறைமையாக்கல்|
+sorus|வித்துக்கூடு|
+source|மூலம்|
+source code|மூல வரிநிரல்|
+source documents|மூல ஆவணங்கள்|
+south pole|தென் துருவம்|
+Southern blot|சதர்னின் ஒற்று|
+sovereignty|கோன்மை|
+Soviet Russia|சோவியத்து உருசியா|
+soviet union|சோவியத்து ஒன்றியம்|
+space|வெளி|
+space (typing)|இடைவெளி (தட்டச்சு)|
+space science|விண்வெளி அறிவியல்|
+space station|விண்வெளி நிலையம்|
+spacecraft|வெளிக்கலம்|
+spacer|இடைவெளியன்|இடையன் - shepherd
+spaceship|வெளிக்கலம்|
+Space-time|வெளிநேர|
+spadix|மடற்கூர்முனை|
+spaghetti code|குழப்ப வரிநிரல்|
+spall|கற்சில்லு|
+spallation|நொறுங்கல்|
+span n|வீச்சளவு|
+span v|வீச்சள|
+spanning tree|வீச்சளவு மரம்|
+sparrow|குருவி|
+sparse|இடக்கலப்பு|
+sparse array|இடக்கலப்பு அணி|
+sparse matrix|இடக்கலப்புத் தளவணி|
+spasm|தசையிழுப்பு|
+spathe|பாளை|
+speaker|ஒலிப்பி|
+speaker (of LokSabha)|மக்களவைத் தலைவர்|
+special case|சிறப்பு வேற்றுநிலை|
+special character|சிறப்பு வரியுரு|
+special crossing (of checks)|சிறப்புக் கீறலிடுதல்|
+special theory of relativity|சிறப்பு ஒப்புமைக் கோட்பாடு|
+specialist|தனித்துவர்|
+speciality shop|தனிப்பொருள் கடை|
+specialization|தனித்துவமாக்கல்|
+specialized|தனித்துவமாக்கிய|
+specialty (brit speciality)|தனித்துவம்|uniqueness -ஒருத்துவம்
+speciation|இனமாதல்|
+species|இனம் (உயிரியல்)|
+specific|குறிப்பிட்ட|
+specific gravity|ஒப்படர்வு|
+specific heat|ஒப்பு வெப்பம்|
+specific heat capacity|ஒப்பு வெப்ப ஏற்புமை|
+specific resistance|ஒப்புத் தடையம்|
+specific rotation|ஒப்புத் திருப்பம்|
+specification|குறிப்புவிவரம்|
+specificity|குறிப்புமை|
+specimen|மாதிரியன்|
+spectacles|மூக்குக்கண்ணாடி|
+spectral analysis|நிறமாலை பகுப்பாய்வு|
+spectral lines|நிறமாலைக் கோடுகள்|
+spectrometer|நிறமாலையளவி|
+spectrophotometry|நிறமாலையளவியல்|
+spectroscope|நிறமாலைநோக்கி|
+spectroscopy|நிறமாலையியல்|
+spectrum|நிறமாலை|
+speculate|நம்பூகி|
+speculation|நம்பூகம்|
+speculative|நம்பூக|
+speculator|நம்பூக வணிகர்|
+speech|பேச்சு|
+speech synthesizer|பேச்சுத் தொகுத்தாக்கி|
+speedometer|வேகமளவி|tachometer – சுழலளவி
+spell checker|எழுத்துக்கூட்டல் சரிகாணி|
+sperm|விந்தணு|semen - விந்து
+spermatheca|விந்தணுச்சேமகம்|
+spermatic cord|விந்தணுக்கொடி|
+spermatid|விந்து துவக்கவணு|
+spermatocyte|விந்தாக்கவணு|
+spermatogenesis|விந்தணுவாக்கம்|
+spermatogonium|விந்துத்தாயணு|
+spermatophore|விந்தணுவியகம்|
+spermatophyte|விதைத்தாவரம்|
+spermatozoa|விந்தணுவிகள்|
+spermatozoon|விந்தணுவி|
+spermicide|விந்தணுக்கொல்லி|
+spermosphere|விதைமேற்கோளம்|
+sphaerotilus|கோளமந்தையம்|
+sphenoid bone|ஆப்புருவெலும்பு|
+spherical|கோள|
+spherical polar|கோளத் துருவ|
+spherical shell|கோள ஓடு|
+spherical symmetry|கோளச் சீரொருமை|
+spheroplast|கோளவுயிரணு|
+sphincter|சுருக்கிடுக்கி|
+sphingolipid|பிங்கோசக்கொழுமியம்|
+sphingomyelin|பிங்கோசமயலின்|
+sphingosine|பிங்கோசின்|
+sphygmomanometer|துடிப்பழுத்தவளவி|
+Spica|சித்திரை|
+spicule|நுண்கூரியம்|
+spider|சிலந்தி|
+spider configuration|சிலந்தி அமைவடிவம்|
+spike|கூர்முனை|
+spikelet|சிறுகூர்முனை|
+spin|தற்சுழல்|
+spin box|தற்சுழற்பெட்டி|
+spin symmetry|தற்சுழல் சீரொருமை|
+spinal canal|முதுகுத்தண்டு கால்வாய்|
+spinal cord|தண்டுவடம்|
+spinal fluid|தண்டுவடப் பாய்மம்|
+spinal tumor|தண்டுவடக் கழலை|
+spinalis|முதுகுத்தண்டு தசை|
+spindle|கதிராணி|ray - கதிர்
+spindle motor|கதிராணி உந்துவி|
+spine|முதுகுத்தண்டு|
+spinous process (vertebra)|முள் நீட்சி (முள்ளெலும்பு)|
+spiral|சுருளி|
+spiral winding|சுருளிக் கண்டு|
+spirillum|சுருளியம்|
+spirit level|சாறுமட்டம்|
+spirochaectales|சுருளிப்பாட்டீரியைகள்|
+spirochaetaceae|சுருளிப்பாட்டீரியனையன|
+spirochete|சுருளிப் பாட்டீரியம்|
+spirocyclic|சுருள்வட்ட|
+Spirogyra|சுருள்வளைவி|
+spiroplasma|சுருளிக்குழைமியம்|
+spiroplasmataceae|சுருளிக்குழைமியனையன|
+spirosoma|சுருளுடலி|
+splayed joint|சரிவிணைப்பு|
+spleen|மண்ணீரல்|
+splenomegaly|மண்ணீரல் வீக்கம்|
+splice|பொருந்தொட்டு|
+splicing (molecular biology)|உள்ளாக்கல் (மூலக்கூறு உயிரியல்)|வெளியன்களை வெளியேற்றி உள்ளன்களைத் தொகுத்தல்
+spline|இசைவளை|
+spline fitting|இசைவளைப் பொருத்தல்|
+splinic macrophage|மண்ணீரல் பேருண்ணி|
+splinter|சிராயி|
+split screen|பிரிதிரை|
+split window|பிரிசாளரம்|
+sponge|கடற்பஞ்சு|
+spongy|பஞ்சிய|
+spongy tissue|பஞ்சியத்திசு|
+spongy urethra|பஞ்சியச் சிறுநீர்ப்புறவழி|
+spontaneous |தான்னிகழும்|
+spontaneous emission|தான்னிகழும் உமிழ்தல்|
+spontaneous process|தான்னிகழும் நிகழ்முறை|
+spontaneously|தான்னிகழ்வாக|தன்னிச்சையாக - willfully
+spool (computer)|சுருளிடு|
+spool n|சுருள்|
+spooler|சுருளிடுவி|
+spooling|சுருளாக்கம்|
+sporangiophore|வித்துக்காம்பு|
+sporangium|வித்துப்பை|
+spore|வித்து|seed - விதை; semen - விந்து
+sporemother|வித்துத்தாய்|
+sporocarp|வித்தாக்கி|
+sporocytophaga|வித்துறையுண்ணியங்கள்|
+sporogony|வித்துப்பெருக்கம்|
+sporophyll|வித்திலை|விதையிலை - cotyledon
+sporophyte|வித்துத்தாவரம்|
+sporosarcina|வித்துப்பொதியங்கள்|
+sporozoa|வித்தன|
+sporozoite|வித்துக்கூறு|
+spotted bollworm|புள்ளிப் பருத்திப்பூச்சி|
+spotted wild disease|புள்ளிவாடல் நோய்|
+sprain|சுளுக்கு|
+spray painting|தெளித்துப்பூசுதல்|
+spreadsheet|விரிதாள்|
+spring (coil)|சுருள்வில்|
+springer (architecture)|முதல் வூசுவார்|
+springing line|எழுச்சிக்கோடு|
+springing points|எழுச்சிப்புள்ளிகள் (கட்டுமானம்)
+sprocket|துளைப்பல்|
+spurred petal|வாலுடைய இதழ்|
+sput|வன்வளையம்|
+Sputnik|புத்துநிக்கு|
+sputum|துப்பல்|
+spy|உளவு|
+spy satellite|உளவுத் துணைக்கோள்|
+squalamine|குவாலமீன்|
+squalene|குவாலின்|
+squamous cell|செதிலனைய உயிரணு|
+square bracket|சதுர அடைப்புக்குறி|
+square matrix|சதுரத் தளவணி|
+square planar|சமதள சதுர|
+square root|வர்க்கமூலம்|
+squid|குயிடு|
+squint brick|ஓரச்சாய்வு செங்கல்|
+SROSS (stretched Rohini satellite series)|நீரோதுவ (நீட்டிய உரோகிணித் துணைக்கோள் வரிசை)
+srotage|சேமகம்|
+SSI (small-scale integration)|சிதொ (சிற்றளவத் தொகையிடல்)|
+ST (Scheduled Tribe)|பழங்குடியினர்|
+stability|நிலைப்பு|
+stabilization|நிலைப்பாக்கல்|
+stabilize|நிலைப்பாக்கு|
+stabilizing selection|நிலைப்பாக்கத் தேர்வு|
+stable|நிலைப்பான|
+stable equilibrium|நிலைப்புச் சமநிலை|
+stable state|நிலைப்பான நிலை|
+stack|அடுக்கல்|
+stag|கலைமான்|
+stage|நிலை|
+stage (arts)|மேடை|auditorium - அரங்கம்
+stage presence|அரங்க முன்னிலை|
+stage v|அரங்கிடு|
+staggered|தடுமாறு|
+staging area|ஏற்றரங்கு|
+stagnation|தேக்கம்|
+staining|கறையிடல்|
+stainless steel|துருப்பிடிக்காத எஃகு|
+stair|படிக்கட்டு|
+staircase|படிக்கட்டு|hierarchy - படிவரிசை
+stale|காலங்கடந்த|
+stalk|தண்டு|
+stamen|மகரந்தத்தாள்|
+staminate|ஆண்மலர்|
+staminode|போலி மகரந்தத்தாள்|aka sterile stamen
+stamp|முத்திரை|
+stand by|காத்திரு|
+standalone|தானிற்கும்|
+stand-alone|தனித்து நில்|
+standard definition (television)|திட்டவரை|
+standard deviation|திட்ட விலக்கம்|
+standard emf|திட்ட மின்னியக்க விசை|
+standard flask|திட்டக் குடுவை|
+standard form|திட்ட வடிவம்|
+standard free energy|திட்டத் தனியாற்றல்|
+standard input|திட்ட உள்ளீடு|
+standard normal distribution|திட்ட இயல்புப் பரவல்|
+standard of living|வாழ்க்கைத் தரம்|
+standard output|திட்ட வெளியீடு|
+standard product term|திட்டப் பெருக்கலுறுப்பு|aka minterm
+standard reduction potential|திட்ட மூச்சியமிறக்க ஆற்றநிலை|
+standard sum term|திட்டக் கூட்டலுறுப்பு|aka maxterm
+standard temperature and pressure|திட்ட அழுத்தமும் வெப்பநிலையும்
+standard toolbar|திட்டக் கருவிப்பட்டை|
+standardization|செந்தரமாக்கல்|
+standby|ஆயத்தநில்|
+standing instruction|தொடர்நில் அறிவுறுத்தல்|
+standing timber|நில்மரம்|
+standing wave|கிடப்பலை|
+Stanford University|ஸ்டான்ஃபர்ட் பல்கலைக்கழகம்|
+Stanislao Cannizzaro|ஸ்றானீஸ்லாவ் கான்னிஸ்ஸாரோ|
+Stanley Cohen|ஸ்டான்லி கோஹன்|
+stannane|தகரேன்|
+stapes|அங்கவடியெலும்பு|
+staphylococcus|கொத்துமணியம்|
+Staphylococcus aureus|கொத்துமணியம் தங்கன்|
+staphylokinase|கொத்தியக்கவூக்கி|
+staple|தைப்பாணி|
+star|விண்மீன்|
+star connection|விண்மீன் இணைப்பு|
+star fish|உடுமீன்|
+star network|விண்மீன் வலையம்|
+star shake|விண்மீன் விரிசல்|
+star turtle|விண்மீனாமை|
+starch|தரசம்|
+Stark effect|சிடார்க்கு விளைவு|
+start menu|தொடக்கப் பட்டி|
+starter|துவக்கி|
+startup (computer)|இயக்கமூட்டு (கணினியி்யல்)|
+stasis|நிலைபெறல்|
+state (administrative)|மாநிலம்|
+state (physics)|நிலை (இயற்பியல்)|
+State Commission|மாநில ஆணையம்|
+State Council|மாநில மன்றம்|
+state function|நிலைச் சார்பு|
+state highway|மாநில நெடுஞ்சாலை|
+state park|மாநிலப் பூங்கா|
+State Warehousing Corporation|மாநில இருப்பகக் கூட்டகம்|
+statement|கூற்று|
+statement of tendency|நிகழ்ப்போக்குக் கூற்று|
+state-of-the-art|இற்றைக் கலைநிலை|
+static|நிலைம|
+static balancing|நிலைமச் சமனமாக்கல்|
+static image|நிலைம நிழலுரு|
+statics|நிலைமவியல்|
+station|நிலையம்|
+stationary state|கிடப்பு நிலை|
+stationary value|கிடப்பு மதிப்பு|
+stationary wave|கிடப்பலை|
+statistical mechanics|புள்ளியிய எந்திரவியல்|
+statistical regularity|புள்ளியிய சீர்மை|
+statistics|புள்ளியியல்|
+stator|நிலையி|rotor - சுழலி
+status|நிலைமை|
+statutory|சட்டமுறை|
+steady state|சமப்பாய்ம நிலை|
+steady state phase|சமப்பாய்ம நிலைக் கட்டம்|
+steam distillation|நீராவியால் காய்ச்சிவடித்தல்|
+steam engine|நீராவிப் பொறி|
+steapsin|கொழுவிரையூக்கி|
+stearic acid|தியரிக அமிலம்|
+Stebbins|ஸ்டெப்பின்ஸ்|
+steel|எஃகு|
+Steel Authority of India, The (SAIL)|இந்தியாவின் எஃகு அதிகாரம்|
+steering wheel|திருப்புச் சக்கரம்|
+Stefan's law|தீபனின் விதி|
+stele|கம்பம்|
+stellate parenchyma|விண்மீன் உடன்கூழ்த்திசு|
+stellite|தெல்லைட்டு|
+stem|தண்டு|
+stem cell|மூல உயிரணு|
+stencil|வரையச்சு|
+stenosis|குழலிடுக்கம்|
+stent|விரிகுழாய்|
+step 1, 2, 3,…|படி 1, 2, 3 ...|
+step down transformer|குறைக்கும் உருமாற்றி|
+step function|படிச் சார்பு|
+Stephen's reaction|சுதீவனின் வினை|
+steradian|திண்மாரையன்|
+stereo |வெளியிட|
+stereochemistry|வெளியிட வேதியியல்|
+stereoisomerism|வெளியிட மாற்றியம்|
+stereoscopic|வெளியிடவுணர்|
+steric|கொள்வெளி|
+sterile environment|கிருமிகொற் சூழல்|
+sterile organism|மலட்டுயிரி|
+sterile stamen|போலி மகரந்தத்தாள்|aka staminode
+sterility|மலடு|
+sterilization (hygiene)|கிருமிகொல்லல்|
+sterilization (zoology)|மலடாக்கல்|
+sterilize (hygiene)|கிருமிகொல் |
+sterilize (zoology)|மலடாக்கு|
+sternocleidomastoid|மார்புக்கழுத்துமெல்லுதசை|
+sternum|மார்பெலும்பு|
+steroid|திரலனையம்|
+sterol|திரால்|
+stethoscope|மார்புநோக்கி|
+stigma (in flower)|சூல் முடி|
+stigmasterol|திம்மத்திரால்|
+stigmatella|குறிப்புள்ளியம்|
+stigmatic (optics)|புள்ளிக்குவிய|
+stilt roots|முண்டு வேர்கள்|
+stimulant|தூண்டி (உயிரியல்)|
+stimulated emission|தூண்டு உமிழ்தல்|
+stimulating hormone|தூண்டுநீர்|
+stimulus|தூண்டல் (உயிரியல்)|
+sting|கொடுக்கு|
+sting ray|கொடுக்குமீன்|
+stipulate (botany)|இலையடிச்செதிலுள்ளவை|
+stipule|இலையடிச்செதில்|
+stirrer|கலக்கி|
+stochastic|வாய்ப்புசார்|
+stock (inventory)|இருப்பு|
+stock (shares)|பங்குத்திரள்|
+stock exchange|பங்கு மாற்றகம்|
+stock market|பங்குச் சந்தை|
+stock trading|பங்கு வியாபாரம்|
+stock turnover ratio|இருப்பு மீட்சுழல் விகிதம்|
+stoichiometric coefficient|வேதிவிகிதக் கெழு|
+stoichiometric equation|வேதிவிகிதச் சமன்பாடு|
+stoichiometry|வேதிவிகிதம்|
+Stokes' law|தோக்கசின் விதி|Stoke's law is incorrect; the scientist's name is Stokes, not Stoke.
+Stokes line|தோக்கசின் கோடு|Stoke's line is incorrect; the scientist's name is Stokes, not Stoke.
+stolon|ஊருந்தண்டு|
+stoma (botany)|இலைத்துளை|
+stoma (medicine)|இடுதுளை|
+stoma (zoology)|வாய்த்துளை|
+stomach|இரைப்பை|
+stomatitis|வாயழற்சி|
+stomium|திறப்பு (பெரணி)|
+stone quarry|கற்சுரங்கம்|
+stop|நில்|
+stop (something)|நிறுத்து|
+stop loss order|வரம்பிழப்பு வருகோள்|
+stopper|நிறுத்தி பெ.|
+stopping potential|நிறுத்த ஆற்றநிலை|
+stopwatch|நிறுத்தளவி|
+storage and warehousing|சேமகமும் இருப்பகமும்|
+storage capacity|சேமகக் கொள்ளளவு|
+storage classes|சேமக வகுப்புகள்|
+storage parenchyma|சேமக உடன்கூழ்த்திசு|
+storage protein|சேமகப் புரதம்|
+storage water heater|சேமக வெந்நீராக்கி|
+store (computer)|சேமகி|
+store n|கடை|
+stored data|சேமகத் தரவு|
+stored program concept|சேமக நிரல் கருத்துரு|
+storm|புயல்|
+stove|அடுப்பு|oven - கணப்பு
+straight angle|நேர்க்கோணம்|
+straight line method|நேர்க்கோட்டு முறை|
+straight stair|நேர்ப் படிக்கட்டு|
+strain|திரிபு|
+strain (biology)|மரபுவகை|
+strange (quark)|வினோதம் (குவார்க்கு)|
+strangulated hernia|நெரிக் குடற்பிதுக்கம்|
+strap hinge|வார்க்கீல்|
+strategic management|உத்திம மேலாண்மை|
+strategic partnership|உத்திமப் பங்குடைமை|
+strategy|உத்திமம்|
+stratified|படிநிலை|
+stratified sampling|படிநிலை மாதிரிக்கூறெடுப்பு|
+stratosphere|படலக்கோளம்|
+stratum|அடுக்கம்|
+stratum basale|அடித்தள அடுக்கம்|
+stratum corneum|கரட்டு அடுக்கம்|
+stratum granulosum|மணித்துகள் அடுக்கம்|
+stratum lucidum|தெளியடுக்கம்|
+stratum spinosum|உறுத்தடுக்கம்|
+straw board|கோரைப்பலகை|
+stream|ஓடை|
+stream (computer)|தாரை|
+streamline|ஓடைக்கோடு|
+streamline flow|ஓடைக்கோட்டுப் பாய்வு|
+street|தெரு|
+strength|வலிமை|
+streptobacillus|திருகுக்குச்சியம்|
+streptococcus|திருகுமணியம்|
+streptococcus faecalis|கழிவியத் திருகுமணியம்|
+streptomyces|திருகுப்பூஞ்சையம்|
+streptomycin|திருகுப்பூஞ்சையின்|
+streptothrix|திருகுமுடியம்|
+streptoverticillium|திருகுச்சுழலியம்|
+stress|அழுத்தம் (திண்மம்)|
+stress fracture|அழுத்த எலும்புமுறிவு|
+stretched Rohini satellite series (SROSS)|நீட்டிய உரோகிணித் துணைக்கோள் வரிசை (நீரோதுவ)
+stretcher (masonry)|நீட்டுவம்|
+stretcher bond|நீளப்பிணைப்பு|
+stretcher course|நீளவாட்டுவரிசை|
+striated muscle|கீற்றுத்தசை|
+strikethrough|அடித்தற்கோடு|
+string|சரம்|
+stringcourse|வாரடுக்கு|
+stringer (stair)|அடியிணை|
+striped muscle|வரியுடைத் தசை|
+strobilus|அலவரை|
+stroke (computer)|தட்டல்|
+stroke (medicine)|பக்கவாதம்|
+stroma|மெத்தணி|
+stroma lamella|மெத்தணி மென்தட்டு|
+strong acid|வன்னமிலம்|
+strong nuclear force|வலுமிகு அணுக்கரு விசை|
+strongly connected|வலுவாக இணைக்கப்பட்டது|
+strontium|துரந்தியம்|
+structural isomerism|கட்டமைப்பு மாற்றியம்|
+structural protein|கட்டமைப்புப் புரதம்|
+structure|கட்டமைப்பு|
+structured design|கட்டமை வடிவமைப்பு|
+structured programming|கட்டமை நிரலாக்கல்|
+strut|தளைவி|
+stub|வெட்டெச்சம்|
+stud|குமிழாணி|
+studding|குமிழாணியிடல்|
+study (scientific)|ஆய்வறிதல்|
+stye|கண்புண்|
+style|பாணி|
+style (construction)|குத்துப்பலகை|
+style (in flower) |சூல் தண்டு|
+style tag|பாணி தொங்கி|
+stylus|எழுத்தாணி|
+styptic|உறைவு|
+styrene|பினித்தீன்|
+suasion|இணங்குவித்தல்|
+subaerial|விசும்படி|
+subaerial modification|விசும்படி மாற்றமைவு|
+subarachnoid space|வலையனையமிடை வெளி|
+subatomic particle|அணுவுள் துகள்|
+subclavian artery|சிறுதோட்டசைத் தமனி|
+subclavian vein|சிறுதோட்டசைச் சிரை|
+subclavius|சிறுதோட்டசை|
+subcontinent|துணைக்கண்டம்|
+subdivision|உட்பிரிவு|
+suberic acid|சுபேரிக அமிலம்|
+subfamily|உட்குடும்பம்|
+subform|உள்வடிவம்|
+subgenus|உட்டுறை (பாகுபாட்டியல்)|உள் + துறை (தொல்காப்பியம் 150)
+subgrade|அடிச்சரிவு|
+subject|பாடப்பகுதி|
+subjective|விருப்புசார்|
+subkingdom|உட்பேரரசு|
+sublimation|பதங்கமாதல்|
+sublingual gland|நாவடிச் சுரப்பி|
+submandibular gland|தாடையடிச் சுரப்பி|
+submatrix|உட்டளவணி|உள் + தளவணி (தொல்காப்பியம் 150)
+submenu|கிளைப்பட்டி|
+submetacentric|பெயர்மைய|
+submit|சமர்ப்பி|
+submultiple angles|துணை பன்மடிக் கோணங்கள்|
+suborder (taxonomy)|உண்முறைமை|
+subrogation|மாற்றுரிமை|
+subroutine|துணைநிரற்கூறு|
+subscribe|பங்குசேர்|
+subscribed capital|ஒப்பிய மூலதனம்|
+subscript|கீழொட்டு|
+subscription|பங்குசேர்க்கை|
+subset|உட்கணம்|
+subsidiary company|துணை நிறுமம்|
+subsidiary qunatum number|துணைத் துணுக்க எண்|
+subsidy|மானியத்தள்ளுபடி|
+subsoil|அடிமண்|
+subspace|தாழ்வெளி|
+subspecies|சிற்றினம்|
+substandard|தரங்குறைந்த|
+substituent|பதிலி|
+substitute n|பதிலீடு|
+substitute v|பதிலிடு|
+substituted|பதிலிட்ட|
+substitution|பதிலிடுதல்|
+substitution mutation|திரிதல் விகாரம்|தோன்றல் திரிதல் கெடுதல் விகாரம் - நன்னூல் 154
+substitution reaction|பதிலீட்டு வினை|
+substrate (biochemistry)|வினையாகி|
+substrate (electronics)|பலகையடி|
+substratum|சிற்றடுக்கம்|
+subtractor|கழிப்பி|
+subtribe|உட்கிளையம்|
+subunit|சிற்றலகு|
+subvariety|உள்வகை|
+subway|தரையடி|
+succession|தொடர்முறை|
+succinic acid|சக்கினிக அமிலம்|
+succulent|சதைப்பற்றான|
+succulents|சாறடங்கியவை|
+succus entericus|சிறுகுடற்சாறு|
+sucker|உறிஞ்சி|haustoria - உறிஞ்சன்கள்
+sucralose|இனிப்பலோசு|
+sucrase|இனிப்போசூக்கி|
+sucrose|இனிப்போசு|
+suction pressure|உறிஞ்சழுத்தம்|
+sufficiency|போதுமை|adequacy - போதகுமை
+sugar|சர்க்கரை|
+sugar cane top shoot borer|கரும்புநுனித் துளைப்பி|
+suggestion|மொழிவுரை|
+suitable|உகந்தது|
+suitablity|உகந்தமை|
+suite|தொகுனம்|
+sulcus|தசைப்பள்ளம்|
+sulfamic acid|கந்தகமின அமிலம்|
+sulfanilamide|நீர்கந்தகவமைடு|
+sulfatase|கந்தகேட்டூக்கி|
+sulfate|கந்தகேட்டு|
+sulfation|கந்தகேட்டுப் படிதல்|
+sulfhydryl|நீர்கந்தக|
+sulfide|கந்தகைடு|
+sulfinic acid|கந்தகினிக அமிலம்|
+sulfinyl|கந்தகைல்|aka thionyl
+sulfite|கந்தகைட்டு|
+sulfolobaceae|கந்தகமடலியனையன|
+sulfolobales|கந்தகமடலியைகள்|
+sulfolobus|கந்தகமடலியம்|
+sulfonamide|கந்தகவமைடு|
+sulfonation|கந்தகானிகேற்றம்|
+sulfonic acid|கந்தகானிக அமிலம்|
+sulfospirillum|கந்தகச்சுருளியம்|aka thiospira
+sulfur|கந்தகம்|
+sulfuric acid|கந்தக அமிலம்|
+sullage|கழுவுநீர்|
+Sullivan's test|சல்லிவனின் சோதனை|
+sum|கூட்டல் தொகை|
+sum of products|பெருக்கல்களின் கூட்டல்|பெருக்கல் பெருக்கற்பலனைக் குறிப்பதால் ஆகுபெயர்
+sum term|கூட்டலுறுப்பு|
+summarize|சுருங்கவுரை|
+summary|சுருக்கவுரை|
+summing amplifier|கூட்டல் மிகைப்பி|
+sun|கதிரவன்|
+sun spots|கதிரவப்பொட்டுகள்|
+Sunday|ஞாயிற்றுக்கிழமை|
+sundry|பலசிறு|
+Sun-synchronous|கதிரவனுடன்கால|
+superbug|மிகைப்பூச்சி|
+supercoil|மிகைச்சுருளி|
+supercomputer|மிகைக்கணினி|
+superconductivity|மிகைக்கடத்துமை|
+superconductor|மிகைக்கடத்தி|
+supercooling|மிகைக்குளிர்நிலை|
+superelevation|மிகையுயர்வு|
+superfamily|மிகைக்குடும்பம்|
+superfemale|மிகைப்பெண்|aka metafemale
+superficial|மேலோட்டமான|shallow - ஆழமற்ற
+superficial cleavage|மேலோட்டப் பிளவுறல்|
+superficial placentation|இடைச்சுவர் சூலொட்டுமுறை|retaining wall - தடுப்புச் சுவர்
+superficialis muscle|மேலமைத் தசை|
+superheating|மிகைக்கொதிநிலை|
+superheterodyne receiver|மிகைவேற்றுத்திறன் பெறுவி|
+superior frontal gyrus|மேல் முன்பக்க மேடு|
+superior frontal sulcus|மேல் முன்பக்கப் பள்ளம்|
+superior vena cava|மேற்பெருஞ்சிரை|aka precava
+super-large-scale integration (SLSI)|மிகப்பேரளவத் தொகையிடல் (மிபேதொ)
+supermale|மிகையாண்|
+supermarket|பேரங்காடி|
+supernova|பெருநோவா|
+supernovae|பெருநோவாக்கள்|
+superorder|மிகைமுறைமை|
+superplasticizer|மிகைநெகிழ்மமாக்கி|
+superposed opposite |மேலெதிரமை|
+superposition|மேலமைவு|overlap - மேற்பொருந்தல்
+supersaturated solution|அதிதெவிட்டிய கரைசல்|
+superscript|மேலொட்டு|
+superset|மிகைக்கணம்|
+supersex|மிகைப்பாலினம்|
+supersonic|மிகையொலிய|
+supervision|மேற்பார்வை |
+supervisor|மேற்பார்வையாளர்|
+supplementary anges|மிகைநிரப்புக் கோணங்கள்|
+supply  |அளிப்பு|
+supply and demand|அளிப்பும் வேண்டலும்|
+supply function|அளிப்புச் சார்பு|
+support|ஆதரவு|
+suppressor|குறைப்பான்|
+suppuration|சீழ்ச்சிதைவுறல்|
+suppurative|சீழ்ச்சிதைவாக்க|
+suprahyoid|மேல்நாவடி|
+supranational|நாடுகளுக்கும் மேலான|
+suprarenal glands|சிறுநீரகமேவு சுரப்பிகள்|
+supremacy|உச்சவுயர்மை|
+supreme court|உச்ச நீதிமன்றம்|
+surd|முருட்டெண்|
+surface (math)|தளம்|
+surface (physics)|மேற்பரப்பு|
+surface area|தளப்பரப்பு|
+surface chemistry|மேற்பரப்பு வேதியியல்|
+surface impoundment|மேற்பரப்புப் பட்டியடைத்தல்|
+surface of revolution|சுழற்சித் தளம்|
+surface reaction|மேற்பரப்பு வேதிவினை|
+surface receptor|மேற்பரப்பு பெறுவி|
+surface tension|மேற்பரப்பு இழுவிசை|
+surge|சீறெழு|
+surgery|அறுவைச்சிகிச்சை|
+surplus|மிகுதி|
+surprisal|வியப்புமை|
+surrealistic|இயல்புமீறிய|
+surrender (oneself)|சரணடை|
+surrender (something)|சரணிடு  |
+surrender value|சரணிடு மதிப்பு|
+surround sound|சூழொலி|
+surrounding|சூழிடம்|
+surveillance|கடுங்காணிப்பு|
+survey (land)|நிலமளப்பு|
+survey (statistical)|கணிப்பு|
+surveyer|நிலம் அளப்பவர்|
+survival of the fittest|தகுந்தன பிழைத்தல்|
+survivor|பிழைப்பர்|
+susceptiblity|உட்படுமை|
+suspend|இடைநிறுத்து|
+suspense|தவிநிலை|
+suspense account|மர்மக் கணக்கு|
+suspension|தொங்கல்|
+suspension rod (ceiling fan)|தொங்குகம்பி (முகட்டு விசிறி)|aka down rod
+suspensor|தொங்கட்டான்|
+Sussex|சவ்வசு|
+sustainable|நீடிக்கத்தகு|
+sustainable development|நீடிக்கத்தகு வளராக்கம்|
+sustained interference|நீடித்த குறுக்கீடு|
+suture|தையலிணை|
+swamp|தாழ்நிலம்|
+swan neck flask|கொக்குக்கழுத்துக் குடுவை|
+swap|இடைமாற்று|
+swarm|மொய்ப்பி|
+Swarna Jayanti Shahari Rozgar Yojana (SJSRY)|பொன்விழா ஆண்டு தன்பணியாக்கத் திட்டம்
+sweat gland|வியர்வைச் சுரப்பி|
+sweat n|வியர்வை|
+sweat v|வியர்|
+sweetener|இனிப்பூட்டி|
+sweetening agent|இனிப்பூட்டி|
+swine|பன்றியம்|
+swine flu|பன்றிக்காய்ச்சல்|
+swing |ஊஞ்சல்|pendulum - ஊசல்
+Swiss Institute of Bioinformatics (SIB)|சுவிச உயிர்மத் தகவலியல் பயிலகம் (சுதப)
+swiss-prot|சுவிசப்புரது|
+switch (electric circuit)|மாற்றி (மின்சுற்று)|transformer - உருமாற்றி; converter - மாற்றியமைப்பி
+switch off|இலதாக்கு|aka unset
+switch on|உளதாக மாற்று|
+switch-case statement|வேற்றுநிலை மாற்றிக் கூற்று|
+switching circuit|மாற்ற மின்சுற்று|
+switching station|மாற்ற நிலையம்|
+sword tail|கொம்புமீன்|
+syconus fruit|அத்திவகைக் கனி|
+syllabus|பாடத்திட்டம்|
+symbiont|கூட்டுயிரி|
+symbiosis|கூட்டுயிர்மம்|
+symbol|அடையாளம்|
+symmetric|சீரொருமையான|
+symmetry|சீரொருமை|
+symmetry plane|சீரொருமைச் சமதளம்|
+sympathetic|பரிவு|
+sympathetic nerve|பரிவு நரம்பு|
+sympatric|சமதந்தைய|
+sympatric species|சமதந்தைய இனம்|
+symplast|கூட்டணுவம்|
+symporter|ஒருதிசைச் சுமப்பி|
+symptom|அறிகுறி|
+syn-|இணை-|
+synandrous|முற்றிழைந்த மகரந்தத்தாள்கள்|
+synapse|நரம்பிணை|
+synapsis|பக்கவிணை|
+synaptic cleft|நரம்பிணையிடை|
+syncarpous|ஒன்றியசூலிலை|
+synchronization|உடன்காலமாதல்|
+synchronous|உடன்கால|
+syncytial cells|பலகருவின அணுக்கள்|
+syndrome|குறித்தொகுப்பு|
+synergid|துணையணு|
+synergistic|கூட்டாற்றும|
+synergy|கூட்டாற்றல்|
+syngamy|ஒன்றியசேர்க்கை|
+syngenesious stamens|இழைந்த மகரந்தத்தாள்கள்|
+syngraft|சமபதியம்|aka isograft
+synonym|ஒருபொருட்பன்மொழி|
+synovia|மூட்டு மசகு|
+synovial fluid|மூட்டுப் பாய்மம்|
+synovial joint|மசகுடைய மூட்டு|
+synovial membrane|மூட்டுச் சவ்வு|
+synovitis|மூட்டுச்சவ்வழற்சி|
+syntax|வரியியல்|
+synthase|தொகுத்தாக்கவூக்கி|
+synthesis|தொகுத்தாக்கம்|
+synthesize|தொகுத்தாக்கு|
+synthesizer|தொகுத்தாக்கி|
+synthetase|தளையமூக்கி|aka ligase
+synthetic phase|தொகுத்தாக்கக் கட்டம்|
+syphilis|சிபிலிசு|
+syphon n|வடிகுழாய்|
+syphon v|குழாய்வடி|
+syrinx|குரற்பேழை (பறவையியல்)|
+system|அமைப்பு|structure - கட்டமைப்பு
+system administrator|அமைப்பு நிர்வாகி|
+system call|அமைப்பு விளி|
+system files|அமைப்புக் கோப்புகள்|
+System International de Units|பன்னாட்டு அலகமைப்பு|
+system of equations|சமன்பாடமைப்பு|
+system of resistors|தடையமமைப்பு|
+system software|அமைப்பக மென்பொருள்|
+system tools|அமைப்பகக் கருவிகள்|
+system tray|அமைப்பகத் தட்டு|
+systematic|அமைமுறையான|
+systematic error|அமைமுறைப் பிழை|
+systematically|அமைமுறையில்|
+systematics|அமைமுறைகள்|
+systemic artery|அமைப்பத் தமனி|
+systemic circulation|முழுச்சுற்றோட்டம்|
+Systems Network Architecture (SNA)|அமைப்பு வலையக் கட்டிடவியல் (அவக)
+systole|குறுக்கத்துடிப்பு|
+systolic pressure|குறுக்கத்துடிப்பழுத்தம்|
+T (toggle) flip flop|மாறிமாறி எழுவிழு|
+T cell|தைம நிணவணு|
+T helper cell|உதவுநிணவணு|
+T killer cell|கொல்நிணவணு|
+T lymphocyte|தைம நிணவணு|
+T memory cell|தைம நினைவணு|
+T suppressor cell|தைம குறைப்பணு|
+tab|தத்தல்|
+tab character|தத்தல் வரியுரு|
+tab key|தத்தல் விசை|
+tab stop|தத்தல் நிறுத்தம்|
+table|அட்டவணை|
+table (furniture)|மேசை|
+table fan|மேசை விசிறி|
+table lookup|அட்டவணை நோக்கல்|
+table tag|அட்டவணை தொங்கி|
+tablet|மட்டியம்|
+tabulate|அட்டவணையிடு|
+tabulator|அட்டவணையாக்கி|
+tachometer|சுழலளவி|speedometer - வேகமளவி
+tactic|திறமை|
+tactile receptors|தொடு பெறுவி|
+tadpole|தலைப்பிரட்டை|
+tag|தொங்கி|
+tagging|தொங்கியிடல்|
+Taiga forest|தய்யா வனம்|
+tail fibers|வாலிழைகள்|
+Taiwan Biodiversity Information Facility|தைவான் உயிர்மப் பன்மயத் தகவல் வசதியம்
+take off|மேலெழு|
+tamilization|தமிழியலாக்கம்|
+tan (trigonometry)|தொவி|
+tan A position|மு தொவி நிலை (முதல் தொடுவிகித நிலை)
+tan A position|முதல் தொடுவிகித நிலை (மு தொவி நிலை)
+tan B position|இரண்டாம் தொடுவிகித நிலை (இ தொவி நிலை)
+tangent (geometry)|தொடுகோடு|
+tangent (trigonometry)|தொடுவிகிதம் (தொவி)|
+tangent galvanometer|தொடுவிகித கால்வனளவி|
+tangent law|தொடுவிகித விதி|
+tangible|புலனாகு|
+tanker|தொட்டிக் கப்பல்|
+tannic acid|பதமாக்கி அமிலம்|
+tannin|பதமாக்கி|
+tanning|பதமாக்கல் (தோல்)|
+tantalum|தாந்தலம்|
+tape recorder|நாடா பதிவி|நாடாப் பதிவி - நாடாத பதிவி
+tape worm|நாடா புழு|நாடாப் புழு - நாடாத புழு
+tapetum|ஊட்டவுறை|
+tardigrade|மெதுநடையன்|
+target|இலக்கு|
+tariff |கட்டணவீதம்|
+tarsal|குதிகாலெலும்பு|
+tarsier|தேவாங்கு|
+tartar|காரை|
+tartaric acid|புளியிக அமிலம்|
+tartrate|புளியிகேட்டு|
+tartronic acid|புளியினிக அமிலம்|
+task|அலுவல்|
+taskbar|அலுவற்பட்டை|
+taste receptor|சுவைப் பெறுவி|aka gustatory receptor
+tau|தௌ|
+taurine|தாரின்|
+taurocholic acid|தாரிப்பித்த அமிலம்|
+Taurus|காளை விண்மீன்குழு|
+tautology|முற்றுமெய்மை|
+tautomerism|இடமாற்றியம்|
+tautonym|ஈரிடப்பெயர்|
+tax|வரி (நிதியியல்)|
+taxation|வரிவிதிப்பு|
+taxon|பாகுபடுத்தி|
+taxonomy|பாகுபாட்டியல்|
+Tay-Sach's disease|தேசாக்கு நோய்|
+t-butyl|மூ-நான்கவைல்|
+TCA cycle (Tricarboxylic acid cycle)|முக்கரியமில அமிலச் சுழற்சி|
+TCP (transmission control protocol)|அகவி (அனுப்பீட்டுக் கட்டுப்பாடு விதிமுறை)
+TCP/IP|அகவி/வவி|
+teak|தேக்கு|
+team|குழு|
+tear gland|கண்ணீர்ச் சுரப்பி|aka lacrymal gland
+technetium|தெக்கினியம்|
+technical salesperson|செய்நுட்ப விற்பனையாளர்|
+technical terms|கலைச் சொற்கள்|
+technique|செய்நுட்பம்|technology - தொழில்நுட்பம்
+technology|தொழில்நுட்பம்|technique - செய்நுட்பம்
+technology transfer|தொழில்நுட்ப மாற்றல்|
+tectonic plates|புவியத் தட்டு|
+tectorial membrane|கூரைச் சவ்வு|
+teeth|பற்கள்|
+tegmen|விதையுள்ளுறை|
+telecommunication|தொலைத் தகவற்றொடர்பு|
+teleconference|தொலைக் கலந்துரை|
+telegraph plant|தந்தித் தாவரம்|
+telemarketing|தொலைச்சந்தையிடல்|
+telemedicine|தொலைமருத்துவம்|
+telemeter|தொலைவளவி|
+telepathy|மிகையுணர்தல்|
+teleshopping|தொலைவாங்கல்|
+tellone|தெல்லோன்|
+tellurium|தெலுரியம்|
+tellurol|தெலுரால்|
+telnet|தொலைவலையம்|
+telocentric|தொலைவுமைய|
+telolecithal egg|இருசீருமையுணவு முட்டை|
+telomere|முனைதிரள்|
+telophase I|முதல் இறுதிக் கட்டம்|
+telophase II|இரண்டாம் இறுதிக் கட்டம்|
+Telugu Desam|தெலுங்கு தேசம்|
+temperate forest|மித வனம்|
+temperate grassland|மிதப் புல்வெளி|
+tempering (construction)|வலுவாக்கல்|
+template|வடிவச்சு|
+temple (anatomy)|நெற்றிமடை|
+tempo (music)|தாளகதி|
+temporal bone|நெற்றிமடை எலும்பு|
+temporal isolation|பருவத் தனிமையாதல்|aka seasonal isolation
+temporal lobe|நடைமுறை மடல்|
+temporalis|பொட்டுத்தசை|
+temporary gas|தற்காலிக வளிமம்|
+tendency|நிகழ்ப்போக்கு|
+tender n|ஒப்பந்தப்புள்ளி|
+tendon|தசைநார்|
+tendril|பற்றிழை|
+tenosynovitis|தசைநார்ச்சவ்வழற்சி|
+tensile strength|விரைப்பு வலிமை|
+tension|விறைப்பு|
+tensor|பொதுவணி|
+tentative|கோட்போதான|
+tera-|தெரா-|
+terbium|தேபியம்|
+terene|தெரீன்|
+term policy|காலப்பகுதி காப்பிதழ்|
+terminal|முனைப்பொறி|
+terminal branch|முனைக்கிளை|
+terminal bronchiole|மூச்சுமுனைநுண்குழல்|
+terminal bud|முனைமொட்டு|
+terminal ileum|முனைச்சிறுகுடல்|
+terminal inflorescence|முனை மஞ்சரி|
+terminal solitary cyme|முனைத் தனி முற்றுநுனியன்|
+terminal velocity|இறுதித் திசைவேகம்|
+terminalization|முனையாக்கம்|
+termination (rna)|முடிவாதல் (அனரி)|
+termination sequence|முடிவாதல் தொடரி|
+termination signal|முடிவாதல் நிமிண்டல்|
+terminology|சொல்லாட்சி|
+termite|கரையான்|
+terms of a contract|ஒப்பந்த உறுப்புகள்|
+ternary complex|மும்மக் கூட்டுமம்|
+ternary operator|மும்மச் செயலி|
+ternary phyllotaxy|மும்மடி இலையடுக்கம்|
+terrace|மொட்டைமாடி|
+terrazzo|தரையடுக்குக்கல்|
+terrestrial|புவிசார்|
+terrestrial object|புவிசார் பொருள்|
+terriary butyl|மூன்றாமை நான்கவைல்|
+tertian fever|மூன்றுக்கொரு காய்ச்சல்|
+tertian malaria|மூன்றுக்கொரு மலேரியா|
+tertiary|மூன்றாமை|
+tertiary bronchus|மூன்றாமைச் சிறுகுழல்|
+tertiary carbon|மூன்றாமைக் கரிமம்|
+tertiary consumer|மூன்றாமை நுகர்வோர்|
+tertiary halide|மூன்றாமை உப்பாக்கைடு|
+tertiary pentane|மூன்றாமை ஐந்தவேன்|
+tertiary root|மூன்றாமை வேர்|
+tertiary structure|மூன்றாமைக் கட்டமைப்பு|
+terylene|தெரிலீன்|
+tesla|தெசுலா|
+test|சோதனை|experiment - பரிசோதனை
+test cross|சோதனைக் கலப்பு|
+test of significance|பொருளுமை சோதனை|
+test tube|சோதனைக் குழல்|
+testa|விதையுறை|
+tester|சோதிப்பி|
+testes|விந்தகங்கள்|
+testicle|விந்தகம்|
+testicular vein|விந்தகச் சிரை|
+testimony|வாக்குமூலம்|
+testis|விந்தகம்|
+testosterone|ஆண்மை இயக்குநீர்|
+tetanus|வாயடக்கி|
+tetany|தசைக்குறுக்கி|
+tethering|தளைதல்|
+tetra-|நான்-|
+tetracarpellary|நாற்சூலிலை|
+tetrachloro acetylene|நாற்குளோரோ அசிற்றலீன்|
+tetracoccus|நான்மணியம்|
+tetracontane|நாற்பதவேன்|
+tetracosane|இருபத்துநான்கவேன்|
+tetracycline|நாற்சுழலி|
+tetrad|நான்மை|
+tetradecane|பதிநான்கவேன்|
+tetradynamous|நாற்றிறன்|நான்கு + திறன்
+tetrahalomethane|நான்குப்பாக்கியமீத்தேன்|
+tetrahedral|நான்முகி|
+tetrameroud flower|நாலங்க மலர்|நான்கு + அங்க மலர்
+tetrapoda|நாற்காலுயிரிகள்|
+tetrodon|பேத்தைமீன்|
+tetrodotoxin |பேத்தைநச்சுவம்|
+tetrose|நான்கோசு|
+text|உரை|
+text area|உரைப் பகுதி|
+text box|உரைப் பெட்டி|
+text data|உரைத் தரவு|
+text editor|உரை திருத்தி|
+textile|நெசவுப்பொருள்|
+textile mill|நெசவாலை|
+texture|இழையமைவு|
+thalamiflorae|பூத்தளவின|
+thalamus (anatomy)|தலமி|aka torus
+thalamus (botany)|பூத்தளம்|aka torus, receptacle
+thalassemia|தலசசோகை|
+thalassemia major|பெருந் தலசச்சோகை|
+thalassemia minor|சிறு தலசச்சோகை|
+thallium|தாலியம்|
+thallus|தலசு|
+Tharparkar|தார்பார்க்கர்|
+thatch|கிடுகு|
+thatched roof|கிடுகுக் கூரை|
+The Central Council|மைய மன்றம்|
+The Central Fisheries Research Institute|மையக் கடல் மீன்பண்ணை ஆய்வுப் பயிலகம்
+The Nature Conservancy|இயற்கை அழிவுறாக்காத்தல்|
+theca externa|குழிப்பை வெளியுறை|
+theca interna|குழிப்பை உள்ளுறை|
+thecodont|குழிப்பல்|
+themoacidophiles|வெப்பவமிலவிரும்பி|
+theodolite|சுழற்கோணவளவி|
+theoretical|கோட்பாட்டு|
+theory|கோட்பாடு|
+theory of relativity|ஒப்புமைக் கோட்பாடு|
+theory of special creation|சிறப்புப் படைப்புக் கோட்பாடு|
+therapeutic|சிகிச்சைக்கான|
+therapy|மீள்சிகிச்சை|
+thermal death point|இறப்பு வெப்பநிலை|
+thermal equilibrium|வெப்பச் சமநிலை|
+thermal fission|வெப்பப் பிளவுறுதல்|
+thermal fuse|வெப்பக் காப்புருகி|
+thermal power plant|அனல் மின்னிலையம்|
+thermal printer|வெப்ப அச்சிடுவான்|
+thermal spring|வெந்நீர் ஊற்று|
+thermal stability|வெப்ப நிலைப்புமை|
+thermaproteales|வெப்பப்பலவடிவியைகள்|
+thermoactinomyces|வெப்பக்கதிர்ப்பூஞ்சையம்|
+thermochemistry|வெப்ப வேதியியல்|
+thermococcaceae|வெப்பமணியனையன|
+thermococcales|வெப்பமணியைகள்|
+thermococcus|வெப்பமணியம்|
+thermocouple|வெப்பவிரட்டை|
+thermodynamics|வெப்பவியக்கம்|
+thermometer |வெப்பநிலையளவி|calorimeter - வெப்பளவி
+thermomonospora|வெப்பவொற்றைவித்தியம்|
+thermonasty|வெப்பவளைவு|
+thermophile|வெப்பவிரும்பி|
+thermopile|வெப்பக்குவியல்|
+thermoplasma|வெப்பப்குழைமம்|
+thermoplastic|வெப்பநெகிழ்ம|
+thermoproteaceae|வெப்பப்பலவடிவியனையன|
+thermoproteus|வெப்பப்பலவடிவியம்|
+thermos flask|வெப்பக் குடுவை|
+thermosetting|வெப்பத்திணுங்கு|
+thermosphere|வெப்பக்கோளம்|
+thermostat|வெப்ப நிலைப்பாக்கி|
+thermotactic|வெப்பத்தூண்டல்|
+theta|தீற்றா|
+thiamine|B-1 வைட்டமின்|aka vitamin B-1
+thick skin|தடித்தோல்|
+thigh|தொடை|
+thigmotropic|தொடுநாடு|
+thin layer chromatography|மென்படல நிறப்பிரிகை|
+thin lens|மெல்லிய ஒளிவில்லை|
+thin skin|மென்றோல்|
+thinking process|எண்ணோட்டம்|
+thioaldehyde|கந்தகால்டிகைடு|
+thiobacillus|கந்தகக்குச்சியம்|
+thiobacterium|கந்தகப்பாட்டீரியம்|
+thiocystis|கந்தகப்பையம்|
+thioether|கந்தகீத்தர்|
+thiol|கந்தகால்|aka mercaptan
+thiomicrospira|கந்தகநுண்சுருளியம்|
+thione|கந்தகோன்|
+thionyl|கந்தகைல்|aka sulfinyl
+thiopedia|கந்தகவெளியம்|
+thioperoxol|கந்தகமூச்சியால்|
+thiophene|கந்தகீன்|
+thiosarcina|கந்தகப்பொதியங்கள்|
+thiospira|கந்தகச்சுருளியம்|aka sulfospirillum
+thiothrix|கந்தகமுடியம்|
+third law of thermodynamics|வெப்பவியக்கத்தின் மூன்றாம் விதி
+third order reaction|மூன்றாம் முறைமை வினை|
+third party|மூன்றாந் தரப்பினர்|
+Third World|மூன்றாம் உலகம்|
+Thomas Graham|தாமஸ் கிரஹாம்|
+Thomson's method|தாம்சனின் முறை|
+thoracic|மார்புக்கூட்டு|
+thoracic artery|மார்புக்கூட்டுத் தமனி|
+thoracic cavity|மார்புக் குழி|
+thoracic duct|மார்புநாளம்|
+thoracic region|மார்புப் பகுதி|மார்பகம் - breast
+thoracic wall|மார்புச்சுவர்|
+thoracoscopy|மார்புக்கூடுநோக்கி|
+thorax|மார்புக்கூடு|
+thorium|தோரியம்|
+thorn|முள்|
+thousand|ஆயிரம்|
+thrash|தொடரடி|
+threading|இழையாக்கல்|
+threat|அச்சுறுத்தல்|
+three phase winding|மூன்று கட்டக் கண்டு|
+three quarter bat|முக்காற்கட்டி|
+threonine|திரியோனின்|
+threshold|நுழைவாயில்|
+threshold energy|நுழைவ ஆற்றல்|
+thrmoreceptors|வெப்பப் பெறுவி|
+throating|தொண்டையம்|
+thrombin|உறைதம்|
+thrombocyte|உறைவியணு|
+thrombogen|உறைவியாக்கி|
+thrombokinase|உறைவியியக்கவூக்கி|aka thromboplastin
+thromboplastin|உறைவியியக்கவூக்கி|aka thrombokinase
+thrombosis|குருதிகட்டித்தல்|
+thrombus|குருதிக்கட்டி|
+through stone|ஊடுகல்|
+throughput|அலசளவு|
+thrush|திரசு|
+thrust|தள்ளமுக்கு|
+thulium|துலியம்|
+thumb|பெருவிரல்|
+thumbnail|நகவில்லை|
+thumbtack|பலகையூசி|
+Thursday|வியாழக்கிழமை|
+thylakoid|பையனையம் (இலைக் கட்டமைப்பு)
+thymectomy|தைமசறுவை|தைமசு + அறுவை
+thymic corpuscle|தைமத் தனித்துகள்|
+thymine|தைமின்|
+thymocyte|தைமவணு|
+thymol|தைமால்|
+thymopoietin|தைமோபோயட்டின்|
+thymosin|தைமோசின்|
+thymulin|தைமுலின்|
+thymus|தைமசு|
+thyroglobulin|தைரோகோளப்புரதம்|
+thyroid|தைராயிடு|
+thyroid carcinoma|தைராயிடு புற்று|
+thyroid cartilage|தைராயிடு குருத்தெலும்பு|
+thyroid membrane|தைராயிடு சவ்வு|
+thyroid stimulating hormone|தைராயிடு தூண்டுநீர்|aka thyrotropic hormone
+thyronine|தைரனின்|
+thyrotoxicosis|தைரநச்சுநிலை|
+thyrotropic hormone|தைராயிடு தூண்டுநீர்|aka thyroid stimulating hormone
+thyroxine|தைராச்சின்|
+thyrsus|துளசிவகை மஞ்சரி|
+tibia|முன்காலெலும்பு|
+tibial vein|முன்காற் சிரை|
+tick (biology)|குருதியுண்ணி|
+tick fever|குருதியுண்ணிக் காய்ச்சல்|
+tick mark|சரிக்குறி|
+tide|ஈர்ப்பலை|
+tie (construction)|திண்கட்டு|
+tiffin|சிற்றுண்டி |
+tilapia|சிலேபிக்கெண்டை|
+tilde|நெளிவுக் குறி|
+tile n|ஓடு பெ|
+tile v|ஓட்டடுக்கு|
+tiled window|பாவு சாளரம்|
+timber|மரம் (கட்டுமானவியல்)|
+time deposit|கால வைப்பு|
+time dilation|நேர நீட்சி|
+time frame|காலகட்டம்|
+time policy|காலக் காப்பிதழ்|
+time reversal|நேர மீள்திருப்பம்|
+time scale|நேரளவம்|
+time series|நேரத் தொடர்|
+time share|நேரப் பகிர்வு|
+time sharing|நேரப் பகிர்வு|
+time-laspse photography|நேரங்கடத்து ஒளிப்படவியல்|
+time-out (computer)|நேரத்தடக்கம்|
+timer|கடிகை|
+timestamp|நேரமுத்திரை|
+tin|தகரம்|
+tincal|தின்கல்|
+tincture|மதுசாரம்|
+tinea|தினியா|
+tinea nigra|கருப்புத் தினியா|
+tinea versicolor|தினியா நிறமாற்றம்|
+tiny integer|மிகச்சிறு முழுவெண்|
+tissue capillary|தசை நுண்குழல்|
+tissue culture|திசு வளர்த்தல்|
+tissue factor|திசுக்காரணி|
+titanium|தைத்தேனியம்|
+title|தலைப்பு|header - தலையம்
+title bar|தலைப்புப் பட்டை|
+titrate|தரஞ்சொட்டு|
+titration|தரஞ்சொட்டல்|
+toad|தேரை|
+toad stool|நாய்க்குடை|
+toast|வாட்டு|
+toaster|வாட்டுவி|
+tobacco|புகையிலை|
+tobacco mosaic virus|புகையிலை வடிவடுக்கு வைரசு|
+tocopherol|தோக்கோபெரால்|
+TOCTTOU (time of check to time of use)|காண்பயன் நேரவேறுபாடு|
+toggle|மாறிமாறி|
+toilet|கழிப்பறை|
+toilet seat|கழிப்பிருக்கை|
+Toisson solution|தாய்சனின் கரைசல்|
+token|அடையாள வில்லை|
+token ring|அடையாள வளையம்|
+tolerance|சகிப்பு|
+Tollen's reagent|தாலனின் வினையாக்கி|
+toluene|மீத்தைல்பென்சீன்|
+tomato bushy stunt|தக்காளிச்செடி முடக்கி|
+tomography|உட்டளவரைவு|உள் + தளவரைவு (தொல்காப்பியம் 150)
+tone|சுரம்|pitch - சுருதி; fever - காய்ச்சல்
+toner|நிறமூட்டி|
+tongs|இடுக்கி|
+tongtester|கௌவிசோதிப்பி|
+tongue|நாக்கு|
+tongued joint|நாவிணைப்பு|
+tonic spasm|தொடர்தசையிழுப்பு|
+tonicity|சவ்வூடு அழுத்தம்|aka osmotic pressure
+tonoplast|வெற்றுக்குழியுறை|
+tonsil|அடிநாத்தசை|
+tonsillitis|அடிநாத்தசையழற்சி|
+tool|கருவி|
+toolbar|கருவிப்பட்டை|
+toolbox|கருவிப்பெட்டி|
+toolkit|கருவித்தொகுதி|
+tooth|பல்|
+tooth decay|பற்சொத்தை|aka dental caries
+toothbrush|பற்றூரிகை|
+toothpaste|பற்பசை|
+top (quark)|உச்சி (குவார்க்கு)|
+top down|மேலிருந்து கீழ்|
+top loading washing machine|மேற்றிறப்புச் சலவையெந்திரம்|
+top rail|மேற்கிடைப்பட்டை|
+topography|நிலவங்கம்|
+topoisomerase|இடவியமாற்றியமூக்கி|
+topology|இடவியல்|
+torch|கைவிளக்கு|
+tornado|சுழற்காற்று|
+torque|திருப்புவிசை|
+torsion|முறுக்கம்|
+torsion angle|முறுக்கக் கோணம்|
+torso|நடுவுடல்|
+tortoise|ஆமை|
+torus (botany)|பூத்தளம்|aka receptacle, thalamus
+torus (topology)|உருள்வளையம்|
+total cleavage|முழுமைப்பிளவுறல்|aka holoblastic cleavage
+total internal reflection|முழு அக எதிரொளிப்பு|
+total probability|மொத்த சாத்தியக்கூறு|
+Total Quality Management|முழுத் தர மேலாண்மை|
+totipotency|முழுவன்மை|
+totipotent|முழுவன்மைய|
+touch sensitive|தொடுவுணர்|
+touch sensitive screen|தொடுவுணர் திரை|
+touchpad|தொடுதளம்|
+touchscreen|தொடுதிரை|
+toughness|உறுதித்தன்மை|
+tour|மகிழுலா|picnic - உலாவூண்
+tow dimensional array|இருபரிமாண அணி|
+tower|கோபுரம்|
+tower bolt|கோபுரத் தாழ்|
+toxic shock syndrome|நச்சுவதிர்ச்சி குறித்தொகுப்பு|
+toxicity|நச்சுத்தன்மை|
+toxicology|நச்சுவியல்|
+toxicosis|நச்சுநிலை|
+toxoplasma|வளைக்குழைமம்|
+TPHA (Treponema Pallidum Haemagglutination Test)|இகீசோ (இழையாகிப்பேலிடம் கீம்பசையொட்டல் சோதனை)
+trabecula|சிற்றுத்திரம்|
+trace elements|சிற்றளவுத் தனிமங்கள்|
+trachea|மூச்சுக்குழல்|
+tracheid|சவ்வுக்குழல்|
+tracheophyte|குழற்றாவரம்|
+trachoma|இமைப்புண்|
+track|தடம்|route - வழித்தடம்
+trackball|பற்றுருண்டை|
+tracker ball|தடம்பற்றிப் பந்து|
+tracking|தடம்பற்றல்|
+tract|சுவடு|
+tractor|இழுவை|
+trade|வியாபாரம் |வணிகம் - commerce
+trade cycle|வியாபாரச் சுழற்சி|
+trade-off|இழந்துபெறல்|
+trader|வியாபாரி|
+tradition|மரபு (சமூகவியல்)|
+traditional|மரபுசார்|
+traditional authority|மரபுசார் அதிகாரம்|
+Trafford sheet|திராபர்டின் தகடு|
+trailer|தொடர்வி|
+trailing edge|தொடர்விளிம்பு|
+train|தொடர்வண்டி|
+trait|மரபு (மரபியல்)|
+trajectory|வீசுபாதை|
+tram|தண்டூர்தி|
+tramp (ship)|தன்வழிக் கப்பல்|
+tranquilizer|அமைதியாக்கி|
+trans|எதிர்ப்பக்க|
+trans-|மறு-|
+trans esterification|பதிலீட்டு எசுத்தராக்கல்|
+transaction|வணிமாற்றம்|நடவடிக்கை means legal or military operation
+transacylase|குறையமில மாற்றலூக்கி|
+transaminase|அமினமாற்றலூக்கி|
+transamination|அமினமாற்றம்|
+transborder|கரைமீறு|
+transcend|இயற்கட|
+transciever|பெறுவியனுப்பி|
+transcript |படிநகல்|
+transcriptase|நகலெழுதூக்கி|
+transcription|நகலெழுதல்|
+transcription bubble|நகலெழுதல் குமிழி|
+transcription complex|நகலெழுதல் கூட்டுமம்|
+transduction|அனடேற்றல்|tramsfection - மாற்றேற்றல்
+transfection|மாற்றேற்றல்|transduction - அனடேற்றல்
+transfer|மாற்றல்|
+transfer entry|மாற்றல் பதிகை|
+transfer RNA|மாற்றலனரி|
+transferable|மாற்றத்தகு|convertible -மாறுதகு
+transferase|மாற்றலூக்கி|
+transferrin|இரும்புமாற்றி|
+transformation|உருமாற்றம்|
+transformer|உருமாற்றி|converter - மாற்றியமைப்பி; switch - மாற்றி
+transfusion|வடிமாற்றம்|
+transgenic|மரபணுமாற்ற|
+transient|கணநிலைப்பு|
+transistor|மாற்றடையன்|trans(fer) + (res)istor - மாற்(றத்) + (த)டையன்
+transistor bias|மாற்றடையன் கோடல்|
+transit delay|கடப்புத் தாமதம்|
+transition|நிலைமாற்றம்|
+transition element|நிலைமாற்றத் தனிமம்|
+transition flow|நிலைமாற்றப் பாய்வு|
+transition metal|நிலைமாற்ற உலோகம்|
+transition probability|நிலைமாற்ற சாத்தியக்கூறு|
+transition state|நிலைமாற்ற நிலை|
+transition state theory|நிலைமாற்ற நிலைக் கோட்பாடு|
+transitional|நிலைமாற்ற|
+transitive|கடவும|
+transitive property|கடவுமப் பண்பு|
+translate (language)|மொழிபெயர்|
+translate (movement)|நகர்த்து|
+translation (language)|மொழிபெயர்ப்பு|
+translation (movement)|நகர்த்தல் |
+translational symmetry|நகர்வுச் சீரொருமை|
+transliteration|ஒலியாக்கம்|
+translocase|பெயர்ச்சியூக்கி|
+translocation|இடப்பெயர்ச்சி (மரபியல்)|
+translucent|குறையொளிபுகு|
+transmembrane protein|சவ்வூடு புரதம்|
+transmethylase|மீத்தைல்மாற்றமூக்கி|
+transmethylation|மீத்தைல்மாற்றம்|
+transmission |அனுப்பீடு|
+transmission control protocol (TCP)|அனுப்பீட்டுக் கட்டுப்பாடு விதிமுறை (அகவி)
+transmission electron microscope|அனுப்பீட்டு எலட்டிரான் நுண்ணோக்கி
+transmission media|அனுப்பீட்டு ஊடகங்கள்|
+transmittance|அனுப்புமை|conductivity - கடத்துமை
+transmitter|அனுப்பி|
+transmitting antenna|அனுப்பீட்டு அலைவுணரி|
+transmutation|தனிமமாற்றம்|
+transoid|மாறுபக்கனைய|
+transom|கிடைப்பிரிகை|
+transparency (photography)|ஒளிபுகுவன்|
+transparent|ஒளிபுகு|
+transpiration|ஆவிப்போக்கு|
+transplant n|மாற்றுநடவு|
+transplant v|மாற்றுநடு|
+transponder|பதிலனுப்பி|
+transport (in commerce)|போக்குவரத்து|
+transport (physical phenomenon)|கடத்தல்|
+transport protein|கடத்திப் புரதம்|
+transpose|ஊடுமாற்று|
+transpose matrix|ஊடுமாற்றுத் தளவணி|
+transpose of a matrix|தளவணியின் ஊடுமாற்று|
+transposition|ஊடுமாற்றம்|
+transposon|ஊடுமாறி|
+transuranium|யுரேனியம் கடந்த|
+transversal|குறுக்குவெட்டி|
+transverse|குறுக்குவாட்டு|lateral - பக்கவாட்டு
+transverse axis|குறுக்கச்சு|
+transverse cleavage|குறுக்குவாட்டுப் பிளவுறல்|
+transverse colon|கிடைப்பெருங்குடல்|
+transverse process (vertebra)|பக்க நீட்சி (முள்ளெலும்பு)|
+transverse vibration|குறுக்குவாட்டு அதிர்வு|
+transversion|மறுமாற்றம்|
+trap|பிடிபொறி|
+trap door|பொறிக்கதவு|
+trapezium|சரிவுநாற்கரம்|
+trapezius|சரிவுநாற்கரத் தசை|
+trascribe|நகலெழுது|
+traspiration pull theory|ஆவிப்போக்கின் இழுப்புக் கோட்பாடு
+trauma|வேதனை|
+traumatic|வேதனைவழி|
+traveler|பயணர்|
+travelers check|பயணர் காசோலை|
+traversal|நடக்கை|
+tread|மிதியம்|
+treasury|நிதியகம்|
+treasury bill|நிதியகச் சீட்டு|
+treat (medical) |சிகிச்சையளி|
+treatment (medical) |சிகிச்சை |
+tredecillion (short scale)|பதிநான்மடியாயிரம்|
+tree structure|மரவுருக் கட்டமைப்பு|
+trematoda|துளைப்புழுக்கள்|
+trend |போக்கு|
+treponema|இழையாகி|
+treponema pallidum|இழையாகிப் பேலிடம்|
+Treponema Pallidum Haemagglutination Test (TPHA|இழையாகிப்பேலிடம் கீம்பசையொட்டல் சோதனை (இகீசோ)
+triacontane|முப்பதவேன்|
+triacylglycerol|முக்குறையமிலக்கிளிசரால்|
+triad (chemistry)|மும்மை (வேதியியல்)|
+trial|முயன்மை|
+trial balance|இருப்பாய்வு|
+trialkyl|மூவால்க்கைல்|
+triangular prism|முப்பட்டகம்|
+triangulation|முக்கோணமயமாக்கல்|
+Triassic period|மூன்றாய காலம்|
+triatomic|மூவணு|
+tribe|கிளையம்|
+tricarboxylic acid (TCA) cycle|முக்கரியமில அமிலச் (முகவச்) சுழற்சி
+tricarpellary|முச்சூலிலை|
+triceps|முத்தலைத் தசை|
+triceps brachii|முத்தலைக் கைத்தசை|
+triceratops|முக்கொம்பலி|
+trichloride|முக்குளோரைடு|
+trichome|முடியனைய|
+trichomonad|முடியொருவி|
+trichomonas|முடியொருவியம்|
+trichomonas vaginalis|பெண்குறிய முடியொருவியம்|
+trichomoniasis|முடியொருவியநோய்|
+trickle charging|கசிவு மின்னேற்றம்|
+trickling filter|கசிவு வடிகட்டி|
+triclinic|முச்சரிவு|
+tricosane|இருபத்துமூன்றவேன்|
+tricuspid valve|முக்குமிழ் தடுக்கிதழ்|
+tridecane|பதின்மூன்றவேன்|
+triene|மூவீன்|
+trifluoromethyl sulfur pentafluoride|முப்புளோரோமீத்தைல் கந்தக ஐம்புளோரைடு
+trifoliate|மூவங்கை|
+triglyceride|முக்கிளிசரைடு|
+trigonal bipyramid|முக்கோண இருநாற்கூம்பு|
+trigonometric ratios|முக்கோணவியல் விகிதங்கள்|
+trigonometry|முக்கோணவியல்|
+trihalide|மூவுப்பாக்கைடு|
+trihalomethane|மூவுப்பாக்கியமீத்தேன்|
+trihydric|முந்நீர்மூச்சிய|
+trihydroxy|முந்நீர்மூச்சிய|
+trillion (short scale)|நான்மடியாயிரம்|
+trim|நறுக்கு|
+trimer|மும்மம்|
+trimerous flower|மூவங்க மலர்|
+triose|மூன்றோசு|
+triose phosphate isomerase|மூன்றோசு பாசுவேட்டு மாற்றியவூக்கி
+tripinnate|மூவிறகன|
+triple|மும்ம|
+triple bond|மும்மப் பிணைப்பு|
+triple column|மூன்று நெடுக்கை|பத்தி - paragraph; முப்பத்தி - colloq. thirty-
+triple point|மும்மப்புள்ளி|
+triple product|முப்பெருக்கல்|
+triplet (spectroscopy)|மும்மை (நிறமாலையியல்)|
+triplication|மும்மடங்கல்|
+triploblastic animal|மூவடுக்கு விலங்கு|
+triply degenerate orbitals|மும்மடிச் சம ஆற்றல் அலைமண்டலங்கள்
+tristate logic|முந்நிலை ஏரணம்|
+tritium|அதிகனநீரியம்|
+trivial|அற்ப|
+trivial solution|அற்பத் தீர்வு|
+tRNA|மாற்றலனரி|
+trochophore|ஆழியன்|
+trojan horse virus|பொதிப்பரிசு நச்சுநிரல்|
+trophozoite|சத்துயிரி|
+tropical  |வெப்பமண்டல|
+tropical desert|வெப்பமண்டலப் பாலை|
+tropical forest|வெப்பமண்டல வனம்|
+tropical rain forest|வெப்பமண்டல மழை வனம்|
+tropomyosin|திருப்பத்தசைப்புரதம்|
+troponin|திருப்பப்புரதம்|
+troposphere|மீட்புக்கோளம்|
+troubleshoot|பிறழ்ச்செயற்காண்|
+trough|அகடு|
+Trouton's rule|திரௌட்டனின் விதி|
+trowel|கரணை|
+truck|சரக்குந்து|aka lorry
+true|மெய்|false - பொய்; correct - சரி
+true fruit|மெய்க்கனி|
+true statement|மெய்க்கூற்று|
+truncate|துணி வி|
+truncation|துணித்தல்|
+truncation error|துணித்தல் பிழை|
+trunk|எழுமரம்|
+truss|திரட்கட்டு|
+trustee|அறங்காவலர்|
+truth|மெய்மை|
+truth table|மெய்மை அட்டவணை|
+try square|மூலை மட்டம்|
+trygon|கொடுக்கி|
+trypanosomal form|உறக்கநோயிய வடிவம்|
+trypanosome|உறக்கநோயி|
+trypanosomiasis|உறக்கநோய்|
+trypsin|முறிவூக்கி|
+trypsinogen|முறிவூக்கியாக்கி|
+tryptophan|திரிட்டோபன்|
+T-square|மட்டச் சட்டம்|
+tsunami|சுனாமி|
+Tswett|சுவெட்|
+tube dilution technique|குழல் நீர்த்தல் செய்நுட்பம்|
+tube jumper|குழற்றுள்ளுளி|
+tube light|குழல் விளக்கு|
+tube nucleus|குழல் அணுக்கரு|
+tubectomy|கருவகக்குழலறுவை|
+tuber|கிழங்கு|
+tubercle|கிழங்கம்|
+tubercle bacillus|கிழங்கக் குச்சியம்|
+tuberculin|எலும்புருக்கியம்|
+tuberculosis|எலும்புருக்கி|
+tubipora|குழலப்பவளங்கள்|
+tubular|குழல|
+tubulation|குழலாதல்|
+tubules|குழலங்கள்|
+tubulin|குழலப்புரதம்|
+Tuesday|செவ்வாய்க்கிழமை|
+tumble|தடுக்கிவிழு|
+tumor|கழலை|
+tumor marker|கழலை குறிப்பி|
+tumor necrosis factor (TNF)|கழலைத் திசுவிறப்புக் காரணி (கதிகா)
+tundra|துந்திரம்|
+tungsten|துங்கதன்|
+tungsten filament lamp|துங்கதன் சிற்றிழை விளக்கு|
+tunic|மூடுறை|
+tunica|மூடுறைகள்|
+tunica adventitia|வெளிமூடுறை|
+tunica albuginea|வெண்சவ்வு மூடுறை|
+tunica externa|வெளிமூடுறை|
+tunica intima|உள்மூடுறை|
+tunica media|இடைமூடுறை|
+tunicate|மூடுறையன்|
+tunicated bulb|மூடுறைக் குமிழம்|
+tuning|சுரமாக்கல்|
+tuple|பன்மை (கணிதம்)|
+turbellaria|கலக்குயிரிகள்|
+turbidity|கலங்கல்|
+turbine|விசைச்சுழலி|
+turbulence|கொந்தளிப்பு|
+turbulent flow|கொந்தளிப்புப் பாய்வு|
+turgid|வீப்பிய|
+turgidity|வீப்பம்|
+turgor growth|வீப்பிய வளர்ச்சி|
+turgor pressure|வீப்பழுத்தம்|
+Turing machine|தூரிங்கின் எந்திரம்|
+turion|இளந்தளிர்|
+turkey|வான்கோழி|
+Turk's solution|தருக்கின் கரைசல்|
+turnaround time|திருப்புநேரம்|
+Turner's syndrome|தருனரின் குறித்தொகுப்பு|
+turnkey system|முழுமைப்பணி அமைப்பு|
+turnover|மீட்சுழல்|
+turpentine|தப்பந்தைன்|
+turtle|ஆமை|
+tutorial|பயிலுரை|
+tweeter|கீச்சொலிப்பி|
+twisted aestivation|திருகு இதழடுக்கம்|
+twisted fiber|முறுக்கிழை|
+twisted pairs|திருகிணைகள்|
+two dimensional|இருபரிமாண|
+two slot winding|இரட்டை நீள்துளைக் கண்டு|
+two way branching|இருவழி கிளைத்தல்|
+two's complement|இரண்டின் நிரப்பி|
+tympanic membrane|நடுச்செவிச் சவ்வு|
+tympanum|நடுச்செவி|aka middle ear
+Tyndal scattering|திண்டலின் சிதறல்|
+Tyndall effect|திண்டலின் விளைவு|
+type ahead|முன்தட்டச்சு|
+type ball|அச்சுப்பந்து|
+type concept|வகைக் கருத்துரு|
+type I diabetes|முதல் வகை நீரிழிவு|aka insulin dependent diabetes
+type II diabetes|இரண்டாம் வகை நீரிழிவு|aka non-insulin dependent diabetes
+type over|அழிப்புத் தட்டச்சு|
+type over|மேல் தட்டச்சு|
+type specimen|வகை மாதிரியன்|
+typeface|அச்சுமுகம்|
+typeface|அச்சுவகை|
+typhlosole|குடல்மடி|
+typhoid|தைபனையம்|
+typhus|தைபம்|
+typing|தட்டச்சுதல்|
+typological species concept|வகையியல் இனக் கருத்துரு|
+typology|வகையியல்|
+tyramine|தைரமீன்|
+tyrannosaurus|அரக்கலி|
+tyrosinase|தைரசினூக்கி|
+tyrosine|தைரசின்|
+ubiquitous|எங்குமுள்ள|
+ubiquity|எங்குமிருத்தல்|
+UDP (uridine diphosphate)|யுருபா (யுரிடின் இருபாசுவேட்டு)|
+UDP (User Datagram Protocol)|பதவி (பயனர் தரவுச்செய்தி விதிமுறை)
+Ukraine|யூக்கிரேன்|
+ulcer|உட்புண்|
+ulcerate|குடலுட்புண்ணாகு|
+ulna|கீழ்க்கையெலும்பு|
+ulnar artery|கீழ்க்கைத் தமனி|
+ulnar vein|கீழ்க்கைச் சிரை|
+ULSI (ultra-large-scale integration) |மீபேதொ (மீப்பேரளவத் தொகையிடல்)
+ultracentrifuge|மிகைச்சுழல்வீழ்த்தி|
+ultrafiltrate|மிகைவடிமம்|
+ultrafiltration|மிகைவடிகட்டல்|
+ultra-large-scale integration (ULSI) |மீப்பேரளவத் தொகையிடல் (மீபேதொ)
+ultrasonic|புறவொலிய|
+ultrasound|புறவொலி|
+ultraviolet rays|புறவூதாக்கதிர்கள் (புவூ)|
+umbel|குடைமஞ்சரி|
+umbellate|குடைவடிவ|
+umbellet|சிறுகுடை|
+umbilical cord|தொப்புள் கொடி|
+umbilical hernia|தொப்புள் குடற்பிதுக்கம்|
+umbilicus|தொப்புள்|
+Umblachery|உம்பளச்சேரி|
+unaccelerated frames|முடுக்காத சட்டங்கள்|
+unbalanced|சமனமற்ற|
+unbalanced load|சமனமற்ற சுமை|
+unbalanced winding|சமனமற்ற கண்டு|
+unbiassed|கோடலில்லா|
+unbiassedness|கோடலின்மை|
+unburnt brick|சுடாத செங்கல்|
+uncalled capital|விளிக்காத மூலதனம்|
+uncertainty|நிச்சயமின்மை|
+uncertainty principle|நிச்சயமின்மைக் கொள்கை|
+unclassified|வகைப்படுத்தாத|
+uncompetitive inhibition|போட்டியற்ற மறிப்பு|noncompetitive inhibition - போட்டியில்லா மறிப்பு
+unconventional|மரபேற்பெதிர்|
+uncountable|எண்ணுறா|
+uncoupler|இணைக்கட்டுநீக்கி|
+uncoursed rubble masonry|வரிசையற்ற சீரற்ற கற்கட்டு|
+undeca-|பதினொன்ற-|
+undecane|பதினொன்றவேன்|
+undecillion (short scale)|பன்னிருமடியாயிரம்|
+under secretary|கீழ்ச் செயலர்|
+underdeveloped|வளராக்கம் குன்றிய|
+underdeveloped countries|வளராக்கங்குறைந்த நாடுகள்|
+underemployment|குறைபணிகொள்ளல்|
+underexploited|குறைப்பயனுகர்ந்த|
+underflow|கீழ்வழிதல்|
+underground|தரையடி|
+underground modification|தரையடி மாற்றமைவு|
+underline|அடிக்கோடு|
+underscore|அடிக்கீறு|
+underutilization|குறைப்பயன்பாடு|
+underwear|கீழுள்ளாடை|
+underwrite|அடியெழுது|
+underwriting|அடியெழுதல்|
+undo|செயல்களை|
+undulate|நெளிவியங்கு|
+unemployment|பணிகொள்ளலின்மை|
+unequal holoblastic cleavage|சமமற்ற முழுமைப் பிளவுறல்|
+UNESCO (United Nations Educational, Scientific, and Cultural Organization)|ஒநாகறிக (ஒன்றிய நாடுகளின் கல்வி, அறிவியல், கலாச்சார ஒருங்கமைப்பு)
+unethical|நன்னெறியற்ற|
+unethical|புன்னெறியான|
+unfortunate|போகூழ்|
+uniary operator|ஒருமச் செயலி|
+unibus|ஒற்றைப்பாட்டை|
+unicameralism|ஓரவையம்|ஒரு + அவையம்
+unicellular|ஓரணு (உயிரியல்)|
+unifoliate|ஓரங்கை|
+uniform|சமச்சீரான|
+Uniform Resource Identifier (URI)|சமச்சீரான வளமினங்காட்டி (சவமி)
+Uniform Resource Locator (URL)|சமச்சீரான வளங்காணி (சவகா)|
+unigram|ஒருசொற்றுகள்|
+Unilever Limited|யூனிலீவர் வரம்பம்|
+unimolecular elimination reaction|ஒற்றை மூலக்கூறு நீக்க வினை|
+unimolecular nucloephilic substitution reaction|ஒற்றைமூலக்கூறு அணுக்கருவிருப்பப் பதிலீட்டு வினை
+unimolecular reaction|ஒற்றை மூலக்கூறு வினை|
+uninstall|நிறுவநீக்கு|
+uninterrupted power supply (UPS)|தடங்கலில்லா மின்திறனளிப்பு (தமிதி)
+union|ஒன்றியம்|
+union (math)|சேர்ப்பு (கணிதம்)|
+Union Carbide|யூனியன் கார்பைடு|
+Union Ministry of Environment and Forests|மத்திய சுற்றுச்சூழல் மற்றும் வனங்கள் அமைச்சகம்
+Union of Soviet Socialist Republics (USSR)|சோவியத்து சமவுடைமைக் குடியரசுகள் ஒன்றியம் (சோசகுவொ)
+unipennate muscle|ஒற்றையிறகத் தசை|
+unipinnate|ஒற்றையிறகன|
+unipolar|ஒற்றைமுனைய|
+uniporter|ஒற்றைச் சுமப்பி|
+unique|ஒருத்துவ|
+unique solution|ஒருத்துவத் தீர்வு|
+uniqueness|ஒருத்துவம்|specialty - தனித்துவம்
+unisexual|ஒருபாலின|homosexual - ஒப்புப்பாலின
+unit|அலகு (அளவை)|
+unit cell|அலகுக் கூடு|
+unit matrix|அலகுத் தளவணி|
+unit membrane hypothesis|அலகுச் சவ்வு கருதுகோள்|
+unit membrane model|அலகுச் சவ்வு ஒப்புரு|
+unit vector|அலகுத் திசையன்|
+unitary|ஒற்றைய|
+United Kingdom|ஆங்கிலேய ஒன்றியம்|
+United Nations|ஒன்றிய நாடுகள்|United States - ஒன்றிய மாநிலங்கள்
+United Nations Educational, Scientific, and Cultural Organization (UNESCO)|ஒன்றிய நாடுகளின் கல்வி, அறிவியல், கலாச்சார ஒருங்கமைப்பு (ஒநாகறிக)
+United Nations Environment Programme|ஒன்றிய நாடுகளின் சுற்றுச்சூழல் பணித்திட்டம்
+United States|ஒன்றிய மாநிலங்கள்|united nations - ஒன்றிய நாடுகள்
+United States of America (USA)|அமெரிக்க ஒன்றிய மாநிலங்கள் (அவொமா)
+universal|அனைத்துவ|
+universal donors|அனைத்துவ வழங்குனர்|
+universal recipients|அனைத்துவப் பெருனர்|
+universal set|அனைத்துவக் கணம்|
+universality|அனைத்துவம்|
+universe|அண்டம்|ovum - முட்டை
+university|பல்கலைக்கழகம்|
+Unix operating system|யூனிசு செயற்பாடமைப்பு|
+unlimited|வரம்பற்ற|
+unlock|பூட்டுவிடுவி|
+unmanned|ஆளில்லா|
+unmanned probe|ஆளில்லா நுண்ணாய்வி|
+unordered list|முறைமையிடாத பட்டியல்|
+unpack|பொதியல்நீக்கு|
+unpaid capital|செலுத்தாத மூலதனம்|
+unpaired electron|இணைமமுறா எலட்டிரான்|
+unperturbed|சிறுமாற்றமில்லா|
+unrealized gain|வரக்கூடிய பெறுமம்|
+unrefined|பண்படாத|
+unripe fruit|காய்|
+unsaturated hydrocarbon|தெவிட்டாத நீரியக்கரிமம்|
+unsecured debenture|வெற்றுக் கடனோலை|
+unset|இலதாக்கு|aka  switch off
+unshielded twisted pair|கேடயமிடா திருகிணைகள்|
+unsigned integer|குறியற்ற முழுவெண்|
+unstable|நிலைப்பற்ற|
+unstable equilibrium|நிலைப்பற்ற சமநிலை|
+unstable state|நிலைப்பற்ற நிலை|
+unsubscribed capital|ஒப்பாத மூலதனம்|
+unsymmetrical ether|சீரொருமையற்ற ஈத்தர்|
+ununoctium|ஒன்றொன்றெட்டியம்|
+ununpentium|ஒன்றொன்றைந்தியம்|
+ununseptium|ஒன்றொன்றேழியம்|
+ununtrium|ஒன்றொன்றுமூன்றியம்|
+unwinding|கண்டுபிரிதல்|
+up (quark)|மேல் (குவார்க்கு)|
+update|திருத்தாக்கம்|
+up-down counter|மேல்கீழ் எண்ணி|
+upgrade|தரமுயர்த்து|
+uphill|மலையேற்ற|
+upload|பதிவேற்று|
+upper bound|மேல்வரம்பு|
+upper respiratory tract|மூச்சுமேற்சுவடு|
+uppercase|மேலெழுத்து|
+upright |நிமிர்ந்த|
+UPS (uninterrupted power supply)|தமிதி (தடங்கலில்லா மின்திறனளிப்பு)
+up-to-date v|இற்றைப் படுத்து|
+upward compatible|மேல்நோக்கி ஒவ்வுமையான|
+uracil|யுராசில்|
+uranium|யுரேனியம்|
+Uranus|யுரேனசு|
+Uranus|யுரேனசு|
+urban|நகர|
+urbanization|நகரமயமாதல்|
+urceolate corolla|தாழிவடிவ அல்லிவட்டம்|
+urea|யூரியா|
+urease|யூரியவூக்கி|
+ureate|யூரியேட்டு|
+ureate oxidase|யூரியேட்டு மூச்சியைடூக்கி|
+ureter|சிறுநீர் நாளம்|
+ureterorenoscopy|பையுள்நோக்கி|
+urethra|சிறுநீர்ப் புறவழி|
+Urey-Miller hypothesis|யூரிமில்லரின் கருதுகோள்|
+URI (Uniform Resource Identifier)|சவமி (சமச்சீரான வளமினங்காட்டி)
+uric acid|யூரிக அமிலம்|
+uridine|யுரிடின்|
+urinalysis|சிறுநீராய்வு|
+urinary bladder|சிறுநீர்ப்பை|
+uriniferous tubule|சிறுநீர்க் குழலம்|
+urinogenital system|சிறுநீர்க் குறியுறுப்பு அமைப்பு|
+URL (Uniform Resource Locator)|சவகா (சமச்சீரான வளங்காணி)|
+urochordata|வால்நாணிகள்|
+urodaeum|சிறுநீர்ப்பாதை|
+urogenital diaphragm|சிறுநீர்க் குறியுறுப்பு இடைத்திரை
+uropygial gland|எண்ணெய்ச் சுரப்பி (பறவையியல்)|aka preen gland
+Ursa Major|பெருங்கரடி (விண்மீன்குழு)|
+Ursa Minor|சிறுகரடி (விண்மீன்குழு)|
+USA (United States of America)|அவொமா (அமெரிக்க ஒன்றிய மாநிலங்கள்)
+usability|பயன்மை|
+usenet|பயன்வலை|
+user|பயனர்|
+User Datagram Protocol (UDP)|பயனர் தரவுச்செய்தி விதிமுறை (பதவி)
+user defined|பயனர் வரையறு|
+user friendly|பயனர் தோழமையான|
+user friendly|பயனர் நட்பான|
+user group|பயனர் தொகுதி|
+user interface|பயனர் இடைமுகம்|
+user profile|பயனர் விவரம்|
+username|பயனர் பெயர்|
+USSR (Union of Soviet Socialist Republics)|சோசகுவொ (சோவியத்து சமவுடைமைக் குடியரசுகள் ஒன்றியம்)
+uterine tube|கருவகக் குழல்|aka fallopian tube
+uterus|கருவகம்|
+utility|பயன்கூறு|
+utmost good faith|அதிமிகு நன்னம்பிக்கை|
+utricle|நுண்ணறை|
+UV absorption|புறவூதா உட்கவர்தல்|
+UV absorption spectrophotometry|புறவூதா உட்கவர் நிறமாலையளவியல்
+UVA|முதல் புறவூதா|
+UVB |இரண்டாம் புறவூதா|
+UVC|மூன்றாம் புறவூதா|
+uvula|உண்ணாக்கு|
+vacation of office|பதவி துறத்தல்|
+vaccination|நோய்த்தடுப்பு|immunity - நோயெதிர்ப்பு
+vaccine|தடுப்பு மருந்து|
+vaccinia|மட்டம்மை|
+vacuole|வெற்றுக்குமிழ்|
+vacuum|வெற்றிடம்|
+vacuum cleaner|வெற்றிடத் துப்புரவி|
+vacuum tube|வெற்றிடக் குழல்|
+vagina|பெண்குறி|
+vaginal diaphragm|பெண்குறி இடைத்திரை|
+vaginitis|பெண்குறியழற்சி|
+vagus nerve|பத்தாம் மண்டைநரம்பு|
+vagus nerve stimulation|பத்தாம் நரம்புத்தூண்டல்|
+vagus stimulation|பத்தாம் நரம்புத்தூண்டல்|
+vairable resistance|மாறுபடும் தடையம்|
+valence|பிணைதிறன்|bond - பிணைப்பு
+Valence Shell Electron Pair Repulsion (VSEPR) theory|பிணைதிறன் ஓட்டின் எலட்டிரான் இணை விலக்கல் (விசப்பார்) கோட்பாடு
+valid|ஏற்புடை  |
+validate|ஏற்புடையாக்கு|
+validation|ஏற்புடையாக்கல்|
+validity|ஏற்புடைமை|
+valine|வேலின்|
+valley|பள்ளத்தாக்கு|
+valuables|மதிப்புமிக்கவை|
+valvate aestivation|தொடு இதழடுக்கம்|
+valve|தடுக்கிதழ்|
+van de Graaff|வான் டி கிராஃப்|
+van de Graaff generator|வாண்டி கிராபின் மின்னியற்றி|
+van der Waals|வாண்டர் வால்ஸ்|
+van der Waals equation|வாண்டர்வால்சின் சமன்பாடு|
+vanadium|வனேடியம்|
+van't Hoff|வான்ற் ஹாஃப்|
+van't Hoff rule|வாந்தாபுவின் விதி|
+vapor pressure|ஆவி அழுத்தம் |
+vapour density|ஆவி அடர்வு|
+varbinary|மாறிருமம்|
+varchar|மாறெழு|
+variable|மாறி|
+variable cost|மாறும் ஆக்கவிலை|
+variable region|மாறு பகுதி|
+variables separable|பிரிக்கத்தக்க மாறிகள்|
+variance|பரவகலம்|பரவு + அகலம்
+variate|நேர்வுமாறி|
+variation|மாறுபாடு|
+variety (taxonomy)|வகை (பாகுபாட்டியல்)|
+variola|பேரம்மை|aka smallpox
+variola virus|பேரம்மை வைரசு|
+variolation|அம்மைகுத்தல்|
+varnish|மெருகெண்ணெய்|
+vas deferens|விந்தணுநாளம்|
+vasa nervosum|நரம்புக் குருதிக்குழல்|
+vasa vasorum|குழற் குழல்கள்|
+vascular|நீர்மக்குழல்|
+vascular bundle|நீர்மக்குழல் கற்றை|
+vascular occlusion|நீர்மக்குழல் மேல்மறைப்பு|
+vascular tunic|நீர்மக்குழல் மூடுறை|
+vasectomy|விந்துநாளவறுவை|
+vasoconstriction|குழலொடுக்கம்|
+vasodilation|குழல் விரிவுறுதல்|
+vasopressin|குழலழுத்தி|
+vector|திசையன் |
+vector (biology)|செல்பொருள்|
+vector graphics|திசையன் படவரைவு|
+vector product|திசையன் பெருக்கல்|
+vegetal pole|தாவரமுனை|
+vegetation|தாவரச்செழுமை|
+vegetative cell|வளரணு|
+vegetative propagation|உடல இனப்பெருக்கம்|aka vegetative reproduction
+vegetative reproduction|உடல இனப்பெருக்கம்|aka vegetative propagation
+vein (circulatory system)|சிரை|
+vein (leaf structure)|நரம்பு (தாவரவியல்)|
+velamen|வலேமின்|
+velocity|திசைவேகம்|
+vena cava|பெருஞ்சிரை|
+vena contracta|குறுக்கக் குழாய்|
+venation|நரம்பமைப்பு (தாவரவியல்)|
+vendor (computer)|விற்பவர் (கணினி)|
+veneer|திரைப்படலம்|
+veneering|படலமிடல்|
+venereal|பால்வினை|
+venereum|அரையாப்பு|
+Venezuela|வெனிசுவேலா|
+Venn diagram|வென்னின் படவரைவு|
+venous system|சிரையமைப்பு|
+vent|காற்றுத்திறப்பு|
+venter|வயிற்றறை|
+ventilate|காற்றோட்டு|
+ventilation|காற்றோட்டம்|
+ventilator|காற்றோட்டி|
+ventral|வயிற்றுப்பக்க|
+ventral fissure|வயிற்றுப்பக்கப் பிளவு|
+ventral lip|வயிற்றுப்பக்க உதடு|
+ventral root|வயிற்றுப்பக்க வேர்|
+ventricle (brain)|மூளை உள்ளறை|
+ventricle (heart)|இதயக் கீழறை|
+venule|சிறுசிரை|
+Venus|வெள்ளி (கோள்)|
+Venus|வெள்ளி (வானியல்)|
+verify|சரிபார்|
+vermicompost|புழுக்கலப்புரம்|
+vermiculture|மண்புழுவளர்த்தல்|
+vermiform appendix|புழுவடிவக் குடல்வால்|
+vermis|புழுவனையம்|
+vernalization|வசந்தமாக்கல்|
+versatile anther|மென்பிணைப்பு மகரந்தம்|
+versicolor|நிறமாற்றம்|
+version|பதிப்பெண்|
+vertebra |முதுகெலும்பு |
+vertebral arch|முதுகெலும்பு வளைவு|
+vertebral column|முதுகெலும்புத் தொடர்|
+vertebral foramen|முதுகெலும்புத் துளை|
+vertebral muscle|முதுகெலும்புத் தசை|
+vertebrata |முதுகெலும்பிகள்|
+vertebrate|முதுகெலும்பி|
+vertex|உச்சி (பற்கோணம்)|
+vertex of an angle|கோணத்தின் உச்சி|
+vertical|செங்குத்து|
+vertical cleavage|குத்துத்தளப் பிளவுறல்|
+vertically opposite angles|குத்தெதிர்க் கோணங்கள்|
+verticillaster|தும்பைவகை மஞ்சரி|
+very low density lipoprotein|மிகத்தாழடர்வு கொழுமியப்புரதம்
+vescera|உடலகங்கள்|
+vesicle|குமிழ்ப்பை|
+vessel|துளைகுழல்|
+vestibular gland|நுழைவறைச் சுரப்பி|
+vestibular membrane|நுழைவறைச் சவ்வு|aka Reissner's membrane
+vestibule|நுழைவறை|
+vestige|பண்டெச்சம்|
+vestigeal|பண்டெச்ச|
+vexillary aestivation|பதாகை இதழடுக்கம்|
+vexillum|பதாகை|
+vi editor|கா திருத்தி|
+viability|பிழைப்புமை|
+vibrate|அதிர்|
+vibrator|அதிர்வி|
+vibrio|அதிரியம்|
+vibrio cholerae|காலரா அதிரியம்|
+vibrionaceae|அதிரியனையன|
+vice  president|துணையதிபர்|
+vice versa|திருப்பியவாறு|
+vicinal|அருக|
+vicinal dihalide|அருக ஈருப்பாக்கைடு|
+vicious cycle|கொடுஞ்சுழல்|
+victim|பாதிக்கப்பட்டவர்|
+Victor Grignard|விக்டர் கிரின்யா|பிரான்சு மொழியில் சரியான உச்சரிப்பு
+Victor Meyer test|விட்டர் மேயரின் சோதனை|
+victoria stones|விட்டோரியாக் கல்|
+video|காணொளி|
+videography|காணொளியியல்|
+vidicon|வீடிகான்|
+view n|காட்சி|
+view port|காட்சிச் சாளரம்|
+view v |காண்|
+vigintillion (short scale)|இருபத்தொருமடியாயிரம்|
+villus|விரலி|
+vinegar|வினிகர்|புளிக்காடி வேண்டாம், புளியுடன் தொடர்பில்லாததால்
+vinyl|வைனில்|
+violet|ஊதா|
+viper|விரியன்|
+virion|வைரசன்|விரியன் - ஒரு வகைப் பாம்பு
+viroids|வைரசனையங்கள்|
+virology|வைரசியல்|
+virtual image|தோற்ற நிழலுரு|
+virtual memory|தோற்ற நினைவகம்|
+virtual reality|தோன்றுண்மை|
+virulence|வீரியம்|
+virulent|வீரிய|
+virus|வைரசு|நச்சுவம் - toxin
+virus (computer)|நச்சுநிரல்|
+viscera|வயிற்றக உறுப்புக்கள்|
+visceral|வயிற்றக|
+visceral layer|வயிற்றகப் படலம்|
+visceral muscle|வயிற்றகத் தசை|
+visceral organ|வயிற்றக உறுப்பு|
+viscose|பாகுமம்|
+viscosity|பாகுமை|
+viscosity coefficient|பாகுமைக் கெழு|
+viscous|பாகுமையான|
+viscus|வயிற்றக உறுப்பு|
+visible|கண்தோன்று|
+visual purple|விழிச்செவ்வூதா|
+visualize|மனங்காண்|
+vital force|உயிர்ம விசை|
+vital movement|உயிர்ம இயக்கம்|
+vital staining|உயிர்மக் கறையிடல்|
+vital theory|உயிர்மக் கோட்பாடு|
+vitamin|வைட்டமின்|
+vitamin A|A வைட்டமின்|
+vitamin B-1|B-1 வைட்டமின்|aka thiamine
+vitamin C|C வைட்டமின்|aka ascorbic acid
+vitamin D|D வைட்டமின்|
+vitamin K|K வைட்டமின்|
+vitamine E|E வைட்டமின்|
+vitelline membrane|முட்டைப்புரதச் சவ்வு|
+vitiligo|வெளிர்தோல்|
+vitreoscilla|தெளிவலைவம்|
+vitreous humour|பின்கண் பாய்மம்|கண் நீர் - tears
+vitriol|கண்ணாடியம்|
+vivarium|விலங்குக் காப்பகம்|
+vivax malaria|விவாசு மலேரியா|
+viviparous|தாயின்வளர்|
+vivipary|தாயின்வளர்தல்|
+vocabulary|சொல்வளம்|
+vocal cords|ஒலிநாண்கள்|aka vocal folds
+vocal folds|ஒலிநாண்கள்|aka vocal cords
+voice recognition|குரலுணரி|
+voice synthesizer|குரல் தொகுத்தாக்கி|
+voice voting|வாய் வாக்களிப்பு|
+volatile|துரிதாவி|
+volatile liquid|துரிதாவி நீர்மம்|
+volatile memory|துரிதாவி நினைவகம்|
+volcano|எரிமலை|
+Volt|வோல்டு|
+voltage tester|வோல்டு சோதிப்பி|
+voltaic cell|வோல்டிக மின்கலம்|
+voltmeter|வோல்டளவி|
+volume|பருமன்|capatity - கொள்ளளவு
+volume (of a book)|பாகம் (நூலின்)|
+volume (of sound)|ஒலியளவு|
+volumetric|பருமனறி|
+volumetric analysis|பருமனறி பகுப்பாய்வு|
+volumetric pipette|பருமனறி குழலளவி|
+voluntary|தன்விருப்ப|
+voluntary retirement|விருப்ப ஓய்வுறுதல்|
+volutin|புரதமணி|
+volvox|வால்வாசு|
+vomer|ஏர்க்காலெலும்பு|
+Von-Gierke's disease|வான்கீர்கின் நோய்|
+vortex|சுழல் பெ|
+vorticity|சுழன்மை|
+vote n|வாக்களிப்பு|
+vote v|வாக்களி|
+voucher|சான்றுச்சீட்டு|
+voussoir|வூசுவார்|
+voyage policy|பயணக் காப்பிதழ்|
+VSEPR (Valence Shell Electron Pair Repulsion) theory|விசப்பர் (பிணைதிறன் ஓட்டின் எலட்டிரான் இணை விலக்கல்) கோட்பாடு
+vulgaris|இயல்பி|
+vulnerability|தீங்குறுமை|
+vulnerable|தீங்குறு|
+vulva|வல்வம்|
+wage|கூலி|
+walkthrough|ஊடுலா|
+walky-talky|நடைபேசி|
+wall plate|சுவர்ச் சட்டம்|
+wall pressure|சுவரழுத்தம்|
+wallpaper|சுவர்த்தாள்|poster - சுவர்ப்படம்
+WAN (wide area network)|அபவ (அகலப்பரப்பு வலையம்)|
+wardrobe|உடையடுக்கு|
+wardrobe handle|உடையடுக்குப்பிடி|
+warehouse|இருப்பகம்|
+warehouse keeper|இருப்பகக் காப்பாளர்|
+warm start|மிதத்தொடக்கம்|
+warmup|சூடாகு|
+warmup time|சூடாகு நேரம்|
+warning message|எச்சரிக்கைத் தூதுரை|
+warrant n|கொள்ளாணை|
+warrant v|உறுதியளி|
+warranty|பொறுப்புறுதி|indemnity - ஈட்டுறுதி; guarantee - செயலுறுதி
+warts|தோற்கட்டிகள்|
+washing machine|சலவை எந்திரம்|
+washing soda|சலவை சோடா|
+wasp|குளவி|
+wastage|கழிவாதல்|
+waste|கழிவு|
+water|நீர்|
+water absorption|நீருட்கவர்தல்|
+water heater|கொதிகலன்|
+water potential|நீர் ஆற்றநிலை|
+water resistant barrier|நீர்த்தடையத் தட்டி|
+water table|நீரடுக்கம்|நீர்மட்டம் - water level
+waterfalls|நீர்வீழ்ச்சி|
+waterproof|நீர்கசியா|
+watershed|நீர்ப்பிரிமுகடு|
+Watson|வாட்சன்|
+Watson and Crick|வாட்சனும் கிரிக்கும்|
+watt (SI units)|வாட்டு|
+wattmeter|திறனளவி|
+WAVE format|அலை வடிவூட்டம்|aka WAV format
+wave front|அலைமுகப்பு|
+wave motion|அலை இயக்கம்|
+wave number|அலையெண்|
+wave winding|அலைக் கண்டு|
+wavelength|அலைநீளம்|
+wax|மெழுகு|
+wax museum|மெழுகுக் காட்சியகம்|
+way bill|வழிச்சீட்டு|
+WBT (web based training)|வதப (வலையம் தழுவிய பயிற்சி)
+wd (working directory)|பகோ (பணிக் கோப்பகம்)|
+weak acid|மென்னமிலம்|
+weak nuclear force|வலுகுறை அணுக்கரு விசை|
+wealth|செல்வம்|
+wearing course|தேய்வு வழி|
+weather|வானிலை|
+weather forecast|வானிலை முன்னறிவிப்பு|
+weathering|தட்பவெப்பந்தாங்கல்|
+weathering|பயன்சிதைவு|
+web advertising|வலைய விளம்பரம்|
+web authoring|வலைப் படைப்பாக்கம்|
+web based training (WBT)|வலையம் தழுவிய பயிற்சி (வதப)
+web marketing|வலையச் சந்தையிடல்|
+web page|வலைப்பக்கம்|
+web server|இணையச் சேவையர்|
+web site|இணையத் தளம்|aka internet site
+web style|வலைபாணி|
+weber|வெபர்|
+wedge|ஆப்பு|
+Wednesday|புதன்கிழமை|
+weed|களை|
+weevil|மூக்குவண்டு|
+weight|எடை|
+weighted|எடையிட்ட|
+weighted average|எடையிட்ட சராசரி|
+weightlessness|எடையின்மை|
+Weiss index|வைசுவின் எண்|
+weld|உருக்கியொட்டு|
+welfare state|மக்கள்நல அரசு|
+Werner's theory|வெர்னரின் கோட்பாடு|
+western blot|மேற்கத்திய ஒற்று|
+western blot test|மேற்கத்திய ஒற்றல் சோதனை|
+wet heat|ஈர வெப்பம்|
+wetland|ஈரநிலம்|
+whale|திமிங்கலம்|
+Wheatstone bridge|வீட்டுசனின் பாலம்|
+wheel of commerce|வணிகச் சக்கரம்|
+while (…)|(…) என்றபோது|
+while statement|என்றபோது கூற்று|
+whiptail disease|சாட்டைவால் நோய்|
+whisper|முணுமுணுப்பு|
+whispering gallery|முணுமுணுப்புக் கூடம்|
+white blood cell|வெள்ளையணு|
+white blood corpuscle|வெள்ளையணு|
+White dwarfs|வெண்குறுமீன்கள்|
+white matter|வெண் பொருள்|
+white noise|வெள்ளோசை|
+white pulp|வெள்ளைச் சக்கை|
+white space|வெண்ணிடம்|
+whitewash v|வெள்ளையடி|
+whitlow|விரலழற்சி|
+WHO (World Health Organization)|உநமை (உலக உடல்நல ஒருங்கமைப்பு)
+whole coil winding|முழுச்சுருள் கண்டு|
+whole life policy|முழு ஆயுட் காப்பிதழ்|
+whole number|முழுவெண்|aka integer
+wholesale|மொத்த விற்பனை|
+wholesaler|மொத்த விற்பவர்|
+whorled phyllotaxy|வட்ட இலையடுக்கம்|
+wide area network (WAN)|அகலப்பரப்பு வலையம் (அபவ)|
+Wien's law|வியனின் விதி|
+wild card character|கட்டிலா வரியுரு|
+wildcard|கோமாளிச்சீட்டு|
+wildlife|வனவுயிரி|
+William Bragg|வில்லியம் பிரேக்|
+williamson's synthesis|வில்லியன்சனின் தொகுத்தாக்கம்|
+wind|காற்று (வீசும்)|
+wind crack|காற்று வெடிப்பு|
+wind pipe|மூச்சுக்குழல்|
+winding (electric)|கண்டு (மின்னியல்)|
+winding development|கண்டு வளராக்கம்|
+winding factor|கண்டுக் காரணி|
+windmill power plant|காற்றாலை மின்னிலையம்|
+window|சாளரம்|
+window display|சாளரக் காட்சியம்|
+window frame|சாளரச் சட்டம்|
+Windows ME|விண்டோசு எம்மீ|
+Windows Media Player|விண்டோசு ஊடக வாசிப்பி|
+Windows NT|விண்டோசு எண்டி|
+Windows XP Professional|விண்டோசு எசுப்பி தொழிலர்|
+wing|சிறகு|pinna - இறகு
+winkey|வின்விசை|
+Winogradsky|வினக்ராட்ஸ்கி|
+Winogradsky column|வினகிராச்சியின் குழல்|
+wire|கம்பி|
+wire guage|கம்பி அளவி|
+wireless|கம்பியில்லா|
+with respect to|-ஐப் பொறுத்து|
+withdrawal|வெளியெடுப்பு|
+wizard (computer)|மாயாவி|
+wobble |நெளியாட்டம்|
+wobble base|நெளியாட்டக் காரம்|
+Wolff-Kishner reduction|வுல்பு கிசனரின் மூச்சியமிறக்கம்|
+Wondows XP|விண்டோசு எசுப்பி|
+woodland|கானகம்|
+woofer|உறுமொலிப்பி|
+word processing|உரையலசல்|
+word processor|உரையலசி|
+word wrap|சொல் மடிப்பு|
+WordPad|சொல்லட்டை|
+work|வேலை|
+workbench|பணிப்பலகை|
+workgroup|பணிக்குழு|committee - செயற்குழு
+working directory (wd)|பணிக் கோப்பகம் (பகோ)|
+worksheet|செயற்றாள்|செயல் + தாள்
+workshop|பயிலரங்கு|
+workspace|பணிவெளி|
+workstation|பணிநிலையம்|
+Worl Resources Institute|உலக வளங்கள் பயிலகம்|
+world|உலகம்|
+world bank|உலக வங்கி|
+World Commission on Environment and Development|சுற்றுச்சூழலுக்கும் வளராக்கத்துக்குமான உலக ஆணையம்
+World Health Organization (WHO)|உலக உடல்நல ஒருங்கமைப்பு (உநமை)
+world trade organization|உலக வியாபார ஒருங்கமைப்பு|
+world view|உலகநோக்கு|
+World Wide Web (WWW)|வைய விரி வலை (வைவிவ)|
+World Wildlife Fund|உலக வனவுயிரி நிதியம் (உவநி)|
+Worldwide Fund for Nature|இயற்கைக்கான உலகளாவிய நிதியம்
+worm cast|புழுவெச்சம்|
+wound|காயப்புண்|
+wrap (text)|மடி (உரை)|
+wrench|திருகுக்குறடு|
+Wright|ரைட்|
+wrinkling |சுருக்கமாதல்|
+wrist|மணிக்கட்டு|
+writ|நீதிப்பேராணை|
+writable memory|எழுதுறு நினைவகம்|
+written down value method|மதிப்புக் குறைப்பு முறை|aka diminishing balance method
+wrong|தவறு|error - பிழை
+wrought iron|தேனிரும்பு|
+Wurtz reaction|வுருட்டசின் வினை|
+Wurtz-Fittig reaction|வுருட்டசு பிட்டிக்கின் வினை|
+WWW (World Wide Web)|வைவிவ (வைய விரி வலை)|
+Wyandotte|வயண்டோடு|
+WYSIWYG (what you see is what you get)|காட்சிவடிவம்|
+xanthine|சாந்தீன்|
+xanthomonas|இளம்பச்சையலகியம்|
+Xanthophyceae|இளம்பச்சையால்கவை|
+xanthoproeic test|இளம்பச்சைப் புரதச் சோதனை|
+xanthoprotein|இளம்பச்சைப் புரதம்|
+x-coordinate|x-ஒருங்களவு|
+xenobiotic|அயலுயிரி|
+xenodiagnosis|அயற்பழுதறிதல்|
+xenogamy|அயற்சேர்க்கை|
+xenograft|வேற்றுப்பதியம்|aka heterograft
+xenon|சீனான்|
+xerophthalmia|கண்வரட்சி|
+xerophyte|உலர்வாழ்தாவரம்|
+xerophytic|உலர்வாழ்|
+xerosere|உலர்தாவர வழிமுறை|
+xerosis|தோல்வரட்சி|
+xi|கிசை|
+xiphoid process|வாளுருவ நீட்சி|
+X-linked inheritance|பெண்ணொட்டு மரபுபெறல்|
+XNOR|குறதிலை (கணினியியல்)|
+XOR |குல்லது (கணினியியல்)|
+x-ray|ஊடுகதிர்|
+x-ray crystallography|ஊடுகதிர்ப் படிகவியல்|
+xylem|கட்டைத்திசு|
+xylene|சைலீன்|silane - சைலேன்
+xylose|சைலோசு|
+xylulose|சைலுலோசு|cellulose - செல்லுலோசு
+Y connection|விண்மீன் இணைப்பு|
+yagi antenna|யாகி அலைவுணரி|
+yahoo|யாவூ|
+yard storage|களச் சேமகம்|
+Yate's correction|யேட்டின் திருத்தம்|
+yeast|நொதிப்பூஞ்சை|
+yellow marrow|மஞ்சளூன்|
+yellow spot disease|மஞ்சட்புள்ளி நோய்|
+yersinia|யெர்சினியம்|
+yield n (agriculture)|மகசூல்|
+yield n (chemistry, finance)|விளைபயன்|
+yield point|விடுபுள்ளி|
+-yl (alkyl)|-ஐல் (ஆல்க்கைல்)|
+-yne (alkyne)|-ஐன் (ஆல்க்கைன்)|
+-ynyl|-ஐனைல்|
+yocto-|யோட்டோ-|
+yolk|கருவுணவு|
+yolk platelet|கருவுணவுத் தட்டுவம்|
+yolk plug|கருவுணவடைப்பான்|
+yotta-|யோட்டா-|
+Young's modulus|யங்கின் குணகம்|
+ytterbium|இத்தேபியம்|
+yttrium|இத்திரியம்|
+yule's coefficient|யூலின் கெழு|
+Z- (alkene)|ஒ- (ஆல்க்கீன்)|
+Zacharias Janssen|ஷாக்கரியாஸ் ஜேன்ஸன்|
+zamindar|நிலக்கிழார்|
+zeatin|சோளவியக்கன்|
+Zeeman|சீமான்|
+Zeeman effect|சீமானின் விளைவு|
+Zeisel's method|சீசலின் முறை|
+Zener diode|செனர் இருமின்வாய்|
+zepto-|செட்டோ-|
+zero|சுழி|
+zero correction|சுழித் திருத்தம்|
+zero error|சுழிப்பிழை|
+zero matrix|சுழித் தளவணி|
+zeroes (of a polynomial)|சுழியாக்கிகள் (பல்லுறுப்புக் கோவையின்)
+zeroeth law of thermodynamics|வெப்பவியக்கத்தின் சுழியாவது விதி
+zeroeth order reaction|சுழி முறைமை வினை|
+zeta|சீற்றா|
+zeta-|சேட்டா-|
+zetta-|சீட்டா-|
+zidovudine|சிடோவுடீன்|
+Ziehl-Neelson acid|சீல் நீல்சன் அமிலம்|
+zig zag |குறுக்குமறுக்கு|
+zinc|துத்தநாகம்|
+zip|உருவி|
+zirconium|சிருக்கோனியம்|
+zodiac|கோள்மண்டலம்|
+zodiacal light|கோள்மண்டல ஒளி|
+zona fasciculata|அண்ணீரக கொத்துக் கச்சை|
+zona glomerulosa|அண்ணீரக முடிச்சுக் கச்சை|
+zona pellucida|தெளிவுக் கச்சை|
+zona radiata|ஆரக் கச்சை|
+zona recicularis|அண்ணீரக வலைக் கச்சை|
+zone of cell differentiation|அணுவேறுபாட்டுப் பகுதி|
+zone of elongation|நீண்மைப் பகுதி|
+zone of invagination|உட்குழிதற் பகுதி|
+zone of involution|உட்புகுதற் பகுதி|
+zone refining|பகுதிப் பண்படுத்தல்|
+zoo|விலங்குக் காட்சியகம்|
+zooanthroponosis|விலங்குமனிதவரு நோய்|
+zoochory|விலங்குப்பரவல்|
+zooglea|விலங்கொட்டிகள்|
+zoologist|விலங்கியலர்|
+zoom|விரிநோக்கு|
+zoom out|குறுநோக்கு|
+zoonosis|விலங்கின்வருநோய்|
+zoonotic|விலங்கின்வரு|
+zoonotic disease|விலங்கின்வருநோய்|
+zoophily|விலங்குச்சேர்க்கை|
+zooplankton|விலங்கு நுண்ணலைவன்|
+zoospore|இயக்கவித்து|
+zwitterion|இரட்டையயனி|
+zygomatic bone|கன்னவெலும்பு|
+zygomaticus major|ஈத்தசை|ஈ என்று சொல்ல உதவும் தசை
+zygomaticus minor|உம்முத்தசை|
+zygomaticus muscles|வாயசைத் தசை|
+zygomorphic|இணைவடிவச்சீரான|
+zygomorphy|இணைவடிவச்சீர்|
+zygomycotina|இணைப்பூஞ்சின|
+zygospore|இணைமவித்து|
+zygote|இணைப்பெருக்கணு|
+zygotene stage|இணைமவிழை நிலை|
+zymogen|ஊக்கிப்புரதமாக்கி|aka proenzyme
+zymomonas|நொதியலகியம்|
 
